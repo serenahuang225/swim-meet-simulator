@@ -1,0 +1,177 @@
+,name,team,event,best_time,seed_rank,is_relay,Class,old_seed_rank,expected_points,new_seed_rank
+0,Brody Blatt,Parkway Central,100 Backstroke,50.68,1,False,1,2,20.0,1
+1,Clark Montgomery,Webster Groves,100 Backstroke,51.91,2,False,1,3,17.0,2
+2,Kaiden Cracraft,Notre Dame (Cape Girardeau),100 Backstroke,53.28,3,False,1,8,16.0,3
+3,Burgess Walden,Pembroke Hill,100 Backstroke,54.1,4,False,1,9,15.0,4
+4,Jonathan Grant,Pembroke Hill,100 Backstroke,54.39,5,False,1,10,14.0,5
+5,Calvin Mueller,Hannibal,100 Backstroke,54.89,9,False,1,16,9.0,6
+6,Kolton Evans,Nevada,100 Backstroke,54.99,10,False,1,17,7.0,7
+7,Kevin Wu,Ladue Horton Watkins,100 Backstroke,55.24,11,False,1,22,6.0,8
+8,Jesse Myers,Central (Springfield),100 Backstroke,55.87,12,False,1,28,5.0,9
+9,Evan Schmutz,Central (Springfield),100 Backstroke,56.03,13,False,1,30,4.0,10
+10,Dane Tallent,Lutheran St. Charles,100 Backstroke,56.08,14,False,1,31,3.0,11
+11,Hunter Deutschmann,Parkway Central,100 Backstroke,56.1,15,False,1,32,2.0,12
+12,Braeden Mallonee,Kearney,100 Backstroke,56.39,16,False,1,35,1.0,13
+13,Harrison Seavey,Parkway West,100 Backstroke,57.02,17,False,1,39,0.5882352941176471,14
+14,Samuel Wilkins,Glendale,100 Backstroke,57.15,18,False,1,40,0.5555555555555556,15
+15,Hunter Morris,Christian Brothers College,100 Backstroke,57.24,19,False,1,42,0.5263157894736842,16
+16,Gavin Waser,Rockwood Summit,100 Breaststroke,57.43,2,False,1,4,17.0,1
+17,Brayden Miao,Central (Springfield),100 Breaststroke,58.48,3,False,1,6,16.0,2
+18,Grayson Langdon,Kirkwood,100 Breaststroke,60.61,4,False,1,12,15.0,3
+19,Seamus Smith,Kirkwood,100 Breaststroke,60.95,5,False,1,13,14.0,4
+20,Aiden Kim,Clayton,100 Breaststroke,60.99,6,False,1,14,13.0,5
+21,Kane Powell,Parkway North,100 Breaststroke,61.25,7,False,1,18,12.0,6
+22,Liam O'Keefe,Pembroke Hill,100 Breaststroke,62.96,9,False,1,27,9.0,7
+23,Trace Gould,Nevada,100 Breaststroke,63.04,10,False,1,28,7.0,8
+24,Michael Pina,De Smet Jesuit,100 Breaststroke,63.15,11,False,1,30,6.0,9
+25,Aiden Scholl,Smith-Cotton,100 Breaststroke,63.28,12,False,1,32,5.0,10
+26,Maxwell German,Central (Springfield),100 Breaststroke,63.33,14,False,1,34,3.0,11
+27,Evan Smith,Webster Groves,100 Breaststroke,63.35,15,False,1,35,2.0,12
+28,Trey Burle,Missouri Military Academy,100 Breaststroke,63.36,16,False,1,36,1.0,13
+29,Silas Bextermueller,Christian Brothers College,100 Breaststroke,64.08,18,False,1,44,0.5555555555555556,14
+30,Anderson Luecke,Webster Groves,100 Breaststroke,66.45,36,False,1,84,0.5,15
+31,Tyson Gould,Nevada,100 Breaststroke,67.64,45,False,1,97,0.5,16
+32,Connor Muran,Parkway Central,100 Butterfly,51.53,1,False,1,3,20.0,1
+33,Carson Butler,Glendale,100 Butterfly,51.53,2,False,1,4,17.0,1
+34,Hunter Deutschmann,Parkway Central,100 Butterfly,52.61,4,False,1,6,15.0,2
+35,Brayden Miao,Central (Springfield),100 Butterfly,53.0,5,False,1,9,14.0,3
+36,Langston Adams,Kirkwood,100 Butterfly,53.05,7,False,1,11,12.0,4
+37,Mitchell Stanley,Parkway South,100 Butterfly,53.3,8,False,1,12,11.0,5
+38,Magnus Yin,Clayton,100 Butterfly,53.33,9,False,1,14,9.0,6
+39,Mason Moellering,Parkway West,100 Butterfly,54.0,11,False,1,22,6.0,7
+40,Jack Hokanson,Platte County,100 Butterfly,54.16,12,False,1,24,5.0,8
+41,Grisham Gutshall,Platte County,100 Butterfly,54.2,13,False,1,25,4.0,9
+42,Colin Teson,St. Pius X (Kansas City),100 Butterfly,54.63,15,False,1,31,2.0,10
+43,Jack Campbell,Columbia Independent,100 Butterfly,55.13,17,False,1,37,0.5882352941176471,11
+44,Brenden Henke,Eureka,100 Butterfly,58.45,52,False,1,100,0.5,12
+45,Andrew Dolan,De Smet Jesuit,100 Butterfly,59.66,64,False,1,129,0.5,13
+46,Tanner Huelsmann,Parkway North,100 Butterfly,59.77,67,False,1,133,0.5,14
+47,Richard VanAntwerp,Central (Springfield),100 Butterfly,59.83,68,False,1,134,0.5,15
+48,Mason Wardlow,William Chrisman,100 Freestyle,47.22,2,False,1,7,17.0,1
+49,Harrison Frost,Westminster Christian Academy,100 Freestyle,48.36,5,False,1,13,14.0,2
+50,Alexander Atkins,Parkway West,100 Freestyle,48.41,6,False,1,14,13.0,3
+51,Jonas Orpe,Lafayette (Wildwood),100 Freestyle,48.87,10,False,1,20,7.0,4
+52,Samuel Durnal,St. Francis Borgia,100 Freestyle,49.04,11,False,1,23,6.0,5
+53,Aiden Scholl,Smith-Cotton,100 Freestyle,49.22,13,False,1,26,4.0,6
+54,Harrison Seavey,Parkway West,100 Freestyle,49.41,14,False,1,27,3.0,7
+55,Jackson Shawhan,William Chrisman,100 Freestyle,49.46,15,False,1,28,2.0,8
+56,Haden Harshman,Grain Valley,100 Freestyle,49.76,18,False,1,36,0.5555555555555556,9
+57,Ahmir Halliburton,Parkway South,100 Freestyle,52.1,57,False,1,115,0.5,10
+58,John Welch,Lutheran St. Charles,100 Freestyle,52.27,60,False,1,119,0.5,11
+59,Caleb Scott,Francis Howell North,100 Freestyle,52.93,70,False,1,142,0.5,12
+60,David Miller,Kirkwood,100 Freestyle,53.45,82,False,1,158,0.5,13
+61,Draven Koehmstedt,Washington,100 Freestyle,53.48,84,False,1,160,0.5,14
+62,Parker Hays,Poplar Bluff,100 Freestyle,53.54,86,False,1,162,0.5,15
+63,Ethan Evans,Kirkwood,100 Freestyle,53.82,92,False,1,173,0.5,16
+64,Whitaker Steward,Kearney,200 Freestyle,99.65,1,False,1,1,20.0,1
+65,Clark Montgomery,Webster Groves,200 Freestyle,101.48,2,False,1,3,17.0,2
+66,Camden Theodos,John Burroughs,200 Freestyle,105.13,3,False,1,9,16.0,3
+67,Keegan Brown,Kirkwood,200 Freestyle,105.69,4,False,1,10,15.0,4
+68,Cole Strom,Webster Groves,200 Freestyle,106.66,5,False,1,12,14.0,5
+69,Alexander Atkins,Parkway West,200 Freestyle,106.77,6,False,1,14,13.0,6
+70,Aiden Kim,Clayton,200 Freestyle,106.94,7,False,1,16,12.0,7
+71,Luke Deutschman,Eureka,200 Freestyle,108.03,9,False,1,21,9.0,8
+72,Jackson Brinton,Ladue Horton Watkins,200 Freestyle,108.61,10,False,1,24,7.0,9
+73,Seamus Smith,Kirkwood,200 Freestyle,108.9,12,False,1,28,5.0,10
+74,Owen Gray,Central (Springfield),200 Freestyle,109.9,14,False,1,34,3.0,11
+75,Jameson Barnes,Monett,200 Freestyle,111.28,16,False,1,43,1.0,12
+76,Dawson Rudd,Logan-Rogersville,200 Freestyle,111.4,17,False,1,44,0.5882352941176471,13
+77,Jonas Orpe,Lafayette (Wildwood),200 Freestyle,111.85,19,False,1,47,0.5263157894736842,14
+78,Matthew Gilles,Parkway South,200 Freestyle,119.19,60,False,1,132,0.5,15
+79,Kane Lueckenhoff,Capital City,200 Freestyle,119.21,62,False,1,134,0.5,16
+80,Parkway Central,Parkway Central,200 Freestyle Relay,87.85,1,True,1,4,20.0,1
+81,Webster Groves,Webster Groves,200 Freestyle Relay,89.18,2,True,1,7,17.0,2
+82,Pembroke Hill,Pembroke Hill,200 Freestyle Relay,92.16,3,True,1,11,16.0,3
+83,Central (Springfield),Central (Springfield),200 Freestyle Relay,92.37,4,True,1,12,15.0,4
+84,Kirkwood,Kirkwood,200 Freestyle Relay,92.89,5,True,1,14,14.0,5
+85,Parkway South,Parkway South,200 Freestyle Relay,93.31,6,True,1,15,13.0,6
+86,Clayton,Clayton,200 Freestyle Relay,93.85,7,True,1,18,12.0,7
+87,Nevada,Nevada,200 Freestyle Relay,93.92,8,True,1,19,11.0,8
+88,Parkway West,Parkway West,200 Freestyle Relay,94.93,10,True,1,23,7.0,9
+89,Lincoln College Prep,Lincoln College Prep,200 Freestyle Relay,95.19,11,True,1,25,6.0,10
+90,John Burroughs,John Burroughs,200 Freestyle Relay,95.48,13,True,1,27,4.0,11
+91,Platte County,Platte County,200 Freestyle Relay,95.79,14,True,1,28,3.0,12
+92,Notre Dame (Cape Girardeau),Notre Dame (Cape Girardeau),200 Freestyle Relay,95.88,15,True,1,29,2.0,13
+93,De Smet Jesuit,De Smet Jesuit,200 Freestyle Relay,96.11,16,True,1,32,1.0,14
+94,Smithville,Smithville,200 Freestyle Relay,96.52,17,True,1,33,0.5882352941176471,15
+95,Lafayette (Wildwood),Lafayette (Wildwood),200 Freestyle Relay,96.83,18,True,1,36,0.5555555555555556,16
+96,Connor Muran,Parkway Central,200 Individual Medley,111.59,1,False,1,1,20.0,1
+97,Kaiden Cracraft,Notre Dame (Cape Girardeau),200 Individual Medley,116.65,3,False,1,6,16.0,2
+98,Carson Butler,Glendale,200 Individual Medley,117.17,4,False,1,9,15.0,3
+99,Harrison Frost,Westminster Christian Academy,200 Individual Medley,118.24,5,False,1,12,14.0,4
+100,Cole Strom,Webster Groves,200 Individual Medley,118.48,6,False,1,13,13.0,5
+101,Magnus Yin,Clayton,200 Individual Medley,121.89,9,False,1,24,9.0,6
+102,William Wright,Carthage,200 Individual Medley,122.38,10,False,1,25,7.0,7
+103,Mason Moellering,Parkway West,200 Individual Medley,123.23,11,False,1,29,6.0,8
+104,Maxwell German,Central (Springfield),200 Individual Medley,123.63,12,False,1,30,5.0,9
+105,Burgess Walden,Pembroke Hill,200 Individual Medley,124.07,13,False,1,31,4.0,10
+106,Jack Gillham,Glendale,200 Individual Medley,124.78,14,False,1,35,3.0,11
+107,Calvin Mueller,Hannibal,200 Individual Medley,125.05,16,False,1,38,1.0,12
+108,Michael Pina,De Smet Jesuit,200 Individual Medley,125.7,18,False,1,41,0.5555555555555556,13
+109,Carter Ullery,Kirkwood,200 Individual Medley,126.97,25,False,1,52,0.5,14
+110,Ethan Lee,Lafayette (Wildwood),200 Individual Medley,130.85,40,False,1,85,0.5,15
+111,Mark Yurkuns,Clayton,200 Individual Medley,135.64,69,False,1,135,0.5,16
+112,Parkway Central,Parkway Central,200 Medley Relay,95.76,1,True,1,2,20.0,1
+113,Pembroke Hill,Pembroke Hill,200 Medley Relay,100.78,2,True,1,11,17.0,2
+114,Central (Springfield),Central (Springfield),200 Medley Relay,100.84,3,True,1,12,16.0,3
+115,Nevada,Nevada,200 Medley Relay,101.11,4,True,1,13,15.0,4
+116,Ladue Horton Watkins,Ladue Horton Watkins,200 Medley Relay,101.5,5,True,1,15,14.0,5
+117,Glendale,Glendale,200 Medley Relay,101.58,6,True,1,16,13.0,6
+118,Parkway West,Parkway West,200 Medley Relay,102.97,8,True,1,19,11.0,7
+119,Kearney,Kearney,200 Medley Relay,103.28,10,True,1,21,7.0,8
+120,Christian Brothers College,Christian Brothers College,200 Medley Relay,103.96,12,True,1,23,5.0,9
+121,Eureka,Eureka,200 Medley Relay,104.92,13,True,1,25,4.0,10
+122,Parkway North,Parkway North,200 Medley Relay,104.98,14,True,1,26,3.0,11
+123,Lutheran St. Charles,Lutheran St. Charles,200 Medley Relay,105.79,15,True,1,28,2.0,12
+124,Platte County,Platte County,200 Medley Relay,106.42,16,True,1,29,1.0,13
+125,Monett,Monett,200 Medley Relay,107.02,18,True,1,36,0.5555555555555556,14
+126,Smith-Cotton,Smith-Cotton,200 Medley Relay,107.2,19,True,1,37,0.5263157894736842,15
+127,St. Michael the Archangel,St. Michael the Archangel,200 Medley Relay,122.91,49,True,1,80,0.5,16
+128,Webster Groves,Webster Groves,400 Freestyle Relay,195.75,1,True,1,5,20.0,1
+129,Kirkwood,Kirkwood,400 Freestyle Relay,199.43,2,True,1,7,17.0,2
+130,Ladue Horton Watkins,Ladue Horton Watkins,400 Freestyle Relay,202.53,3,True,1,9,16.0,3
+131,Clayton,Clayton,400 Freestyle Relay,203.48,4,True,1,12,15.0,4
+132,Kearney,Kearney,400 Freestyle Relay,203.9,6,True,1,14,13.0,5
+133,Eureka,Eureka,400 Freestyle Relay,204.4,7,True,1,15,12.0,6
+134,Parkway South,Parkway South,400 Freestyle Relay,204.87,8,True,1,16,11.0,7
+135,Glendale,Glendale,400 Freestyle Relay,205.26,9,True,1,17,9.0,8
+136,John Burroughs,John Burroughs,400 Freestyle Relay,206.84,12,True,1,23,5.0,9
+137,Christian Brothers College,Christian Brothers College,400 Freestyle Relay,209.09,13,True,1,26,4.0,10
+138,Parkway North,Parkway North,400 Freestyle Relay,210.94,15,True,1,30,2.0,11
+139,Lutheran St. Charles,Lutheran St. Charles,400 Freestyle Relay,213.6,16,True,1,32,1.0,12
+140,De Smet Jesuit,De Smet Jesuit,400 Freestyle Relay,214.55,17,True,1,33,0.5882352941176471,13
+141,Lafayette (Wildwood),Lafayette (Wildwood),400 Freestyle Relay,214.75,18,True,1,34,0.5555555555555556,14
+142,Monett,Monett,400 Freestyle Relay,214.76,19,True,1,35,0.5263157894736842,15
+143,Lincoln College Prep,Lincoln College Prep,400 Freestyle Relay,216.8,22,True,1,41,0.5,16
+144,Brody Blatt,Parkway Central,50 Freestyle,21.57,1,False,1,6,20.0,1
+145,Mason Wardlow,William Chrisman,50 Freestyle,21.84,3,False,1,12,16.0,2
+146,Isaac Wolfmeyer,Holt,50 Freestyle,21.95,4,False,1,13,15.0,3
+147,Samuel Durnal,St. Francis Borgia,50 Freestyle,22.02,5,False,1,14,14.0,4
+148,Mitchell Stanley,Parkway South,50 Freestyle,22.04,7,False,1,16,12.0,5
+149,Gavin Waser,Rockwood Summit,50 Freestyle,22.25,8,False,1,21,11.0,6
+150,Haden Harshman,Grain Valley,50 Freestyle,22.29,9,False,1,22,9.0,7
+151,Thaddeus Richard,Lincoln College Prep,50 Freestyle,22.32,10,False,1,24,7.0,8
+152,William McIlwaine,De Smet Jesuit,50 Freestyle,22.45,11,False,1,29,6.0,9
+153,Hudson Dennis,Notre Dame (Cape Girardeau),50 Freestyle,22.47,12,False,1,30,5.0,10
+154,Jonathan Grant,Pembroke Hill,50 Freestyle,22.63,15,False,1,36,2.0,11
+155,Abram Marinchek,Savannah,50 Freestyle,22.8,17,False,1,40,0.5882352941176471,12
+156,Nathan Malt,Parkway Central,50 Freestyle,22.81,18,False,1,42,0.5555555555555556,13
+157,Ryder Green,St. Michael the Archangel,50 Freestyle,23.01,27,False,1,60,0.5,14
+158,Chase Bryant,Parkway Central,50 Freestyle,23.87,64,False,1,134,0.5,15
+159,Kent Sheridan,Central (Cape Girardeau),50 Freestyle,24.17,83,False,1,160,0.5,16
+160,Whitaker Steward,Kearney,500 Freestyle,268.79,1,False,1,1,20.0,1
+161,Keegan Brown,Kirkwood,500 Freestyle,289.32,3,False,1,8,16.0,2
+162,Camden Theodos,John Burroughs,500 Freestyle,289.8,4,False,1,9,15.0,3
+163,Jackson Brinton,Ladue Horton Watkins,500 Freestyle,296.77,7,False,1,17,12.0,4
+164,Luke Deutschman,Eureka,500 Freestyle,301.44,8,False,1,22,11.0,5
+165,Owen Gray,Central (Springfield),500 Freestyle,301.97,9,False,1,24,9.0,6
+166,William Wright,Carthage,500 Freestyle,302.38,11,False,1,26,6.0,7
+167,Peyton Dimmock,Parkway Central,500 Freestyle,303.33,13,False,1,30,4.0,8
+168,Jameson Barnes,Monett,500 Freestyle,304.38,14,False,1,33,3.0,9
+169,Curtis Murawski,Parkway West,500 Freestyle,304.74,15,False,1,36,2.0,10
+170,Jack Gillham,Glendale,500 Freestyle,305.98,17,False,1,38,0.5882352941176471,11
+171,Grayson Langdon,Kirkwood,500 Freestyle,306.51,18,False,1,39,0.5555555555555556,12
+172,Miller Dorsey,Kirkwood,500 Freestyle,306.95,19,False,1,41,0.5263157894736842,13
+173,Cameron Welek,Christian Brothers College,500 Freestyle,322.74,42,False,1,90,0.5,14
+174,Henry Price,De Smet Jesuit,500 Freestyle,323.9,44,False,1,94,0.5,15
+175,Jack Simms,Christian Brothers College,500 Freestyle,329.33,52,False,1,111,0.5,16
