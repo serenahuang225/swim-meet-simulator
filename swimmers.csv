@@ -1,1501 +1,1155 @@
 name,team,event,best_time,seed_rank,is_relay
-Liberty,Liberty,200 Medley Relay,93.75,1,True
-Parkway Central,Parkway Central,200 Medley Relay,95.75999999999999,2,True
-Chaminade College Prep,Chaminade College Prep,200 Medley Relay,97.34,3,True
-Rockhurst,Rockhurst,200 Medley Relay,97.35,4,True
-SLUH,SLUH,200 Medley Relay,97.87,5,True
-Lee's Summit,Lee's Summit,200 Medley Relay,98.87,6,True
-Lee's Summit West,Lee's Summit West,200 Medley Relay,99.61,7,True
-Park Hill South,Park Hill South,200 Medley Relay,99.83,8,True
-Rock Bridge,Rock Bridge,200 Medley Relay,100.68,9,True
-Staley,Staley,200 Medley Relay,100.78,10,True
-Pembroke Hill,Pembroke Hill,200 Medley Relay,100.78,11,True
-Central (Springfield),Central (Springfield),200 Medley Relay,100.84,12,True
-Nevada,Nevada,200 Medley Relay,101.11,13,True
-Hickman,Hickman,200 Medley Relay,101.35,14,True
-Ladue Horton Watkins,Ladue Horton Watkins,200 Medley Relay,101.5,15,True
-Glendale,Glendale,200 Medley Relay,101.58,16,True
-Lee's Summit North,Lee's Summit North,200 Medley Relay,101.96000000000001,17,True
-Kirkwood,Kirkwood,200 Medley Relay,102.89,18,True
-Parkway West,Parkway West,200 Medley Relay,102.97,19,True
-Webster Groves,Webster Groves,200 Medley Relay,103.09,20,True
-Kearney,Kearney,200 Medley Relay,103.28,21,True
-Clayton,Clayton,200 Medley Relay,103.74000000000001,22,True
-Christian Brothers College,Christian Brothers College,200 Medley Relay,103.96000000000001,23,True
-Liberty North,Liberty North,200 Medley Relay,104.45,24,True
-Eureka,Eureka,200 Medley Relay,104.92,25,True
-Parkway North,Parkway North,200 Medley Relay,104.97999999999999,26,True
-Park Hill,Park Hill,200 Medley Relay,105.16,27,True
-Lutheran St. Charles,Lutheran St. Charles,200 Medley Relay,105.78999999999999,28,True
-Platte County,Platte County,200 Medley Relay,106.42,29,True
-De Smet Jesuit,De Smet Jesuit,200 Medley Relay,106.56,30,True
-MICDS,MICDS,200 Medley Relay,106.57,31,True
-Oak Park,Oak Park,200 Medley Relay,106.58,32,True
-Marquette,Marquette,200 Medley Relay,106.75,33,True
-Blue Springs South,Blue Springs South,200 Medley Relay,106.97999999999999,34,True
-Central (St. Joseph),Central (St. Joseph),200 Medley Relay,107.0,35,True
-Monett,Monett,200 Medley Relay,107.02000000000001,36,True
-Smith-Cotton,Smith-Cotton,200 Medley Relay,107.2,37,True
-John Burroughs,John Burroughs,200 Medley Relay,107.4,38,True
-Blue Springs,Blue Springs,200 Medley Relay,108.19,39,True
-Notre Dame (Cape Girardeau),Notre Dame (Cape Girardeau),200 Medley Relay,108.25999999999999,40,True
-Rockwood Summit,Rockwood Summit,200 Medley Relay,108.27000000000001,41,True
-Raymore-Peculiar,Raymore-Peculiar,200 Medley Relay,108.57,42,True
-Lindbergh,Lindbergh,200 Medley Relay,108.65,43,True
-Parkway South,Parkway South,200 Medley Relay,109.87,44,True
-Lafayette (Wildwood),Lafayette (Wildwood),200 Medley Relay,110.0,45,True
-Westminster Christian Academy,Westminster Christian Academy,200 Medley Relay,110.18,46,True
-Ft. Zumwalt South,Ft. Zumwalt South,200 Medley Relay,110.19,47,True
-Farmington,Farmington,200 Medley Relay,110.24000000000001,48,True
-Pattonville,Pattonville,200 Medley Relay,110.27000000000001,49,True
-Grain Valley,Grain Valley,200 Medley Relay,110.49000000000001,50,True
-St. Francis Borgia,St. Francis Borgia,200 Medley Relay,110.81,51,True
-Ozark,Ozark,200 Medley Relay,111.03999999999999,52,True
-Smithville,Smithville,200 Medley Relay,111.69,53,True
-Jackson,Jackson,200 Medley Relay,112.64,54,True
-Carthage,Carthage,200 Medley Relay,112.87,55,True
-Oakville,Oakville,200 Medley Relay,114.12,56,True
-St. Pius X (Kansas City),St. Pius X (Kansas City),200 Medley Relay,114.99000000000001,57,True
-Liberty (Wentzville),Liberty (Wentzville),200 Medley Relay,115.00999999999999,58,True
-Francis Howell North,Francis Howell North,200 Medley Relay,115.03,59,True
-Poplar Bluff,Poplar Bluff,200 Medley Relay,116.57,60,True
-Washington,Washington,200 Medley Relay,116.67,61,True
-Francis Howell,Francis Howell,200 Medley Relay,116.97,62,True
-Camdenton,Camdenton,200 Medley Relay,117.28999999999999,63,True
-Battle,Battle,200 Medley Relay,117.52000000000001,64,True
-Summit Christian Academy,Summit Christian Academy,200 Medley Relay,117.57,65,True
-Raytown,Raytown,200 Medley Relay,117.81,66,True
-Holt,Holt,200 Medley Relay,117.97,67,True
-Capital City,Capital City,200 Medley Relay,118.03999999999999,68,True
-Warrensburg,Warrensburg,200 Medley Relay,118.05,69,True
-Savannah,Savannah,200 Medley Relay,118.4,70,True
-Waynesville,Waynesville,200 Medley Relay,119.47999999999999,71,True
-Hannibal,Hannibal,200 Medley Relay,119.82,72,True
-Kickapoo,Kickapoo,200 Medley Relay,120.19,73,True
-Timberland,Timberland,200 Medley Relay,120.37,74,True
-Hillcrest,Hillcrest,200 Medley Relay,121.17,75,True
-Belton,Belton,200 Medley Relay,121.84,76,True
-Francis Howell Central,Francis Howell Central,200 Medley Relay,121.96,77,True
-Ft. Zumwalt West,Ft. Zumwalt West,200 Medley Relay,122.12,78,True
-Lebanon,Lebanon,200 Medley Relay,122.14,79,True
-St. Michael the Archangel,St. Michael the Archangel,200 Medley Relay,122.91,80,True
-West Plains,West Plains,200 Medley Relay,124.13,81,True
-Central (Cape Girardeau),Central (Cape Girardeau),200 Medley Relay,124.73,82,True
-Thomas Jefferson Independent Day,Thomas Jefferson Independent Day,200 Medley Relay,125.23,83,True
-Whitaker Steward,Kearney,200 Freestyle,99.65,1,False
-Cole Tobin,Liberty,200 Freestyle,100.44,2,False
-Clark Montgomery,Webster Groves,200 Freestyle,101.47999999999999,3,False
-Michael Purcell,Chaminade College Prep,200 Freestyle,102.11,4,False
-Connor Dunker,SLUH,200 Freestyle,102.25,5,False
-Henry Mura,Chaminade College Prep,200 Freestyle,103.57,6,False
-Samuel Hennenfent,Staley,200 Freestyle,103.92,7,False
-"John (JP) Costello, Jr",Chaminade College Prep,200 Freestyle,104.62,8,False
-Camden Theodos,John Burroughs,200 Freestyle,105.13,9,False
-Keegan Brown,Kirkwood,200 Freestyle,105.69,10,False
-Maxwell McMillan,Marquette,200 Freestyle,106.33,11,False
-Cole Strom,Webster Groves,200 Freestyle,106.66,12,False
-Levi Skaggs,North Kansas City,200 Freestyle,106.71000000000001,13,False
-Alexander Atkins,Parkway West,200 Freestyle,106.77000000000001,14,False
-William Dino,SLUH,200 Freestyle,106.88,15,False
-Aiden Kim,Clayton,200 Freestyle,106.94,16,False
-Connor Muran,Parkway Central,200 Freestyle,107.43,17,False
-Connor Landuyt,Park Hill South,200 Freestyle,107.5,18,False
-Reilly Eagan,Rockhurst,200 Freestyle,107.53,19,False
-Graham Henderson,Liberty,200 Freestyle,107.87,20,False
-Luke Deutschman,Eureka,200 Freestyle,108.03,21,False
-Jace Graham,Liberty,200 Freestyle,108.13,22,False
-Timothy Harmon,Rockhurst,200 Freestyle,108.45,23,False
-Jackson Brinton,Ladue Horton Watkins,200 Freestyle,108.61,24,False
-Cormac Ward,Chaminade College Prep,200 Freestyle,108.65,25,False
-Aaden Lutman,Rockhurst,200 Freestyle,108.68,26,False
-Brody Blatt,Parkway Central,200 Freestyle,108.83,27,False
-Seamus Smith,Kirkwood,200 Freestyle,108.9,28,False
-Shawn Gill,Lindbergh,200 Freestyle,108.9,29,False
-Alexander Foot,Park Hill South,200 Freestyle,109.1,30,False
-Joshua Battison,Rockhurst,200 Freestyle,109.28999999999999,31,False
-Bryce Kundel,MICDS,200 Freestyle,109.64,32,False
-Harrison Frost,Westminster Christian Academy,200 Freestyle,109.72999999999999,33,False
-Owen Gray,Central (Springfield),200 Freestyle,109.9,34,False
-Carson Butler,Glendale,200 Freestyle,109.94,35,False
-Jonah DeWilde,Rockhurst,200 Freestyle,109.99000000000001,36,False
-Jung Hoon Kim,Lee's Summit,200 Freestyle,110.44,37,False
-Alexander Wiggins,SLUH,200 Freestyle,110.58,38,False
-Jung Bin Kim,Lee's Summit,200 Freestyle,110.75,39,False
-Tyler Scheidler,Marquette,200 Freestyle,110.77000000000001,40,False
-Benjamin Honson,Central (St. Joseph),200 Freestyle,110.97999999999999,41,False
-Ari Elder,Park Hill South,200 Freestyle,111.19,42,False
-Jameson Barnes,Monett,200 Freestyle,111.28,43,False
-Dawson Rudd,Logan-Rogersville,200 Freestyle,111.4,44,False
-Tynan Meyer,Oak Park,200 Freestyle,111.53,45,False
-Magnus Yin,Clayton,200 Freestyle,111.78999999999999,46,False
-Jonas Orpe,Lafayette (Wildwood),200 Freestyle,111.85,47,False
-Hudson Tripp,Francis Howell,200 Freestyle,111.88,48,False
-Nathan Searls,Liberty,200 Freestyle,111.91,49,False
-Caden Ogles,Logan-Rogersville,200 Freestyle,112.00999999999999,50,False
-Christian Kropf,Ozark,200 Freestyle,112.05,51,False
-Peyton Dimmock,Parkway Central,200 Freestyle,112.28,52,False
-Benjamin Hanson,Hickman,200 Freestyle,112.28999999999999,53,False
-Colin Cunneen,Chaminade College Prep,200 Freestyle,112.4,54,False
-Kemper Roberts,Rockhurst,200 Freestyle,112.41,55,False
-Miles Tomsic,Rockhurst,200 Freestyle,112.46000000000001,56,False
-Serkan Patterson,Parkway Central,200 Freestyle,112.53999999999999,57,False
-Haden Harshman,Grain Valley,200 Freestyle,112.58,58,False
-Davin Bachtel,Lee's Summit West,200 Freestyle,112.64,59,False
-Connor Jensen,Liberty North,200 Freestyle,112.66,60,False
-Joseph Boevingloh,SLUH,200 Freestyle,112.82,61,False
-Matthew Riggs,Liberty,200 Freestyle,112.9,62,False
-Kyle Kunzler,Eureka,200 Freestyle,112.97,63,False
-Kaiden Cracraft,Notre Dame (Cape Girardeau),200 Freestyle,113.05,64,False
-Isaac Stewart,Park Hill,200 Freestyle,113.06,65,False
-Giovanni (Gio) Bucci,Chaminade College Prep,200 Freestyle,113.18,66,False
-Grisham Gutshall,Platte County,200 Freestyle,113.2,67,False
-Miller Dorsey,Kirkwood,200 Freestyle,113.22999999999999,68,False
-Mason Moellering,Parkway West,200 Freestyle,113.47,69,False
-David Starr Jr,Liberty,200 Freestyle,113.6,70,False
-Riley Johnson,Hickman,200 Freestyle,113.62,71,False
-Ethan Melson,Eureka,200 Freestyle,114.05,72,False
-Aidan Workman,Parkway North,200 Freestyle,114.06,73,False
-Kolton Evans,Nevada,200 Freestyle,114.11,74,False
-Mason Wardlow,William Chrisman,200 Freestyle,114.17,75,False
-Seth Augustine,Liberty North,200 Freestyle,114.31,76,False
-Casey O'Hara,Park Hill South,200 Freestyle,114.36,77,False
-Nick Kim,Parkway Central,200 Freestyle,114.38,78,False
-Camden Barry,Pattonville,200 Freestyle,114.47999999999999,79,False
-Finn Hoffman,Lee's Summit West,200 Freestyle,114.59,80,False
-Carter Roberts,Glendale,200 Freestyle,114.62,81,False
-Davis Johnson,John Burroughs,200 Freestyle,114.77000000000001,82,False
-Aidan Eastman,Lutheran St. Charles,200 Freestyle,114.87,83,False
-Eli Mullen,Lutheran St. Charles,200 Freestyle,114.93,84,False
-William Newell,Rockhurst,200 Freestyle,114.95,85,False
-Curtis Murawski,Parkway West,200 Freestyle,115.00999999999999,86,False
-Aidan Brennan,Clayton,200 Freestyle,115.3,87,False
-Carter Reece,Blue Springs South,200 Freestyle,115.36,88,False
-Matthew Loesch,Lee's Summit West,200 Freestyle,115.49000000000001,89,False
-Chase Ellis,Blue Springs South,200 Freestyle,115.69,90,False
-Ty McKinnis,Oak Park,200 Freestyle,115.72999999999999,91,False
-Charles Sicking,Parkway Central,200 Freestyle,115.78999999999999,92,False
-Jacob Kendall,Rockhurst,200 Freestyle,115.86,93,False
-Bentley Stasiak,Blue Springs South,200 Freestyle,116.11,94,False
-Jack Vaden,Park Hill,200 Freestyle,116.12,95,False
-Hayden Davis,Liberty,200 Freestyle,116.13,96,False
-Embry Collins,Hickman,200 Freestyle,116.18,97,False
-Colby Robic,Christian Brothers College,200 Freestyle,116.33,98,False
-Jackson Ringhofer,Parkway West,200 Freestyle,116.36,99,False
-Grant Heidbrink,SLUH,200 Freestyle,116.36,100,False
-Kai Kirsten,Rockwood Summit,200 Freestyle,116.91,101,False
-Matthew Warren,Rockhurst,200 Freestyle,116.95,102,False
-Kyle Stephan,Marquette,200 Freestyle,116.96000000000001,103,False
-Owen Bland,Rockhurst,200 Freestyle,117.00999999999999,104,False
-Cameron Welek,Christian Brothers College,200 Freestyle,117.09,105,False
-Cooper Salvia,Pattonville,200 Freestyle,117.17,106,False
-Eli Havens,Lebanon,200 Freestyle,117.24000000000001,107,False
-Tavin Nachlinger,Park Hill South,200 Freestyle,117.31,108,False
-Ryan Moore,MICDS,200 Freestyle,117.45,109,False
-Jackson Fisher,Lebanon,200 Freestyle,117.47,110,False
-Charlie Schlotzhauer,Lee's Summit West,200 Freestyle,117.5,111,False
-Noah Gerth,Parkway West,200 Freestyle,117.55,112,False
-Dalton Spence,Webb City,200 Freestyle,117.74000000000001,113,False
-Justin Truong,Oak Park,200 Freestyle,117.87,114,False
-Ethan Schneider,Glendale,200 Freestyle,117.97999999999999,115,False
-Cole Morrison,Eureka,200 Freestyle,118.05,116,False
-Cole Rennels,Eureka,200 Freestyle,118.1,117,False
-William Graul,Lafayette (Wildwood),200 Freestyle,118.11,118,False
-"John Dohm, III",MICDS,200 Freestyle,118.32,119,False
-Colin Teson,St. Pius X (Kansas City),200 Freestyle,118.33,120,False
-Conner Osburn,Grain Valley,200 Freestyle,118.4,121,False
-Josh Caleb Ople,Parkway West,200 Freestyle,118.52000000000001,122,False
-Adam Rowe,Smith-Cotton,200 Freestyle,118.78999999999999,123,False
-Samuel Wilkins,Glendale,200 Freestyle,118.86,124,False
-John Salido,Rockhurst,200 Freestyle,118.89,125,False
-Blake Hallsten,Oakville,200 Freestyle,118.9,126,False
-Myles Huey,Liberty,200 Freestyle,118.96000000000001,127,False
-Christian Chang,John Burroughs,200 Freestyle,118.96000000000001,128,False
-"Jason Kraft, Jr.",Westminster Christian Academy,200 Freestyle,118.97999999999999,129,False
-Carson Mais,Lindbergh,200 Freestyle,119.06,130,False
-Ian Bergin,Liberty,200 Freestyle,119.18,131,False
-Matthew Gilles,Parkway South,200 Freestyle,119.19,132,False
-Anton Schuetz,Christian Brothers College,200 Freestyle,119.2,133,False
-Kane Lueckenhoff,Capital City,200 Freestyle,119.21000000000001,134,False
-Harper Beffa,Staley,200 Freestyle,119.25,135,False
-Riley Tinsley,Battle,200 Freestyle,119.36,136,False
-Trey Burle,Missouri Military Academy,200 Freestyle,119.39,137,False
-Jack Simms,Christian Brothers College,200 Freestyle,119.41,138,False
-Jakob Brinkman,SLUH,200 Freestyle,119.46000000000001,139,False
-Ryosuke Kobayashi,Clayton,200 Freestyle,119.52000000000001,140,False
-Jack Gillham,Glendale,200 Freestyle,119.58,141,False
-Alex Lin,Marquette,200 Freestyle,119.71000000000001,142,False
-Kaenan Nickl,Lee's Summit West,200 Freestyle,119.9,143,False
-Gabriel Kramer,Rockwood Summit,200 Freestyle,119.97,144,False
-Connor Wiggs,Poplar Bluff,200 Freestyle,120.17,145,False
-Clayton Tankersley,Smith-Cotton,200 Freestyle,120.24,146,False
-Aidan Parker,Summit Christian Academy,200 Freestyle,120.52,147,False
-Richard Hoover,Park Hill,200 Freestyle,120.6,148,False
-William Lawrence,Central (Cape Girardeau),200 Freestyle,120.65,149,False
-Connor Muran,Parkway Central,200 Individual Medley,111.59,1,False
-Whitaker Steward,Kearney,200 Individual Medley,113.7,2,False
-Samuel Hennenfent,Staley,200 Individual Medley,113.89,3,False
-Colin Cunneen,Chaminade College Prep,200 Individual Medley,116.34,4,False
-Adam Houck,Liberty,200 Individual Medley,116.64,5,False
-Kaiden Cracraft,Notre Dame (Cape Girardeau),200 Individual Medley,116.65,6,False
-Giovanni (Gio) Bucci,Chaminade College Prep,200 Individual Medley,116.66,7,False
-Aaden Lutman,Rockhurst,200 Individual Medley,117.11,8,False
-Carson Butler,Glendale,200 Individual Medley,117.17,9,False
-Reilly Eagan,Rockhurst,200 Individual Medley,117.25,10,False
-Levi Skaggs,North Kansas City,200 Individual Medley,117.9,11,False
-Harrison Frost,Westminster Christian Academy,200 Individual Medley,118.24000000000001,12,False
-Cole Strom,Webster Groves,200 Individual Medley,118.47999999999999,13,False
-Ryan Coughenour,Rock Bridge,200 Individual Medley,118.49000000000001,14,False
-Seth Augustine,Liberty North,200 Individual Medley,118.63,15,False
-Elliott Sapp,SLUH,200 Individual Medley,118.72,16,False
-Matthew Riggs,Liberty,200 Individual Medley,118.97999999999999,17,False
-Brody Blatt,Parkway Central,200 Individual Medley,119.67,18,False
-Jung Hoon Kim,Lee's Summit,200 Individual Medley,119.68,19,False
-Embry Collins,Hickman,200 Individual Medley,120.35,20,False
-Camden Theodos,John Burroughs,200 Individual Medley,120.73,21,False
-Graham Henderson,Liberty,200 Individual Medley,121.13,22,False
-Jonah DeWilde,Rockhurst,200 Individual Medley,121.57,23,False
-Magnus Yin,Clayton,200 Individual Medley,121.89,24,False
-William Wright,Carthage,200 Individual Medley,122.38,25,False
-Miles Tomsic,Rockhurst,200 Individual Medley,122.55,26,False
-Joshua Battison,Rockhurst,200 Individual Medley,122.56,27,False
-Henry Hassenstab,SLUH,200 Individual Medley,122.56,28,False
-Mason Moellering,Parkway West,200 Individual Medley,123.23,29,False
-Maxwell German,Central (Springfield),200 Individual Medley,123.63,30,False
-Burgess Walden,Pembroke Hill,200 Individual Medley,124.07,31,False
-Robert Jansen,Lee's Summit West,200 Individual Medley,124.08,32,False
-Andrew Riney,Chaminade College Prep,200 Individual Medley,124.38,33,False
-Brenen Birdsell,Raymore-Peculiar,200 Individual Medley,124.7,34,False
-Jack Gillham,Glendale,200 Individual Medley,124.78,35,False
-Aiden Kim,Clayton,200 Individual Medley,124.81,36,False
-Matthew Warren,Rockhurst,200 Individual Medley,124.97,37,False
-Calvin Mueller,Hannibal,200 Individual Medley,125.05,38,False
-Alex Lin,Marquette,200 Individual Medley,125.33,39,False
-Brayden Miao,Central (Springfield),200 Individual Medley,125.36,40,False
-Michael Pina,De Smet Jesuit,200 Individual Medley,125.7,41,False
-Alexander Atkins,Parkway West,200 Individual Medley,125.85,42,False
-Kolton Evans,Nevada,200 Individual Medley,125.9,43,False
-Grayson Langdon,Kirkwood,200 Individual Medley,126.1,44,False
-Casey O'Hara,Park Hill South,200 Individual Medley,126.16,45,False
-Ari Elder,Park Hill South,200 Individual Medley,126.35,46,False
-Langston Adams,Kirkwood,200 Individual Medley,126.36,47,False
-Bryce Kundel,MICDS,200 Individual Medley,126.37,48,False
-Jack Hokanson,Platte County,200 Individual Medley,126.43,49,False
-Trey Burle,Missouri Military Academy,200 Individual Medley,126.86,50,False
-Carter Reece,Blue Springs South,200 Individual Medley,126.88,51,False
-Carter Ullery,Kirkwood,200 Individual Medley,126.97,52,False
-Aidan Eastman,Lutheran St. Charles,200 Individual Medley,127.06,53,False
-William Newell,Rockhurst,200 Individual Medley,127.11,54,False
-Torsten Roither,Chaminade College Prep,200 Individual Medley,127.14,55,False
-Garrison Wells,Staley,200 Individual Medley,127.25,56,False
-Nathan Bauer,Kirkwood,200 Individual Medley,127.28,57,False
-Kemper Roberts,Rockhurst,200 Individual Medley,127.72,58,False
-Kristopher Cobb,Raymore-Peculiar,200 Individual Medley,127.9,59,False
-Bernard Plassmeyer,Ladue Horton Watkins,200 Individual Medley,128.01,60,False
-Van Current,Kickapoo,200 Individual Medley,128.08,61,False
-Jan Handke,Jackson,200 Individual Medley,128.11,62,False
-Dravya Pradhan,Ladue Horton Watkins,200 Individual Medley,128.13,63,False
-Evan Smith,Webster Groves,200 Individual Medley,128.18,64,False
-Matthew Loesch,Lee's Summit West,200 Individual Medley,128.27,65,False
-Jackson Brinton,Ladue Horton Watkins,200 Individual Medley,128.73,66,False
-Evan Schmutz,Central (Springfield),200 Individual Medley,128.8,67,False
-Curtis Murawski,Parkway West,200 Individual Medley,128.99,68,False
-Nathan Robbins,Francis Howell,200 Individual Medley,129.02,69,False
-Jace Graham,Liberty,200 Individual Medley,129.04,70,False
-Archie Bernsen,Kirkwood,200 Individual Medley,129.18,71,False
-Kane Powell,Parkway North,200 Individual Medley,129.34,72,False
-Ryan Moore,MICDS,200 Individual Medley,129.35,73,False
-Maxwell McMillan,Marquette,200 Individual Medley,129.37,74,False
-Barrett Mertens,Parkway North,200 Individual Medley,129.61,75,False
-Connor Landuyt,Park Hill South,200 Individual Medley,129.7,76,False
-Hunter Deutschmann,Parkway Central,200 Individual Medley,129.73,77,False
-Davin Bachtel,Lee's Summit West,200 Individual Medley,130.0,78,False
-Michael Purcell,Chaminade College Prep,200 Individual Medley,130.13,79,False
-Tanner Huelsmann,Parkway North,200 Individual Medley,130.43,80,False
-Silas Bextermueller,Christian Brothers College,200 Individual Medley,130.43,81,False
-Grant Heidbrink,SLUH,200 Individual Medley,130.46,82,False
-Timothy Harmon,Rockhurst,200 Individual Medley,130.62,83,False
-Nathan Searls,Liberty,200 Individual Medley,130.81,84,False
-Ethan Lee,Lafayette (Wildwood),200 Individual Medley,130.85,85,False
-Landon Gillis,Lee's Summit West,200 Individual Medley,130.88,86,False
-Joseph Boevingloh,SLUH,200 Individual Medley,131.04,87,False
-Noah Burns,SLUH,200 Individual Medley,131.05,88,False
-Christian Kropf,Ozark,200 Individual Medley,131.07,89,False
-Brenden Henke,Eureka,200 Individual Medley,131.15,90,False
-Justin Truong,Oak Park,200 Individual Medley,131.39,91,False
-Haden Harshman,Grain Valley,200 Individual Medley,131.5,92,False
-Colby Robic,Christian Brothers College,200 Individual Medley,131.6,93,False
-Bryce Hopkins,Lee's Summit North,200 Individual Medley,131.63,94,False
-Cole Tobin,Liberty,200 Individual Medley,131.77,95,False
-Ziji Qi,Rock Bridge,200 Individual Medley,131.77,96,False
-Gavin Waser,Rockwood Summit,200 Individual Medley,131.79,97,False
-William Zhang,Marquette,200 Individual Medley,132.01,98,False
-Aidan Brennan,Clayton,200 Individual Medley,132.02,99,False
-Ryosuke Kobayashi,Clayton,200 Individual Medley,132.05,100,False
-Logan Welek,Christian Brothers College,200 Individual Medley,132.51,101,False
-Conner Osburn,Grain Valley,200 Individual Medley,132.53,102,False
-Arlo Ziolkowski,Ladue Horton Watkins,200 Individual Medley,132.55,103,False
-Isaac Stewart,Park Hill,200 Individual Medley,132.64,104,False
-Micah Stith,McCluer North,200 Individual Medley,132.73,105,False
-Jameson Barnes,Monett,200 Individual Medley,132.78,106,False
-Oliver Thompson,Webb City,200 Individual Medley,132.93,107,False
-Caleb Scott,Francis Howell North,200 Individual Medley,133.0,108,False
-Dalton Spence,Webb City,200 Individual Medley,133.35,109,False
-Nathan Malt,Parkway Central,200 Individual Medley,133.41,110,False
-Jesse Myers,Central (Springfield),200 Individual Medley,133.47,111,False
-William Lawrence,Central (Cape Girardeau),200 Individual Medley,133.52,112,False
-Camden Barry,Pattonville,200 Individual Medley,133.63,113,False
-Owen Bland,Rockhurst,200 Individual Medley,133.73,114,False
-Ethan Melson,Eureka,200 Individual Medley,133.86,115,False
-Kai Kirsten,Rockwood Summit,200 Individual Medley,133.9,116,False
-Charles Hake,Vianney,200 Individual Medley,133.95,117,False
-Maxwell Moore,Parkway West,200 Individual Medley,133.96,118,False
-Rainier Realina,Park Hill,200 Individual Medley,134.01,119,False
-Kevin Wu,Ladue Horton Watkins,200 Individual Medley,134.01,120,False
-Noah Hoffman,Parkway Central,200 Individual Medley,134.02,121,False
-Owen Gray,Central (Springfield),200 Individual Medley,134.09,122,False
-Dev Desai,John Burroughs,200 Individual Medley,134.12,123,False
-Daniel Sattler,Marquette,200 Individual Medley,134.3,124,False
-Trevor Bundy,Liberty North,200 Individual Medley,134.31,125,False
-Aarav Sade,Francis Howell,200 Individual Medley,134.32,126,False
-Blake Flynn,Marquette,200 Individual Medley,134.34,127,False
-Richard VanAntwerp,Central (Springfield),200 Individual Medley,134.68,128,False
-Richard Hoover,Park Hill,200 Individual Medley,134.7,129,False
-Grisham Gutshall,Platte County,200 Individual Medley,135.24,130,False
-Alexander Foot,Park Hill South,200 Individual Medley,135.5,131,False
-Myles Huey,Liberty,200 Individual Medley,135.58,132,False
-Aiden Scholl,Smith-Cotton,200 Individual Medley,135.6,133,False
-Edwards Tate,Rock Bridge,200 Individual Medley,135.6,134,False
-Mark Yurkuns,Clayton,200 Individual Medley,135.64,135,False
-Dylan DuBois,Staley,200 Individual Medley,135.65,136,False
-Andrew Morelock,Francis Howell Central,200 Individual Medley,135.68,137,False
-Elijah Wisker,Timberland,200 Individual Medley,135.69,138,False
-David Neier,Francis Howell,200 Individual Medley,135.75,139,False
-Christian Chang,John Burroughs,200 Individual Medley,135.94,140,False
-Samuel Oetting,Park Hill,200 Individual Medley,135.95,141,False
-Brady Scamman,Park Hill,200 Individual Medley,136.0,142,False
-Andrew Byrd,Central (St. Joseph),200 Individual Medley,136.1,143,False
-David Rohrer,Glendale,200 Individual Medley,136.29,144,False
-Tyler Yates,SLUH,200 Individual Medley,136.38,145,False
-Hunter Johnson,Camdenton,200 Individual Medley,136.38,146,False
-John Claxton,Rockhurst,200 Individual Medley,136.55,147,False
-Gavin Cook,Central (St. Joseph),200 Individual Medley,136.59,148,False
-Josh Caleb Ople,Parkway West,200 Individual Medley,136.62,149,False
-Mason Naseem,Liberty,200 Individual Medley,136.73,150,False
-Charlie Schlotzhauer,Lee's Summit West,200 Individual Medley,136.89,151,False
-Connor Jensen,Liberty North,200 Individual Medley,136.9,152,False
-Kaenan Nickl,Lee's Summit West,200 Individual Medley,136.96,153,False
-Benjamin Honson,Central (St. Joseph),200 Individual Medley,136.98,154,False
-Reed King,Eureka,200 Individual Medley,137.01,155,False
-Thomas (Tommy) Fichter,Chaminade College Prep,200 Individual Medley,137.02,156,False
-Daniel Peterson,MICDS,200 Individual Medley,137.04,157,False
-Cole Rennels,Eureka,200 Individual Medley,137.09,158,False
-Hayden Hough,Hillcrest,200 Individual Medley,137.14,159,False
-Charles Sicking,Parkway Central,200 Individual Medley,137.15,160,False
-Peyton Dimmock,Parkway Central,200 Individual Medley,137.23,161,False
-Nash Wiles,Lee's Summit,200 Individual Medley,137.28,162,False
-John Salido,Rockhurst,200 Individual Medley,137.32999999999998,163,False
-Xavier Gaul,Rockhurst,200 Individual Medley,137.37,164,False
-Ethan Arana,Pattonville,200 Individual Medley,137.45,165,False
-Davis Foster,Rockhurst,200 Individual Medley,137.51,166,False
-Trace Gould,Nevada,200 Individual Medley,137.51,167,False
-John Ward,Staley,200 Individual Medley,137.97,168,False
-Trevor Sifers,Rockhurst,200 Individual Medley,138.06,169,False
-Zackary Brower,Pattonville,200 Individual Medley,138.07,170,False
-Garrison Wells,Staley,50 Freestyle,20.74,1,False
-Graham Henderson,Liberty,50 Freestyle,21.03,2,False
-Nathan Searls,Liberty,50 Freestyle,21.32,3,False
-Michael Purcell,Chaminade College Prep,50 Freestyle,21.44,4,False
-Sakutaro Yamakawa,Chaminade College Prep,50 Freestyle,21.51,5,False
-Brody Blatt,Parkway Central,50 Freestyle,21.57,6,False
-Nash Wiles,Lee's Summit,50 Freestyle,21.63,7,False
-Connor Muran,Parkway Central,50 Freestyle,21.68,8,False
-Davin Bachtel,Lee's Summit West,50 Freestyle,21.71,9,False
-Ethan Hill,SLUH,50 Freestyle,21.72,10,False
-Aaden Lutman,Rockhurst,50 Freestyle,21.8,11,False
-Mason Wardlow,William Chrisman,50 Freestyle,21.84,12,False
-Isaac Wolfmeyer,Holt,50 Freestyle,21.95,13,False
-Samuel Durnal,St. Francis Borgia,50 Freestyle,22.02,14,False
-Clark Montgomery,Webster Groves,50 Freestyle,22.03,15,False
-Mitchell Stanley,Parkway South,50 Freestyle,22.04,16,False
-Ari Elder,Park Hill South,50 Freestyle,22.05,17,False
-Cole Tobin,Liberty,50 Freestyle,22.15,18,False
-William Steurer,SLUH,50 Freestyle,22.17,19,False
-Tobias White,Battle,50 Freestyle,22.17,20,False
-Gavin Waser,Rockwood Summit,50 Freestyle,22.25,21,False
-Haden Harshman,Grain Valley,50 Freestyle,22.29,22,False
-Logan Lawrence,Staley,50 Freestyle,22.29,23,False
-Thaddeus Richard,Lincoln College Prep,50 Freestyle,22.32,24,False
-Timothy Harmon,Rockhurst,50 Freestyle,22.37,25,False
-Jung Bin Kim,Lee's Summit,50 Freestyle,22.38,26,False
-Jonah DeWilde,Rockhurst,50 Freestyle,22.4,27,False
-Kemper Roberts,Rockhurst,50 Freestyle,22.4,28,False
-William McIlwaine,De Smet Jesuit,50 Freestyle,22.45,29,False
-Hudson Dennis,Notre Dame (Cape Girardeau),50 Freestyle,22.47,30,False
-Ryan Coughenour,Rock Bridge,50 Freestyle,22.47,31,False
-Alexander Atkins,Parkway West,50 Freestyle,22.48,32,False
-Bryce Kundel,MICDS,50 Freestyle,22.5,33,False
-Brenen Birdsell,Raymore-Peculiar,50 Freestyle,22.56,34,False
-Aiden Scholl,Smith-Cotton,50 Freestyle,22.58,35,False
-Jonathan Grant,Pembroke Hill,50 Freestyle,22.63,36,False
-Benjamin Honson,Central (St. Joseph),50 Freestyle,22.65,37,False
-Maxwell German,Central (Springfield),50 Freestyle,22.7,38,False
-Ryan Lipski,Liberty (Wentzville),50 Freestyle,22.79,39,False
-Abram Marinchek,Savannah,50 Freestyle,22.8,40,False
-Riley Tinsley,Battle,50 Freestyle,22.8,41,False
-Nathan Malt,Parkway Central,50 Freestyle,22.81,42,False
-Aiden Kim,Clayton,50 Freestyle,22.87,43,False
-Nicholas Zimmerman,SLUH,50 Freestyle,22.87,44,False
-Bentley Stasiak,Blue Springs South,50 Freestyle,22.88,45,False
-Henry Clark,Lee's Summit,50 Freestyle,22.89,46,False
-Camden Theodos,John Burroughs,50 Freestyle,22.9,47,False
-Edwards Tate,Rock Bridge,50 Freestyle,22.9,48,False
-Jacob Corbett,SLUH,50 Freestyle,22.91,49,False
-Arkadian Baumeister,Waynesville,50 Freestyle,22.92,50,False
-George Wood,Central (Springfield),50 Freestyle,22.92,51,False
-Seamus Smith,Kirkwood,50 Freestyle,22.94,52,False
-Evan Taber,Staley,50 Freestyle,22.94,53,False
-John Salido,Rockhurst,50 Freestyle,22.95,54,False
-Jackson Shawhan,William Chrisman,50 Freestyle,22.95,55,False
-Isaac Stewart,Park Hill,50 Freestyle,22.96,56,False
-John Welch,Lutheran St. Charles,50 Freestyle,22.96,57,False
-Dallas York,Lee's Summit West,50 Freestyle,22.97,58,False
-Langston Adams,Kirkwood,50 Freestyle,22.98,59,False
-Ryder Green,St. Michael the Archangel,50 Freestyle,23.01,60,False
-Carson Butler,Glendale,50 Freestyle,23.02,61,False
-Harrison Seavey,Parkway West,50 Freestyle,23.03,62,False
-Hayden Davis,Liberty,50 Freestyle,23.03,63,False
-Maxwell Moore,Parkway West,50 Freestyle,23.04,64,False
-Winston Rees,Parkway Central,50 Freestyle,23.04,65,False
-David Neier,Francis Howell,50 Freestyle,23.06,66,False
-Casey O'Hara,Park Hill South,50 Freestyle,23.08,67,False
-Kevin Wu,Ladue Horton Watkins,50 Freestyle,23.1,68,False
-Henry Mura,Chaminade College Prep,50 Freestyle,23.11,69,False
-David Starr Jr,Liberty,50 Freestyle,23.11,70,False
-Jace Graham,Liberty,50 Freestyle,23.12,71,False
-Dayton Smith,Lee's Summit,50 Freestyle,23.12,72,False
-Caden Ogles,Logan-Rogersville,50 Freestyle,23.14,73,False
-Brayden Miao,Central (Springfield),50 Freestyle,23.15,74,False
-Fynn Gilburn,Blue Springs South,50 Freestyle,23.16,75,False
-John Claxton,Rockhurst,50 Freestyle,23.17,76,False
-Connor Landuyt,Park Hill South,50 Freestyle,23.17,77,False
-Campbell Hoefgen,Webster Groves,50 Freestyle,23.19,78,False
-Jung Hoon Kim,Lee's Summit,50 Freestyle,23.2,79,False
-Owen Waeckerle,Lafayette (Wildwood),50 Freestyle,23.21,80,False
-William Newell,Rockhurst,50 Freestyle,23.22,81,False
-Hunter Morris,Christian Brothers College,50 Freestyle,23.23,82,False
-Whitaker Steward,Kearney,50 Freestyle,23.24,83,False
-Reilly Eagan,Rockhurst,50 Freestyle,23.25,84,False
-Alec Unterreiner,Liberty North,50 Freestyle,23.27,85,False
-Cameron Stallman,Hickman,50 Freestyle,23.28,86,False
-Kolton Evans,Nevada,50 Freestyle,23.28,87,False
-Joshua Battison,Rockhurst,50 Freestyle,23.29,88,False
-Andrew Russell,Nevada,50 Freestyle,23.29,89,False
-Jonas Orpe,Lafayette (Wildwood),50 Freestyle,23.31,90,False
-Trace Gould,Nevada,50 Freestyle,23.31,91,False
-Jacob Leavitt,Marshall,50 Freestyle,23.31,92,False
-Magnus Yin,Clayton,50 Freestyle,23.34,93,False
-Jackson Fisher,Lebanon,50 Freestyle,23.36,94,False
-Robert Jansen,Lee's Summit West,50 Freestyle,23.38,95,False
-William Townsend,Rockhurst,50 Freestyle,23.38,96,False
-Sidney Ruth,Lincoln College Prep,50 Freestyle,23.41,97,False
-Lucas Day,Parkway South,50 Freestyle,23.45,98,False
-Evan Smith,Webster Groves,50 Freestyle,23.46,99,False
-Logan Summers,Smithville,50 Freestyle,23.51,100,False
-Ahmir Halliburton,Parkway South,50 Freestyle,23.53,101,False
-John Laird,Kirkwood,50 Freestyle,23.54,102,False
-Colin Teson,St. Pius X (Kansas City),50 Freestyle,23.55,103,False
-Kristopher Cobb,Raymore-Peculiar,50 Freestyle,23.58,104,False
-Fields Floersch,Blue Springs,50 Freestyle,23.58,105,False
-Eric Hopkins,Raymore-Peculiar,50 Freestyle,23.6,106,False
-Matthew Loesch,Lee's Summit West,50 Freestyle,23.63,107,False
-Josh Caleb Ople,Parkway West,50 Freestyle,23.64,108,False
-Carter Roberts,Glendale,50 Freestyle,23.66,109,False
-Ronan Waters,Park Hill,50 Freestyle,23.67,110,False
-Elias VanZee,Farmington,50 Freestyle,23.67,111,False
-Jameson Barnes,Monett,50 Freestyle,23.67,112,False
-Owen Guthrie,Lee's Summit North,50 Freestyle,23.68,113,False
-Matthew Warren,Rockhurst,50 Freestyle,23.69,114,False
-Jack Vaden,Park Hill,50 Freestyle,23.71,115,False
-Kyle Kunzler,Eureka,50 Freestyle,23.71,116,False
-Tavin Nachlinger,Park Hill South,50 Freestyle,23.73,117,False
-Crew Cronkhite,Glendale,50 Freestyle,23.74,118,False
-Hayes McIntosh,Blue Springs South,50 Freestyle,23.75,119,False
-August Hromadka,Lindbergh,50 Freestyle,23.76,120,False
-Parker Hulshof,Notre Dame (Cape Girardeau),50 Freestyle,23.76,121,False
-Adam Houck,Liberty,50 Freestyle,23.78,122,False
-Anton Schuetz,Christian Brothers College,50 Freestyle,23.78,123,False
-Hunter Johnson,Camdenton,50 Freestyle,23.79,124,False
-Cormac Ward,Chaminade College Prep,50 Freestyle,23.81,125,False
-Finn Hoffman,Lee's Summit West,50 Freestyle,23.81,126,False
-Luke Williams,Lee's Summit North,50 Freestyle,23.81,127,False
-Jayden Boyd,Ozark,50 Freestyle,23.81,128,False
-"John (JP) Costello, Jr",Chaminade College Prep,50 Freestyle,23.83,129,False
-Cole Rennels,Eureka,50 Freestyle,23.83,130,False
-Zachary Hallemann,Lindbergh,50 Freestyle,23.84,131,False
-Braeden Mallonee,Kearney,50 Freestyle,23.84,132,False
-Miles Tomsic,Rockhurst,50 Freestyle,23.87,133,False
-Chase Bryant,Parkway Central,50 Freestyle,23.87,134,False
-Nicholas Voigt,Parkway North,50 Freestyle,23.87,135,False
-Aidan Workman,Parkway North,50 Freestyle,23.88,136,False
-Rowan George,Monett,50 Freestyle,23.9,137,False
-Hudson Tripp,Francis Howell,50 Freestyle,23.91,138,False
-Nathan Robbins,Francis Howell,50 Freestyle,23.91,139,False
-Shawn Gill,Lindbergh,50 Freestyle,23.92,140,False
-Evan Snarey,Monett,50 Freestyle,23.92,141,False
-Samuel Voigt,Parkway North,50 Freestyle,23.93,142,False
-Trey Burle,Missouri Military Academy,50 Freestyle,23.94,143,False
-Miles Grisell,Pembroke Hill,50 Freestyle,23.94,144,False
-Dev Desai,John Burroughs,50 Freestyle,23.95,145,False
-Andrew Riney,Chaminade College Prep,50 Freestyle,23.98,146,False
-Hunter Deutschmann,Parkway Central,50 Freestyle,24.0,147,False
-Luke Purcell,John Burroughs,50 Freestyle,24.03,148,False
-Carter Reece,Blue Springs South,50 Freestyle,24.04,149,False
-Joaquin Cervantes Ramirez,Poplar Bluff,50 Freestyle,24.05,150,False
-Eliot Levine,Ladue Horton Watkins,50 Freestyle,24.1,151,False
-Calum McCarthy,Lee's Summit,50 Freestyle,24.12,152,False
-Tyler He,Clayton,50 Freestyle,24.14,153,False
-Fraser Dale,Marquette,50 Freestyle,24.15,154,False
-Joseph Schutte,Parkway South,50 Freestyle,24.16,155,False
-"Thomas Rander, IV",Parkway West,50 Freestyle,24.17,156,False
-Jackson Brinton,Ladue Horton Watkins,50 Freestyle,24.17,157,False
-Alexander Webb,Parkway West,50 Freestyle,24.17,158,False
-Parker Hays,Poplar Bluff,50 Freestyle,24.17,159,False
-Kent Sheridan,Central (Cape Girardeau),50 Freestyle,24.17,160,False
-Jack Gillham,Glendale,50 Freestyle,24.19,161,False
-Beau Jonkman,Platte County,50 Freestyle,24.19,162,False
-Braydon Weggemann,St. Francis Borgia,50 Freestyle,24.19,163,False
-Graham Henderson,Liberty,100 Butterfly,49.89,1,False
-Nathan Searls,Liberty,100 Butterfly,51.12,2,False
-Connor Muran,Parkway Central,100 Butterfly,51.53,3,False
-Carson Butler,Glendale,100 Butterfly,51.53,4,False
-Whitaker Steward,Kearney,100 Butterfly,52.19,5,False
-Hunter Deutschmann,Parkway Central,100 Butterfly,52.61,6,False
-Henry Hassenstab,SLUH,100 Butterfly,52.7,7,False
-Jung Hoon Kim,Lee's Summit,100 Butterfly,52.88,8,False
-Brayden Miao,Central (Springfield),100 Butterfly,53.0,9,False
-Brody Blatt,Parkway Central,100 Butterfly,53.05,10,False
-Langston Adams,Kirkwood,100 Butterfly,53.05,11,False
-Mitchell Stanley,Parkway South,100 Butterfly,53.3,12,False
-Miles Tomsic,Rockhurst,100 Butterfly,53.32,13,False
-Magnus Yin,Clayton,100 Butterfly,53.33,14,False
-Logan Lawrence,Staley,100 Butterfly,53.47,15,False
-Harrison Frost,Westminster Christian Academy,100 Butterfly,53.51,16,False
-Jace Graham,Liberty,100 Butterfly,53.61,17,False
-Connor Dunker,SLUH,100 Butterfly,53.78,18,False
-Aaden Lutman,Rockhurst,100 Butterfly,53.95,19,False
-Reilly Eagan,Rockhurst,100 Butterfly,53.97,20,False
-Torsten Roither,Chaminade College Prep,100 Butterfly,53.98,21,False
-Mason Moellering,Parkway West,100 Butterfly,54.0,22,False
-Ari Elder,Park Hill South,100 Butterfly,54.14,23,False
-Jack Hokanson,Platte County,100 Butterfly,54.16,24,False
-Grisham Gutshall,Platte County,100 Butterfly,54.2,25,False
-Thomas (Tommy) Fichter,Chaminade College Prep,100 Butterfly,54.26,26,False
-Maxwell German,Central (Springfield),100 Butterfly,54.37,27,False
-Fields Floersch,Blue Springs,100 Butterfly,54.47,28,False
-George Albert,SLUH,100 Butterfly,54.49,29,False
-Edwards Tate,Rock Bridge,100 Butterfly,54.56,30,False
-Colin Teson,St. Pius X (Kansas City),100 Butterfly,54.63,31,False
-Aiden Kim,Clayton,100 Butterfly,54.66,32,False
-Jung Bin Kim,Lee's Summit,100 Butterfly,54.76,33,False
-Matthew Warren,Rockhurst,100 Butterfly,54.84,34,False
-Joshua Battison,Rockhurst,100 Butterfly,55.07,35,False
-Brenen Birdsell,Raymore-Peculiar,100 Butterfly,55.09,36,False
-Jack Campbell,Columbia Independent,100 Butterfly,55.13,37,False
-William Newell,Rockhurst,100 Butterfly,55.15,38,False
-Levi Skaggs,North Kansas City,100 Butterfly,55.18,39,False
-Embry Collins,Hickman,100 Butterfly,55.35,40,False
-Cole Strom,Webster Groves,100 Butterfly,55.47,41,False
-Bryce Kundel,MICDS,100 Butterfly,55.61,42,False
-Jackson Shawhan,William Chrisman,100 Butterfly,55.74,43,False
-Dane Tallent,Lutheran St. Charles,100 Butterfly,55.83,44,False
-Logan Shackelford,Lee's Summit North,100 Butterfly,55.92,45,False
-Seth Augustine,Liberty North,100 Butterfly,56.02,46,False
-Jonah DeWilde,Rockhurst,100 Butterfly,56.07,47,False
-Luke Williams,Lee's Summit North,100 Butterfly,56.15,48,False
-Cameron Stallman,Hickman,100 Butterfly,56.16,49,False
-Camden Theodos,John Burroughs,100 Butterfly,56.17,50,False
-Evan Smith,Webster Groves,100 Butterfly,56.2,51,False
-Cole Tobin,Liberty,100 Butterfly,56.26,52,False
-Carter Ullery,Kirkwood,100 Butterfly,56.27,53,False
-Dallas York,Lee's Summit West,100 Butterfly,56.34,54,False
-Eli Havens,Lebanon,100 Butterfly,56.39,55,False
-Harrison Seavey,Parkway West,100 Butterfly,56.41,56,False
-Aiden Scholl,Smith-Cotton,100 Butterfly,56.45,57,False
-Christian Kropf,Ozark,100 Butterfly,56.54,58,False
-Luke Deutschman,Eureka,100 Butterfly,56.59,59,False
-Sean Greenwood,Lindbergh,100 Butterfly,56.62,60,False
-Ryan Moore,MICDS,100 Butterfly,56.69,61,False
-Michael Purcell,Chaminade College Prep,100 Butterfly,56.7,62,False
-Micah Stith,McCluer North,100 Butterfly,56.75,63,False
-Jesse Myers,Central (Springfield),100 Butterfly,56.79,64,False
-Dravya Pradhan,Ladue Horton Watkins,100 Butterfly,56.82,65,False
-William Lawrence,Central (Cape Girardeau),100 Butterfly,56.9,66,False
-Matthew Franz,SLUH,100 Butterfly,56.9,67,False
-Caden Ogles,Logan-Rogersville,100 Butterfly,56.98,68,False
-Alexander Foot,Park Hill South,100 Butterfly,57.09,69,False
-Clark Montgomery,Webster Groves,100 Butterfly,57.1,70,False
-Mason McIntyre,Hannibal,100 Butterfly,57.12,71,False
-Connor Landuyt,Park Hill South,100 Butterfly,57.18,72,False
-Bernard Plassmeyer,Ladue Horton Watkins,100 Butterfly,57.25,73,False
-Mason Wardlow,William Chrisman,100 Butterfly,57.32,74,False
-Maxwell McMillan,Marquette,100 Butterfly,57.38,75,False
-Aidan Brennan,Clayton,100 Butterfly,57.47,76,False
-Matthew Riggs,Liberty,100 Butterfly,57.55,77,False
-Davin Bachtel,Lee's Summit West,100 Butterfly,57.62,78,False
-Adam Houck,Liberty,100 Butterfly,57.64,79,False
-Jonas Orpe,Lafayette (Wildwood),100 Butterfly,57.64,80,False
-Ethan Hill,SLUH,100 Butterfly,57.66,81,False
-Cooper Keys,Ladue Horton Watkins,100 Butterfly,57.66,82,False
-Kyle Kunzler,Eureka,100 Butterfly,57.7,83,False
-Jameson Barnes,Monett,100 Butterfly,57.72,84,False
-Joseph Boevingloh,SLUH,100 Butterfly,57.75,85,False
-Burgess Walden,Pembroke Hill,100 Butterfly,57.76,86,False
-Braeden Mallonee,Kearney,100 Butterfly,57.78,87,False
-Ashan Appuhamy,Thomas Jefferson Independent Day,100 Butterfly,57.81,88,False
-William Wright,Carthage,100 Butterfly,57.82,89,False
-Luke Bauer,Kirkwood,100 Butterfly,57.96,90,False
-Conner Osburn,Grain Valley,100 Butterfly,57.96,91,False
-Trey Burle,Missouri Military Academy,100 Butterfly,58.02,92,False
-Timothy Harmon,Rockhurst,100 Butterfly,58.06,93,False
-Tae Han Park,Francis Howell,100 Butterfly,58.16,94,False
-Richard Hoover,Park Hill,100 Butterfly,58.17,95,False
-Greg Wilson,Christian Brothers College,100 Butterfly,58.17,96,False
-William Jermann,Pembroke Hill,100 Butterfly,58.17,97,False
-Hayden Hough,Central (Springfield),100 Butterfly,58.23,98,False
-Myles Huey,Liberty,100 Butterfly,58.37,99,False
-Brenden Henke,Eureka,100 Butterfly,58.45,100,False
-Alex Lin,Marquette,100 Butterfly,58.51,101,False
-Haden Harshman,Grain Valley,100 Butterfly,58.56,102,False
-Aarav Sade,Francis Howell,100 Butterfly,58.58,103,False
-Nash Wiles,Lee's Summit,100 Butterfly,58.67,104,False
-Christian Chang,John Burroughs,100 Butterfly,58.73,105,False
-Colby Robic,Christian Brothers College,100 Butterfly,58.76,106,False
-Andrew Collins,Ft. Zumwalt South,100 Butterfly,58.78,107,False
-Brady Scamman,Park Hill,100 Butterfly,58.83,108,False
-Justin Hendricks,Staley,100 Butterfly,58.89,109,False
-Andrew Byrd,Central (St. Joseph),100 Butterfly,58.94,110,False
-Parker Harrington,Lee's Summit West,100 Butterfly,58.98,111,False
-Oliver Thompson,Webb City,100 Butterfly,58.99,112,False
-Chase Bryant,Parkway Central,100 Butterfly,59.0,113,False
-Eric Hopkins,Raymore-Peculiar,100 Butterfly,59.0,114,False
-Hayden Hough,Hillcrest,100 Butterfly,59.02,115,False
-Dalton Spence,Webb City,100 Butterfly,59.09,116,False
-Camden Barry,Pattonville,100 Butterfly,59.12,117,False
-Kemper Roberts,Rockhurst,100 Butterfly,59.14,118,False
-Calvin Mueller,Hannibal,100 Butterfly,59.19,119,False
-Josh Caleb Ople,Parkway West,100 Butterfly,59.21,120,False
-Joseph Wegener,Staley,100 Butterfly,59.31,121,False
-John Salido,Rockhurst,100 Butterfly,59.47,122,False
-Isaac Stewart,Park Hill,100 Butterfly,59.47,123,False
-Trevor Sifers,Rockhurst,100 Butterfly,59.5,124,False
-Tobias White,Battle,100 Butterfly,59.6,125,False
-Carter Reece,Blue Springs South,100 Butterfly,59.62,126,False
-Owen Eyink,Hickman,100 Butterfly,59.66,127,False
-Elijah Gardner,Hillcrest,100 Butterfly,59.66,128,False
-Andrew Dolan,De Smet Jesuit,100 Butterfly,59.66,129,False
-Cooper Salvia,Pattonville,100 Butterfly,59.67,130,False
-Caleb Hardee,Rockwood Summit,100 Butterfly,59.67,131,False
-Parker Hulshof,Notre Dame (Cape Girardeau),100 Butterfly,59.68,132,False
-Tanner Huelsmann,Parkway North,100 Butterfly,59.77,133,False
-Richard VanAntwerp,Central (Springfield),100 Butterfly,59.83,134,False
-Hunter Johnson,Camdenton,100 Butterfly,59.85,135,False
-Casey O'Hara,Park Hill South,100 Butterfly,59.88,136,False
-Harper Beffa,Staley,100 Butterfly,59.88,137,False
-Nick Kim,Parkway Central,100 Butterfly,59.89,138,False
-Ty McKinnis,Oak Park,100 Butterfly,59.9,139,False
-Logan Summers,Smithville,100 Butterfly,59.92,140,False
-Eli Mullen,Lutheran St. Charles,100 Butterfly,59.93,141,False
-Jacob Corbett,SLUH,100 Butterfly,60.0,142,False
-Arkadian Baumeister,Waynesville,100 Butterfly,60.0,143,False
-Samuel Durnal,St. Francis Borgia,100 Butterfly,60.06,144,False
-Barrett Mertens,Parkway North,100 Butterfly,60.12,145,False
-Eliot Levine,Ladue Horton Watkins,100 Butterfly,60.16,146,False
-Kolton Evans,Nevada,100 Butterfly,60.22,147,False
-Trevor Bundy,Liberty North,100 Butterfly,60.29,148,False
-Charlie Wang,Marquette,100 Butterfly,60.54,149,False
-Jackson Schmutz,Francis Howell Central,100 Butterfly,60.6,150,False
-Tyler Scheidler,Marquette,100 Butterfly,60.72,151,False
-Derek Heitz,Lee's Summit,100 Butterfly,60.76,152,False
-Benjamin Honson,Central (St. Joseph),100 Butterfly,60.8,153,False
-Giovanni (Gio) Bucci,Chaminade College Prep,100 Butterfly,60.88,154,False
-Justin Truong,Oak Park,100 Butterfly,60.88,155,False
-Dev Desai,John Burroughs,100 Butterfly,60.92,156,False
-Davis Johnson,John Burroughs,100 Butterfly,60.95,157,False
-Johnny Duncan,Liberty,100 Butterfly,60.96,158,False
-Yaseen Hassan,Lee's Summit West,100 Butterfly,61.02,159,False
-Charles Sicking,Parkway Central,100 Butterfly,61.12,160,False
-Owen Bland,Rockhurst,100 Butterfly,61.13,161,False
-Rylan Brieler,Rockwood Summit,100 Butterfly,61.14,162,False
-Kellan Nash,Lee's Summit West,100 Butterfly,61.16,163,False
-Landon Gillis,Lee's Summit West,100 Butterfly,61.22,164,False
-Connor Jensen,Liberty North,100 Butterfly,61.26,165,False
-Lucien Doyon,Rockwood Summit,100 Butterfly,61.33,166,False
-Winston Rees,Parkway Central,100 Butterfly,61.38,167,False
-Ethan Melson,Eureka,100 Butterfly,61.39,168,False
-Ronan Waters,Park Hill,100 Butterfly,61.42,169,False
-Kashi Chaudhuri,De Smet Jesuit,100 Butterfly,61.46,170,False
-Trace Gould,Nevada,100 Butterfly,61.49,171,False
-Rainier Realina,Park Hill,100 Butterfly,61.71,172,False
-Arlo Ziolkowski,Ladue Horton Watkins,100 Butterfly,61.71,173,False
-John Claxton,Rockhurst,100 Butterfly,61.72,174,False
-Jackson Ringhofer,Parkway West,100 Butterfly,61.8,175,False
-Daniel Haid,Hickman,100 Butterfly,61.8,176,False
-William Townsend,Rockhurst,100 Butterfly,61.81,177,False
-Daniel Peterson,MICDS,100 Butterfly,61.82,178,False
-Cole Tobin,Liberty,100 Freestyle,45.88,1,False
-Graham Henderson,Liberty,100 Freestyle,45.98,2,False
-Brody Blatt,Parkway Central,100 Freestyle,46.24,3,False
-Michael Purcell,Chaminade College Prep,100 Freestyle,46.61,4,False
-Garrison Wells,Staley,100 Freestyle,47.11,5,False
-Brenen Birdsell,Raymore-Peculiar,100 Freestyle,47.21,6,False
-Mason Wardlow,William Chrisman,100 Freestyle,47.22,7,False
-Ethan Hill,SLUH,100 Freestyle,47.57,8,False
-Whitaker Steward,Kearney,100 Freestyle,47.82,9,False
-Nash Wiles,Lee's Summit,100 Freestyle,47.84,10,False
-Ari Elder,Park Hill South,100 Freestyle,47.92,11,False
-Clark Montgomery,Webster Groves,100 Freestyle,47.97,12,False
-Harrison Frost,Westminster Christian Academy,100 Freestyle,48.36,13,False
-Alexander Atkins,Parkway West,100 Freestyle,48.41,14,False
-Sakutaro Yamakawa,Chaminade College Prep,100 Freestyle,48.48,15,False
-Timothy Harmon,Rockhurst,100 Freestyle,48.71,16,False
-Connor Muran,Parkway Central,100 Freestyle,48.73,17,False
-Camden Theodos,John Burroughs,100 Freestyle,48.74,18,False
-Cole Strom,Webster Groves,100 Freestyle,48.78,19,False
-Jonas Orpe,Lafayette (Wildwood),100 Freestyle,48.87,20,False
-Davin Bachtel,Lee's Summit West,100 Freestyle,48.89,21,False
-Jonah DeWilde,Rockhurst,100 Freestyle,48.99,22,False
-Samuel Durnal,St. Francis Borgia,100 Freestyle,49.04,23,False
-William Wright,Carthage,100 Freestyle,49.15,24,False
-Aaden Lutman,Rockhurst,100 Freestyle,49.21,25,False
-Aiden Scholl,Smith-Cotton,100 Freestyle,49.22,26,False
-Harrison Seavey,Parkway West,100 Freestyle,49.41,27,False
-Jackson Shawhan,William Chrisman,100 Freestyle,49.46,28,False
-Tobias White,Battle,100 Freestyle,49.48,29,False
-David Starr Jr,Liberty,100 Freestyle,49.56,30,False
-Cormac Ward,Chaminade College Prep,100 Freestyle,49.61,31,False
-Shawn Gill,Lindbergh,100 Freestyle,49.62,32,False
-Carson Butler,Glendale,100 Freestyle,49.63,33,False
-Mitchell Stanley,Parkway South,100 Freestyle,49.63,34,False
-Reilly Eagan,Rockhurst,100 Freestyle,49.66,35,False
-Haden Harshman,Grain Valley,100 Freestyle,49.76,36,False
-Levi Skaggs,North Kansas City,100 Freestyle,49.81,37,False
-Jackson Brinton,Ladue Horton Watkins,100 Freestyle,49.86,38,False
-Aiden Kim,Clayton,100 Freestyle,49.91,39,False
-Jacob Corbett,SLUH,100 Freestyle,49.91,40,False
-Joshua Battison,Rockhurst,100 Freestyle,49.94,41,False
-Nathan Searls,Liberty,100 Freestyle,50.01,42,False
-Arkadian Baumeister,Waynesville,100 Freestyle,50.02,43,False
-Langston Adams,Kirkwood,100 Freestyle,50.03,44,False
-William McIlwaine,De Smet Jesuit,100 Freestyle,50.04,45,False
-Casey O'Hara,Park Hill South,100 Freestyle,50.1,46,False
-Bentley Stasiak,Blue Springs South,100 Freestyle,50.11,47,False
-Keegan Brown,Kirkwood,100 Freestyle,50.18,48,False
-William Steurer,SLUH,100 Freestyle,50.18,49,False
-Riley Johnson,Hickman,100 Freestyle,50.2,50,False
-Alexander Wiggins,SLUH,100 Freestyle,50.2,51,False
-Magnus Yin,Clayton,100 Freestyle,50.3,52,False
-Thaddeus Richard,Lincoln College Prep,100 Freestyle,50.3,53,False
-Maxwell Moore,Parkway West,100 Freestyle,50.36,54,False
-Nathan Malt,Parkway Central,100 Freestyle,50.48,55,False
-Caden Ogles,Logan-Rogersville,100 Freestyle,50.49,56,False
-Nathan Robbins,Francis Howell,100 Freestyle,50.5,57,False
-Isaac Stewart,Park Hill,100 Freestyle,50.52,58,False
-Connor Landuyt,Park Hill South,100 Freestyle,50.53,59,False
-George Wood,Central (Springfield),100 Freestyle,50.63,60,False
-Kevin Wu,Ladue Horton Watkins,100 Freestyle,50.68,61,False
-Matthew Loesch,Lee's Summit West,100 Freestyle,50.69,62,False
-Nicholas Voigt,Parkway North,100 Freestyle,50.72,63,False
-Dawson Rudd,Logan-Rogersville,100 Freestyle,50.76,64,False
-Isaac Wolfmeyer,Holt,100 Freestyle,50.79,65,False
-Hunter Deutschmann,Parkway Central,100 Freestyle,50.82,66,False
-Bryce Kundel,MICDS,100 Freestyle,50.87,67,False
-Henry Mura,Chaminade College Prep,100 Freestyle,50.91,68,False
-Colby Robic,Christian Brothers College,100 Freestyle,50.97,69,False
-Kemper Roberts,Rockhurst,100 Freestyle,51.0,70,False
-Gavin Waser,Rockwood Summit,100 Freestyle,51.03,71,False
-Jung Bin Kim,Lee's Summit,100 Freestyle,51.03,72,False
-Owen Gray,Central (Springfield),100 Freestyle,51.09,73,False
-Charles Sicking,Parkway Central,100 Freestyle,51.15,74,False
-Campbell Hoefgen,Webster Groves,100 Freestyle,51.19,75,False
-Logan Lawrence,Staley,100 Freestyle,51.21,76,False
-Kyle Kunzler,Eureka,100 Freestyle,51.25,77,False
-Owen Waeckerle,Lafayette (Wildwood),100 Freestyle,51.32,78,False
-Finn Hoffman,Lee's Summit West,100 Freestyle,51.32,79,False
-Carter Roberts,Glendale,100 Freestyle,51.36,80,False
-Jonathan Grant,Pembroke Hill,100 Freestyle,51.37,81,False
-John Salido,Rockhurst,100 Freestyle,51.39,82,False
-John Claxton,Rockhurst,100 Freestyle,51.4,83,False
-Fynn Gilburn,Blue Springs South,100 Freestyle,51.42,84,False
-Hunter Johnson,Camdenton,100 Freestyle,51.42,85,False
-Elias VanZee,Farmington,100 Freestyle,51.47,86,False
-Ryan Lipski,Liberty (Wentzville),100 Freestyle,51.51,87,False
-"John (JP) Costello, Jr",Chaminade College Prep,100 Freestyle,51.55,88,False
-William Newell,Rockhurst,100 Freestyle,51.55,89,False
-Maxwell McMillan,Marquette,100 Freestyle,51.59,90,False
-Connor Jensen,Liberty North,100 Freestyle,51.65,91,False
-Jameson Barnes,Monett,100 Freestyle,51.67,92,False
-Kaenan Nickl,Lee's Summit West,100 Freestyle,51.69,93,False
-Benjamin Honson,Central (St. Joseph),100 Freestyle,51.77,94,False
-Hayden Davis,Liberty,100 Freestyle,51.77,95,False
-Riley Tinsley,Battle,100 Freestyle,51.77,96,False
-Kolton Evans,Nevada,100 Freestyle,51.78,97,False
-Evan Smith,Webster Groves,100 Freestyle,51.79,98,False
-Hudson Meyer,Lee's Summit,100 Freestyle,51.84,99,False
-Miles Tomsic,Rockhurst,100 Freestyle,51.87,100,False
-Andrew Russell,Nevada,100 Freestyle,51.89,101,False
-Lucas Day,Parkway South,100 Freestyle,51.91,102,False
-John Ward,Staley,100 Freestyle,51.91,103,False
-Hudson Tripp,Francis Howell,100 Freestyle,51.94,104,False
-William Townsend,Rockhurst,100 Freestyle,51.97,105,False
-Cole Rennels,Eureka,100 Freestyle,51.98,106,False
-Jung Hoon Kim,Lee's Summit,100 Freestyle,52.0,107,False
-Abram Marinchek,Savannah,100 Freestyle,52.0,108,False
-William Zhang,Marquette,100 Freestyle,52.02,109,False
-Jack Vaden,Park Hill,100 Freestyle,52.06,110,False
-Trey Burle,Missouri Military Academy,100 Freestyle,52.06,111,False
-Hunter Morris,Christian Brothers College,100 Freestyle,52.07,112,False
-Oliver Thompson,Webb City,100 Freestyle,52.09,113,False
-Alec Unterreiner,Liberty North,100 Freestyle,52.09,114,False
-Ahmir Halliburton,Parkway South,100 Freestyle,52.1,115,False
-Tyler He,Clayton,100 Freestyle,52.11,116,False
-August Hromadka,Lindbergh,100 Freestyle,52.18,117,False
-Mason Moellering,Parkway West,100 Freestyle,52.25,118,False
-John Welch,Lutheran St. Charles,100 Freestyle,52.27,119,False
-Evan Taber,Staley,100 Freestyle,52.39,120,False
-Zachary Hallemann,Lindbergh,100 Freestyle,52.45,121,False
-Luke Deutschman,Eureka,100 Freestyle,52.46,122,False
-Rowan George,Monett,100 Freestyle,52.54,123,False
-Henry Hassenstab,SLUH,100 Freestyle,52.57,124,False
-Mason Naseem,Liberty,100 Freestyle,52.59,125,False
-Sean Greenwood,Lindbergh,100 Freestyle,52.64,126,False
-Henry Clark,Lee's Summit,100 Freestyle,52.65,127,False
-Landon Gillis,Lee's Summit West,100 Freestyle,52.69,128,False
-Seth Augustine,Liberty North,100 Freestyle,52.7,129,False
-Miles Grisell,Pembroke Hill,100 Freestyle,52.72,130,False
-Tavin Nachlinger,Park Hill South,100 Freestyle,52.81,131,False
-Jayden Boyd,Ozark,100 Freestyle,52.82,132,False
-Kristopher Cobb,Raymore-Peculiar,100 Freestyle,52.82,133,False
-Ryan Moore,MICDS,100 Freestyle,52.83,134,False
-Sidney Ruth,Lincoln College Prep,100 Freestyle,52.84,135,False
-Embry Collins,Hickman,100 Freestyle,52.86,136,False
-Nick Kim,Parkway Central,100 Freestyle,52.88,137,False
-Joseph Schutte,Parkway South,100 Freestyle,52.9,138,False
-Evan Schmutz,Central (Springfield),100 Freestyle,52.9,139,False
-Aidan Eastman,Lutheran St. Charles,100 Freestyle,52.9,140,False
-Serkan Patterson,Parkway Central,100 Freestyle,52.93,141,False
-Caleb Scott,Francis Howell North,100 Freestyle,52.93,142,False
-Calvin Mueller,Hannibal,100 Freestyle,52.94,143,False
-Jackson Fisher,Lebanon,100 Freestyle,52.96,144,False
-Crew Cronkhite,Glendale,100 Freestyle,53.08,145,False
-Dayton Smith,Lee's Summit,100 Freestyle,53.08,146,False
-Colin Teson,St. Pius X (Kansas City),100 Freestyle,53.1,147,False
-Kyle Stephan,Marquette,100 Freestyle,53.16,148,False
-Conner Osburn,Grain Valley,100 Freestyle,53.21,149,False
-Carter Reece,Blue Springs South,100 Freestyle,53.21,150,False
-Ethan Melson,Eureka,100 Freestyle,53.21,151,False
-John Laird,Kirkwood,100 Freestyle,53.21,152,False
-Ford Werner,MICDS,100 Freestyle,53.22,153,False
-Dev Desai,John Burroughs,100 Freestyle,53.28,154,False
-Hayden Hough,Hillcrest,100 Freestyle,53.3,155,False
-Kevin He,Ladue Horton Watkins,100 Freestyle,53.32,156,False
-Logan Summers,Smithville,100 Freestyle,53.38,157,False
-David Miller,Kirkwood,100 Freestyle,53.45,158,False
-Jackson Ringhofer,Parkway West,100 Freestyle,53.46,159,False
-Draven Koehmstedt,Washington,100 Freestyle,53.48,160,False
-Anton Schuetz,Christian Brothers College,100 Freestyle,53.52,161,False
-Parker Hays,Poplar Bluff,100 Freestyle,53.54,162,False
-Ethan Dubbert,Rock Bridge,100 Freestyle,53.57,163,False
-Charles Hake,Vianney,100 Freestyle,53.59,164,False
-Grisham Gutshall,Platte County,100 Freestyle,53.6,165,False
-Aidan Brennan,Clayton,100 Freestyle,53.61,166,False
-Davis Johnson,John Burroughs,100 Freestyle,53.63,167,False
-Jan Handke,Jackson,100 Freestyle,53.64,168,False
-Jack Gillham,Glendale,100 Freestyle,53.66,169,False
-Ronan Waters,Park Hill,100 Freestyle,53.71,170,False
-Owen Bland,Rockhurst,100 Freestyle,53.76,171,False
-Matthew Warren,Rockhurst,100 Freestyle,53.76,172,False
-Ethan Evans,Kirkwood,100 Freestyle,53.82,173,False
-Hunter Odom,Glendale,100 Freestyle,53.84,174,False
-Luke Breed-Furguson,Hickman,100 Freestyle,53.84,175,False
-Whitaker Steward,Kearney,500 Freestyle,268.79,1,False
-Samuel Hennenfent,Staley,500 Freestyle,276.1,2,False
-Connor Dunker,SLUH,500 Freestyle,283.09000000000003,3,False
-Henry Mura,Chaminade College Prep,500 Freestyle,283.6,4,False
-Reilly Eagan,Rockhurst,500 Freestyle,283.71,5,False
-Giovanni (Gio) Bucci,Chaminade College Prep,500 Freestyle,285.59000000000003,6,False
-Clark Montgomery,Webster Groves,500 Freestyle,289.18,7,False
-Keegan Brown,Kirkwood,500 Freestyle,289.32,8,False
-Camden Theodos,John Burroughs,500 Freestyle,289.8,9,False
-William Dino,SLUH,500 Freestyle,290.27,10,False
-Maxwell McMillan,Marquette,500 Freestyle,290.72,11,False
-Brody Blatt,Parkway Central,500 Freestyle,290.92,12,False
-Connor Muran,Parkway Central,500 Freestyle,293.82,13,False
-Seth Augustine,Liberty North,500 Freestyle,295.14,14,False
-Tynan Meyer,Oak Park,500 Freestyle,295.18,15,False
-Joshua Battison,Rockhurst,500 Freestyle,296.12,16,False
-Jackson Brinton,Ladue Horton Watkins,500 Freestyle,296.77,17,False
-Michael Purcell,Chaminade College Prep,500 Freestyle,298.05,18,False
-Cole Tobin,Liberty,500 Freestyle,299.33,19,False
-Aaden Lutman,Rockhurst,500 Freestyle,300.3,20,False
-Timothy Harmon,Rockhurst,500 Freestyle,301.28,21,False
-Luke Deutschman,Eureka,500 Freestyle,301.44,22,False
-Tyler Scheidler,Marquette,500 Freestyle,301.69,23,False
-Owen Gray,Central (Springfield),500 Freestyle,301.97,24,False
-Carson Butler,Glendale,500 Freestyle,301.99,25,False
-William Wright,Carthage,500 Freestyle,302.38,26,False
-Colin Cunneen,Chaminade College Prep,500 Freestyle,302.88,27,False
-Aiden Kim,Clayton,500 Freestyle,302.92,28,False
-"John (JP) Costello, Jr",Chaminade College Prep,500 Freestyle,303.29,29,False
-Peyton Dimmock,Parkway Central,500 Freestyle,303.33,30,False
-Carter Reece,Blue Springs South,500 Freestyle,303.42,31,False
-Graham Henderson,Liberty,500 Freestyle,303.55,32,False
-Jameson Barnes,Monett,500 Freestyle,304.38,33,False
-Connor Landuyt,Park Hill South,500 Freestyle,304.52,34,False
-Jung Hoon Kim,Lee's Summit,500 Freestyle,304.71,35,False
-Curtis Murawski,Parkway West,500 Freestyle,304.74,36,False
-Cole Strom,Webster Groves,500 Freestyle,305.65,37,False
-Jack Gillham,Glendale,500 Freestyle,305.98,38,False
-Grayson Langdon,Kirkwood,500 Freestyle,306.51,39,False
-Kemper Roberts,Rockhurst,500 Freestyle,306.79,40,False
-Miller Dorsey,Kirkwood,500 Freestyle,306.95,41,False
-Adam Houck,Liberty,500 Freestyle,306.96,42,False
-Serkan Patterson,Parkway Central,500 Freestyle,307.57,43,False
-Aidan Brennan,Clayton,500 Freestyle,307.85,44,False
-Ian Bergin,Liberty,500 Freestyle,308.34,45,False
-Ty McKinnis,Oak Park,500 Freestyle,308.48,46,False
-Chase Ellis,Blue Springs South,500 Freestyle,308.75,47,False
-Camden Barry,Pattonville,500 Freestyle,309.21,48,False
-Cooper Salvia,Pattonville,500 Freestyle,309.28,49,False
-Hudson Tripp,Francis Howell,500 Freestyle,309.52,50,False
-Alexander Foot,Park Hill South,500 Freestyle,310.02,51,False
-Magnus Yin,Clayton,500 Freestyle,310.44,52,False
-Kai Kirsten,Rockwood Summit,500 Freestyle,310.47,53,False
-Ethan Melson,Eureka,500 Freestyle,310.49,54,False
-Bryce Kundel,MICDS,500 Freestyle,310.88,55,False
-Aidan Workman,Parkway North,500 Freestyle,311.12,56,False
-Eli Mullen,Lutheran St. Charles,500 Freestyle,311.6,57,False
-Haden Harshman,Grain Valley,500 Freestyle,311.99,58,False
-William Newell,Rockhurst,500 Freestyle,311.99,59,False
-Christian Kropf,Ozark,500 Freestyle,312.41,60,False
-Hayden Hough,Hillcrest,500 Freestyle,312.62,61,False
-Matthew Riggs,Liberty,500 Freestyle,312.94,62,False
-Henry Hames,St. Pius X (Kansas City),500 Freestyle,313.68,63,False
-Kane Lueckenhoff,Capital City,500 Freestyle,313.92,64,False
-Miles Tomsic,Rockhurst,500 Freestyle,314.45,65,False
-William Graul,Lafayette (Wildwood),500 Freestyle,314.9,66,False
-Hayden Hough,Central (Springfield),500 Freestyle,315.06,67,False
-Jonah DeWilde,Rockhurst,500 Freestyle,315.26,68,False
-Alexander Wiggins,SLUH,500 Freestyle,315.48,69,False
-Davin Bachtel,Lee's Summit West,500 Freestyle,315.79,70,False
-Kyle Kunzler,Eureka,500 Freestyle,316.23,71,False
-Isaac Stewart,Park Hill,500 Freestyle,316.4,72,False
-Connor Jensen,Liberty North,500 Freestyle,316.44,73,False
-Blake Hallsten,Oakville,500 Freestyle,316.52,74,False
-Owen Eyink,Hickman,500 Freestyle,316.75,75,False
-Shawn Gill,Lindbergh,500 Freestyle,316.91,76,False
-Charles Sicking,Parkway Central,500 Freestyle,317.25,77,False
-Ari Elder,Park Hill South,500 Freestyle,317.61,78,False
-Harper Beffa,Staley,500 Freestyle,317.94,79,False
-Aidan Eastman,Lutheran St. Charles,500 Freestyle,318.64,80,False
-Cole Morrison,Eureka,500 Freestyle,319.17,81,False
-Owen Bland,Rockhurst,500 Freestyle,319.24,82,False
-Davis Johnson,John Burroughs,500 Freestyle,319.26,83,False
-Noah Gerth,Parkway West,500 Freestyle,319.37,84,False
-Kolton Evans,Nevada,500 Freestyle,319.91,85,False
-Jackson Ringhofer,Parkway West,500 Freestyle,320.15,86,False
-Eli Havens,Lebanon,500 Freestyle,321.92,87,False
-Dylan DuBois,Staley,500 Freestyle,322.65,88,False
-Casey O'Hara,Park Hill South,500 Freestyle,322.66,89,False
-Cameron Welek,Christian Brothers College,500 Freestyle,322.74,90,False
-Daniel Peterson,MICDS,500 Freestyle,322.89,91,False
-Colby Robic,Christian Brothers College,500 Freestyle,323.09,92,False
-Trevor Sifers,Rockhurst,500 Freestyle,323.88,93,False
-Henry Price,De Smet Jesuit,500 Freestyle,323.9,94,False
-Jack Messick,Rockhurst,500 Freestyle,324.12,95,False
-Nick Kim,Parkway Central,500 Freestyle,324.49,96,False
-Charlie Schlotzhauer,Lee's Summit West,500 Freestyle,324.61,97,False
-Carson Mais,Lindbergh,500 Freestyle,324.69,98,False
-Dravya Pradhan,Ladue Horton Watkins,500 Freestyle,326.18,99,False
-David Starr Jr,Liberty,500 Freestyle,326.37,100,False
-Reed King,Eureka,500 Freestyle,326.91,101,False
-Ethan Schneider,Glendale,500 Freestyle,327.42,102,False
-Finn Hoffman,Lee's Summit West,500 Freestyle,327.42,103,False
-Matthew Warren,Rockhurst,500 Freestyle,327.59,104,False
-Dayton Smith,Lee's Summit,500 Freestyle,328.58,105,False
-Blake Flynn,Marquette,500 Freestyle,328.59,106,False
-Parker Groves,SLUH,500 Freestyle,328.6,107,False
-Nathan Malt,Parkway Central,500 Freestyle,328.84,108,False
-Mason McIntyre,Hannibal,500 Freestyle,329.05,109,False
-Clayton Tankersley,Smith-Cotton,500 Freestyle,329.25,110,False
-Jack Simms,Christian Brothers College,500 Freestyle,329.33,111,False
-Matthew Loesch,Lee's Summit West,500 Freestyle,329.67,112,False
-Jack Vaden,Park Hill,500 Freestyle,329.82,113,False
-Jakob Brinkman,SLUH,500 Freestyle,329.83,114,False
-"Jason Kraft, Jr.",Westminster Christian Academy,500 Freestyle,329.84,115,False
-Ryan George,Parkway South,500 Freestyle,329.88,116,False
-Austin Knoerle,Parkway North,500 Freestyle,330.87,117,False
-Hauke Reiss,Kirkwood,500 Freestyle,330.98,118,False
-Ryan Moore,MICDS,500 Freestyle,331.02,119,False
-Cole Rennels,Eureka,500 Freestyle,331.04,120,False
-Micah Stith,McCluer North,500 Freestyle,331.26,121,False
-Anderson Take,Parkway West,500 Freestyle,331.61,122,False
-Cameron House,Kirkwood,500 Freestyle,331.73,123,False
-"John Dohm, III",MICDS,500 Freestyle,331.77,124,False
-Davis Foster,Rockhurst,500 Freestyle,332.23,125,False
-Theodore Jones,Oakville,500 Freestyle,332.94,126,False
-Richard Hoover,Park Hill,500 Freestyle,332.98,127,False
-Benjamin Pursell,Notre Dame (Cape Girardeau),500 Freestyle,333.12,128,False
-Benjamin Hanson,Hickman,500 Freestyle,333.75,129,False
-Ryan Demargel,Webster Groves,500 Freestyle,333.75,130,False
-Liberty,Liberty,200 Freestyle Relay,85.19,1,True
-Chaminade College Prep,Chaminade College Prep,200 Freestyle Relay,86.89,2,True
-Staley,Staley,200 Freestyle Relay,87.41,3,True
-Parkway Central,Parkway Central,200 Freestyle Relay,87.85,4,True
-Rockhurst,Rockhurst,200 Freestyle Relay,88.38,5,True
-SLUH,SLUH,200 Freestyle Relay,88.46000000000001,6,True
-Webster Groves,Webster Groves,200 Freestyle Relay,89.18,7,True
-Lee's Summit,Lee's Summit,200 Freestyle Relay,89.86,8,True
-Lee's Summit West,Lee's Summit West,200 Freestyle Relay,90.21000000000001,9,True
-Blue Springs South,Blue Springs South,200 Freestyle Relay,90.82,10,True
-Pembroke Hill,Pembroke Hill,200 Freestyle Relay,92.16,11,True
-Central (Springfield),Central (Springfield),200 Freestyle Relay,92.37,12,True
-Lindbergh,Lindbergh,200 Freestyle Relay,92.62,13,True
-Kirkwood,Kirkwood,200 Freestyle Relay,92.89,14,True
-Parkway South,Parkway South,200 Freestyle Relay,93.31,15,True
-Park Hill South,Park Hill South,200 Freestyle Relay,93.4,16,True
-Lee's Summit North,Lee's Summit North,200 Freestyle Relay,93.6,17,True
-Clayton,Clayton,200 Freestyle Relay,93.85,18,True
-Nevada,Nevada,200 Freestyle Relay,93.92,19,True
-Ladue Horton Watkins,Ladue Horton Watkins,200 Freestyle Relay,94.35,20,True
-Park Hill,Park Hill,200 Freestyle Relay,94.58,21,True
-Marquette,Marquette,200 Freestyle Relay,94.81,22,True
-Parkway West,Parkway West,200 Freestyle Relay,94.93,23,True
-Rock Bridge,Rock Bridge,200 Freestyle Relay,95.07,24,True
-Lincoln College Prep,Lincoln College Prep,200 Freestyle Relay,95.19,25,True
-Glendale,Glendale,200 Freestyle Relay,95.41,26,True
-John Burroughs,John Burroughs,200 Freestyle Relay,95.47999999999999,27,True
-Platte County,Platte County,200 Freestyle Relay,95.78999999999999,28,True
-Notre Dame (Cape Girardeau),Notre Dame (Cape Girardeau),200 Freestyle Relay,95.88,29,True
-Central (St. Joseph),Central (St. Joseph),200 Freestyle Relay,95.95,30,True
-Raymore-Peculiar,Raymore-Peculiar,200 Freestyle Relay,96.09,31,True
-De Smet Jesuit,De Smet Jesuit,200 Freestyle Relay,96.11,32,True
-Smithville,Smithville,200 Freestyle Relay,96.52000000000001,33,True
-Francis Howell,Francis Howell,200 Freestyle Relay,96.67,34,True
-MICDS,MICDS,200 Freestyle Relay,96.75,35,True
-Lafayette (Wildwood),Lafayette (Wildwood),200 Freestyle Relay,96.83,36,True
-Eureka,Eureka,200 Freestyle Relay,96.89,37,True
-Kearney,Kearney,200 Freestyle Relay,97.03,38,True
-Monett,Monett,200 Freestyle Relay,97.1,39,True
-Lutheran St. Charles,Lutheran St. Charles,200 Freestyle Relay,97.25,40,True
-Grain Valley,Grain Valley,200 Freestyle Relay,97.28,41,True
-Smith-Cotton,Smith-Cotton,200 Freestyle Relay,97.36,42,True
-Parkway North,Parkway North,200 Freestyle Relay,97.61,43,True
-Christian Brothers College,Christian Brothers College,200 Freestyle Relay,97.62,44,True
-St. Francis Borgia,St. Francis Borgia,200 Freestyle Relay,97.72,45,True
-Holt,Holt,200 Freestyle Relay,97.72999999999999,46,True
-Hickman,Hickman,200 Freestyle Relay,98.05,47,True
-Carthage,Carthage,200 Freestyle Relay,98.12,48,True
-Rockwood Summit,Rockwood Summit,200 Freestyle Relay,98.74000000000001,49,True
-Oak Park,Oak Park,200 Freestyle Relay,98.78999999999999,50,True
-Raytown,Raytown,200 Freestyle Relay,98.88,51,True
-Hannibal,Hannibal,200 Freestyle Relay,99.07,52,True
-Westminster Christian Academy,Westminster Christian Academy,200 Freestyle Relay,99.28999999999999,53,True
-Pattonville,Pattonville,200 Freestyle Relay,99.64,54,True
-Ozark,Ozark,200 Freestyle Relay,100.50999999999999,55,True
-Warrensburg,Warrensburg,200 Freestyle Relay,101.17,56,True
-Francis Howell North,Francis Howell North,200 Freestyle Relay,101.25,57,True
-Kickapoo,Kickapoo,200 Freestyle Relay,101.41,58,True
-Ft. Zumwalt South,Ft. Zumwalt South,200 Freestyle Relay,101.94,59,True
-Summit Christian Academy,Summit Christian Academy,200 Freestyle Relay,102.28999999999999,60,True
-St. Pius X (Kansas City),St. Pius X (Kansas City),200 Freestyle Relay,102.32,61,True
-Jackson,Jackson,200 Freestyle Relay,102.61,62,True
-Lebanon,Lebanon,200 Freestyle Relay,103.12,63,True
-Poplar Bluff,Poplar Bluff,200 Freestyle Relay,103.24000000000001,64,True
-St. Michael the Archangel,St. Michael the Archangel,200 Freestyle Relay,103.24000000000001,65,True
-Blue Springs,Blue Springs,200 Freestyle Relay,103.45,66,True
-Washington,Washington,200 Freestyle Relay,103.6,67,True
-Camdenton,Camdenton,200 Freestyle Relay,103.78999999999999,68,True
-Capital City,Capital City,200 Freestyle Relay,104.25,69,True
-Liberty North,Liberty North,200 Freestyle Relay,104.53,70,True
-Timberland,Timberland,200 Freestyle Relay,104.95,71,True
-William Chrisman,William Chrisman,200 Freestyle Relay,105.28999999999999,72,True
-West Plains,West Plains,200 Freestyle Relay,105.37,73,True
-Savannah,Savannah,200 Freestyle Relay,105.47,74,True
-Oakville,Oakville,200 Freestyle Relay,105.72999999999999,75,True
-Liberty (Wentzville),Liberty (Wentzville),200 Freestyle Relay,106.16,76,True
-Waynesville,Waynesville,200 Freestyle Relay,106.33,77,True
-Belton,Belton,200 Freestyle Relay,107.03999999999999,78,True
-Francis Howell Central,Francis Howell Central,200 Freestyle Relay,107.05,79,True
-Central (Cape Girardeau),Central (Cape Girardeau),200 Freestyle Relay,107.22999999999999,80,True
-Marshall,Marshall,200 Freestyle Relay,107.27000000000001,81,True
-Winnetonka,Winnetonka,200 Freestyle Relay,107.93,82,True
-Ft. Zumwalt West,Ft. Zumwalt West,200 Freestyle Relay,108.67,83,True
-Battle,Battle,200 Freestyle Relay,109.68,84,True
-Farmington,Farmington,200 Freestyle Relay,109.74000000000001,85,True
-Missouri Military Academy,Missouri Military Academy,200 Freestyle Relay,109.83,86,True
-Thomas Jefferson Independent Day,Thomas Jefferson Independent Day,200 Freestyle Relay,110.85,87,True
-Jefferson City,Jefferson City,200 Freestyle Relay,111.07,88,True
-Ft. Zumwalt North,Ft. Zumwalt North,200 Freestyle Relay,111.83,89,True
-North Kansas City,North Kansas City,200 Freestyle Relay,112.31,90,True
-McCluer North,McCluer North,200 Freestyle Relay,114.03999999999999,91,True
-Truman,Truman,200 Freestyle Relay,114.34,92,True
-Graham Henderson,Liberty,100 Backstroke,49.58,1,False
-Brody Blatt,Parkway Central,100 Backstroke,50.68,2,False
-Clark Montgomery,Webster Groves,100 Backstroke,51.91,3,False
-Colin Cunneen,Chaminade College Prep,100 Backstroke,52.29,4,False
-Casey O'Hara,Park Hill South,100 Backstroke,52.61,5,False
-Brenen Birdsell,Raymore-Peculiar,100 Backstroke,52.96,6,False
-"John (JP) Costello, Jr",Chaminade College Prep,100 Backstroke,53.08,7,False
-Kaiden Cracraft,Notre Dame (Cape Girardeau),100 Backstroke,53.28,8,False
-Burgess Walden,Pembroke Hill,100 Backstroke,54.1,9,False
-Jonathan Grant,Pembroke Hill,100 Backstroke,54.39,10,False
-Mason Wardlow,William Chrisman,100 Backstroke,54.42,11,False
-Joshua Battison,Rockhurst,100 Backstroke,54.54,12,False
-Cole Strom,Webster Groves,100 Backstroke,54.57,13,False
-Alexander Atkins,Parkway West,100 Backstroke,54.68,14,False
-Levi Skaggs,North Kansas City,100 Backstroke,54.76,15,False
-Calvin Mueller,Hannibal,100 Backstroke,54.89,16,False
-Kolton Evans,Nevada,100 Backstroke,54.99,17,False
-Reilly Eagan,Rockhurst,100 Backstroke,55.09,18,False
-Sean Greenwood,Lindbergh,100 Backstroke,55.11,19,False
-George Albert,SLUH,100 Backstroke,55.13,20,False
-Nathan Robbins,Francis Howell,100 Backstroke,55.15,21,False
-Kevin Wu,Ladue Horton Watkins,100 Backstroke,55.24,22,False
-Miles Tomsic,Rockhurst,100 Backstroke,55.24,23,False
-David Neier,Francis Howell,100 Backstroke,55.37,24,False
-Jung Hoon Kim,Lee's Summit,100 Backstroke,55.53,25,False
-Fields Floersch,Blue Springs,100 Backstroke,55.56,26,False
-Aaden Lutman,Rockhurst,100 Backstroke,55.67,27,False
-Jesse Myers,Central (Springfield),100 Backstroke,55.87,28,False
-Connor Landuyt,Park Hill South,100 Backstroke,55.93,29,False
-Evan Schmutz,Central (Springfield),100 Backstroke,56.03,30,False
-Dane Tallent,Lutheran St. Charles,100 Backstroke,56.08,31,False
-Hunter Deutschmann,Parkway Central,100 Backstroke,56.1,32,False
-Jonah DeWilde,Rockhurst,100 Backstroke,56.21,33,False
-Jan Handke,Jackson,100 Backstroke,56.31,34,False
-Braeden Mallonee,Kearney,100 Backstroke,56.39,35,False
-William Zhang,Marquette,100 Backstroke,56.63,36,False
-Tyler Yates,SLUH,100 Backstroke,56.73,37,False
-Henry Mura,Chaminade College Prep,100 Backstroke,56.76,38,False
-Harrison Seavey,Parkway West,100 Backstroke,57.02,39,False
-Samuel Wilkins,Glendale,100 Backstroke,57.15,40,False
-William Vieth,SLUH,100 Backstroke,57.18,41,False
-Hunter Morris,Christian Brothers College,100 Backstroke,57.24,42,False
-Myles Huey,Liberty,100 Backstroke,57.42,43,False
-Samuel Durnal,St. Francis Borgia,100 Backstroke,57.46,44,False
-Camden Theodos,John Burroughs,100 Backstroke,57.5,45,False
-John Ward,Staley,100 Backstroke,57.62,46,False
-Aiden Scholl,Smith-Cotton,100 Backstroke,57.8,47,False
-Dylan DuBois,Staley,100 Backstroke,57.81,48,False
-Davin Bachtel,Lee's Summit West,100 Backstroke,57.9,49,False
-Thomas (Tommy) Fichter,Chaminade College Prep,100 Backstroke,57.91,50,False
-Cole Tobin,Liberty,100 Backstroke,57.98,51,False
-Robert Jansen,Lee's Summit West,100 Backstroke,58.01,52,False
-Nathan Searls,Liberty,100 Backstroke,58.14,53,False
-Barrett Mertens,Parkway North,100 Backstroke,58.17,54,False
-William McIlwaine,De Smet Jesuit,100 Backstroke,58.26,55,False
-Andrew Collins,Ft. Zumwalt South,100 Backstroke,58.31,56,False
-William Newell,Rockhurst,100 Backstroke,58.34,57,False
-Matthew Riggs,Liberty,100 Backstroke,58.38,58,False
-Kaenan Nickl,Lee's Summit West,100 Backstroke,58.41,59,False
-Carson Butler,Glendale,100 Backstroke,58.42,60,False
-Alex Lin,Marquette,100 Backstroke,58.45,61,False
-Luke Deutschman,Eureka,100 Backstroke,58.46,62,False
-Abram Marinchek,Savannah,100 Backstroke,58.48,63,False
-Bryce Hopkins,Lee's Summit North,100 Backstroke,58.64,64,False
-William Dino,SLUH,100 Backstroke,58.83,65,False
-Adam Houck,Liberty,100 Backstroke,58.84,66,False
-Nathan Bauer,Kirkwood,100 Backstroke,58.84,67,False
-Archie Bernsen,Kirkwood,100 Backstroke,59.02,68,False
-Ari Elder,Park Hill South,100 Backstroke,59.03,69,False
-Kaler Baker,Central (St. Joseph),100 Backstroke,59.04,70,False
-Hudson Meyer,Lee's Summit,100 Backstroke,59.14,71,False
-John Claxton,Rockhurst,100 Backstroke,59.18,72,False
-Trey Burle,Missouri Military Academy,100 Backstroke,59.22,73,False
-James Wienke,Kirkwood,100 Backstroke,59.28,74,False
-Henry Hames,St. Pius X (Kansas City),100 Backstroke,59.55,75,False
-Aidan Brennan,Clayton,100 Backstroke,59.62,76,False
-Nicholas Voigt,Parkway North,100 Backstroke,59.7,77,False
-Brayden Miao,Central (Springfield),100 Backstroke,59.8,78,False
-Tyler He,Clayton,100 Backstroke,59.81,79,False
-Schafer Spitznagel,Oakville,100 Backstroke,59.88,80,False
-Matthew Warren,Rockhurst,100 Backstroke,59.97,81,False
-Harrison Frost,Westminster Christian Academy,100 Backstroke,60.07,82,False
-Ryosuke Kobayashi,Clayton,100 Backstroke,60.07,83,False
-Magnus Yin,Clayton,100 Backstroke,60.12,84,False
-Haden Harshman,Grain Valley,100 Backstroke,60.12,85,False
-Brady Scamman,Park Hill,100 Backstroke,60.15,86,False
-Isaac Stewart,Park Hill,100 Backstroke,60.4,87,False
-Benjamin Honson,Central (St. Joseph),100 Backstroke,60.61,88,False
-Andrew Russell,Nevada,100 Backstroke,60.66,89,False
-Ethan Dubbert,Rock Bridge,100 Backstroke,60.85,90,False
-Timothy Harmon,Rockhurst,100 Backstroke,60.94,91,False
-Ronan Waters,Park Hill,100 Backstroke,61.08,92,False
-Camden Barry,Pattonville,100 Backstroke,61.12,93,False
-Arlo Ziolkowski,Ladue Horton Watkins,100 Backstroke,61.12,94,False
-Chase Weatherby,Lee's Summit West,100 Backstroke,61.18,95,False
-Phinehas Reneau,Lee's Summit West,100 Backstroke,61.24,96,False
-Eli Workman,Liberty,100 Backstroke,61.27,97,False
-Anderson Take,Parkway West,100 Backstroke,61.28,98,False
-Cole Rennels,Eureka,100 Backstroke,61.3,99,False
-Jamin Callaway,Staley,100 Backstroke,61.33,100,False
-Beau Jonkman,Platte County,100 Backstroke,61.36,101,False
-Connor Muran,Parkway Central,100 Backstroke,61.38,102,False
-Tynan Meyer,Oak Park,100 Backstroke,61.39,103,False
-Noah Hoffman,Parkway Central,100 Backstroke,61.43,104,False
-Samuel Genin,John Burroughs,100 Backstroke,61.43,105,False
-Neil Fritts,Monett,100 Backstroke,61.5,106,False
-Logan Welek,Christian Brothers College,100 Backstroke,61.5,107,False
-Jack Campbell,Columbia Independent,100 Backstroke,61.54,108,False
-David Starr Jr,Liberty,100 Backstroke,61.56,109,False
-Dalton Spence,Webb City,100 Backstroke,61.59,110,False
-Dravya Pradhan,Ladue Horton Watkins,100 Backstroke,61.65,111,False
-Tiernan Mueller,Eureka,100 Backstroke,61.71,112,False
-Jack Linder-Maloney,Smithville,100 Backstroke,61.86,113,False
-Colby Robic,Christian Brothers College,100 Backstroke,61.86,114,False
-Grayson Grimmer,Lee's Summit,100 Backstroke,61.91,115,False
-Grant Heidbrink,SLUH,100 Backstroke,62.0,116,False
-Carter Reece,Blue Springs South,100 Backstroke,62.03,117,False
-Embry Collins,Hickman,100 Backstroke,62.05,118,False
-Bentley Stasiak,Blue Springs South,100 Backstroke,62.09,119,False
-Grisham Gutshall,Platte County,100 Backstroke,62.09,120,False
-Matthew Gilles,Parkway South,100 Backstroke,62.12,121,False
-Benjamin Pursell,Notre Dame (Cape Girardeau),100 Backstroke,62.13,122,False
-Edwards Tate,Rock Bridge,100 Backstroke,62.32,123,False
-Wyatt Grant,Pembroke Hill,100 Backstroke,62.35,124,False
-Aidan Eastman,Lutheran St. Charles,100 Backstroke,62.39,125,False
-Dev Desai,John Burroughs,100 Backstroke,62.52,126,False
-Elijah Gardner,Hillcrest,100 Backstroke,62.53,127,False
-Owen Bland,Rockhurst,100 Backstroke,62.55,128,False
-William Townsend,Rockhurst,100 Backstroke,62.57,129,False
-Serkan Patterson,Parkway Central,100 Backstroke,62.61,130,False
-Connor Wiggs,Poplar Bluff,100 Backstroke,62.61,131,False
-Draven Koehmstedt,Washington,100 Backstroke,62.63,132,False
-Parker Groves,SLUH,100 Backstroke,62.64,133,False
-Adam Kress,Parkway Central,100 Backstroke,62.66,134,False
-Oliver Thompson,Webb City,100 Backstroke,62.7,135,False
-Davis Foster,Rockhurst,100 Backstroke,62.79,136,False
-Christian Chang,John Burroughs,100 Backstroke,62.88,137,False
-Luke Bauer,Kirkwood,100 Backstroke,62.96,138,False
-Charlie Wang,Marquette,100 Backstroke,62.99,139,False
-Dylan Powers,John Burroughs,100 Backstroke,63.11,140,False
-Samuel Etherington,Ladue Horton Watkins,100 Backstroke,63.18,141,False
-Nathan Malt,Parkway Central,100 Backstroke,63.25,142,False
-Conner Osburn,Grain Valley,100 Backstroke,63.27,143,False
-Jack Brothers,Rock Bridge,100 Backstroke,63.34,144,False
-Davis Johnson,John Burroughs,100 Backstroke,63.45,145,False
-Alexander Foot,Park Hill South,100 Backstroke,63.47,146,False
-Arkadian Baumeister,Waynesville,100 Backstroke,63.55,147,False
-Dallas York,Lee's Summit West,100 Backstroke,63.6,148,False
-Jackson Judd,Lee's Summit West,100 Backstroke,63.66,149,False
-Cole Knernschield,Liberty North,100 Backstroke,63.7,150,False
-Seth Augustine,Liberty North,100 Backstroke,63.76,151,False
-Connor Muran,Parkway Central,100 Breaststroke,56.1,1,False
-Ryan Coughenour,Rock Bridge,100 Breaststroke,56.18,2,False
-Adam Houck,Liberty,100 Breaststroke,57.14,3,False
-Gavin Waser,Rockwood Summit,100 Breaststroke,57.43,4,False
-Nicholas Zimmerman,SLUH,100 Breaststroke,57.44,5,False
-Brayden Miao,Central (Springfield),100 Breaststroke,58.48,6,False
-Robert Jansen,Lee's Summit West,100 Breaststroke,58.72,7,False
-Aaden Lutman,Rockhurst,100 Breaststroke,59.01,8,False
-Seth Augustine,Liberty North,100 Breaststroke,59.09,9,False
-Jung Bin Kim,Lee's Summit,100 Breaststroke,59.38,10,False
-Matthew Riggs,Liberty,100 Breaststroke,60.6,11,False
-Grayson Langdon,Kirkwood,100 Breaststroke,60.61,12,False
-Seamus Smith,Kirkwood,100 Breaststroke,60.95,13,False
-Aiden Kim,Clayton,100 Breaststroke,60.99,14,False
-Reilly Eagan,Rockhurst,100 Breaststroke,61.13,15,False
-Elliott Sapp,SLUH,100 Breaststroke,61.15,16,False
-Kemper Roberts,Rockhurst,100 Breaststroke,61.16,17,False
-Kane Powell,Parkway North,100 Breaststroke,61.25,18,False
-Jacob Kendall,Rockhurst,100 Breaststroke,61.32,19,False
-Matthew Loesch,Lee's Summit West,100 Breaststroke,61.57,20,False
-Kristopher Cobb,Raymore-Peculiar,100 Breaststroke,61.88,21,False
-Van Current,Kickapoo,100 Breaststroke,62.19,22,False
-Kaiden Cracraft,Notre Dame (Cape Girardeau),100 Breaststroke,62.64,23,False
-Logan Shackelford,Lee's Summit North,100 Breaststroke,62.69,24,False
-Dayton Smith,Lee's Summit,100 Breaststroke,62.89,25,False
-Ziji Qi,Rock Bridge,100 Breaststroke,62.89,26,False
-Liam O'Keefe,Pembroke Hill,100 Breaststroke,62.96,27,False
-Trace Gould,Nevada,100 Breaststroke,63.04,28,False
-Riley Tinsley,Battle,100 Breaststroke,63.1,29,False
-Michael Pina,De Smet Jesuit,100 Breaststroke,63.15,30,False
-Matthew Warren,Rockhurst,100 Breaststroke,63.19,31,False
-Aiden Scholl,Smith-Cotton,100 Breaststroke,63.28,32,False
-Carson Butler,Glendale,100 Breaststroke,63.31,33,False
-Maxwell German,Central (Springfield),100 Breaststroke,63.33,34,False
-Evan Smith,Webster Groves,100 Breaststroke,63.35,35,False
-Trey Burle,Missouri Military Academy,100 Breaststroke,63.36,36,False
-Rainier Realina,Park Hill,100 Breaststroke,63.49,37,False
-Levi Skaggs,North Kansas City,100 Breaststroke,63.53,38,False
-Andrew Riney,Chaminade College Prep,100 Breaststroke,63.57,39,False
-Tobias White,Battle,100 Breaststroke,63.87,40,False
-William Wright,Carthage,100 Breaststroke,63.88,41,False
-Nash Wiles,Lee's Summit,100 Breaststroke,63.97,42,False
-Isaac Harrington,Hickman,100 Breaststroke,64.02,43,False
-Silas Bextermueller,Christian Brothers College,100 Breaststroke,64.08,44,False
-Xavier Gaul,Rockhurst,100 Breaststroke,64.15,45,False
-Whitaker Steward,Kearney,100 Breaststroke,64.18,46,False
-Jack Gillham,Glendale,100 Breaststroke,64.19,47,False
-Jace Graham,Liberty,100 Breaststroke,64.2,48,False
-John Claxton,Rockhurst,100 Breaststroke,64.2,49,False
-Garrison Wells,Staley,100 Breaststroke,64.21,50,False
-Ari Elder,Park Hill South,100 Breaststroke,64.26,51,False
-Camden Theodos,John Burroughs,100 Breaststroke,64.3,52,False
-Reece Mason,Ozark,100 Breaststroke,64.33,53,False
-Lincoln Schaefer,St. Francis Borgia,100 Breaststroke,64.33,54,False
-Ethan Lee,Lafayette (Wildwood),100 Breaststroke,64.51,55,False
-Bryce Kundel,MICDS,100 Breaststroke,64.71,56,False
-Justin Hendricks,Staley,100 Breaststroke,64.78,57,False
-Samuel Oetting,Park Hill,100 Breaststroke,64.84,58,False
-Winston Rees,Parkway Central,100 Breaststroke,64.93,59,False
-Magnus Yin,Clayton,100 Breaststroke,64.95,60,False
-Charles Sicking,Parkway Central,100 Breaststroke,64.96,61,False
-Giovanni (Gio) Bucci,Chaminade College Prep,100 Breaststroke,65.16,62,False
-Harrison Frost,Westminster Christian Academy,100 Breaststroke,65.21,63,False
-Jacob Zupan,Park Hill South,100 Breaststroke,65.32,64,False
-Mason Naseem,Liberty,100 Breaststroke,65.35,65,False
-Maxwell Moore,Parkway West,100 Breaststroke,65.44,66,False
-Cole Strom,Webster Groves,100 Breaststroke,65.46,67,False
-Mark Yurkuns,Clayton,100 Breaststroke,65.47,68,False
-Xavier Cavanaugh,Oak Park,100 Breaststroke,65.52,69,False
-Graham Henderson,Liberty,100 Breaststroke,65.55,70,False
-Jonah DeWilde,Rockhurst,100 Breaststroke,65.68,71,False
-Matthew Franz,SLUH,100 Breaststroke,65.77,72,False
-Mason Wardlow,William Chrisman,100 Breaststroke,65.82,73,False
-Hunter Johnson,Camdenton,100 Breaststroke,65.82,74,False
-Hayes McIntosh,Blue Springs South,100 Breaststroke,65.84,75,False
-Calvin Mueller,Hannibal,100 Breaststroke,65.84,76,False
-Gavin Joyner,Parkway South,100 Breaststroke,65.9,77,False
-Archer Sanderson,Blue Springs South,100 Breaststroke,65.92,78,False
-Casey O'Hara,Park Hill South,100 Breaststroke,65.95,79,False
-Justin Truong,Oak Park,100 Breaststroke,65.96,80,False
-Jacob Corbett,SLUH,100 Breaststroke,66.02,81,False
-Daniel Peterson,MICDS,100 Breaststroke,66.05,82,False
-Owen Waeckerle,Lafayette (Wildwood),100 Breaststroke,66.24,83,False
-Anderson Luecke,Webster Groves,100 Breaststroke,66.45,84,False
-Daniel Sattler,Marquette,100 Breaststroke,66.56,85,False
-Embry Collins,Hickman,100 Breaststroke,66.57,86,False
-Jameson Barnes,Monett,100 Breaststroke,66.9,87,False
-Noah Burns,SLUH,100 Breaststroke,66.93,88,False
-David Miller,Kirkwood,100 Breaststroke,66.98,89,False
-Glen Widjaja,Ladue Horton Watkins,100 Breaststroke,67.01,90,False
-Macallister Calder,Ft. Zumwalt South,100 Breaststroke,67.17,91,False
-Christian Kropf,Ozark,100 Breaststroke,67.22,92,False
-"Jason Kraft, Jr.",Westminster Christian Academy,100 Breaststroke,67.43,93,False
-Carter Wieser,Parkway Central,100 Breaststroke,67.47,94,False
-Haden Harshman,Grain Valley,100 Breaststroke,67.47,95,False
-David Rohrer,Glendale,100 Breaststroke,67.54,96,False
-Tyson Gould,Nevada,100 Breaststroke,67.64,97,False
-Gavin Cook,Central (St. Joseph),100 Breaststroke,67.82,98,False
-Connor Landuyt,Park Hill South,100 Breaststroke,67.86,99,False
-Colin Cunneen,Chaminade College Prep,100 Breaststroke,67.88,100,False
-Adheesh Giritharan,Parkway Central,100 Breaststroke,67.9,101,False
-William Adams,Farmington,100 Breaststroke,67.9,102,False
-Hayden Davis,Liberty,100 Breaststroke,68.01,103,False
-Lyric Floersch,Blue Springs,100 Breaststroke,68.13,104,False
-Dev Desai,John Burroughs,100 Breaststroke,68.19,105,False
-William Newell,Rockhurst,100 Breaststroke,68.2,106,False
-Davin Bachtel,Lee's Summit West,100 Breaststroke,68.3,107,False
-Kyle Kunzler,Eureka,100 Breaststroke,68.31,108,False
-Curtis Murawski,Parkway West,100 Breaststroke,68.51,109,False
-Aidan Workman,Parkway North,100 Breaststroke,68.65,110,False
-Alex Lin,Marquette,100 Breaststroke,68.72,111,False
-Connor Jensen,Liberty North,100 Breaststroke,68.81,112,False
-Charlie Schlotzhauer,Lee's Summit West,100 Breaststroke,68.88,113,False
-Alden Marshall,Lee's Summit West,100 Breaststroke,68.96000000000001,114,False
-Landon Gillis,Lee's Summit West,100 Breaststroke,69.02,115,False
-Hayden Orf,Ft. Zumwalt North,100 Breaststroke,69.03,116,False
-Carter Chen,Kirkwood,100 Breaststroke,69.18,117,False
-Isaac Stewart,Park Hill,100 Breaststroke,69.24,118,False
-Alexander Foot,Park Hill South,100 Breaststroke,69.26,119,False
-Finn Hoffman,Lee's Summit West,100 Breaststroke,69.28,120,False
-Owen Gray,Central (Springfield),100 Breaststroke,69.3,121,False
-Brayden Rowland,Rockhurst,100 Breaststroke,69.38,122,False
-Brady Scamman,Park Hill,100 Breaststroke,69.46000000000001,123,False
-Joe Esposito,John Burroughs,100 Breaststroke,69.51,124,False
-Henry Hassenstab,SLUH,100 Breaststroke,69.52,125,False
-Bennett Freeman,Kearney,100 Breaststroke,69.55,126,False
-Evan Snarey,Monett,100 Breaststroke,69.69,127,False
-Andrew Thomadsen,Ladue Horton Watkins,100 Breaststroke,69.76,128,False
-Coleman Leuthen,Oakville,100 Breaststroke,69.78,129,False
-Gabriel Ahlers,Chaminade College Prep,100 Breaststroke,70.09,130,False
-Trevor Bundy,Liberty North,100 Breaststroke,70.11,131,False
-Elijah Buxton,Grain Valley,100 Breaststroke,70.16,132,False
-Jack Hokanson,Platte County,100 Breaststroke,70.27,133,False
-Andrew Morelock,Francis Howell Central,100 Breaststroke,70.46000000000001,134,False
-Finn Smith,Platte County,100 Breaststroke,70.48,135,False
-Liberty,Liberty,400 Freestyle Relay,190.42,1,True
-Chaminade College Prep,Chaminade College Prep,400 Freestyle Relay,191.16,2,True
-SLUH,SLUH,400 Freestyle Relay,193.06,3,True
-Staley,Staley,400 Freestyle Relay,194.61,4,True
-Webster Groves,Webster Groves,400 Freestyle Relay,195.75,5,True
-Rockhurst,Rockhurst,400 Freestyle Relay,197.37,6,True
-Kirkwood,Kirkwood,400 Freestyle Relay,199.43,7,True
-Park Hill South,Park Hill South,400 Freestyle Relay,200.96,8,True
-Ladue Horton Watkins,Ladue Horton Watkins,400 Freestyle Relay,202.53,9,True
-Hickman,Hickman,400 Freestyle Relay,202.92000000000002,10,True
-Blue Springs South,Blue Springs South,400 Freestyle Relay,203.3,11,True
-Clayton,Clayton,400 Freestyle Relay,203.48,12,True
-Parkway Central,Parkway Central,400 Freestyle Relay,203.69,13,True
-Kearney,Kearney,400 Freestyle Relay,203.9,14,True
-Eureka,Eureka,400 Freestyle Relay,204.4,15,True
-Parkway South,Parkway South,400 Freestyle Relay,204.87,16,True
-Glendale,Glendale,400 Freestyle Relay,205.26,17,True
-Rock Bridge,Rock Bridge,400 Freestyle Relay,205.41,18,True
-Marquette,Marquette,400 Freestyle Relay,205.59,19,True
-Lindbergh,Lindbergh,400 Freestyle Relay,205.63,20,True
-Central (Springfield),Central (Springfield),400 Freestyle Relay,206.28,21,True
-Pembroke Hill,Pembroke Hill,400 Freestyle Relay,206.74,22,True
-John Burroughs,John Burroughs,400 Freestyle Relay,206.84,23,True
-Lee's Summit West,Lee's Summit West,400 Freestyle Relay,206.96,24,True
-Liberty North,Liberty North,400 Freestyle Relay,208.94,25,True
-Christian Brothers College,Christian Brothers College,400 Freestyle Relay,209.09,26,True
-Park Hill,Park Hill,400 Freestyle Relay,209.12,27,True
-Parkway West,Parkway West,400 Freestyle Relay,210.0,28,True
-Francis Howell,Francis Howell,400 Freestyle Relay,210.47,29,True
-Parkway North,Parkway North,400 Freestyle Relay,210.94,30,True
-Oak Park,Oak Park,400 Freestyle Relay,212.17000000000002,31,True
-Lutheran St. Charles,Lutheran St. Charles,400 Freestyle Relay,213.6,32,True
-De Smet Jesuit,De Smet Jesuit,400 Freestyle Relay,214.55,33,True
-Lafayette (Wildwood),Lafayette (Wildwood),400 Freestyle Relay,214.75,34,True
-Monett,Monett,400 Freestyle Relay,214.76,35,True
-Smith-Cotton,Smith-Cotton,400 Freestyle Relay,216.23,36,True
-MICDS,MICDS,400 Freestyle Relay,216.37,37,True
-Lee's Summit,Lee's Summit,400 Freestyle Relay,216.49,38,True
-Notre Dame (Cape Girardeau),Notre Dame (Cape Girardeau),400 Freestyle Relay,216.49,39,True
-Pattonville,Pattonville,400 Freestyle Relay,216.59,40,True
-Lincoln College Prep,Lincoln College Prep,400 Freestyle Relay,216.8,41,True
-Raymore-Peculiar,Raymore-Peculiar,400 Freestyle Relay,217.66,42,True
-Nevada,Nevada,400 Freestyle Relay,220.27,43,True
-Ozark,Ozark,400 Freestyle Relay,221.43,44,True
-Hannibal,Hannibal,400 Freestyle Relay,222.32999999999998,45,True
-Farmington,Farmington,400 Freestyle Relay,223.39,46,True
-Raytown,Raytown,400 Freestyle Relay,224.48,47,True
-Holt,Holt,400 Freestyle Relay,224.78,48,True
-Grain Valley,Grain Valley,400 Freestyle Relay,225.31,49,True
-St. Francis Borgia,St. Francis Borgia,400 Freestyle Relay,225.48,50,True
-Central (St. Joseph),Central (St. Joseph),400 Freestyle Relay,226.09,51,True
-Blue Springs,Blue Springs,400 Freestyle Relay,227.04,52,True
-Jackson,Jackson,400 Freestyle Relay,227.21,53,True
-Westminster Christian Academy,Westminster Christian Academy,400 Freestyle Relay,228.13,54,True
-Francis Howell North,Francis Howell North,400 Freestyle Relay,230.02,55,True
-Lebanon,Lebanon,400 Freestyle Relay,230.18,56,True
-Oakville,Oakville,400 Freestyle Relay,230.2,57,True
-West Plains,West Plains,400 Freestyle Relay,230.47,58,True
-Platte County,Platte County,400 Freestyle Relay,231.01,59,True
-Smithville,Smithville,400 Freestyle Relay,231.16,60,True
-Lee's Summit North,Lee's Summit North,400 Freestyle Relay,231.48,61,True
-St. Pius X (Kansas City),St. Pius X (Kansas City),400 Freestyle Relay,232.32,62,True
-Carthage,Carthage,400 Freestyle Relay,233.78,63,True
-Rockwood Summit,Rockwood Summit,400 Freestyle Relay,233.94,64,True
-Poplar Bluff,Poplar Bluff,400 Freestyle Relay,234.05,65,True
-Timberland,Timberland,400 Freestyle Relay,234.11,66,True
-Washington,Washington,400 Freestyle Relay,234.5,67,True
-Hillcrest,Hillcrest,400 Freestyle Relay,235.41,68,True
-Warrensburg,Warrensburg,400 Freestyle Relay,235.5,69,True
-Kickapoo,Kickapoo,400 Freestyle Relay,239.82999999999998,70,True
-Camdenton,Camdenton,400 Freestyle Relay,242.91,71,True
-William Chrisman,William Chrisman,400 Freestyle Relay,243.19,72,True
-Belton,Belton,400 Freestyle Relay,246.34,73,True
-Francis Howell Central,Francis Howell Central,400 Freestyle Relay,248.31,74,True
+St. Joseph's Academy,St. Joseph's Academy,200 Medley Relay,106.57,1,True
+Park Hill South,Park Hill South,200 Medley Relay,108.32,2,True
+Rock Bridge,Rock Bridge,200 Medley Relay,108.68,3,True
+Visitation Academy,Visitation Academy,200 Medley Relay,110.53,4,True
+Westminster Christian Academy,Westminster Christian Academy,200 Medley Relay,112.21000000000001,5,True
+Parkway Central,Parkway Central,200 Medley Relay,112.46000000000001,6,True
+Villa Duchesne,Villa Duchesne,200 Medley Relay,114.33,7,True
+Marquette,Marquette,200 Medley Relay,114.59,8,True
+Kirkwood,Kirkwood,200 Medley Relay,114.61,9,True
+Liberty,Liberty,200 Medley Relay,115.47999999999999,10,True
+Parkway South,Parkway South,200 Medley Relay,116.25999999999999,11,True
+Webster Groves,Webster Groves,200 Medley Relay,116.32,12,True
+Louisiana,Louisiana,200 Medley Relay,116.62,13,True
+Blue Springs South,Blue Springs South,200 Medley Relay,117.05,14,True
+Hickman,Hickman,200 Medley Relay,117.25,15,True
+Lafayette (Wildwood),Lafayette (Wildwood),200 Medley Relay,117.32,16,True
+St. Teresa's Academy,St. Teresa's Academy,200 Medley Relay,117.9,17,True
+Ursuline Academy,Ursuline Academy,200 Medley Relay,118.07,18,True
+Notre Dame de Sion,Notre Dame de Sion,200 Medley Relay,118.1,19,True
+Lee's Summit,Lee's Summit,200 Medley Relay,118.62,20,True
+Staley,Staley,200 Medley Relay,119.22,21,True
+Pembroke Hill,Pembroke Hill,200 Medley Relay,119.44,22,True
+MICDS,MICDS,200 Medley Relay,119.75999999999999,23,True
+Clayton,Clayton,200 Medley Relay,119.84,24,True
+John Burroughs,John Burroughs,200 Medley Relay,119.97,25,True
+Francis Howell,Francis Howell,200 Medley Relay,121.3,26,True
+Grain Valley,Grain Valley,200 Medley Relay,121.47,27,True
+Lebanon,Lebanon,200 Medley Relay,121.52,28,True
+Lee's Summit West,Lee's Summit West,200 Medley Relay,121.55,29,True
+Kearney,Kearney,200 Medley Relay,121.56,30,True
+Glendale,Glendale,200 Medley Relay,121.59,31,True
+Republic,Republic,200 Medley Relay,121.6,32,True
+Monett,Monett,200 Medley Relay,121.7,33,True
+Eureka,Eureka,200 Medley Relay,121.76,34,True
+Lindbergh,Lindbergh,200 Medley Relay,121.79,35,True
+Ft. Zumwalt North,Ft. Zumwalt North,200 Medley Relay,122.06,36,True
+Carthage,Carthage,200 Medley Relay,122.21,37,True
+Savannah,Savannah,200 Medley Relay,122.21,38,True
+Platte County,Platte County,200 Medley Relay,122.52,39,True
+Liberty (Wentzville),Liberty (Wentzville),200 Medley Relay,122.55,40,True
+Jackson,Jackson,200 Medley Relay,122.57,41,True
+Cor Jesu Academy,Cor Jesu Academy,200 Medley Relay,122.74,42,True
+Ladue Horton Watkins,Ladue Horton Watkins,200 Medley Relay,122.79,43,True
+Francis Howell Central,Francis Howell Central,200 Medley Relay,123.81,44,True
+Lutheran St. Charles,Lutheran St. Charles,200 Medley Relay,124.21,45,True
+St. Michael the Archangel,St. Michael the Archangel,200 Medley Relay,124.44,46,True
+Hannibal,Hannibal,200 Medley Relay,124.7,47,True
+Park Hill,Park Hill,200 Medley Relay,124.79,48,True
+Liberty North,Liberty North,200 Medley Relay,124.92,49,True
+Poplar Bluff,Poplar Bluff,200 Medley Relay,125.92,50,True
+Pattonville,Pattonville,200 Medley Relay,126.09,51,True
+West Plains,West Plains,200 Medley Relay,126.26,52,True
+Notre Dame (Cape Girardeau),Notre Dame (Cape Girardeau),200 Medley Relay,126.43,53,True
+Father Tolton,Father Tolton,200 Medley Relay,126.69,54,True
+Timberland,Timberland,200 Medley Relay,126.74,55,True
+Carl Junction,Carl Junction,200 Medley Relay,126.79,56,True
+Lutheran South,Lutheran South,200 Medley Relay,128.09,57,True
+Central (Cape Girardeau),Central (Cape Girardeau),200 Medley Relay,128.32,58,True
+Parkway North,Parkway North,200 Medley Relay,128.72,59,True
+St. Dominic,St. Dominic,200 Medley Relay,128.87,60,True
+Blue Springs,Blue Springs,200 Medley Relay,128.91,61,True
+Ft. Zumwalt South,Ft. Zumwalt South,200 Medley Relay,129.16,62,True
+Smithville,Smithville,200 Medley Relay,129.56,63,True
+St. Pius X (Kansas City),St. Pius X (Kansas City),200 Medley Relay,129.69,64,True
+Summit Christian Academy,Summit Christian Academy,200 Medley Relay,130.98,65,True
+Raymore-Peculiar,Raymore-Peculiar,200 Medley Relay,131.0,66,True
+Incarnate Word Academy,Incarnate Word Academy,200 Medley Relay,131.65,67,True
+Oak Park,Oak Park,200 Medley Relay,132.48,68,True
+Holt,Holt,200 Medley Relay,132.68,69,True
+Nixa,Nixa,200 Medley Relay,132.79,70,True
+Washington,Washington,200 Medley Relay,132.85,71,True
+Mehlville,Mehlville,200 Medley Relay,133.14,72,True
+Parkway West,Parkway West,200 Medley Relay,133.43,73,True
+Kickapoo,Kickapoo,200 Medley Relay,134.37,74,True
+Webb City,Webb City,200 Medley Relay,134.45,75,True
+Oakville,Oakville,200 Medley Relay,135.09,76,True
+Central (Springfield),Central (Springfield),200 Medley Relay,135.6,77,True
+Bolivar,Bolivar,200 Medley Relay,135.98,78,True
+STEAM Academy,STEAM Academy,200 Medley Relay,136.01,79,True
+Nevada,Nevada,200 Medley Relay,136.77,80,True
+Belton,Belton,200 Medley Relay,137.03,81,True
+Warrensburg,Warrensburg,200 Medley Relay,137.18,82,True
+Principia,Principia,200 Medley Relay,138.09,83,True
+Helena Tietjen,Pembroke Hill,200 Freestyle,108.61,1,False
+Anna-Grace Guenther,St. Joseph's Academy,200 Freestyle,111.91,2,False
+Avery Hogue,Park Hill South,200 Freestyle,112.28,3,False
+Quinn Porter,Webster Groves,200 Freestyle,114.2,4,False
+Gracey MacLaughlin,Louisiana,200 Freestyle,114.35,5,False
+Adrianna Hudnall,Liberty North,200 Freestyle,116.3,6,False
+Amelia Coy,Hickman,200 Freestyle,116.55,7,False
+Jenna Ridings,Pattonville,200 Freestyle,116.78999999999999,8,False
+Paige Samuelson,Eureka,200 Freestyle,117.22,9,False
+Kate Brinton,Ladue Horton Watkins,200 Freestyle,117.93,10,False
+Ella Paul,Rockwood Summit,200 Freestyle,118.08,11,False
+Paige Blom,Marquette,200 Freestyle,118.12,12,False
+Brooke Nichols,Park Hill South,200 Freestyle,118.14,13,False
+Lynlee Lavalle,Jackson,200 Freestyle,118.16,14,False
+Madison Arroyo,Father Tolton,200 Freestyle,118.34,15,False
+Olivia Deberge,Timberland,200 Freestyle,119.21000000000001,16,False
+Ava Fugate,St. Teresa's Academy,200 Freestyle,119.97999999999999,17,False
+Claire Dierker,Park Hill South,200 Freestyle,119.97999999999999,18,False
+Marlowe Weis,Rock Bridge,200 Freestyle,120.17,19,False
+Erin Jones,St. Joseph's Academy,200 Freestyle,120.53,20,False
+Reese Anderson,Parkway Central,200 Freestyle,120.69,21,False
+Anja Taylor,Rock Bridge,200 Freestyle,121.12,22,False
+Polly Fendler,St. Teresa's Academy,200 Freestyle,121.69,23,False
+Libby Price,Parkway South,200 Freestyle,121.78,24,False
+Sydney Matheny,Parkway West,200 Freestyle,122.47,25,False
+Elizabeth Landuyt,Park Hill South,200 Freestyle,122.65,26,False
+Ava Brown,Republic,200 Freestyle,122.72,27,False
+Abigail Conrardy,Visitation Academy,200 Freestyle,122.89,28,False
+Paige Boomer,Father Tolton,200 Freestyle,122.97,29,False
+Allison Brent,St. Joseph's Academy,200 Freestyle,123.03,30,False
+Roslyn Fiorino,West Plains,200 Freestyle,123.13,31,False
+Prairey Maxwell,Kirkwood,200 Freestyle,123.14,32,False
+Abigail Sanning,Lee's Summit,200 Freestyle,123.73,33,False
+Lauren Otte,Liberty North,200 Freestyle,124.23,34,False
+Gianna DeMaggio,Westminster Christian Academy,200 Freestyle,124.34,35,False
+Gabrielle Salmans,Parkway Central,200 Freestyle,124.71,36,False
+Isabel Kosiara,Rock Bridge,200 Freestyle,125.02,37,False
+Luci Cordes-Palmer,Lafayette (Wildwood),200 Freestyle,125.65,38,False
+Karsynne McAlister,Central (Cape Girardeau),200 Freestyle,125.76,39,False
+Madison Seabaugh,Visitation Academy,200 Freestyle,126.03,40,False
+Delaney Mehl,Liberty,200 Freestyle,126.2,41,False
+Ella Marcum,Eureka,200 Freestyle,126.48,42,False
+Ryan Weber,Rockwood Summit,200 Freestyle,126.54,43,False
+Riley Muran,Parkway Central,200 Freestyle,126.56,44,False
+Stella Crilley,Staley,200 Freestyle,126.57,45,False
+Ashlyn Hines,Park Hill South,200 Freestyle,127.07,46,False
+Danielle Hume,Marquette,200 Freestyle,127.14,47,False
+Anna Sundberg,Blue Springs South,200 Freestyle,127.2,48,False
+Edith Susanne Doehring,Westminster Christian Academy,200 Freestyle,127.3,49,False
+Kaylie Gerber,Kearney,200 Freestyle,127.31,50,False
+Kennedy Roberts,Notre Dame de Sion,200 Freestyle,127.33,51,False
+Molly Moriarty,Visitation Academy,200 Freestyle,127.49,52,False
+Teagan Mitchell,Staley,200 Freestyle,127.52,53,False
+Helen Hedlund,Rock Bridge,200 Freestyle,127.52,54,False
+Edith Ferguson,Central (Springfield),200 Freestyle,127.55,55,False
+Katelyn Epple,Grain Valley,200 Freestyle,127.58,56,False
+Miranda Kiewiet,Francis Howell,200 Freestyle,127.6,57,False
+Adalyn Dolan,Ft. Zumwalt North,200 Freestyle,127.67,58,False
+Grace Shaw,Ozark,200 Freestyle,127.72,59,False
+Marissa Kelley,John Burroughs,200 Freestyle,127.87,60,False
+Lucia Fox,Parkway West,200 Freestyle,128.03,61,False
+Ashley Searls,Liberty,200 Freestyle,128.04,62,False
+Olivia Dillow,Cor Jesu Academy,200 Freestyle,128.25,63,False
+Audrey Brown,Westminster Christian Academy,200 Freestyle,128.32,64,False
+Kate Finucane,Blue Springs South,200 Freestyle,128.34,65,False
+Audrey Tuschhoff,Jackson,200 Freestyle,128.4,66,False
+Avery Eastman,Lutheran St. Charles,200 Freestyle,128.42,67,False
+Madelyn Tucker,Parkway Central,200 Freestyle,128.53,68,False
+Morgan Parkerson,Incarnate Word Academy,200 Freestyle,128.75,69,False
+Evyn Lashley,Eureka,200 Freestyle,128.76,70,False
+Gwendolyn Fiorino,West Plains,200 Freestyle,128.77,71,False
+Brooke Hoien,Hickman,200 Freestyle,128.84,72,False
+Vanessa VanHoesen,Blue Springs,200 Freestyle,128.86,73,False
+Soo Jin Park,Francis Howell,200 Freestyle,128.91,74,False
+Shae Mortimer,Liberty,200 Freestyle,129.36,75,False
+Natalie Lorber,Marquette,200 Freestyle,129.37,76,False
+Adelyn Volpi,Liberty,200 Freestyle,129.42,77,False
+Olive Agustin,Clayton,200 Freestyle,129.56,78,False
+Brooke Hess,Hannibal,200 Freestyle,129.71,79,False
+Lauren McCall,Westminster Christian Academy,200 Freestyle,129.83,80,False
+Lilah Orlando,Clayton,200 Freestyle,129.86,81,False
+Olivia Swanson,Blue Springs South,200 Freestyle,130.16,82,False
+Aditi Roy,Lafayette (Wildwood),200 Freestyle,130.27,83,False
+Madeleine Williams,John Burroughs,200 Freestyle,130.45,84,False
+Remi Woolard,Platte County,200 Freestyle,130.5,85,False
+Madison Elmore,St. Joseph's Academy,200 Freestyle,130.51,86,False
+Reagan Poggio,Lafayette (Wildwood),200 Freestyle,130.54,87,False
+Mallory Crane,Park Hill South,200 Freestyle,130.56,88,False
+Sophia Warnick,Webster Groves,200 Freestyle,130.78,89,False
+Heidi Hunter,Lindbergh,200 Freestyle,130.86,90,False
+Karly Keske,Westminster Christian Academy,200 Freestyle,130.87,91,False
+Eva Barnfield,Jackson,200 Freestyle,130.97,92,False
+Lauren Dooley,Marquette,200 Freestyle,131.15,93,False
+Nylah Miller,Westminster Christian Academy,200 Freestyle,131.15,94,False
+Elisa DeCaro,Park Hill South,200 Freestyle,131.16,95,False
+Avery Anthony,Marquette,200 Freestyle,131.17,96,False
+Avree Melhus,Liberty North,200 Freestyle,131.38,97,False
+Isabella Lamb,Parkway West,200 Freestyle,131.51,98,False
+Victoria Black,Liberty,200 Freestyle,131.77,99,False
+Charlotte Dahlby,Westminster Christian Academy,200 Freestyle,131.83,100,False
+Lily Wheeler,Park Hill South,200 Freestyle,132.23,101,False
+Neala McHugh,Park Hill South,200 Freestyle,132.29,102,False
+Lillian Hagan,Ft. Zumwalt North,200 Freestyle,132.32,103,False
+Olivia Kimball,Staley,200 Freestyle,132.37,104,False
+Lauren Thebeau,Lafayette (Wildwood),200 Freestyle,132.45,105,False
+Olivia Seiler,Kickapoo,200 Freestyle,132.53,106,False
+Jessica Lee,Ursuline Academy,200 Freestyle,132.57,107,False
+Margo Heckadon,Lee's Summit West,200 Freestyle,132.58,108,False
+Kya Baker,Ft. Zumwalt South,200 Freestyle,132.59,109,False
+Norah Klosterman,Webb City,200 Freestyle,132.65,110,False
+Ellie Bernert,Marquette,200 Freestyle,132.7,111,False
+Vivian McCaffrey,Ladue Horton Watkins,200 Freestyle,132.73,112,False
+Jaina Daniels,Liberty (Wentzville),200 Freestyle,132.77,113,False
+Penelope Autry,West Plains,200 Freestyle,132.86,114,False
+Ellie Vaughan,Blue Springs South,200 Freestyle,132.88,115,False
+Sienna Kelley,John Burroughs,200 Freestyle,132.96,116,False
+Ema Stojicevic,Clayton,200 Freestyle,132.98,117,False
+Leisel Schultz,Rock Bridge,200 Freestyle,133.12,118,False
+Annalice Renegar,Republic,200 Freestyle,133.18,119,False
+Storie Talbert,Louisiana,200 Freestyle,133.19,120,False
+Mackenzie Johnson,Platte County,200 Freestyle,133.26,121,False
+Caroline Jones,Cor Jesu Academy,200 Freestyle,133.28,122,False
+CeCe Shah,Villa Duchesne,200 Freestyle,133.31,123,False
+Berkli Dias,Clayton,200 Freestyle,133.38,124,False
+Claire Porter,Blue Springs South,200 Freestyle,133.59,125,False
+Anna Cribbs,St. Teresa's Academy,200 Freestyle,133.63,126,False
+Aspen Ritchie,Webb City,200 Freestyle,133.72,127,False
+Maya West,Ft. Zumwalt East,200 Freestyle,133.75,128,False
+Gia Dechir,Staley,200 Freestyle,133.77,129,False
+Isabell Coffey,Monett,200 Freestyle,133.83,130,False
+Caroline Goeke,Ft. Zumwalt North,200 Freestyle,133.84,131,False
+Kaitlyn Werner,Park Hill,200 Freestyle,133.87,132,False
+Elizabeth Martin,Grain Valley,200 Freestyle,133.9,133,False
+Charlotte Brown,Villa Duchesne,200 Individual Medley,124.27,1,False
+Madison Shryock,Rock Bridge,200 Individual Medley,127.78,2,False
+Sarah Miner,Rock Bridge,200 Individual Medley,128.92,3,False
+Sophia Stoops,Father Tolton,200 Individual Medley,129.1,4,False
+Elizabeth Landuyt,Park Hill South,200 Individual Medley,129.36,5,False
+Lily Kohler,Mehlville,200 Individual Medley,130.18,6,False
+Gracey MacLaughlin,Louisiana,200 Individual Medley,130.79,7,False
+Riley Muran,Parkway Central,200 Individual Medley,131.38,8,False
+Molly Moriarty,Visitation Academy,200 Individual Medley,131.47,9,False
+Quinn Porter,Webster Groves,200 Individual Medley,131.9,10,False
+Abigail Sanning,Lee's Summit,200 Individual Medley,133.28,11,False
+Vienna Schindler,St. Joseph's Academy,200 Individual Medley,133.47,12,False
+Ema Stojicevic,Clayton,200 Individual Medley,133.59,13,False
+Jenna Ridings,Pattonville,200 Individual Medley,133.59,14,False
+Aubrey Yancey,Lutheran South,200 Individual Medley,134.51,15,False
+Kennedy Chrun,Ursuline Academy,200 Individual Medley,134.52,16,False
+Avree Melhus,Liberty North,200 Individual Medley,135.15,17,False
+Luci Cordes-Palmer,Lafayette (Wildwood),200 Individual Medley,136.32,18,False
+Addison Woody,Lee's Summit West,200 Individual Medley,136.32,19,False
+Heidi Haberstroh,MICDS,200 Individual Medley,136.81,20,False
+Karsynne McAlister,Central (Cape Girardeau),200 Individual Medley,137.63,21,False
+Elizabeth Martin,Grain Valley,200 Individual Medley,137.73,22,False
+Sarah Weber,Hickman,200 Individual Medley,138.07999999999998,23,False
+Olive Agustin,Clayton,200 Individual Medley,138.45,24,False
+Addison Murray,Pembroke Hill,200 Individual Medley,138.52,25,False
+Lily Wheeler,Park Hill South,200 Individual Medley,138.53,26,False
+Izy Chalfant,Kirkwood,200 Individual Medley,138.61,27,False
+Adrianna Hudnall,Liberty North,200 Individual Medley,138.85,28,False
+Charlotte Leary,Villa Duchesne,200 Individual Medley,139.71,29,False
+Rebecca Christiansen,Francis Howell,200 Individual Medley,139.75,30,False
+Anna Irminger,Capital City,200 Individual Medley,139.93,31,False
+Avery Frick,St. Michael the Archangel,200 Individual Medley,140.11,32,False
+Amelia Coy,Hickman,200 Individual Medley,140.3,33,False
+Lynlee Lavalle,Jackson,200 Individual Medley,140.31,34,False
+Aftyn Williamson,Staley,200 Individual Medley,140.35,35,False
+Ava Fugate,St. Teresa's Academy,200 Individual Medley,140.53,36,False
+Kayla Wahl,Cor Jesu Academy,200 Individual Medley,140.54,37,False
+Sarah Lamb,Principia,200 Individual Medley,140.73,38,False
+Brynne Schneider,Francis Howell Central,200 Individual Medley,140.77,39,False
+Marissa Kelley,John Burroughs,200 Individual Medley,140.85,40,False
+Stella Crilley,Staley,200 Individual Medley,141.01,41,False
+Brianna Petrova,Liberty (Wentzville),200 Individual Medley,141.01,42,False
+Lucia Fox,Parkway West,200 Individual Medley,141.97,43,False
+Alexandra Moran,Liberty North,200 Individual Medley,142.18,44,False
+Serena Huang,Parkway Central,200 Individual Medley,142.68,45,False
+Isabella Leone,Lindbergh,200 Individual Medley,142.8,46,False
+Reece Gould,Savannah,200 Individual Medley,142.87,47,False
+Hannah Daughety,Liberty,200 Individual Medley,143.17000000000002,48,False
+Mackenzie Johnson,Platte County,200 Individual Medley,143.44,49,False
+Missy Mizell,Lebanon,200 Individual Medley,143.51,50,False
+Burke Sutton,Notre Dame de Sion,200 Individual Medley,143.55,51,False
+Emelia Rosebaugh,Monett,200 Individual Medley,143.56,52,False
+Adalyn Dolan,Ft. Zumwalt North,200 Individual Medley,143.59,53,False
+Helen Hedlund,Rock Bridge,200 Individual Medley,143.59,54,False
+Ella Paul,Rockwood Summit,200 Individual Medley,143.6,55,False
+Joslyn Perry,Park Hill South,200 Individual Medley,143.61,56,False
+Alicia Williams,John Burroughs,200 Individual Medley,143.71,57,False
+Kylie Montgomery,Webster Groves,200 Individual Medley,143.82,58,False
+Madelyn Mug,Visitation Academy,200 Individual Medley,143.82999999999998,59,False
+Natalie Grither,Parkway South,200 Individual Medley,143.85,60,False
+Ava Brown,Republic,200 Individual Medley,143.92000000000002,61,False
+Sophia Sutter,Francis Howell Central,200 Individual Medley,143.92000000000002,62,False
+Edith Susanne Doehring,Westminster Christian Academy,200 Individual Medley,143.96,63,False
+Anne Holubowski,Marquette,200 Individual Medley,144.0,64,False
+Sienna Kelley,John Burroughs,200 Individual Medley,144.07999999999998,65,False
+Lauren Stein,Marquette,200 Individual Medley,144.18,66,False
+Emmi Hoss,Liberty,200 Individual Medley,144.23,67,False
+Kelsey Morrison,Eureka,200 Individual Medley,144.29,68,False
+Kaylie Gerber,Kearney,200 Individual Medley,144.42000000000002,69,False
+Olyvia Beach,Greenwood,200 Individual Medley,144.67000000000002,70,False
+Ashlyn Hines,Park Hill South,200 Individual Medley,144.75,71,False
+Ann Erwin,Webster Groves,200 Individual Medley,144.75,72,False
+Kennedy Ringwald,Central (Cape Girardeau),200 Individual Medley,144.98,73,False
+Sophia Warnick,Webster Groves,200 Individual Medley,145.35,74,False
+Olivia Johnson,Hannibal,200 Individual Medley,145.45,75,False
+Soo Jin Park,Francis Howell,200 Individual Medley,145.5,76,False
+Olivia Manning,Carthage,200 Individual Medley,145.53,77,False
+Roslyn Fiorino,West Plains,200 Individual Medley,145.64,78,False
+Neala McHugh,Park Hill South,200 Individual Medley,145.71,79,False
+Elizabeth Mohan,Lafayette (Wildwood),200 Individual Medley,145.94,80,False
+Isabell Coffey,Monett,200 Individual Medley,146.03,81,False
+Claire Petri,St. Joseph's Academy,200 Individual Medley,146.06,82,False
+Chloe Belen,Westminster Christian Academy,200 Individual Medley,146.3,83,False
+Delaney Mehl,Liberty,200 Individual Medley,146.34,84,False
+Kya Baker,Ft. Zumwalt South,200 Individual Medley,146.47,85,False
+Evelyn Martin,Lebanon,200 Individual Medley,146.53,86,False
+Paige Boomer,Father Tolton,200 Individual Medley,146.7,87,False
+Olivia Kimball,Staley,200 Individual Medley,146.72,88,False
+Teagan Mitchell,Staley,200 Individual Medley,146.74,89,False
+Erin Jones,St. Joseph's Academy,200 Individual Medley,146.76,90,False
+Lily Martin,Pembroke Hill,200 Individual Medley,146.79,91,False
+Elise Replogle,Republic,200 Individual Medley,146.97,92,False
+Claire Dierker,Park Hill South,200 Individual Medley,147.07,93,False
+Brooke Nichols,Park Hill South,200 Individual Medley,147.13,94,False
+Storie Talbert,Louisiana,200 Individual Medley,147.6,95,False
+Anna Eshleman,Raymore-Peculiar,200 Individual Medley,147.74,96,False
+Anna Sundberg,Blue Springs South,200 Individual Medley,147.75,97,False
+Olivia Swanson,Blue Springs South,200 Individual Medley,147.75,98,False
+Kennedy Roberts,Notre Dame de Sion,200 Individual Medley,147.77,99,False
+Jessica Wang,Lindbergh,200 Individual Medley,147.82,100,False
+Phoebe Alcott,Cor Jesu Academy,200 Individual Medley,148.12,101,False
+Bella Anadkat,MICDS,200 Individual Medley,148.15,102,False
+Jordyn Hamrah,St. Joseph's Academy,200 Individual Medley,148.19,103,False
+Breanna Wilkinson,Rockwood Summit,200 Individual Medley,148.36,104,False
+Aspen Ritchie,Webb City,200 Individual Medley,148.49,105,False
+Grace Shaw,Ozark,200 Individual Medley,148.52,106,False
+Kalli Beard,Grain Valley,200 Individual Medley,148.56,107,False
+Ashley Searls,Liberty,200 Individual Medley,148.61,108,False
+Shae Mortimer,Liberty,200 Individual Medley,148.61,109,False
+Eva Barnfield,Jackson,200 Individual Medley,148.84,110,False
+Isabel Kosiara,Rock Bridge,200 Individual Medley,149.01,111,False
+Ava Ventimiglia,St. Michael the Archangel,200 Individual Medley,149.02,112,False
+Olivia Hanes,Ladue Horton Watkins,200 Individual Medley,149.05,113,False
+Bella Greene,Notre Dame (Cape Girardeau),200 Individual Medley,149.16,114,False
+Marlowe Weis,Rock Bridge,200 Individual Medley,149.17000000000002,115,False
+Elsa Dogotch,Carl Junction,200 Individual Medley,149.2,116,False
+Ella Marcum,Eureka,200 Individual Medley,149.23,117,False
+Isla Sattler,Marquette,200 Individual Medley,149.39,118,False
+Audrey Brown,Westminster Christian Academy,200 Individual Medley,149.52,119,False
+Caroline Forhetz,Glendale,200 Individual Medley,149.84,120,False
+Maggie Dawson,Staley,200 Individual Medley,150.02,121,False
+Leela Anadkat,MICDS,200 Individual Medley,150.07999999999998,122,False
+Avery Frick,St. Michael the Archangel,50 Freestyle,23.81,1,False
+Paige Blom,Marquette,50 Freestyle,23.9,2,False
+Esther Borgmeyer,Kirkwood,50 Freestyle,24.45,3,False
+Karsynne McAlister,Central (Cape Girardeau),50 Freestyle,24.52,4,False
+Ashlyn Hines,Park Hill South,50 Freestyle,24.67,5,False
+Missy Mizell,Lebanon,50 Freestyle,24.83,6,False
+Breanna Wilkinson,Rockwood Summit,50 Freestyle,24.85,7,False
+Kaylie Gerber,Kearney,50 Freestyle,24.89,8,False
+Sarah Weber,Hickman,50 Freestyle,25.0,9,False
+Ava Fugate,St. Teresa's Academy,50 Freestyle,25.14,10,False
+Elisa DeCaro,Park Hill South,50 Freestyle,25.32,11,False
+Gracey MacLaughlin,Louisiana,50 Freestyle,25.36,12,False
+Adrianna Hudnall,Liberty North,50 Freestyle,25.41,13,False
+Edith Susanne Doehring,Westminster Christian Academy,50 Freestyle,25.46,14,False
+Marlo Deaver,Liberty,50 Freestyle,25.55,15,False
+Lauren McCall,Westminster Christian Academy,50 Freestyle,25.58,16,False
+Grace Shaw,Ozark,50 Freestyle,25.59,17,False
+Audrey Qureshi,Villa Duchesne,50 Freestyle,25.59,18,False
+Kenadie Johnson,Parkway Central,50 Freestyle,25.62,19,False
+Cecilia Tremont,Parkway Central,50 Freestyle,25.65,20,False
+Kayla Perrone,Father Tolton,50 Freestyle,25.67,21,False
+Heidi Haberstroh,MICDS,50 Freestyle,25.69,22,False
+Kennedy Roberts,Notre Dame de Sion,50 Freestyle,25.7,23,False
+Abigail Sanning,Lee's Summit,50 Freestyle,25.75,24,False
+Kaiya Cooper,Liberty,50 Freestyle,25.75,25,False
+Kalli Beard,Grain Valley,50 Freestyle,25.76,26,False
+Ella Chrun,Ursuline Academy,50 Freestyle,25.76,27,False
+Gianna DeMaggio,Westminster Christian Academy,50 Freestyle,25.78,28,False
+Chloe Belen,Westminster Christian Academy,50 Freestyle,25.82,29,False
+Jessica Wang,Lindbergh,50 Freestyle,25.85,30,False
+Quinn Porter,Webster Groves,50 Freestyle,25.91,31,False
+Olivia Kim,Pembroke Hill,50 Freestyle,25.91,32,False
+Edith Ferguson,Central (Springfield),50 Freestyle,25.95,33,False
+Caroline Goeke,Ft. Zumwalt North,50 Freestyle,25.96,34,False
+Elizabeth Landuyt,Park Hill South,50 Freestyle,25.97,35,False
+Storie Talbert,Louisiana,50 Freestyle,25.97,36,False
+Helen Hedlund,Rock Bridge,50 Freestyle,25.99,37,False
+Campbell McCool,Parkway South,50 Freestyle,26.01,38,False
+Evyn Lashley,Eureka,50 Freestyle,26.02,39,False
+Sydney Matheny,Parkway West,50 Freestyle,26.03,40,False
+Sienna Kelley,John Burroughs,50 Freestyle,26.05,41,False
+Isabella Johnson,Lee's Summit,50 Freestyle,26.06,42,False
+Reese Anderson,Parkway Central,50 Freestyle,26.09,43,False
+Elizabeth Eckelkamp,Eureka,50 Freestyle,26.1,44,False
+Jaycee Shrewsbury,Nevada,50 Freestyle,26.11,45,False
+Claire Petri,St. Joseph's Academy,50 Freestyle,26.12,46,False
+Polly Fendler,St. Teresa's Academy,50 Freestyle,26.12,47,False
+Zaylie Pinnell,Republic,50 Freestyle,26.14,48,False
+Stella Crilley,Staley,50 Freestyle,26.17,49,False
+Tangant Tuggle,Blue Springs South,50 Freestyle,26.17,50,False
+Roslyn Fiorino,West Plains,50 Freestyle,26.2,51,False
+Audrey Brown,Westminster Christian Academy,50 Freestyle,26.21,52,False
+Elizabeth Martin,Grain Valley,50 Freestyle,26.27,53,False
+Lauren Otte,Liberty North,50 Freestyle,26.28,54,False
+Ava Brown,Republic,50 Freestyle,26.29,55,False
+Addison Woody,Lee's Summit West,50 Freestyle,26.31,56,False
+Lyla Ventimiglia,St. Michael the Archangel,50 Freestyle,26.32,57,False
+Natalie Gronborg,Eureka,50 Freestyle,26.35,58,False
+Aftyn Williamson,Staley,50 Freestyle,26.36,59,False
+Anna Irminger,Capital City,50 Freestyle,26.36,60,False
+Madeleine Williams,John Burroughs,50 Freestyle,26.4,61,False
+Ensley Fisher,Blue Springs South,50 Freestyle,26.4,62,False
+Danielle Hume,Marquette,50 Freestyle,26.41,63,False
+Madelyn Mug,Visitation Academy,50 Freestyle,26.42,64,False
+Claire Dierker,Park Hill South,50 Freestyle,26.43,65,False
+Elsa Dogotch,Carl Junction,50 Freestyle,26.43,66,False
+Grace Hagar,Marquette,50 Freestyle,26.47,67,False
+Amelia Ostendorf,Notre Dame de Sion,50 Freestyle,26.49,68,False
+Grace Branstetter,Louisiana,50 Freestyle,26.5,69,False
+Mallory Crane,Park Hill South,50 Freestyle,26.54,70,False
+Miranda Kiewiet,Francis Howell,50 Freestyle,26.56,71,False
+Kennedy Chrun,Ursuline Academy,50 Freestyle,26.57,72,False
+Anja Taylor,Rock Bridge,50 Freestyle,26.62,73,False
+Kathryn Faulkner,Francis Howell,50 Freestyle,26.63,74,False
+Eva Barnfield,Jackson,50 Freestyle,26.65,75,False
+Ann Erwin,Webster Groves,50 Freestyle,26.65,76,False
+Josephine Schloegel,St. Teresa's Academy,50 Freestyle,26.67,77,False
+Isabella Clerico,Lafayette (Wildwood),50 Freestyle,26.68,78,False
+Julia Pajewski,Rockwood Summit,50 Freestyle,26.71,79,False
+India Browning,Notre Dame de Sion,50 Freestyle,26.71,80,False
+Anna Eshleman,Raymore-Peculiar,50 Freestyle,26.72,81,False
+Elizabeth Mohan,Lafayette (Wildwood),50 Freestyle,26.77,82,False
+Mia Rose,Visitation Academy,50 Freestyle,26.79,83,False
+Victoria Knolhoff,Parkway Central,50 Freestyle,26.79,84,False
+Elaina Wells,Staley,50 Freestyle,26.8,85,False
+Abigail Conrardy,Visitation Academy,50 Freestyle,26.81,86,False
+Kelly Frank,Notre Dame de Sion,50 Freestyle,26.81,87,False
+Isabella Leone,Lindbergh,50 Freestyle,26.82,88,False
+Jillian Markley,Summit Christian Academy,50 Freestyle,26.82,89,False
+Samantha Cohen,Clayton,50 Freestyle,26.83,90,False
+Alexia Kidin,Marquette,50 Freestyle,26.83,91,False
+Ava Ventimiglia,St. Michael the Archangel,50 Freestyle,26.83,92,False
+Paige Boomer,Father Tolton,50 Freestyle,26.85,93,False
+Rori Day,Grandview,50 Freestyle,26.9,94,False
+Kyra Shorb,Rockwood Summit,50 Freestyle,26.94,95,False
+Riley Dungey,Blue Springs South,50 Freestyle,26.95,96,False
+Andrea Jeliazkova,Ladue Horton Watkins,50 Freestyle,26.97,97,False
+Kayla Ilardi,Pembroke Hill,50 Freestyle,26.98,98,False
+Lauren Dooley,Marquette,50 Freestyle,26.99,99,False
+Leela Anadkat,MICDS,50 Freestyle,26.99,100,False
+Alexandra Moran,Liberty North,50 Freestyle,27.01,101,False
+Emelia Rosebaugh,Monett,50 Freestyle,27.04,102,False
+Katherine Scott,Poplar Bluff,50 Freestyle,27.04,103,False
+Aditi Roy,Lafayette (Wildwood),50 Freestyle,27.05,104,False
+Olivia Johnson,Hannibal,50 Freestyle,27.05,105,False
+Maitland Michaelson,MICDS,50 Freestyle,27.05,106,False
+Claire Chumley,St. Joseph's Academy,50 Freestyle,27.09,107,False
+Kathryn Carr,Lafayette (Wildwood),50 Freestyle,27.14,108,False
+Lindsay Wang,Marquette,50 Freestyle,27.16,109,False
+Avree Melhus,Liberty North,50 Freestyle,27.18,110,False
+Caitlyn Chandonnet,Liberty (Wentzville),50 Freestyle,27.18,111,False
+Kassidy Surber,Ft. Zumwalt North,50 Freestyle,27.19,112,False
+Kylie Montgomery,Webster Groves,50 Freestyle,27.2,113,False
+Elaine Klug,Westminster Christian Academy,50 Freestyle,27.21,114,False
+Evelyn Martin,Lebanon,50 Freestyle,27.23,115,False
+Olive Agustin,Clayton,50 Freestyle,27.24,116,False
+Mia Viorel,Hannibal,50 Freestyle,27.24,117,False
+Paige Garrett,Lutheran St. Charles,50 Freestyle,27.29,118,False
+Claire Luna,Lafayette (Wildwood),50 Freestyle,27.29,119,False
+Sophia Hall,St. Pius X (Kansas City),100 Butterfly,51.6,1,False
+Charlotte Brown,Villa Duchesne,100 Butterfly,56.48,2,False
+Paige Blom,Marquette,100 Butterfly,56.86,3,False
+Breanna Wilkinson,Rockwood Summit,100 Butterfly,57.57,4,False
+Jenna Ridings,Pattonville,100 Butterfly,58.08,5,False
+Payton Robic,St. Joseph's Academy,100 Butterfly,58.79,6,False
+Quinn Porter,Webster Groves,100 Butterfly,59.0,7,False
+Madelyn Mug,Visitation Academy,100 Butterfly,59.2,8,False
+Serena Huang,Parkway Central,100 Butterfly,59.31,9,False
+Kayla Wahl,Cor Jesu Academy,100 Butterfly,59.44,10,False
+Avery Hogue,Park Hill South,100 Butterfly,59.69,11,False
+Jessica Wang,Lindbergh,100 Butterfly,59.77,12,False
+Kaylie Gerber,Kearney,100 Butterfly,60.42,13,False
+Missy Mizell,Lebanon,100 Butterfly,60.56,14,False
+Ann Erwin,Webster Groves,100 Butterfly,60.79,15,False
+Elizabeth Landuyt,Park Hill South,100 Butterfly,60.91,16,False
+Kennedy Chrun,Ursuline Academy,100 Butterfly,61.02,17,False
+Paige Samuelson,Eureka,100 Butterfly,61.11,18,False
+Ava Fugate,St. Teresa's Academy,100 Butterfly,61.11,19,False
+Esther Borgmeyer,Kirkwood,100 Butterfly,61.15,20,False
+Lily Wheeler,Park Hill South,100 Butterfly,61.23,21,False
+Lily Kohler,Mehlville,100 Butterfly,61.28,22,False
+Adrianna Hudnall,Liberty North,100 Butterfly,61.38,23,False
+Abigail Conrardy,Visitation Academy,100 Butterfly,61.47,24,False
+Addison Woody,Lee's Summit West,100 Butterfly,61.6,25,False
+Kalli Beard,Grain Valley,100 Butterfly,61.65,26,False
+Maddie Riley,St. Joseph's Academy,100 Butterfly,61.72,27,False
+Heidi Haberstroh,MICDS,100 Butterfly,62.09,28,False
+Brynne Schneider,Francis Howell Central,100 Butterfly,62.47,29,False
+Jia Hurst,Park Hill South,100 Butterfly,62.48,30,False
+Kate Brinton,Ladue Horton Watkins,100 Butterfly,62.53,31,False
+Reese Anderson,Parkway Central,100 Butterfly,62.61,32,False
+Edith Susanne Doehring,Westminster Christian Academy,100 Butterfly,62.64,33,False
+Karsynne McAlister,Central (Cape Girardeau),100 Butterfly,62.72,34,False
+Avery Frick,St. Michael the Archangel,100 Butterfly,62.81,35,False
+Stella Crilley,Staley,100 Butterfly,63.01,36,False
+Sarah Lamb,Principia,100 Butterfly,63.07,37,False
+Helen Hedlund,Rock Bridge,100 Butterfly,63.16,38,False
+Marissa Kelley,John Burroughs,100 Butterfly,63.19,39,False
+Sophia Stoops,Father Tolton,100 Butterfly,63.53,40,False
+Jessica Lee,Ursuline Academy,100 Butterfly,63.56,41,False
+Ashleigh Cruce,Platte County,100 Butterfly,63.71,42,False
+Isabell Coffey,Monett,100 Butterfly,63.72,43,False
+Gianna DeMaggio,Westminster Christian Academy,100 Butterfly,63.84,44,False
+Isabella Clerico,Lafayette (Wildwood),100 Butterfly,63.97,45,False
+Shae Mortimer,Liberty,100 Butterfly,64.31,46,False
+Lauren Stein,Marquette,100 Butterfly,64.36,47,False
+Avree Melhus,Liberty North,100 Butterfly,64.36,48,False
+Madeleine Williams,John Burroughs,100 Butterfly,64.44,49,False
+Izy Chalfant,Kirkwood,100 Butterfly,64.62,50,False
+Lilah Orlando,Clayton,100 Butterfly,64.63,51,False
+Delaney Mehl,Liberty,100 Butterfly,64.63,52,False
+Anna Irminger,Capital City,100 Butterfly,64.66,53,False
+Delaney Bartels,Liberty (Wentzville),100 Butterfly,64.73,54,False
+Marilinda Smale-Murillo,Hickman,100 Butterfly,64.9,55,False
+Ema Stojicevic,Clayton,100 Butterfly,64.92,56,False
+Claire Chumley,St. Joseph's Academy,100 Butterfly,65.01,57,False
+Roslyn Fiorino,West Plains,100 Butterfly,65.02,58,False
+Morgan Sanborn,Marquette,100 Butterfly,65.18,59,False
+Aditi Roy,Lafayette (Wildwood),100 Butterfly,65.21,60,False
+Lindsay Wang,Marquette,100 Butterfly,65.24,61,False
+Soo Jin Park,Francis Howell,100 Butterfly,65.4,62,False
+Ashlyn Hines,Park Hill South,100 Butterfly,65.64,63,False
+Kate Finucane,Blue Springs South,100 Butterfly,65.65,64,False
+Molly Moriarty,Visitation Academy,100 Butterfly,65.71,65,False
+Prairey Maxwell,Kirkwood,100 Butterfly,65.89,66,False
+Penelope Autry,West Plains,100 Butterfly,65.9,67,False
+Margo Heckadon,Lee's Summit West,100 Butterfly,65.92,68,False
+Rebecca Christiansen,Francis Howell,100 Butterfly,65.94,69,False
+Neala McHugh,Park Hill South,100 Butterfly,66.06,70,False
+Claire Dierker,Park Hill South,100 Butterfly,66.11,71,False
+Elaina Wells,Staley,100 Butterfly,66.14,72,False
+Brynn Wilkens,Park Hill,100 Butterfly,66.21,73,False
+Kya Baker,Ft. Zumwalt South,100 Butterfly,66.32,74,False
+Audrey Sekelsky,Blue Springs South,100 Butterfly,66.35,75,False
+Lauren Otte,Liberty North,100 Butterfly,66.35,76,False
+Alexandra Moran,Liberty North,100 Butterfly,66.37,77,False
+Isabella Johnson,Lee's Summit,100 Butterfly,66.46,78,False
+Elizabeth Martin,Grain Valley,100 Butterfly,66.5,79,False
+Clara Wilson,Park Hill South,100 Butterfly,66.58,80,False
+Elise Replogle,Republic,100 Butterfly,66.62,81,False
+Polly Fendler,St. Teresa's Academy,100 Butterfly,66.71,82,False
+Lucy Nofziger,Lee's Summit,100 Butterfly,66.77,83,False
+Chloe Belen,Westminster Christian Academy,100 Butterfly,66.77,84,False
+Grace Branstetter,Louisiana,100 Butterfly,66.79,85,False
+Olivia Johnson,Hannibal,100 Butterfly,66.8,86,False
+Charlotte Leary,Villa Duchesne,100 Butterfly,66.83,87,False
+Morgan Parkerson,Incarnate Word Academy,100 Butterfly,66.9,88,False
+Delaney Johnson,St. Joseph's Academy,100 Butterfly,66.91,89,False
+Lucia Fox,Parkway West,100 Butterfly,66.94,90,False
+Paige Garrett,Lutheran St. Charles,100 Butterfly,67.01,91,False
+Madison Tipton,Jackson,100 Butterfly,67.08,92,False
+Mackenzie Johnson,Platte County,100 Butterfly,67.17,93,False
+Anna Eshleman,Raymore-Peculiar,100 Butterfly,67.22,94,False
+Evelyn Martin,Lebanon,100 Butterfly,67.24,95,False
+Vivian McCaffrey,Ladue Horton Watkins,100 Butterfly,67.36,96,False
+Burke Sutton,Notre Dame de Sion,100 Butterfly,67.63,97,False
+Brooke Nichols,Park Hill South,100 Butterfly,67.66,98,False
+Olivia Kimball,Staley,100 Butterfly,67.69,99,False
+Brianna Petrova,Liberty (Wentzville),100 Butterfly,67.69,100,False
+Jayli Cope,Glendale,100 Butterfly,67.85,101,False
+Lyla Ventimiglia,St. Michael the Archangel,100 Butterfly,68.08,102,False
+Olive Agustin,Clayton,100 Butterfly,68.09,103,False
+Avery Cunneen,St. Joseph's Academy,100 Freestyle,51.76,1,False
+Helena Tietjen,Pembroke Hill,100 Freestyle,51.94,2,False
+Anna-Grace Guenther,St. Joseph's Academy,100 Freestyle,52.03,3,False
+Paige Blom,Marquette,100 Freestyle,52.34,4,False
+Avery Frick,St. Michael the Archangel,100 Freestyle,52.41,5,False
+Quinn Porter,Webster Groves,100 Freestyle,53.02,6,False
+Adrianna Hudnall,Liberty North,100 Freestyle,53.49,7,False
+Esther Borgmeyer,Kirkwood,100 Freestyle,54.05,8,False
+Madison Shryock,Rock Bridge,100 Freestyle,54.2,9,False
+Sarah Weber,Hickman,100 Freestyle,54.25,10,False
+Ava Fugate,St. Teresa's Academy,100 Freestyle,54.33,11,False
+Claire Dierker,Park Hill South,100 Freestyle,55.16,12,False
+Madison Arroyo,Father Tolton,100 Freestyle,55.17,13,False
+Claire Chumley,St. Joseph's Academy,100 Freestyle,55.23,14,False
+Ashlyn Hines,Park Hill South,100 Freestyle,55.4,15,False
+Sydney Matheny,Parkway West,100 Freestyle,55.41,16,False
+Gianna DeMaggio,Westminster Christian Academy,100 Freestyle,55.72,17,False
+Elizabeth Landuyt,Park Hill South,100 Freestyle,55.74,18,False
+Abigail Conrardy,Visitation Academy,100 Freestyle,56.01,19,False
+Mallory Crane,Park Hill South,100 Freestyle,56.05,20,False
+Ann Erwin,Webster Groves,100 Freestyle,56.11,21,False
+Storie Talbert,Louisiana,100 Freestyle,56.15,22,False
+Missy Mizell,Lebanon,100 Freestyle,56.16,23,False
+Roslyn Fiorino,West Plains,100 Freestyle,56.26,24,False
+Lauren McCall,Westminster Christian Academy,100 Freestyle,56.34,25,False
+Kate Brinton,Ladue Horton Watkins,100 Freestyle,56.35,26,False
+Edith Susanne Doehring,Westminster Christian Academy,100 Freestyle,56.4,27,False
+Kaylie Gerber,Kearney,100 Freestyle,56.42,28,False
+Marlo Deaver,Liberty,100 Freestyle,56.48,29,False
+Aubrey Yancey,Lutheran South,100 Freestyle,56.49,30,False
+Grace Shaw,Ozark,100 Freestyle,56.52,31,False
+Ava Brown,Republic,100 Freestyle,56.63,32,False
+Anna Eshleman,Raymore-Peculiar,100 Freestyle,56.69,33,False
+Kalli Beard,Grain Valley,100 Freestyle,56.73,34,False
+Campbell McCool,Parkway South,100 Freestyle,56.89,35,False
+Lauren Otte,Liberty North,100 Freestyle,56.95,36,False
+Danielle Hume,Marquette,100 Freestyle,56.97,37,False
+Katelyn Epple,Grain Valley,100 Freestyle,57.01,38,False
+Polly Fendler,St. Teresa's Academy,100 Freestyle,57.23,39,False
+Audrey Brown,Westminster Christian Academy,100 Freestyle,57.27,40,False
+Eva Barnfield,Jackson,100 Freestyle,57.31,41,False
+Elisa DeCaro,Park Hill South,100 Freestyle,57.31,42,False
+Elizabeth Eckelkamp,Eureka,100 Freestyle,57.34,43,False
+Heidi Haberstroh,MICDS,100 Freestyle,57.35,44,False
+Isabella Johnson,Lee's Summit,100 Freestyle,57.39,45,False
+Kennedy Roberts,Notre Dame de Sion,100 Freestyle,57.4,46,False
+Ella Chrun,Ursuline Academy,100 Freestyle,57.4,47,False
+Paige Boomer,Father Tolton,100 Freestyle,57.42,48,False
+Reese Anderson,Parkway Central,100 Freestyle,57.43,49,False
+Helen Hedlund,Rock Bridge,100 Freestyle,57.49,50,False
+Natalie Gronborg,Eureka,100 Freestyle,57.49,51,False
+Gabrielle Salmans,Parkway Central,100 Freestyle,57.56,52,False
+Aftyn Williamson,Staley,100 Freestyle,57.62,53,False
+Kylie Montgomery,Webster Groves,100 Freestyle,57.66,54,False
+Anja Taylor,Rock Bridge,100 Freestyle,57.71,55,False
+Kenadie Johnson,Parkway Central,100 Freestyle,57.72,56,False
+Zaylie Pinnell,Republic,100 Freestyle,57.73,57,False
+Mary Wolf-Slinkard,Parkway North,100 Freestyle,57.75,58,False
+Emmi Hoss,Liberty,100 Freestyle,57.77,59,False
+Anna Irminger,Capital City,100 Freestyle,57.77,60,False
+Natalie Lorber,Marquette,100 Freestyle,57.78,61,False
+Cecilia Tremont,Parkway Central,100 Freestyle,57.78,62,False
+Caroline Goeke,Ft. Zumwalt North,100 Freestyle,57.84,63,False
+Ella Paul,Rockwood Summit,100 Freestyle,58.0,64,False
+Madison Seabaugh,Visitation Academy,100 Freestyle,58.03,65,False
+Luci Cordes-Palmer,Lafayette (Wildwood),100 Freestyle,58.09,66,False
+Stella Crilley,Staley,100 Freestyle,58.13,67,False
+Meghan Glaser,Kirkwood,100 Freestyle,58.13,68,False
+Olivia Swanson,Blue Springs South,100 Freestyle,58.16,69,False
+Neala McHugh,Park Hill South,100 Freestyle,58.19,70,False
+Madeleine Williams,John Burroughs,100 Freestyle,58.21,71,False
+Lily Martin,Pembroke Hill,100 Freestyle,58.22,72,False
+Lauren Dooley,Marquette,100 Freestyle,58.26,73,False
+Kennedy Ringwald,Central (Cape Girardeau),100 Freestyle,58.27,74,False
+Edith Ferguson,Central (Springfield),100 Freestyle,58.32,75,False
+Amelia Coy,Hickman,100 Freestyle,58.35,76,False
+Kayla Wahl,Cor Jesu Academy,100 Freestyle,58.58,77,False
+Brooke Nichols,Park Hill South,100 Freestyle,58.63,78,False
+Kathryn Faulkner,Francis Howell,100 Freestyle,58.7,79,False
+Breanna Wilkinson,Rockwood Summit,100 Freestyle,58.74,80,False
+Karly Keske,Westminster Christian Academy,100 Freestyle,58.76,81,False
+Delaney Johnson,St. Joseph's Academy,100 Freestyle,58.92,82,False
+Aditi Roy,Lafayette (Wildwood),100 Freestyle,58.93,83,False
+Gwendolyn Fiorino,West Plains,100 Freestyle,58.94,84,False
+Delaney Mehl,Liberty,100 Freestyle,58.95,85,False
+Kaiya Cooper,Liberty,100 Freestyle,58.98,86,False
+Ensley Fisher,Blue Springs South,100 Freestyle,59.0,87,False
+Anna Sundberg,Blue Springs South,100 Freestyle,59.01,88,False
+Katherine Scott,Poplar Bluff,100 Freestyle,59.04,89,False
+Adelyn Volpi,Liberty,100 Freestyle,59.05,90,False
+Lyla Ventimiglia,St. Michael the Archangel,100 Freestyle,59.08,91,False
+Elizabeth Mohan,Lafayette (Wildwood),100 Freestyle,59.21,92,False
+Amelia Ostendorf,Notre Dame de Sion,100 Freestyle,59.24,93,False
+Payton Robic,St. Joseph's Academy,100 Freestyle,59.25,94,False
+Grace Hagar,Marquette,100 Freestyle,59.25,95,False
+Elizabeth Martin,Grain Valley,100 Freestyle,59.26,96,False
+Sienna Kelley,John Burroughs,100 Freestyle,59.34,97,False
+Lilah Orlando,Clayton,100 Freestyle,59.37,98,False
+Marissa Kelley,John Burroughs,100 Freestyle,59.46,99,False
+Sadie Lee,Truman,100 Freestyle,59.47,100,False
+Eleanor Woosley,Bolivar,100 Freestyle,59.51,101,False
+Mia Rose,Visitation Academy,100 Freestyle,59.53,102,False
+Elise Poulter,St. Dominic,100 Freestyle,59.54,103,False
+Mackenzie Johnson,Platte County,100 Freestyle,59.55,104,False
+Avery Eastman,Lutheran St. Charles,100 Freestyle,59.57,105,False
+Hannah Daughety,Liberty,100 Freestyle,59.59,106,False
+Madelyn Mug,Visitation Academy,100 Freestyle,59.6,107,False
+Tangant Tuggle,Blue Springs South,100 Freestyle,59.63,108,False
+Kayla Ilardi,Pembroke Hill,100 Freestyle,59.64,109,False
+Chloe Ingle,Liberty North,100 Freestyle,59.68,110,False
+Tula Richard,Lincoln College Prep,100 Freestyle,59.69,111,False
+Teagan Mitchell,Staley,100 Freestyle,59.77,112,False
+Sarah Gross,Lutheran St. Charles,100 Freestyle,59.84,113,False
+Maddie Riley,St. Joseph's Academy,100 Freestyle,59.9,114,False
+Julia Pajewski,Rockwood Summit,100 Freestyle,59.91,115,False
+Lillian Hagan,Ft. Zumwalt North,100 Freestyle,59.95,116,False
+Audrie Hanway,Lee's Summit,100 Freestyle,59.95,117,False
+Katherine Campbell,St. Teresa's Academy,100 Freestyle,60.0,118,False
+Leela Anadkat,MICDS,100 Freestyle,60.01,119,False
+Remi Woolard,Platte County,100 Freestyle,60.02,120,False
+Kaitlyn Werner,Park Hill,100 Freestyle,60.03,121,False
+Lynn Cotrell,Poplar Bluff,100 Freestyle,60.04,122,False
+Kelly Frank,Notre Dame de Sion,100 Freestyle,60.04,123,False
+Kelsey Morrison,Eureka,100 Freestyle,60.08,124,False
+Kate Finucane,Blue Springs South,100 Freestyle,60.09,125,False
+Elise Hunt,Blue Springs South,100 Freestyle,60.09,126,False
+Claire Porter,Blue Springs South,100 Freestyle,60.11,127,False
+Alexis Stone,STEAM Academy,100 Freestyle,60.14,128,False
+Kathryn Carr,Lafayette (Wildwood),100 Freestyle,60.16,129,False
+Lucia Fox,Parkway West,100 Freestyle,60.23,130,False
+Abagail Orantes,Lindbergh,100 Freestyle,60.24,131,False
+Alicia Williams,John Burroughs,100 Freestyle,60.27,132,False
+Jessica Lee,Ursuline Academy,100 Freestyle,60.32,133,False
+Evyn Lashley,Eureka,100 Freestyle,60.37,134,False
+Josephine Schloegel,St. Teresa's Academy,100 Freestyle,60.37,135,False
+Grace Cottle,Lee's Summit West,100 Freestyle,60.38,136,False
+Emma Nicotra,Holt,100 Freestyle,60.38,137,False
+Gianna Pearson,Parkway Central,100 Freestyle,60.39,138,False
+Brynn Wilkens,Park Hill,100 Freestyle,60.45,139,False
+Penelope Autry,West Plains,100 Freestyle,60.48,140,False
+Avery Hogue,Park Hill South,500 Freestyle,301.76,1,False
+Madison Shryock,Rock Bridge,500 Freestyle,303.71,2,False
+Amelia Coy,Hickman,500 Freestyle,304.31,3,False
+Alexis Cook,Parkway South,500 Freestyle,307.79,4,False
+Sophia Stoops,Father Tolton,500 Freestyle,311.87,5,False
+Jenna Ridings,Pattonville,500 Freestyle,315.23,6,False
+Gracey MacLaughlin,Louisiana,500 Freestyle,315.32,7,False
+Lynlee Lavalle,Jackson,500 Freestyle,316.94,8,False
+Ema Stojicevic,Clayton,500 Freestyle,318.9,9,False
+Kate Brinton,Ladue Horton Watkins,500 Freestyle,320.43,10,False
+Aubrey Yancey,Lutheran South,500 Freestyle,321.55,11,False
+Brooke Nichols,Park Hill South,500 Freestyle,322.59,12,False
+Erin Jones,St. Joseph's Academy,500 Freestyle,322.6,13,False
+Paige Samuelson,Eureka,500 Freestyle,324.14,14,False
+Lily Kohler,Mehlville,500 Freestyle,324.52,15,False
+Paige Boomer,Father Tolton,500 Freestyle,325.47,16,False
+Reese Anderson,Parkway Central,500 Freestyle,326.58,17,False
+Luci Cordes-Palmer,Lafayette (Wildwood),500 Freestyle,327.25,18,False
+Elizabeth Landuyt,Park Hill South,500 Freestyle,328.44,19,False
+Anna Sundberg,Blue Springs South,500 Freestyle,328.92,20,False
+Payton Robic,St. Joseph's Academy,500 Freestyle,329.25,21,False
+Sarah Weber,Hickman,500 Freestyle,330.14,22,False
+Burke Sutton,Notre Dame de Sion,500 Freestyle,330.15,23,False
+Sydney Matheny,Parkway West,500 Freestyle,330.18,24,False
+Aftyn Williamson,Staley,500 Freestyle,331.41,25,False
+Brianna Petrova,Liberty (Wentzville),500 Freestyle,335.15,26,False
+Abigail Sanning,Lee's Summit,500 Freestyle,335.61,27,False
+Sophia Warnick,Webster Groves,500 Freestyle,336.19,28,False
+Delaney Mehl,Liberty,500 Freestyle,337.17,29,False
+Alivia Cook,Parkway South,500 Freestyle,337.18,30,False
+Claire Dierker,Park Hill South,500 Freestyle,337.26,31,False
+Isabel Kosiara,Rock Bridge,500 Freestyle,337.43,32,False
+Evyn Lashley,Eureka,500 Freestyle,337.67,33,False
+Gianna DeMaggio,Westminster Christian Academy,500 Freestyle,337.9,34,False
+Madison Arroyo,Father Tolton,500 Freestyle,337.99,35,False
+Adrianna Hudnall,Liberty North,500 Freestyle,338.55,36,False
+Polly Fendler,St. Teresa's Academy,500 Freestyle,338.96,37,False
+Madelyn Tucker,Parkway Central,500 Freestyle,339.34000000000003,38,False
+Morgan Parkerson,Incarnate Word Academy,500 Freestyle,339.35,39,False
+Teagan Mitchell,Staley,500 Freestyle,340.40999999999997,40,False
+Ashley Searls,Liberty,500 Freestyle,341.37,41,False
+Olivia Deberge,Timberland,500 Freestyle,341.4,42,False
+Sophie Sobush,Kirkwood,500 Freestyle,341.82,43,False
+Addison Woody,Lee's Summit West,500 Freestyle,341.96,44,False
+Audrey Qureshi,Villa Duchesne,500 Freestyle,342.15,45,False
+Roslyn Fiorino,West Plains,500 Freestyle,342.88,46,False
+Ava Brown,Republic,500 Freestyle,343.15,47,False
+Brooke Hoien,Hickman,500 Freestyle,343.17,48,False
+Stella Crilley,Staley,500 Freestyle,343.28,49,False
+Olivia Kimball,Staley,500 Freestyle,343.77,50,False
+Edith Ferguson,Central (Springfield),500 Freestyle,344.2,51,False
+Rebecca Christiansen,Francis Howell,500 Freestyle,344.56,52,False
+Abigail Conrardy,Visitation Academy,500 Freestyle,344.92,53,False
+Avery Eastman,Lutheran St. Charles,500 Freestyle,345.11,54,False
+Jessica Lee,Ursuline Academy,500 Freestyle,345.23,55,False
+Avree Melhus,Liberty North,500 Freestyle,345.46,56,False
+Mackenzie Johnson,Platte County,500 Freestyle,345.71,57,False
+Kya Baker,Ft. Zumwalt South,500 Freestyle,346.19,58,False
+Adalyn Dolan,Ft. Zumwalt North,500 Freestyle,346.47,59,False
+Ella Marcum,Eureka,500 Freestyle,347.06,60,False
+Lucille Werner,Kirkwood,500 Freestyle,347.44,61,False
+Anja Taylor,Rock Bridge,500 Freestyle,347.6,62,False
+Miranda Kiewiet,Francis Howell,500 Freestyle,347.63,63,False
+Heidi Hunter,Lindbergh,500 Freestyle,348.44,64,False
+Hannah Daughety,Liberty,500 Freestyle,348.54,65,False
+Maya West,Ft. Zumwalt East,500 Freestyle,348.7,66,False
+Madison Seabaugh,Visitation Academy,500 Freestyle,348.96,67,False
+Ryan Weber,Rockwood Summit,500 Freestyle,349.17,68,False
+Isabella Lamb,Parkway West,500 Freestyle,349.86,69,False
+Reagan Poggio,Lafayette (Wildwood),500 Freestyle,351.17,70,False
+Bella Greene,Notre Dame (Cape Girardeau),500 Freestyle,351.23,71,False
+Olivia Dillow,Cor Jesu Academy,500 Freestyle,351.56,72,False
+Soo Jin Park,Francis Howell,500 Freestyle,351.64,73,False
+Eliza Jones,Liberty North,500 Freestyle,351.9,74,False
+Vanessa VanHoesen,Blue Springs,500 Freestyle,352.37,75,False
+Olivia Hanes,Ladue Horton Watkins,500 Freestyle,353.08,76,False
+Ashlyn Hines,Park Hill South,500 Freestyle,353.48,77,False
+Alicia Williams,John Burroughs,500 Freestyle,353.48,78,False
+Victoria Black,Liberty,500 Freestyle,353.52,79,False
+Kylie Montgomery,Webster Groves,500 Freestyle,353.75,80,False
+Olivia Seiler,Kickapoo,500 Freestyle,354.08,81,False
+Ellie Bernert,Marquette,500 Freestyle,354.12,82,False
+Aspen Ritchie,Webb City,500 Freestyle,354.24,83,False
+Lily Wheeler,Park Hill South,500 Freestyle,354.32,84,False
+Caroline Jones,Cor Jesu Academy,500 Freestyle,354.34000000000003,85,False
+Berkli Dias,Clayton,500 Freestyle,354.58,86,False
+Grace Shaw,Ozark,500 Freestyle,354.72,87,False
+Penelope Autry,West Plains,500 Freestyle,354.83,88,False
+Adelyn Volpi,Liberty,500 Freestyle,356.18,89,False
+Hailey Cooper,Oak Park,500 Freestyle,356.23,90,False
+Anna Eshleman,Raymore-Peculiar,500 Freestyle,356.26,91,False
+Ava Knepper,Park Hill,500 Freestyle,356.5,92,False
+Sienna Kelley,John Burroughs,500 Freestyle,356.75,93,False
+Nylah Miller,Westminster Christian Academy,500 Freestyle,356.82,94,False
+Abigail Mangan,Marquette,500 Freestyle,356.90999999999997,95,False
+Lauren Otte,Liberty North,500 Freestyle,357.1,96,False
+Olive Agustin,Clayton,500 Freestyle,357.15,97,False
+Elisa DeCaro,Park Hill South,500 Freestyle,357.3,98,False
+Audrianna VanKirk,Parkway West,500 Freestyle,358.54,99,False
+Millie Lawing,Ft. Zumwalt North,500 Freestyle,358.61,100,False
+Missy Mizell,Lebanon,500 Freestyle,358.87,101,False
+Jia Hurst,Park Hill South,500 Freestyle,358.99,102,False
+Olivia Swanson,Blue Springs South,500 Freestyle,359.52,103,False
+Olivia Earnest,Monett,500 Freestyle,359.98,104,False
+Anna Cribbs,St. Teresa's Academy,500 Freestyle,360.15,105,False
+Park Hill South,Park Hill South,200 Freestyle Relay,99.15,1,True
+St. Joseph's Academy,St. Joseph's Academy,200 Freestyle Relay,100.69,2,True
+Pembroke Hill,Pembroke Hill,200 Freestyle Relay,101.31,3,True
+Westminster Christian Academy,Westminster Christian Academy,200 Freestyle Relay,101.86,4,True
+Father Tolton,Father Tolton,200 Freestyle Relay,102.78999999999999,5,True
+Liberty North,Liberty North,200 Freestyle Relay,103.12,6,True
+Webster Groves,Webster Groves,200 Freestyle Relay,104.07,7,True
+Grain Valley,Grain Valley,200 Freestyle Relay,104.12,8,True
+Kirkwood,Kirkwood,200 Freestyle Relay,104.2,9,True
+Eureka,Eureka,200 Freestyle Relay,104.21000000000001,10,True
+Parkway Central,Parkway Central,200 Freestyle Relay,104.21000000000001,11,True
+Rockwood Summit,Rockwood Summit,200 Freestyle Relay,104.45,12,True
+Notre Dame de Sion,Notre Dame de Sion,200 Freestyle Relay,104.58,13,True
+Blue Springs South,Blue Springs South,200 Freestyle Relay,104.78,14,True
+Marquette,Marquette,200 Freestyle Relay,104.82,15,True
+Lee's Summit,Lee's Summit,200 Freestyle Relay,104.95,16,True
+St. Teresa's Academy,St. Teresa's Academy,200 Freestyle Relay,105.28999999999999,17,True
+Liberty,Liberty,200 Freestyle Relay,105.31,18,True
+Louisiana,Louisiana,200 Freestyle Relay,106.31,19,True
+Lindbergh,Lindbergh,200 Freestyle Relay,106.57,20,True
+Staley,Staley,200 Freestyle Relay,106.81,21,True
+Republic,Republic,200 Freestyle Relay,107.44,22,True
+Lebanon,Lebanon,200 Freestyle Relay,107.74000000000001,23,True
+Visitation Academy,Visitation Academy,200 Freestyle Relay,107.97999999999999,24,True
+Ursuline Academy,Ursuline Academy,200 Freestyle Relay,107.97999999999999,25,True
+Rock Bridge,Rock Bridge,200 Freestyle Relay,108.02000000000001,26,True
+Lafayette (Wildwood),Lafayette (Wildwood),200 Freestyle Relay,108.03,27,True
+Poplar Bluff,Poplar Bluff,200 Freestyle Relay,108.16,28,True
+Kearney,Kearney,200 Freestyle Relay,108.65,29,True
+Savannah,Savannah,200 Freestyle Relay,108.67,30,True
+St. Michael the Archangel,St. Michael the Archangel,200 Freestyle Relay,109.1,31,True
+Monett,Monett,200 Freestyle Relay,109.53999999999999,32,True
+Carthage,Carthage,200 Freestyle Relay,109.84,33,True
+Jackson,Jackson,200 Freestyle Relay,109.9,34,True
+Francis Howell,Francis Howell,200 Freestyle Relay,109.94,35,True
+Clayton,Clayton,200 Freestyle Relay,110.2,36,True
+Ft. Zumwalt North,Ft. Zumwalt North,200 Freestyle Relay,110.31,37,True
+West Plains,West Plains,200 Freestyle Relay,110.65,38,True
+Lutheran St. Charles,Lutheran St. Charles,200 Freestyle Relay,110.84,39,True
+Cor Jesu Academy,Cor Jesu Academy,200 Freestyle Relay,110.91,40,True
+MICDS,MICDS,200 Freestyle Relay,110.97,41,True
+Parkway South,Parkway South,200 Freestyle Relay,111.1,42,True
+Ladue Horton Watkins,Ladue Horton Watkins,200 Freestyle Relay,111.25,43,True
+John Burroughs,John Burroughs,200 Freestyle Relay,111.47999999999999,44,True
+Villa Duchesne,Villa Duchesne,200 Freestyle Relay,111.62,45,True
+Webb City,Webb City,200 Freestyle Relay,112.12,46,True
+Summit Christian Academy,Summit Christian Academy,200 Freestyle Relay,112.31,47,True
+Pattonville,Pattonville,200 Freestyle Relay,112.41,48,True
+Glendale,Glendale,200 Freestyle Relay,112.6,49,True
+Timberland,Timberland,200 Freestyle Relay,112.66,50,True
+Lee's Summit West,Lee's Summit West,200 Freestyle Relay,112.95,51,True
+Liberty (Wentzville),Liberty (Wentzville),200 Freestyle Relay,113.0,52,True
+St. Dominic,St. Dominic,200 Freestyle Relay,113.22,53,True
+Francis Howell Central,Francis Howell Central,200 Freestyle Relay,113.22,54,True
+Park Hill,Park Hill,200 Freestyle Relay,113.65,55,True
+Platte County,Platte County,200 Freestyle Relay,113.9,56,True
+Carl Junction,Carl Junction,200 Freestyle Relay,114.3,57,True
+Notre Dame (Cape Girardeau),Notre Dame (Cape Girardeau),200 Freestyle Relay,115.32,58,True
+Hannibal,Hannibal,200 Freestyle Relay,115.34,59,True
+Central (Cape Girardeau),Central (Cape Girardeau),200 Freestyle Relay,115.45,60,True
+Holt,Holt,200 Freestyle Relay,115.47,61,True
+Incarnate Word Academy,Incarnate Word Academy,200 Freestyle Relay,115.52000000000001,62,True
+Nixa,Nixa,200 Freestyle Relay,115.67,63,True
+Blue Springs,Blue Springs,200 Freestyle Relay,116.15,64,True
+Smithville,Smithville,200 Freestyle Relay,116.34,65,True
+Raymore-Peculiar,Raymore-Peculiar,200 Freestyle Relay,116.99000000000001,66,True
+Mehlville,Mehlville,200 Freestyle Relay,117.00999999999999,67,True
+Ft. Zumwalt South,Ft. Zumwalt South,200 Freestyle Relay,118.00999999999999,68,True
+Bolivar,Bolivar,200 Freestyle Relay,118.03,69,True
+Lutheran South,Lutheran South,200 Freestyle Relay,118.57,70,True
+Warrensburg,Warrensburg,200 Freestyle Relay,118.83,71,True
+St. Pius X (Kansas City),St. Pius X (Kansas City),200 Freestyle Relay,119.21000000000001,72,True
+Hickman,Hickman,200 Freestyle Relay,119.38,73,True
+Kickapoo,Kickapoo,200 Freestyle Relay,119.67,74,True
+Oak Park,Oak Park,200 Freestyle Relay,119.83,75,True
+Logan-Rogersville,Logan-Rogersville,200 Freestyle Relay,120.32,76,True
+Central (Springfield),Central (Springfield),200 Freestyle Relay,120.56,77,True
+Washington,Washington,200 Freestyle Relay,120.83,78,True
+Jefferson City,Jefferson City,200 Freestyle Relay,121.0,79,True
+Nevada,Nevada,200 Freestyle Relay,121.35,80,True
+New Covenant Academy,New Covenant Academy,200 Freestyle Relay,121.5,81,True
+Ozark,Ozark,200 Freestyle Relay,121.76,82,True
+Belton,Belton,200 Freestyle Relay,122.13,83,True
+STEAM Academy,STEAM Academy,200 Freestyle Relay,122.87,84,True
+St. Charles West,St. Charles West,200 Freestyle Relay,123.3,85,True
+Capital City,Capital City,200 Freestyle Relay,124.07,86,True
+Oakville,Oakville,200 Freestyle Relay,124.37,87,True
+Avery Cunneen,St. Joseph's Academy,100 Backstroke,55.26,1,False
+Gracey MacLaughlin,Louisiana,100 Backstroke,57.04,2,False
+Elizabeth Landuyt,Park Hill South,100 Backstroke,57.35,3,False
+Madelyn Mug,Visitation Academy,100 Backstroke,57.94,4,False
+Alexis Cook,Parkway South,100 Backstroke,57.97,5,False
+Claire Chumley,St. Joseph's Academy,100 Backstroke,58.1,6,False
+Ann Erwin,Webster Groves,100 Backstroke,59.57,7,False
+Gianna DeMaggio,Westminster Christian Academy,100 Backstroke,60.17,8,False
+Allison Brent,St. Joseph's Academy,100 Backstroke,60.89,9,False
+Ella Paul,Rockwood Summit,100 Backstroke,60.97,10,False
+Missy Mizell,Lebanon,100 Backstroke,61.27,11,False
+Polly Fendler,St. Teresa's Academy,100 Backstroke,61.65,12,False
+Olivia Deberge,Timberland,100 Backstroke,61.74,13,False
+Olive Agustin,Clayton,100 Backstroke,61.77,14,False
+Kylie Montgomery,Webster Groves,100 Backstroke,62.03,15,False
+Maddie Riley,St. Joseph's Academy,100 Backstroke,62.1,16,False
+Sophia Stoops,Father Tolton,100 Backstroke,62.2,17,False
+Izy Chalfant,Kirkwood,100 Backstroke,62.37,18,False
+Isabella Leone,Lindbergh,100 Backstroke,62.54,19,False
+Miranda Kiewiet,Francis Howell,100 Backstroke,63.02,20,False
+Delaney Bartels,Liberty (Wentzville),100 Backstroke,63.11,21,False
+Heidi Haberstroh,MICDS,100 Backstroke,63.15,22,False
+Reece Gould,Savannah,100 Backstroke,63.32,23,False
+Kennedy Roberts,Notre Dame de Sion,100 Backstroke,63.32,24,False
+Isabell Coffey,Monett,100 Backstroke,63.35,25,False
+Caroline Goeke,Ft. Zumwalt North,100 Backstroke,63.38,26,False
+Marlowe Weis,Rock Bridge,100 Backstroke,63.38,27,False
+Mary Wolf-Slinkard,Parkway North,100 Backstroke,63.39,28,False
+Ava Fugate,St. Teresa's Academy,100 Backstroke,63.41,29,False
+Mallory Crane,Park Hill South,100 Backstroke,63.58,30,False
+Hannah Daughety,Liberty,100 Backstroke,63.72,31,False
+Danielle Hume,Marquette,100 Backstroke,63.89,32,False
+Lucia Fox,Parkway West,100 Backstroke,63.93,33,False
+Charlotte Leary,Villa Duchesne,100 Backstroke,63.94,34,False
+India Browning,Notre Dame de Sion,100 Backstroke,64.04,35,False
+Reese Anderson,Parkway Central,100 Backstroke,64.42,36,False
+Jia Hurst,Park Hill South,100 Backstroke,64.45,37,False
+Eva Barnfield,Jackson,100 Backstroke,64.49,38,False
+Jenna Ridings,Pattonville,100 Backstroke,64.68,39,False
+Emma Cox,Kearney,100 Backstroke,64.69,40,False
+Prairey Maxwell,Kirkwood,100 Backstroke,64.76,41,False
+Sadie Lee,Truman,100 Backstroke,64.89,42,False
+Roslyn Fiorino,West Plains,100 Backstroke,64.91,43,False
+Anne Holubowski,Marquette,100 Backstroke,64.98,44,False
+Sienna Kelley,John Burroughs,100 Backstroke,65.04,45,False
+Andrea Jeliazkova,Ladue Horton Watkins,100 Backstroke,65.12,46,False
+Anja Taylor,Rock Bridge,100 Backstroke,65.16,47,False
+Adrianna Hudnall,Liberty North,100 Backstroke,65.32,48,False
+Anna Eshleman,Raymore-Peculiar,100 Backstroke,65.47,49,False
+Kennedy Ringwald,Central (Cape Girardeau),100 Backstroke,65.63,50,False
+Victoria Black,Liberty,100 Backstroke,65.73,51,False
+Olivia Swanson,Blue Springs South,100 Backstroke,65.81,52,False
+Ava Maus,Smithville,100 Backstroke,65.99,53,False
+Jane Hill,Villa Duchesne,100 Backstroke,66.0,54,False
+Aftyn Williamson,Staley,100 Backstroke,66.18,55,False
+Addison Woody,Lee's Summit West,100 Backstroke,66.27,56,False
+Leisel Schultz,Rock Bridge,100 Backstroke,66.44,57,False
+Riley Muran,Parkway Central,100 Backstroke,66.45,58,False
+Marissa Kelley,John Burroughs,100 Backstroke,66.47,59,False
+Elsa Dogotch,Carl Junction,100 Backstroke,66.57,60,False
+Ashley Searls,Liberty,100 Backstroke,66.67,61,False
+Rebecca Christiansen,Francis Howell,100 Backstroke,66.72,62,False
+Stella Crilley,Staley,100 Backstroke,66.75,63,False
+Madeleine Williams,John Burroughs,100 Backstroke,66.75,64,False
+Brooke Schoonover,Washington,100 Backstroke,66.83,65,False
+Claire Dierker,Park Hill South,100 Backstroke,66.9,66,False
+Madison Arroyo,Father Tolton,100 Backstroke,67.04,67,False
+Kaylie Gerber,Kearney,100 Backstroke,67.1,68,False
+Audrie Hanway,Lee's Summit,100 Backstroke,67.14,69,False
+Ella Chrun,Ursuline Academy,100 Backstroke,67.15,70,False
+Noemi Crall,MICDS,100 Backstroke,67.33,71,False
+Meghan Piper,Savannah,100 Backstroke,67.34,72,False
+Molly Moriarty,Visitation Academy,100 Backstroke,67.37,73,False
+Avery Anthony,Marquette,100 Backstroke,67.47,74,False
+Alexis Stone,STEAM Academy,100 Backstroke,67.5,75,False
+Camille Matlock,Clayton,100 Backstroke,67.74,76,False
+Alicia Williams,John Burroughs,100 Backstroke,67.88,77,False
+Elizabeth Mohan,Lafayette (Wildwood),100 Backstroke,67.92,78,False
+Aubrey Twyman,Grain Valley,100 Backstroke,67.94,79,False
+Elizabeth Martin,Grain Valley,100 Backstroke,67.96,80,False
+Eliza Jones,Liberty North,100 Backstroke,67.98,81,False
+Paige Blom,Marquette,100 Backstroke,68.03999999999999,82,False
+Elsie Walker,Notre Dame de Sion,100 Backstroke,68.05,83,False
+Elise Poulter,St. Dominic,100 Backstroke,68.05,84,False
+Isabella Clerico,Lafayette (Wildwood),100 Backstroke,68.08,85,False
+Neala McHugh,Park Hill South,100 Backstroke,68.13,86,False
+Emily Holzwarth,Grain Valley,100 Backstroke,68.22,87,False
+Emelia Rosebaugh,Monett,100 Backstroke,68.26,88,False
+Helena Tietjen,Pembroke Hill,100 Breaststroke,63.8,1,False
+Sarah Miner,Rock Bridge,100 Breaststroke,65.78,2,False
+Payton Robic,St. Joseph's Academy,100 Breaststroke,66.3,3,False
+Lily Kohler,Mehlville,100 Breaststroke,66.84,4,False
+Riley Muran,Parkway Central,100 Breaststroke,67.62,5,False
+Vienna Schindler,St. Joseph's Academy,100 Breaststroke,67.83,6,False
+Madison Shryock,Rock Bridge,100 Breaststroke,68.51,7,False
+Kennedy Chrun,Ursuline Academy,100 Breaststroke,69.17,8,False
+Serena Huang,Parkway Central,100 Breaststroke,69.47,9,False
+Molly Moriarty,Visitation Academy,100 Breaststroke,69.49,10,False
+Abigail Sanning,Lee's Summit,100 Breaststroke,69.75,11,False
+Alexandra Moran,Liberty North,100 Breaststroke,70.06,12,False
+Lauren Stein,Marquette,100 Breaststroke,70.1,13,False
+Avree Melhus,Liberty North,100 Breaststroke,70.25,14,False
+Addison Murray,Pembroke Hill,100 Breaststroke,70.32,15,False
+Ashlyn Hines,Park Hill South,100 Breaststroke,70.4,16,False
+Olivia Manning,Carthage,100 Breaststroke,70.55,17,False
+Anna Irminger,Capital City,100 Breaststroke,70.69,18,False
+Joslyn Perry,Park Hill South,100 Breaststroke,70.73,19,False
+Anna Sundberg,Blue Springs South,100 Breaststroke,70.98,20,False
+Adrianna Hudnall,Liberty North,100 Breaststroke,71.52,21,False
+Olyvia Beach,Greenwood,100 Breaststroke,71.89,22,False
+Chloe Belen,Westminster Christian Academy,100 Breaststroke,72.07,23,False
+Elizabeth Mohan,Lafayette (Wildwood),100 Breaststroke,72.61,24,False
+Elizabeth Martin,Grain Valley,100 Breaststroke,72.73,25,False
+Emelia Rosebaugh,Monett,100 Breaststroke,72.78,26,False
+Emmi Hoss,Liberty,100 Breaststroke,73.15,27,False
+Kaylie Gerber,Kearney,100 Breaststroke,73.16,28,False
+Karsynne McAlister,Central (Cape Girardeau),100 Breaststroke,73.43,29,False
+Elizabeth Landuyt,Park Hill South,100 Breaststroke,73.8,30,False
+Adelyn Volpi,Liberty,100 Breaststroke,73.85,31,False
+Ema Stojicevic,Clayton,100 Breaststroke,73.88,32,False
+Storie Talbert,Louisiana,100 Breaststroke,74.13,33,False
+Kelly Frank,Notre Dame de Sion,100 Breaststroke,74.14,34,False
+Aftyn Williamson,Staley,100 Breaststroke,74.35,35,False
+Lauren Callahan,Eureka,100 Breaststroke,74.44,36,False
+Kya Baker,Ft. Zumwalt South,100 Breaststroke,74.58,37,False
+Callista Lake,Blue Springs South,100 Breaststroke,74.58,38,False
+Alicia Williams,John Burroughs,100 Breaststroke,74.6,39,False
+Kylie Montgomery,Webster Groves,100 Breaststroke,74.62,40,False
+Olivia Johnson,Hannibal,100 Breaststroke,74.7,41,False
+Natalie Grither,Parkway South,100 Breaststroke,74.71000000000001,42,False
+Lynlee Lavalle,Jackson,100 Breaststroke,74.77,43,False
+Elsa Dogotch,Carl Junction,100 Breaststroke,74.81,44,False
+Sophia Sutter,Francis Howell Central,100 Breaststroke,74.82,45,False
+Paige Garrett,Lutheran St. Charles,100 Breaststroke,74.84,46,False
+Kelsey Morrison,Eureka,100 Breaststroke,74.88,47,False
+Polly Fendler,St. Teresa's Academy,100 Breaststroke,75.12,48,False
+Adalyn Dolan,Ft. Zumwalt North,100 Breaststroke,75.2,49,False
+Sierra Graham,Kirkwood,100 Breaststroke,75.26,50,False
+Isla Sattler,Marquette,100 Breaststroke,75.26,51,False
+Jayli Cope,Glendale,100 Breaststroke,75.32,52,False
+Audrey Coppinger,St. Teresa's Academy,100 Breaststroke,75.38,53,False
+Elise Replogle,Republic,100 Breaststroke,75.45,54,False
+Lucy Nofziger,Lee's Summit,100 Breaststroke,75.48,55,False
+Madelyn James,Francis Howell,100 Breaststroke,75.7,56,False
+Isabelle Meyers,Lindbergh,100 Breaststroke,75.74,57,False
+Jordyn Hamrah,St. Joseph's Academy,100 Breaststroke,75.75,58,False
+Caitlyn Hoppa,Lafayette (Wildwood),100 Breaststroke,75.78999999999999,59,False
+Amelia Holohan,Westminster Christian Academy,100 Breaststroke,75.78999999999999,60,False
+Naisha Salaria,Marquette,100 Breaststroke,75.87,61,False
+Avery Hogue,Park Hill South,100 Breaststroke,75.92,62,False
+Victoria Anderson,Francis Howell Central,100 Breaststroke,76.1,63,False
+Ashleigh Cruce,Platte County,100 Breaststroke,76.16,64,False
+Grace Cottle,Lee's Summit West,100 Breaststroke,76.18,65,False
+Reese Stanley,Lee's Summit,100 Breaststroke,76.21000000000001,66,False
+Molly Rodriguez,Savannah,100 Breaststroke,76.23,67,False
+Marilinda Smale-Murillo,Hickman,100 Breaststroke,76.25,68,False
+Ronnie Benford,Platte County,100 Breaststroke,76.27,69,False
+Phoebe Alcott,Cor Jesu Academy,100 Breaststroke,76.39,70,False
+Ellie Cater,Grain Valley,100 Breaststroke,76.49,71,False
+Sophia Stoops,Father Tolton,100 Breaststroke,76.52,72,False
+Riley Oesch,Jefferson City,100 Breaststroke,76.6,73,False
+Elliette Chambers,Smithville,100 Breaststroke,76.6,74,False
+Penelope Autry,West Plains,100 Breaststroke,76.66,75,False
+Audrey Qureshi,Villa Duchesne,100 Breaststroke,76.78,76,False
+Amelia Drafall,Cor Jesu Academy,100 Breaststroke,76.81,77,False
+Victoria Knolhoff,Parkway Central,100 Breaststroke,76.81,78,False
+Ava Ventimiglia,St. Michael the Archangel,100 Breaststroke,76.97,79,False
+Luci Cordes-Palmer,Lafayette (Wildwood),100 Breaststroke,77.02,80,False
+Caroline Forhetz,Glendale,100 Breaststroke,77.03,81,False
+Andrea Alvarado Romero,Blue Springs,100 Breaststroke,77.14,82,False
+Evelyn Martin,Lebanon,100 Breaststroke,77.14,83,False
+Marlo Deaver,Liberty,100 Breaststroke,77.16,84,False
+Shaye Seck,Parkway Central,100 Breaststroke,77.26,85,False
+Lily Wheeler,Park Hill South,100 Breaststroke,77.3,86,False
+Anna Eshleman,Raymore-Peculiar,100 Breaststroke,77.35,87,False
+Lydia Van Horn,Kirkwood,100 Breaststroke,77.49,88,False
+Addison Woody,Lee's Summit West,100 Breaststroke,77.61,89,False
+Missy Mizell,Lebanon,100 Breaststroke,77.63,90,False
+Elizabeth Fowler,Kearney,100 Breaststroke,77.75,91,False
+Isabel Kosiara,Rock Bridge,100 Breaststroke,77.81,92,False
+Maggie Dawson,Staley,100 Breaststroke,77.86,93,False
+Chloe Ingle,Liberty North,100 Breaststroke,77.87,94,False
+Bella Anadkat,MICDS,100 Breaststroke,77.96000000000001,95,False
+Paige Blom,Marquette,100 Breaststroke,78.02,96,False
+Abigail Jones,Eureka,100 Breaststroke,78.09,97,False
+Emma Nicotra,Holt,100 Breaststroke,78.1,98,False
+Elaina Wells,Staley,100 Breaststroke,78.11,99,False
+Amelia Martin,St. Dominic,100 Breaststroke,78.16,100,False
+Kennedy Roberts,Notre Dame de Sion,100 Breaststroke,78.19,101,False
+Lucy Hemphill,Liberty North,100 Breaststroke,78.3,102,False
+Sienna Kelley,John Burroughs,100 Breaststroke,78.34,103,False
+Jaycee Shrewsbury,Nevada,100 Breaststroke,78.39,104,False
+St. Joseph's Academy,St. Joseph's Academy,400 Freestyle Relay,214.94,1,True
+Park Hill South,Park Hill South,400 Freestyle Relay,216.63,2,True
+Rock Bridge,Rock Bridge,400 Freestyle Relay,217.18,3,True
+Visitation Academy,Visitation Academy,400 Freestyle Relay,220.75,4,True
+Parkway Central,Parkway Central,400 Freestyle Relay,223.31,5,True
+Marquette,Marquette,400 Freestyle Relay,224.0,6,True
+Father Tolton,Father Tolton,400 Freestyle Relay,225.13,7,True
+Liberty North,Liberty North,400 Freestyle Relay,226.55,8,True
+Webster Groves,Webster Groves,400 Freestyle Relay,228.29,9,True
+Parkway South,Parkway South,400 Freestyle Relay,228.52,10,True
+Pembroke Hill,Pembroke Hill,400 Freestyle Relay,228.75,11,True
+Eureka,Eureka,400 Freestyle Relay,229.32,12,True
+Kirkwood,Kirkwood,400 Freestyle Relay,229.81,13,True
+Jackson,Jackson,400 Freestyle Relay,229.88,14,True
+Grain Valley,Grain Valley,400 Freestyle Relay,231.29,15,True
+St. Teresa's Academy,St. Teresa's Academy,400 Freestyle Relay,232.17000000000002,16,True
+Rockwood Summit,Rockwood Summit,400 Freestyle Relay,233.0,17,True
+Hickman,Hickman,400 Freestyle Relay,233.65,18,True
+Westminster Christian Academy,Westminster Christian Academy,400 Freestyle Relay,236.29,19,True
+Clayton,Clayton,400 Freestyle Relay,237.21,20,True
+John Burroughs,John Burroughs,400 Freestyle Relay,237.6,21,True
+Blue Springs South,Blue Springs South,400 Freestyle Relay,237.65,22,True
+Liberty,Liberty,400 Freestyle Relay,237.82999999999998,23,True
+Lafayette (Wildwood),Lafayette (Wildwood),400 Freestyle Relay,238.43,24,True
+Lindbergh,Lindbergh,400 Freestyle Relay,238.76,25,True
+Republic,Republic,400 Freestyle Relay,239.06,26,True
+Francis Howell,Francis Howell,400 Freestyle Relay,239.21,27,True
+West Plains,West Plains,400 Freestyle Relay,239.36,28,True
+Liberty (Wentzville),Liberty (Wentzville),400 Freestyle Relay,240.58,29,True
+Cor Jesu Academy,Cor Jesu Academy,400 Freestyle Relay,240.93,30,True
+Lebanon,Lebanon,400 Freestyle Relay,242.08,31,True
+Francis Howell Central,Francis Howell Central,400 Freestyle Relay,242.63,32,True
+Parkway West,Parkway West,400 Freestyle Relay,242.76,33,True
+Ladue Horton Watkins,Ladue Horton Watkins,400 Freestyle Relay,242.86,34,True
+Ft. Zumwalt North,Ft. Zumwalt North,400 Freestyle Relay,242.96,35,True
+MICDS,MICDS,400 Freestyle Relay,243.35,36,True
+Platte County,Platte County,400 Freestyle Relay,243.5,37,True
+Staley,Staley,400 Freestyle Relay,244.48,38,True
+Villa Duchesne,Villa Duchesne,400 Freestyle Relay,244.9,39,True
+Notre Dame de Sion,Notre Dame de Sion,400 Freestyle Relay,245.42,40,True
+Park Hill,Park Hill,400 Freestyle Relay,246.61,41,True
+Carthage,Carthage,400 Freestyle Relay,247.22,42,True
+Kearney,Kearney,400 Freestyle Relay,248.14,43,True
+Summit Christian Academy,Summit Christian Academy,400 Freestyle Relay,248.99,44,True
+Poplar Bluff,Poplar Bluff,400 Freestyle Relay,249.57,45,True
+Louisiana,Louisiana,400 Freestyle Relay,249.87,46,True
+Lutheran St. Charles,Lutheran St. Charles,400 Freestyle Relay,249.94,47,True
+Webb City,Webb City,400 Freestyle Relay,252.07,48,True
+Lee's Summit,Lee's Summit,400 Freestyle Relay,252.63,49,True
+Blue Springs,Blue Springs,400 Freestyle Relay,254.8,50,True
+Ursuline Academy,Ursuline Academy,400 Freestyle Relay,254.83,51,True
+Incarnate Word Academy,Incarnate Word Academy,400 Freestyle Relay,255.7,52,True
+Parkway North,Parkway North,400 Freestyle Relay,255.82,53,True
+Carl Junction,Carl Junction,400 Freestyle Relay,256.43,54,True
+Central (Cape Girardeau),Central (Cape Girardeau),400 Freestyle Relay,257.08,55,True
+Timberland,Timberland,400 Freestyle Relay,257.5,56,True
+Glendale,Glendale,400 Freestyle Relay,258.57,57,True
+Lee's Summit West,Lee's Summit West,400 Freestyle Relay,259.09,58,True
+Savannah,Savannah,400 Freestyle Relay,259.39,59,True
+Raymore-Peculiar,Raymore-Peculiar,400 Freestyle Relay,259.57,60,True
+Nixa,Nixa,400 Freestyle Relay,260.92,61,True
+Ft. Zumwalt South,Ft. Zumwalt South,400 Freestyle Relay,261.34,62,True
+Notre Dame (Cape Girardeau),Notre Dame (Cape Girardeau),400 Freestyle Relay,261.58,63,True
+Bolivar,Bolivar,400 Freestyle Relay,262.69,64,True
+Monett,Monett,400 Freestyle Relay,266.54,65,True
+Logan-Rogersville,Logan-Rogersville,400 Freestyle Relay,269.97,66,True
+Ozark,Ozark,400 Freestyle Relay,270.52,67,True
+Kickapoo,Kickapoo,400 Freestyle Relay,271.24,68,True
+Hannibal,Hannibal,400 Freestyle Relay,271.98,69,True
+Central (Springfield),Central (Springfield),400 Freestyle Relay,272.19,70,True
