@@ -1,19 +1,19 @@
 MSHSAA Swimming Performance Summary
 ==================================================
 
-Total records: 1154
-Relay records: 240
-Individual records: 914
+Total records: 1416
+Relay records: 262
+Individual records: 1154
 
 Records per event:
-  200 Medley Relay     (Relay)        83 records
-  200 Free             (Individual)  133 records
-  200 IM               (Individual)  122 records
-  50 Free              (Individual)  119 records
-  100 Fly              (Individual)  103 records
-  100 Free             (Individual)  140 records
-  500 Free             (Individual)  105 records
-  200 Free Relay       (Relay)        87 records
-  100 Back             (Individual)   88 records
-  100 Breast           (Individual)  104 records
-  400 Free Relay       (Relay)        70 records
+  200 Medley Relay     (Relay)        88 records
+  200 Free             (Individual)  164 records
+  200 IM               (Individual)  147 records
+  50 Free              (Individual)  154 records
+  100 Fly              (Individual)  129 records
+  100 Free             (Individual)  189 records
+  500 Free             (Individual)  133 records
+  200 Free Relay       (Relay)        99 records
+  100 Back             (Individual)  121 records
+  100 Breast           (Individual)  117 records
+  400 Free Relay       (Relay)        75 records
