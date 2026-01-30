@@ -40,7 +40,7 @@ inserts = [
     (55, ["### 6.8 Team points breakdown", "", "Break down team points into individual vs relay contribution (relays count double)."]),
 ]
 
-# Insert in reverse order by index so we don't shift earlier indices
+# Insert in reverse order by index so earlier indices don't shift
 inserts_sorted = sorted(inserts, key=lambda x: -x[0])
 for insert_at, lines in inserts_sorted:
     new_cell = mk_md(lines)

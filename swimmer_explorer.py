@@ -90,7 +90,7 @@ def compute_team_stats(df_scores: pd.DataFrame):
             "place_3_%": (sub["rank"] == 3).sum() / n_sims * 100,
             "podium_%": (sub["rank"] <= 3).sum() / n_sims * 100,
         })
-    place_df = pd.DataFrame(place_probs).sort_values("place_1_%", ascending=False)
+    place_df = pd.DataFrame(place_probs).sort_values("podium_%", ascending=False)
 
     summary = team_stats.merge(
         win_df.set_index("team")[["win_%", "wins"]],
@@ -142,6 +142,44 @@ def compute_swimmer_stats(df: pd.DataFrame) -> pd.DataFrame:
     return agg.sort_values(["avg_points", "avg_place"], ascending=[False, True])
 
 
+def compute_team_breakdown(df_results: pd.DataFrame) -> pd.DataFrame:
+    """Individual vs relay points by team; relay contribution % (from swimmer_results)."""
+    individual_points = (
+        df_results[df_results["is_relay"] == False]
+        .groupby(["simulation_id", "team"])["points"]
+        .sum()
+        .reset_index()
+        .rename(columns={"points": "individual_points"})
+    )
+    relay_points = (
+        df_results[df_results["is_relay"] == True]
+        .groupby(["simulation_id", "team"])["points"]
+        .sum()
+        .reset_index()
+        .rename(columns={"points": "relay_points"})
+    )
+    total_points = individual_points.merge(
+        relay_points, on=["simulation_id", "team"], how="outer"
+    ).fillna(0)
+    total_points["total_points"] = (
+        total_points["individual_points"] + total_points["relay_points"]
+    )
+    team_breakdown = (
+        total_points.groupby("team")
+        .agg(
+            avg_individual_pts=("individual_points", "mean"),
+            avg_relay_pts=("relay_points", "mean"),
+            avg_total_pts=("total_points", "mean"),
+        )
+        .round(1)
+    )
+    team_breakdown["relay_contribution_%"] = (
+        team_breakdown["avg_relay_pts"] / team_breakdown["avg_total_pts"].replace(0, np.nan) * 100
+    ).round(1).fillna(0)
+    team_breakdown = team_breakdown.sort_values("avg_total_pts", ascending=False)
+    return team_breakdown.reset_index()
+
+
 def format_time(seconds: float) -> str:
     """Format seconds as MM:SS.ss or SS.ss for display."""
     if pd.isna(seconds):
@@ -174,9 +212,16 @@ def render_team_section():
     n_sims = data["n_sims"]
     st.caption(f"Based on **{n_sims}** simulations • **{data['df_scores']['team'].nunique()}** teams")
 
-    tab_scores, tab_placement, tab_dist, tab_box = st.tabs([
+    df_results = None
+    try:
+        df_results = load_csv(SWIMMER_FILE)
+    except FileNotFoundError:
+        pass
+
+    tab_scores, tab_placement, tab_relay, tab_dist, tab_box = st.tabs([
         "Overall Team Scores",
         "Placement Probabilities",
+        "Relay Contribution",
         "Score Distributions",
         "Box Plot (Top Teams)",
     ])
@@ -185,16 +230,40 @@ def render_team_section():
         st.subheader("Team summary (mean, std, min, max, avg placement, win %, podium)")
         summary = data["summary"].head(25).reset_index()
         cols = [c for c in ["team", "mean", "std", "min", "max", "median", "avg_rank", "win_%", "wins", "podium_prob"] if c in summary.columns]
-        st.dataframe(summary[cols].rename(columns={"team": "Team", "mean": "Avg Pts", "std": "Std", "min": "Min", "max": "Max", "median": "Median", "avg_rank": "Avg Place", "win_%": "Win %", "podium_prob": "Podium Prob"}), use_container_width=True, hide_index=True)
+        team_display = summary[cols].copy()
+        team_display.insert(0, "#", range(1, len(team_display) + 1))
+        st.dataframe(team_display.rename(columns={"team": "Team", "mean": "Avg Pts", "std": "Std", "min": "Min", "max": "Max", "median": "Median", "avg_rank": "Avg Place", "win_%": "Win %", "podium_prob": "Podium Prob"}), use_container_width=True, hide_index=True)
 
     with tab_placement:
         st.subheader("Placement probabilities (%)")
-        pf = data["place_df"].head(20).reset_index(drop=True)
+        pf = data["place_df"].head(10).reset_index(drop=True)
         st.dataframe(pf.rename(columns={"team": "Team", "place_1_%": "1st %", "place_2_%": "2nd %", "place_3_%": "3rd %", "podium_%": "Podium %"}), use_container_width=True, hide_index=True)
         st.markdown("#### Win probability (1st place)")
         top_win = data["place_df"].head(12).sort_values("place_1_%", ascending=True)
         if not top_win.empty:
             st.bar_chart(top_win.set_index("team")["place_1_%"])
+
+    with tab_relay:
+        st.subheader("Relay contribution (% of total points)")
+        if df_results is not None and "is_relay" in df_results.columns:
+            team_breakdown = compute_team_breakdown(df_results)
+            relay_display = team_breakdown[
+                ["team", "avg_individual_pts", "avg_relay_pts", "avg_total_pts", "relay_contribution_%"]
+            ].head(25).copy()
+            relay_display.insert(0, "#", range(1, len(relay_display) + 1))
+            st.dataframe(
+                relay_display.rename(columns={
+                    "team": "Team",
+                    "avg_individual_pts": "Avg Individual Pts",
+                    "avg_relay_pts": "Avg Relay Pts",
+                    "avg_total_pts": "Avg Total Pts",
+                    "relay_contribution_%": "Relay %",
+                }),
+                use_container_width=True,
+                hide_index=True,
+            )
+        else:
+            st.info("Export swimmer_results.csv from the notebook to see relay contribution.")
 
     with tab_dist:
         st.subheader("Score distribution by team (top 10)")
@@ -302,14 +371,35 @@ def render_swimmer_section():
         display_df["avg_time"] = format_time_series(display_df["avg_time"])
         # Add 1-based index column on the left
         display_df.insert(0, "#", range(1, len(display_df) + 1))
-        st.dataframe(
-            display_df.rename(columns={
-                "name": "Swimmer", "team": "Team", "event": "Event", "avg_time": "Avg Time", "avg_place": "Avg Place",
-                "avg_points": "Avg Pts", "gold_prob": "Gold %", "silver_prob": "Silver %", "bronze_prob": "Bronze %", "medal_prob": "Medal %",
-            }),
-            use_container_width=True,
-            hide_index=True,
-        )
+        col_rename = {
+            "name": "Swimmer", "team": "Team", "event": "Event", "avg_time": "Avg Time", "avg_place": "Avg Place",
+            "avg_points": "Avg Pts", "gold_prob": "Gold %", "silver_prob": "Silver %", "bronze_prob": "Bronze %", "medal_prob": "Medal %",
+        }
+        show_point_cutoff = len(selected_events) == 1
+        if show_point_cutoff:
+            top16 = display_df.iloc[:16]
+            rest = display_df.iloc[16:]
+            if not top16.empty:
+                st.caption("Point earners (places 1–16)")
+                st.dataframe(
+                    top16.rename(columns=col_rename),
+                    use_container_width=True,
+                    hide_index=True,
+                )
+            if not rest.empty:
+                st.markdown("**—————————————————————**")
+                st.caption("Non–point earners (place 17+)")
+                st.dataframe(
+                    rest.rename(columns=col_rename),
+                    use_container_width=True,
+                    hide_index=True,
+                )
+        else:
+            st.dataframe(
+                display_df.rename(columns=col_rename),
+                use_container_width=True,
+                hide_index=True,
+            )
 
     with tab2:
         st.subheader("Top medal contenders")
@@ -355,8 +445,12 @@ def main():
         render_swimmer_section()
 
     st.markdown("---")
-    st.caption("Stochastic Swim Meet Simulator • Export team_scores.csv & swimmer_results.csv from the notebook")
-    st.caption("Made by Serena")
+    st.caption("Stochastic Swim Meet Simulator • Exported team_scores.csv & swimmer_results.csv from the notebook")
+    st.caption(
+        "**MSHSAA Girls State Championship Meet 2026**; Note this is a simulation only, not official results. "
+        "Seed data from [MSHSAA Swimming Performance List](https://www.mshsaa.org/Activities/SwimmingPerformances.aspx?alg=45)."
+    )
+    st.caption("Made with 💜 by Serena")
 
 
 if __name__ == "__main__":
