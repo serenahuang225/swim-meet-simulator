@@ -223,7 +223,7 @@ def render_team_section():
         "Placement Probabilities",
         "Relay Contribution",
         "Score Distributions",
-        "Box Plot (Top Teams)",
+        "Box Plot",
     ])
 
     with tab_scores:
@@ -232,12 +232,12 @@ def render_team_section():
         cols = [c for c in ["team", "mean", "std", "min", "max", "median", "avg_rank", "win_%", "wins", "podium_prob"] if c in summary.columns]
         team_display = summary[cols].copy()
         team_display.insert(0, "#", range(1, len(team_display) + 1))
-        st.dataframe(team_display.rename(columns={"team": "Team", "mean": "Avg Pts", "std": "Std", "min": "Min", "max": "Max", "median": "Median", "avg_rank": "Avg Place", "win_%": "Win %", "podium_prob": "Podium Prob"}), use_container_width=True, hide_index=True)
+        st.dataframe(team_display.rename(columns={"team": "Team", "mean": "Avg Pts", "std": "Std", "min": "Min", "max": "Max", "median": "Median", "avg_rank": "Avg Place", "win_%": "Win %", "podium_prob": "Podium Prob"}), width="stretch", hide_index=True)
 
     with tab_placement:
         st.subheader("Placement probabilities (%)")
         pf = data["place_df"].head(10).reset_index(drop=True)
-        st.dataframe(pf.rename(columns={"team": "Team", "place_1_%": "1st %", "place_2_%": "2nd %", "place_3_%": "3rd %", "podium_%": "Podium %"}), use_container_width=True, hide_index=True)
+        st.dataframe(pf.rename(columns={"team": "Team", "place_1_%": "1st %", "place_2_%": "2nd %", "place_3_%": "3rd %", "podium_%": "Podium %"}), width="stretch", hide_index=True)
         st.markdown("#### Win probability (1st place)")
         top_win = data["place_df"].head(12).sort_values("place_1_%", ascending=True)
         if not top_win.empty:
@@ -259,7 +259,7 @@ def render_team_section():
                     "avg_total_pts": "Avg Total Pts",
                     "relay_contribution_%": "Relay %",
                 }),
-                use_container_width=True,
+                width="stretch",
                 hide_index=True,
             )
         else:
@@ -383,7 +383,7 @@ def render_swimmer_section():
                 st.caption("Point earners (places 1–16)")
                 st.dataframe(
                     top16.rename(columns=col_rename),
-                    use_container_width=True,
+                    width="stretch",
                     hide_index=True,
                 )
             if not rest.empty:
@@ -391,13 +391,13 @@ def render_swimmer_section():
                 st.caption("Non–point earners (place 17+)")
                 st.dataframe(
                     rest.rename(columns=col_rename),
-                    use_container_width=True,
+                    width="stretch",
                     hide_index=True,
                 )
         else:
             st.dataframe(
                 display_df.rename(columns=col_rename),
-                use_container_width=True,
+                width="stretch",
                 hide_index=True,
             )
 
@@ -447,7 +447,7 @@ def main():
     st.markdown("---")
     st.caption("Stochastic Monte Carlo Markov Chain Swim Meet Simulator • Exported team_scores.csv & swimmer_results.csv from the notebook")
     st.caption(
-        "**MSHSAA Girls State Championship Meet 2026**; Note this is a simulation only, not official results. "
+        "**MSHSAA Girls Class 1State Championship Meet 2026**; Note this is a simulation only, not official results. "
         "Seed data from [MSHSAA Swimming Performance List](https://www.mshsaa.org/Activities/SwimmingPerformances.aspx?alg=45)."
     )
     st.caption("Swimulator Made with 💜 by Serena")
