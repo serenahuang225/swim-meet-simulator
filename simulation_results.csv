@@ -1,0 +1,6001 @@
+simulation_id,team,points,rank
+0,Belton,0,44.0
+1,Belton,0,44.0
+2,Belton,0,44.0
+3,Belton,0,44.0
+4,Belton,0,44.0
+5,Belton,0,44.0
+6,Belton,0,43.0
+7,Belton,0,44.0
+8,Belton,0,43.0
+9,Belton,0,44.0
+10,Belton,0,43.0
+11,Belton,0,43.0
+12,Belton,0,45.0
+13,Belton,0,44.0
+14,Belton,0,43.0
+15,Belton,0,44.0
+16,Belton,0,43.0
+17,Belton,0,44.0
+18,Belton,0,43.0
+19,Belton,0,43.0
+20,Belton,0,45.0
+21,Belton,0,44.0
+22,Belton,0,44.0
+23,Belton,0,43.0
+24,Belton,0,43.0
+25,Belton,0,44.0
+26,Belton,0,44.0
+27,Belton,0,44.0
+28,Belton,0,45.0
+29,Belton,0,43.0
+30,Belton,0,43.0
+31,Belton,0,43.0
+32,Belton,0,44.0
+33,Belton,0,45.0
+34,Belton,0,43.0
+35,Belton,0,44.0
+36,Belton,0,43.0
+37,Belton,0,44.0
+38,Belton,0,43.0
+39,Belton,0,43.0
+40,Belton,0,43.0
+41,Belton,0,44.0
+42,Belton,0,45.0
+43,Belton,0,44.0
+44,Belton,0,44.0
+45,Belton,0,43.0
+46,Belton,0,43.0
+47,Belton,0,44.0
+48,Belton,0,43.0
+49,Belton,0,44.0
+50,Belton,0,44.0
+51,Belton,0,44.0
+52,Belton,0,43.0
+53,Belton,0,43.0
+54,Belton,0,43.0
+55,Belton,0,44.0
+56,Belton,0,44.0
+57,Belton,0,44.0
+58,Belton,0,44.0
+59,Belton,0,44.0
+60,Belton,0,44.0
+61,Belton,0,43.0
+62,Belton,0,43.0
+63,Belton,0,44.0
+64,Belton,0,43.0
+65,Belton,0,44.0
+66,Belton,0,44.0
+67,Belton,0,44.0
+68,Belton,0,43.0
+69,Belton,0,43.0
+70,Belton,0,43.0
+71,Belton,0,43.0
+72,Belton,0,44.0
+73,Belton,0,44.0
+74,Belton,0,43.0
+75,Belton,0,43.0
+76,Belton,0,43.0
+77,Belton,0,43.0
+78,Belton,0,44.0
+79,Belton,0,44.0
+80,Belton,0,44.0
+81,Belton,0,44.0
+82,Belton,0,44.0
+83,Belton,0,44.0
+84,Belton,0,43.0
+85,Belton,0,44.0
+86,Belton,0,44.0
+87,Belton,0,44.0
+88,Belton,0,44.0
+89,Belton,0,44.0
+90,Belton,0,44.0
+91,Belton,0,43.0
+92,Belton,0,44.0
+93,Belton,0,43.0
+94,Belton,0,43.0
+95,Belton,0,44.0
+96,Belton,0,44.0
+97,Belton,0,44.0
+98,Belton,0,44.0
+99,Belton,0,44.0
+0,Bolivar,0,45.0
+1,Bolivar,0,45.0
+2,Bolivar,0,45.0
+3,Bolivar,0,45.0
+4,Bolivar,0,45.0
+5,Bolivar,0,45.0
+6,Bolivar,0,44.0
+7,Bolivar,0,45.0
+8,Bolivar,0,44.0
+9,Bolivar,0,45.0
+10,Bolivar,0,44.0
+11,Bolivar,0,44.0
+12,Bolivar,0,46.0
+13,Bolivar,0,45.0
+14,Bolivar,0,44.0
+15,Bolivar,0,45.0
+16,Bolivar,0,44.0
+17,Bolivar,0,45.0
+18,Bolivar,0,44.0
+19,Bolivar,0,44.0
+20,Bolivar,0,46.0
+21,Bolivar,0,45.0
+22,Bolivar,0,45.0
+23,Bolivar,0,44.0
+24,Bolivar,0,44.0
+25,Bolivar,0,45.0
+26,Bolivar,0,45.0
+27,Bolivar,0,45.0
+28,Bolivar,0,46.0
+29,Bolivar,0,44.0
+30,Bolivar,0,44.0
+31,Bolivar,0,44.0
+32,Bolivar,0,45.0
+33,Bolivar,0,46.0
+34,Bolivar,0,44.0
+35,Bolivar,0,45.0
+36,Bolivar,0,44.0
+37,Bolivar,0,45.0
+38,Bolivar,0,44.0
+39,Bolivar,0,44.0
+40,Bolivar,0,44.0
+41,Bolivar,0,45.0
+42,Bolivar,0,46.0
+43,Bolivar,0,45.0
+44,Bolivar,0,45.0
+45,Bolivar,0,44.0
+46,Bolivar,0,44.0
+47,Bolivar,0,45.0
+48,Bolivar,0,44.0
+49,Bolivar,0,45.0
+50,Bolivar,0,45.0
+51,Bolivar,0,45.0
+52,Bolivar,0,44.0
+53,Bolivar,0,44.0
+54,Bolivar,0,44.0
+55,Bolivar,0,45.0
+56,Bolivar,0,45.0
+57,Bolivar,0,45.0
+58,Bolivar,0,45.0
+59,Bolivar,0,45.0
+60,Bolivar,0,45.0
+61,Bolivar,0,44.0
+62,Bolivar,0,44.0
+63,Bolivar,0,45.0
+64,Bolivar,0,44.0
+65,Bolivar,0,45.0
+66,Bolivar,0,45.0
+67,Bolivar,0,45.0
+68,Bolivar,0,44.0
+69,Bolivar,0,44.0
+70,Bolivar,0,44.0
+71,Bolivar,0,44.0
+72,Bolivar,0,45.0
+73,Bolivar,0,45.0
+74,Bolivar,0,44.0
+75,Bolivar,0,44.0
+76,Bolivar,0,44.0
+77,Bolivar,0,44.0
+78,Bolivar,0,45.0
+79,Bolivar,0,45.0
+80,Bolivar,0,45.0
+81,Bolivar,0,45.0
+82,Bolivar,0,45.0
+83,Bolivar,0,45.0
+84,Bolivar,0,44.0
+85,Bolivar,0,45.0
+86,Bolivar,0,45.0
+87,Bolivar,0,45.0
+88,Bolivar,0,45.0
+89,Bolivar,0,45.0
+90,Bolivar,0,45.0
+91,Bolivar,0,44.0
+92,Bolivar,0,45.0
+93,Bolivar,0,44.0
+94,Bolivar,0,44.0
+95,Bolivar,0,45.0
+96,Bolivar,0,45.0
+97,Bolivar,0,45.0
+98,Bolivar,0,45.0
+99,Bolivar,0,45.0
+0,Camdenton,0,46.0
+1,Camdenton,0,46.0
+2,Camdenton,0,46.0
+3,Camdenton,0,46.0
+4,Camdenton,0,46.0
+5,Camdenton,0,46.0
+6,Camdenton,0,45.0
+7,Camdenton,0,46.0
+8,Camdenton,0,45.0
+9,Camdenton,0,46.0
+10,Camdenton,0,45.0
+11,Camdenton,0,45.0
+12,Camdenton,0,47.0
+13,Camdenton,0,46.0
+14,Camdenton,0,45.0
+15,Camdenton,0,46.0
+16,Camdenton,0,45.0
+17,Camdenton,0,46.0
+18,Camdenton,0,45.0
+19,Camdenton,0,45.0
+20,Camdenton,0,47.0
+21,Camdenton,0,46.0
+22,Camdenton,0,46.0
+23,Camdenton,0,45.0
+24,Camdenton,0,45.0
+25,Camdenton,0,46.0
+26,Camdenton,0,46.0
+27,Camdenton,0,46.0
+28,Camdenton,0,47.0
+29,Camdenton,0,45.0
+30,Camdenton,0,45.0
+31,Camdenton,0,45.0
+32,Camdenton,0,46.0
+33,Camdenton,0,47.0
+34,Camdenton,0,45.0
+35,Camdenton,0,46.0
+36,Camdenton,0,45.0
+37,Camdenton,0,46.0
+38,Camdenton,0,45.0
+39,Camdenton,0,45.0
+40,Camdenton,0,45.0
+41,Camdenton,0,46.0
+42,Camdenton,0,47.0
+43,Camdenton,0,46.0
+44,Camdenton,0,46.0
+45,Camdenton,0,45.0
+46,Camdenton,0,45.0
+47,Camdenton,0,46.0
+48,Camdenton,0,45.0
+49,Camdenton,0,46.0
+50,Camdenton,0,46.0
+51,Camdenton,0,46.0
+52,Camdenton,0,45.0
+53,Camdenton,0,45.0
+54,Camdenton,0,45.0
+55,Camdenton,0,46.0
+56,Camdenton,0,46.0
+57,Camdenton,0,46.0
+58,Camdenton,0,46.0
+59,Camdenton,0,46.0
+60,Camdenton,0,46.0
+61,Camdenton,0,45.0
+62,Camdenton,0,45.0
+63,Camdenton,0,46.0
+64,Camdenton,0,45.0
+65,Camdenton,0,46.0
+66,Camdenton,0,46.0
+67,Camdenton,0,46.0
+68,Camdenton,0,45.0
+69,Camdenton,0,45.0
+70,Camdenton,0,45.0
+71,Camdenton,0,45.0
+72,Camdenton,0,46.0
+73,Camdenton,0,46.0
+74,Camdenton,0,45.0
+75,Camdenton,0,45.0
+76,Camdenton,0,45.0
+77,Camdenton,0,45.0
+78,Camdenton,0,46.0
+79,Camdenton,0,46.0
+80,Camdenton,0,46.0
+81,Camdenton,0,46.0
+82,Camdenton,0,46.0
+83,Camdenton,0,46.0
+84,Camdenton,0,45.0
+85,Camdenton,0,46.0
+86,Camdenton,0,46.0
+87,Camdenton,0,46.0
+88,Camdenton,0,46.0
+89,Camdenton,0,46.0
+90,Camdenton,0,46.0
+91,Camdenton,0,45.0
+92,Camdenton,0,46.0
+93,Camdenton,0,45.0
+94,Camdenton,0,45.0
+95,Camdenton,0,46.0
+96,Camdenton,0,46.0
+97,Camdenton,0,46.0
+98,Camdenton,0,46.0
+99,Camdenton,0,46.0
+0,Capital City,7,33.0
+1,Capital City,11,30.0
+2,Capital City,12,27.0
+3,Capital City,4,37.0
+4,Capital City,7,32.0
+5,Capital City,9,34.0
+6,Capital City,11,29.0
+7,Capital City,11,31.0
+8,Capital City,7,33.0
+9,Capital City,11,31.0
+10,Capital City,11,30.0
+11,Capital City,12,27.0
+12,Capital City,13,28.0
+13,Capital City,15,26.0
+14,Capital City,11,29.0
+15,Capital City,9,32.0
+16,Capital City,13,27.0
+17,Capital City,9,31.0
+18,Capital City,7,32.0
+19,Capital City,15,28.0
+20,Capital City,12,30.0
+21,Capital City,12,28.0
+22,Capital City,11,30.0
+23,Capital City,12,29.0
+24,Capital City,14,30.0
+25,Capital City,13,30.0
+26,Capital City,9,33.0
+27,Capital City,6,36.0
+28,Capital City,12,28.0
+29,Capital City,9,31.0
+30,Capital City,13,28.0
+31,Capital City,7,33.0
+32,Capital City,9,31.0
+33,Capital City,14,27.0
+34,Capital City,2,37.0
+35,Capital City,11,27.0
+36,Capital City,7,33.0
+37,Capital City,7,31.0
+38,Capital City,7,33.0
+39,Capital City,11,30.0
+40,Capital City,9,31.0
+41,Capital City,13,27.0
+42,Capital City,12,30.0
+43,Capital City,9,32.0
+44,Capital City,13,28.0
+45,Capital City,13,28.0
+46,Capital City,9,30.0
+47,Capital City,14,27.0
+48,Capital City,12,27.0
+49,Capital City,7,35.0
+50,Capital City,14,28.0
+51,Capital City,13,29.0
+52,Capital City,9,32.0
+53,Capital City,12,30.0
+54,Capital City,12,29.0
+55,Capital City,9,30.0
+56,Capital City,12,29.0
+57,Capital City,12,30.0
+58,Capital City,11,30.0
+59,Capital City,11,30.0
+60,Capital City,13,28.0
+61,Capital City,5,34.0
+62,Capital City,12,29.0
+63,Capital City,7,35.0
+64,Capital City,9,32.0
+65,Capital City,7,33.0
+66,Capital City,14,28.0
+67,Capital City,12,29.0
+68,Capital City,14,30.0
+69,Capital City,14,29.0
+70,Capital City,12,30.0
+71,Capital City,11,31.0
+72,Capital City,12,28.0
+73,Capital City,5,35.0
+74,Capital City,13,27.0
+75,Capital City,7,34.0
+76,Capital City,11,29.0
+77,Capital City,9,32.0
+78,Capital City,11,30.0
+79,Capital City,15,28.0
+80,Capital City,13,28.0
+81,Capital City,6,33.0
+82,Capital City,11,27.0
+83,Capital City,12,29.0
+84,Capital City,13,28.0
+85,Capital City,9,32.0
+86,Capital City,12,30.0
+87,Capital City,9,31.0
+88,Capital City,9,32.0
+89,Capital City,11,31.0
+90,Capital City,6,33.0
+91,Capital City,11,29.0
+92,Capital City,3,37.0
+93,Capital City,14,27.0
+94,Capital City,13,27.0
+95,Capital City,12,28.0
+96,Capital City,3,38.0
+97,Capital City,12,28.0
+98,Capital City,5,35.0
+99,Capital City,14,28.0
+0,Carl Junction,11,28.0
+1,Carl Junction,1,42.0
+2,Carl Junction,11,30.0
+3,Carl Junction,6,34.0
+4,Carl Junction,13,29.0
+5,Carl Junction,11,32.0
+6,Carl Junction,6,34.0
+7,Carl Junction,12,30.0
+8,Carl Junction,6,34.0
+9,Carl Junction,9,33.0
+10,Carl Junction,12,28.0
+11,Carl Junction,9,30.0
+12,Carl Junction,9,30.0
+13,Carl Junction,11,30.0
+14,Carl Junction,12,28.0
+15,Carl Junction,7,33.0
+16,Carl Junction,11,28.0
+17,Carl Junction,5,33.0
+18,Carl Junction,9,31.0
+19,Carl Junction,12,30.0
+20,Carl Junction,4,37.0
+21,Carl Junction,11,30.0
+22,Carl Junction,12,29.0
+23,Carl Junction,9,32.0
+24,Carl Junction,11,32.0
+25,Carl Junction,12,32.0
+26,Carl Junction,11,31.0
+27,Carl Junction,7,35.0
+28,Carl Junction,7,34.0
+29,Carl Junction,11,30.0
+30,Carl Junction,12,29.0
+31,Carl Junction,12,29.0
+32,Carl Junction,14,29.0
+33,Carl Junction,5,34.0
+34,Carl Junction,12,30.0
+35,Carl Junction,12,26.0
+36,Carl Junction,12,32.0
+37,Carl Junction,14,29.0
+38,Carl Junction,13,27.0
+39,Carl Junction,6,34.0
+40,Carl Junction,12,29.0
+41,Carl Junction,7,33.0
+42,Carl Junction,9,31.0
+43,Carl Junction,12,29.0
+44,Carl Junction,11,30.0
+45,Carl Junction,9,29.0
+46,Carl Junction,11,29.0
+47,Carl Junction,9,33.0
+48,Carl Junction,9,32.0
+49,Carl Junction,9,32.0
+50,Carl Junction,12,29.0
+51,Carl Junction,12,31.0
+52,Carl Junction,2,37.0
+53,Carl Junction,9,33.0
+54,Carl Junction,11,31.0
+55,Carl Junction,13,27.0
+56,Carl Junction,6,33.0
+57,Carl Junction,2,38.0
+58,Carl Junction,9,31.0
+59,Carl Junction,9,32.0
+60,Carl Junction,9,31.0
+61,Carl Junction,13,28.0
+62,Carl Junction,6,33.0
+63,Carl Junction,9,34.0
+64,Carl Junction,12,29.0
+65,Carl Junction,14,26.0
+66,Carl Junction,9,30.0
+67,Carl Junction,11,31.0
+68,Carl Junction,11,32.0
+69,Carl Junction,9,32.0
+70,Carl Junction,11,32.0
+71,Carl Junction,9,32.0
+72,Carl Junction,7,30.0
+73,Carl Junction,11,32.0
+74,Carl Junction,12,29.0
+75,Carl Junction,9,31.0
+76,Carl Junction,6,33.0
+77,Carl Junction,7,34.0
+78,Carl Junction,12,28.0
+79,Carl Junction,9,31.0
+80,Carl Junction,6,33.0
+81,Carl Junction,13,28.0
+82,Carl Junction,7,33.0
+83,Carl Junction,6,35.0
+84,Carl Junction,11,32.0
+85,Carl Junction,12,28.0
+86,Carl Junction,13,28.0
+87,Carl Junction,6,32.0
+88,Carl Junction,11,31.0
+89,Carl Junction,7,34.0
+90,Carl Junction,11,32.0
+91,Carl Junction,9,32.0
+92,Carl Junction,5,35.0
+93,Carl Junction,11,29.0
+94,Carl Junction,7,32.0
+95,Carl Junction,11,29.0
+96,Carl Junction,14,27.0
+97,Carl Junction,11,30.0
+98,Carl Junction,12,28.0
+99,Carl Junction,12,30.0
+0,Central (Cape Girardeau),66,15.0
+1,Central (Cape Girardeau),56,15.0
+2,Central (Cape Girardeau),68,12.0
+3,Central (Cape Girardeau),60,14.0
+4,Central (Cape Girardeau),67,12.0
+5,Central (Cape Girardeau),64,14.0
+6,Central (Cape Girardeau),60,15.0
+7,Central (Cape Girardeau),66,12.0
+8,Central (Cape Girardeau),61,14.0
+9,Central (Cape Girardeau),60,14.0
+10,Central (Cape Girardeau),59,15.0
+11,Central (Cape Girardeau),55,16.0
+12,Central (Cape Girardeau),62,14.0
+13,Central (Cape Girardeau),59,14.0
+14,Central (Cape Girardeau),67,14.0
+15,Central (Cape Girardeau),58,14.0
+16,Central (Cape Girardeau),61,14.0
+17,Central (Cape Girardeau),61,13.0
+18,Central (Cape Girardeau),59,13.0
+19,Central (Cape Girardeau),65,14.0
+20,Central (Cape Girardeau),64,14.0
+21,Central (Cape Girardeau),54,16.0
+22,Central (Cape Girardeau),75,11.0
+23,Central (Cape Girardeau),63,15.0
+24,Central (Cape Girardeau),61,15.0
+25,Central (Cape Girardeau),60,14.0
+26,Central (Cape Girardeau),65,12.0
+27,Central (Cape Girardeau),62,15.0
+28,Central (Cape Girardeau),62,13.0
+29,Central (Cape Girardeau),65,15.0
+30,Central (Cape Girardeau),61,14.0
+31,Central (Cape Girardeau),62,13.0
+32,Central (Cape Girardeau),63,15.0
+33,Central (Cape Girardeau),64,12.0
+34,Central (Cape Girardeau),58,14.0
+35,Central (Cape Girardeau),64,13.0
+36,Central (Cape Girardeau),60,14.0
+37,Central (Cape Girardeau),58,16.0
+38,Central (Cape Girardeau),67,13.0
+39,Central (Cape Girardeau),67,14.0
+40,Central (Cape Girardeau),63,14.0
+41,Central (Cape Girardeau),66,13.0
+42,Central (Cape Girardeau),62,14.0
+43,Central (Cape Girardeau),61,15.0
+44,Central (Cape Girardeau),70,13.0
+45,Central (Cape Girardeau),57,15.0
+46,Central (Cape Girardeau),65,14.0
+47,Central (Cape Girardeau),67,14.0
+48,Central (Cape Girardeau),62,15.0
+49,Central (Cape Girardeau),58,15.0
+50,Central (Cape Girardeau),60,14.0
+51,Central (Cape Girardeau),62,15.0
+52,Central (Cape Girardeau),51,16.0
+53,Central (Cape Girardeau),59,15.0
+54,Central (Cape Girardeau),63,15.0
+55,Central (Cape Girardeau),55,15.0
+56,Central (Cape Girardeau),65,14.0
+57,Central (Cape Girardeau),61,14.0
+58,Central (Cape Girardeau),59,15.0
+59,Central (Cape Girardeau),59,15.0
+60,Central (Cape Girardeau),64,14.0
+61,Central (Cape Girardeau),56,15.0
+62,Central (Cape Girardeau),61,15.0
+63,Central (Cape Girardeau),57,15.0
+64,Central (Cape Girardeau),57,15.0
+65,Central (Cape Girardeau),64,15.0
+66,Central (Cape Girardeau),64,14.0
+67,Central (Cape Girardeau),67,14.0
+68,Central (Cape Girardeau),53,15.0
+69,Central (Cape Girardeau),62,13.0
+70,Central (Cape Girardeau),60,15.0
+71,Central (Cape Girardeau),61,15.0
+72,Central (Cape Girardeau),53,16.0
+73,Central (Cape Girardeau),54,16.0
+74,Central (Cape Girardeau),58,14.0
+75,Central (Cape Girardeau),59,13.0
+76,Central (Cape Girardeau),68,12.0
+77,Central (Cape Girardeau),55,15.0
+78,Central (Cape Girardeau),66,12.0
+79,Central (Cape Girardeau),61,14.0
+80,Central (Cape Girardeau),64,13.0
+81,Central (Cape Girardeau),61,14.0
+82,Central (Cape Girardeau),60,15.0
+83,Central (Cape Girardeau),62,15.0
+84,Central (Cape Girardeau),61,14.0
+85,Central (Cape Girardeau),63,14.0
+86,Central (Cape Girardeau),62,14.0
+87,Central (Cape Girardeau),67,13.0
+88,Central (Cape Girardeau),63,14.0
+89,Central (Cape Girardeau),65,13.0
+90,Central (Cape Girardeau),62,14.0
+91,Central (Cape Girardeau),61,13.0
+92,Central (Cape Girardeau),59,15.0
+93,Central (Cape Girardeau),64,15.0
+94,Central (Cape Girardeau),57,13.0
+95,Central (Cape Girardeau),59,13.0
+96,Central (Cape Girardeau),65,13.0
+97,Central (Cape Girardeau),63,13.0
+98,Central (Cape Girardeau),59,14.0
+99,Central (Cape Girardeau),60,15.0
+0,Central (Springfield),0,47.0
+1,Central (Springfield),0,47.0
+2,Central (Springfield),0,47.0
+3,Central (Springfield),0,47.0
+4,Central (Springfield),0,47.0
+5,Central (Springfield),0,47.0
+6,Central (Springfield),0,46.0
+7,Central (Springfield),0,47.0
+8,Central (Springfield),0,46.0
+9,Central (Springfield),0,47.0
+10,Central (Springfield),0,46.0
+11,Central (Springfield),0,46.0
+12,Central (Springfield),0,48.0
+13,Central (Springfield),0,47.0
+14,Central (Springfield),0,46.0
+15,Central (Springfield),0,47.0
+16,Central (Springfield),0,46.0
+17,Central (Springfield),0,47.0
+18,Central (Springfield),0,46.0
+19,Central (Springfield),0,46.0
+20,Central (Springfield),0,48.0
+21,Central (Springfield),0,47.0
+22,Central (Springfield),0,47.0
+23,Central (Springfield),0,46.0
+24,Central (Springfield),0,46.0
+25,Central (Springfield),0,47.0
+26,Central (Springfield),0,47.0
+27,Central (Springfield),0,47.0
+28,Central (Springfield),0,48.0
+29,Central (Springfield),0,46.0
+30,Central (Springfield),0,46.0
+31,Central (Springfield),0,46.0
+32,Central (Springfield),0,47.0
+33,Central (Springfield),0,48.0
+34,Central (Springfield),0,46.0
+35,Central (Springfield),0,47.0
+36,Central (Springfield),0,46.0
+37,Central (Springfield),0,47.0
+38,Central (Springfield),0,46.0
+39,Central (Springfield),0,46.0
+40,Central (Springfield),0,46.0
+41,Central (Springfield),0,47.0
+42,Central (Springfield),0,48.0
+43,Central (Springfield),0,47.0
+44,Central (Springfield),0,47.0
+45,Central (Springfield),0,46.0
+46,Central (Springfield),0,46.0
+47,Central (Springfield),0,47.0
+48,Central (Springfield),0,46.0
+49,Central (Springfield),0,47.0
+50,Central (Springfield),0,47.0
+51,Central (Springfield),0,47.0
+52,Central (Springfield),0,46.0
+53,Central (Springfield),0,46.0
+54,Central (Springfield),0,46.0
+55,Central (Springfield),0,47.0
+56,Central (Springfield),0,47.0
+57,Central (Springfield),0,47.0
+58,Central (Springfield),0,47.0
+59,Central (Springfield),0,47.0
+60,Central (Springfield),0,47.0
+61,Central (Springfield),0,46.0
+62,Central (Springfield),0,46.0
+63,Central (Springfield),0,47.0
+64,Central (Springfield),0,46.0
+65,Central (Springfield),0,47.0
+66,Central (Springfield),0,47.0
+67,Central (Springfield),0,47.0
+68,Central (Springfield),0,46.0
+69,Central (Springfield),0,46.0
+70,Central (Springfield),0,46.0
+71,Central (Springfield),0,46.0
+72,Central (Springfield),0,47.0
+73,Central (Springfield),0,47.0
+74,Central (Springfield),0,46.0
+75,Central (Springfield),0,46.0
+76,Central (Springfield),0,46.0
+77,Central (Springfield),0,46.0
+78,Central (Springfield),0,47.0
+79,Central (Springfield),0,47.0
+80,Central (Springfield),0,47.0
+81,Central (Springfield),0,47.0
+82,Central (Springfield),0,47.0
+83,Central (Springfield),0,47.0
+84,Central (Springfield),0,46.0
+85,Central (Springfield),0,47.0
+86,Central (Springfield),0,47.0
+87,Central (Springfield),0,47.0
+88,Central (Springfield),0,47.0
+89,Central (Springfield),0,47.0
+90,Central (Springfield),0,47.0
+91,Central (Springfield),0,46.0
+92,Central (Springfield),0,47.0
+93,Central (Springfield),0,46.0
+94,Central (Springfield),0,46.0
+95,Central (Springfield),0,47.0
+96,Central (Springfield),0,47.0
+97,Central (Springfield),0,47.0
+98,Central (Springfield),0,47.0
+99,Central (Springfield),0,47.0
+0,Clayton,67,14.0
+1,Clayton,51,17.0
+2,Clayton,62,14.0
+3,Clayton,60,15.0
+4,Clayton,59,14.0
+5,Clayton,68,12.0
+6,Clayton,68,11.0
+7,Clayton,61,15.0
+8,Clayton,71,12.0
+9,Clayton,50,16.0
+10,Clayton,58,16.0
+11,Clayton,56,15.0
+12,Clayton,65,13.0
+13,Clayton,49,16.0
+14,Clayton,71,13.0
+15,Clayton,61,13.0
+16,Clayton,57,15.0
+17,Clayton,56,16.0
+18,Clayton,56,14.0
+19,Clayton,54,15.0
+20,Clayton,69,12.0
+21,Clayton,70,12.0
+22,Clayton,70,12.0
+23,Clayton,81,11.0
+24,Clayton,69,13.0
+25,Clayton,54,16.0
+26,Clayton,60,13.0
+27,Clayton,65,13.0
+28,Clayton,56,14.0
+29,Clayton,56,16.0
+30,Clayton,64,13.0
+31,Clayton,70,11.0
+32,Clayton,69,12.0
+33,Clayton,68,11.0
+34,Clayton,58,15.0
+35,Clayton,60,14.0
+36,Clayton,61,13.0
+37,Clayton,62,14.0
+38,Clayton,48,16.0
+39,Clayton,54,16.0
+40,Clayton,74,13.0
+41,Clayton,56,15.0
+42,Clayton,69,13.0
+43,Clayton,68,14.0
+44,Clayton,51,16.0
+45,Clayton,59,14.0
+46,Clayton,60,15.0
+47,Clayton,72,13.0
+48,Clayton,68,13.0
+49,Clayton,59,14.0
+50,Clayton,60,15.0
+51,Clayton,71,12.0
+52,Clayton,62,12.0
+53,Clayton,64,14.0
+54,Clayton,55,16.0
+55,Clayton,64,13.0
+56,Clayton,67,12.0
+57,Clayton,56,15.0
+58,Clayton,64,14.0
+59,Clayton,66,14.0
+60,Clayton,49,15.0
+61,Clayton,51,16.0
+62,Clayton,89,9.0
+63,Clayton,80,11.0
+64,Clayton,50,16.0
+65,Clayton,66,13.0
+66,Clayton,74,11.0
+67,Clayton,55,15.0
+68,Clayton,54,14.0
+69,Clayton,54,15.0
+70,Clayton,62,14.0
+71,Clayton,89,9.0
+72,Clayton,59,13.0
+73,Clayton,73,11.0
+74,Clayton,51,16.0
+75,Clayton,56,14.0
+76,Clayton,60,15.0
+77,Clayton,63,13.0
+78,Clayton,59,16.0
+79,Clayton,57,15.0
+80,Clayton,59,14.0
+81,Clayton,58,15.0
+82,Clayton,63,14.0
+83,Clayton,76,11.0
+84,Clayton,51,16.0
+85,Clayton,59,16.0
+86,Clayton,57,15.0
+87,Clayton,62,15.0
+88,Clayton,80,10.0
+89,Clayton,41,17.0
+90,Clayton,75,11.0
+91,Clayton,55,14.0
+92,Clayton,76,9.0
+93,Clayton,77,12.0
+94,Clayton,57,14.0
+95,Clayton,61,12.0
+96,Clayton,65,14.0
+97,Clayton,60,15.0
+98,Clayton,64,13.0
+99,Clayton,86,8.0
+0,Father Tolton,142,6.0
+1,Father Tolton,133,6.0
+2,Father Tolton,140,4.0
+3,Father Tolton,147,5.0
+4,Father Tolton,139,5.0
+5,Father Tolton,133,6.0
+6,Father Tolton,147,5.0
+7,Father Tolton,132,6.0
+8,Father Tolton,144,5.0
+9,Father Tolton,154,3.0
+10,Father Tolton,144,6.0
+11,Father Tolton,136,6.0
+12,Father Tolton,161,2.0
+13,Father Tolton,163,2.0
+14,Father Tolton,142,5.0
+15,Father Tolton,145,5.0
+16,Father Tolton,150,5.0
+17,Father Tolton,146,5.0
+18,Father Tolton,132,6.0
+19,Father Tolton,150,3.0
+20,Father Tolton,142,5.0
+21,Father Tolton,145,5.0
+22,Father Tolton,154,3.0
+23,Father Tolton,137,6.0
+24,Father Tolton,141,5.0
+25,Father Tolton,175,2.0
+26,Father Tolton,152,3.0
+27,Father Tolton,138,6.0
+28,Father Tolton,146,4.0
+29,Father Tolton,150,5.0
+30,Father Tolton,143,6.0
+31,Father Tolton,143,6.0
+32,Father Tolton,155,3.0
+33,Father Tolton,154,5.0
+34,Father Tolton,148,5.0
+35,Father Tolton,141,6.0
+36,Father Tolton,157,2.0
+37,Father Tolton,150,4.0
+38,Father Tolton,149,5.0
+39,Father Tolton,139,5.0
+40,Father Tolton,148,3.0
+41,Father Tolton,139,6.0
+42,Father Tolton,155,2.0
+43,Father Tolton,155,4.0
+44,Father Tolton,140,6.0
+45,Father Tolton,158,3.0
+46,Father Tolton,149,5.0
+47,Father Tolton,126,6.0
+48,Father Tolton,144,4.0
+49,Father Tolton,146,5.0
+50,Father Tolton,145,5.0
+51,Father Tolton,137,5.0
+52,Father Tolton,132,6.0
+53,Father Tolton,142,6.0
+54,Father Tolton,140,5.0
+55,Father Tolton,144,4.0
+56,Father Tolton,134,6.0
+57,Father Tolton,153,3.0
+58,Father Tolton,148,4.0
+59,Father Tolton,146,3.0
+60,Father Tolton,147,4.0
+61,Father Tolton,139,5.0
+62,Father Tolton,123,6.0
+63,Father Tolton,143,4.0
+64,Father Tolton,147,5.0
+65,Father Tolton,152,2.0
+66,Father Tolton,147,6.0
+67,Father Tolton,136,6.0
+68,Father Tolton,141,6.0
+69,Father Tolton,136,6.0
+70,Father Tolton,135,5.0
+71,Father Tolton,144,5.0
+72,Father Tolton,158,3.0
+73,Father Tolton,158,3.0
+74,Father Tolton,146,4.0
+75,Father Tolton,148,5.0
+76,Father Tolton,152,2.0
+77,Father Tolton,144,5.0
+78,Father Tolton,141,5.0
+79,Father Tolton,148,6.0
+80,Father Tolton,147,6.0
+81,Father Tolton,139,5.0
+82,Father Tolton,144,6.0
+83,Father Tolton,139,5.0
+84,Father Tolton,154,3.0
+85,Father Tolton,148,5.0
+86,Father Tolton,135,6.0
+87,Father Tolton,143,5.0
+88,Father Tolton,148,5.0
+89,Father Tolton,149,6.0
+90,Father Tolton,138,5.0
+91,Father Tolton,151,5.0
+92,Father Tolton,133,6.0
+93,Father Tolton,131,6.0
+94,Father Tolton,136,6.0
+95,Father Tolton,145,4.0
+96,Father Tolton,142,5.0
+97,Father Tolton,156,5.0
+98,Father Tolton,155,3.0
+99,Father Tolton,142,6.0
+0,Ft. Zumwalt East,11,29.0
+1,Ft. Zumwalt East,10,32.0
+2,Ft. Zumwalt East,12,28.0
+3,Ft. Zumwalt East,11,28.0
+4,Ft. Zumwalt East,15,27.0
+5,Ft. Zumwalt East,17,28.0
+6,Ft. Zumwalt East,11,30.0
+7,Ft. Zumwalt East,18,25.0
+8,Ft. Zumwalt East,15,27.0
+9,Ft. Zumwalt East,16,25.0
+10,Ft. Zumwalt East,10,31.0
+11,Ft. Zumwalt East,10,29.0
+12,Ft. Zumwalt East,17,26.0
+13,Ft. Zumwalt East,11,31.0
+14,Ft. Zumwalt East,13,27.0
+15,Ft. Zumwalt East,13,28.0
+16,Ft. Zumwalt East,16,26.0
+17,Ft. Zumwalt East,15,27.0
+18,Ft. Zumwalt East,10,30.0
+19,Ft. Zumwalt East,13,29.0
+20,Ft. Zumwalt East,17,27.0
+21,Ft. Zumwalt East,15,27.0
+22,Ft. Zumwalt East,15,27.0
+23,Ft. Zumwalt East,18,27.0
+24,Ft. Zumwalt East,16,27.0
+25,Ft. Zumwalt East,18,27.0
+26,Ft. Zumwalt East,14,28.0
+27,Ft. Zumwalt East,11,30.0
+28,Ft. Zumwalt East,16,27.0
+29,Ft. Zumwalt East,16,28.0
+30,Ft. Zumwalt East,11,31.0
+31,Ft. Zumwalt East,13,28.0
+32,Ft. Zumwalt East,15,27.0
+33,Ft. Zumwalt East,12,29.0
+34,Ft. Zumwalt East,17,27.0
+35,Ft. Zumwalt East,10,31.0
+36,Ft. Zumwalt East,14,28.0
+37,Ft. Zumwalt East,11,30.0
+38,Ft. Zumwalt East,13,28.0
+39,Ft. Zumwalt East,16,26.0
+40,Ft. Zumwalt East,13,28.0
+41,Ft. Zumwalt East,11,29.0
+42,Ft. Zumwalt East,16,26.0
+43,Ft. Zumwalt East,13,27.0
+44,Ft. Zumwalt East,19,26.0
+45,Ft. Zumwalt East,16,27.0
+46,Ft. Zumwalt East,13,27.0
+47,Ft. Zumwalt East,10,32.0
+48,Ft. Zumwalt East,12,28.0
+49,Ft. Zumwalt East,18,26.0
+50,Ft. Zumwalt East,16,27.0
+51,Ft. Zumwalt East,15,27.0
+52,Ft. Zumwalt East,16,27.0
+53,Ft. Zumwalt East,14,27.0
+54,Ft. Zumwalt East,15,27.0
+55,Ft. Zumwalt East,9,31.0
+56,Ft. Zumwalt East,17,27.0
+57,Ft. Zumwalt East,14,28.0
+58,Ft. Zumwalt East,13,28.0
+59,Ft. Zumwalt East,16,28.0
+60,Ft. Zumwalt East,16,27.0
+61,Ft. Zumwalt East,11,31.0
+62,Ft. Zumwalt East,15,27.0
+63,Ft. Zumwalt East,10,32.0
+64,Ft. Zumwalt East,9,33.0
+65,Ft. Zumwalt East,11,29.0
+66,Ft. Zumwalt East,9,31.0
+67,Ft. Zumwalt East,15,27.0
+68,Ft. Zumwalt East,15,28.0
+69,Ft. Zumwalt East,16,28.0
+70,Ft. Zumwalt East,19,26.0
+71,Ft. Zumwalt East,17,27.0
+72,Ft. Zumwalt East,16,27.0
+73,Ft. Zumwalt East,12,29.0
+74,Ft. Zumwalt East,11,31.0
+75,Ft. Zumwalt East,14,26.0
+76,Ft. Zumwalt East,17,26.0
+77,Ft. Zumwalt East,11,30.0
+78,Ft. Zumwalt East,13,27.0
+79,Ft. Zumwalt East,17,27.0
+80,Ft. Zumwalt East,14,27.0
+81,Ft. Zumwalt East,10,30.0
+82,Ft. Zumwalt East,13,25.0
+83,Ft. Zumwalt East,13,28.0
+84,Ft. Zumwalt East,13,29.0
+85,Ft. Zumwalt East,13,27.0
+86,Ft. Zumwalt East,16,27.0
+87,Ft. Zumwalt East,10,30.0
+88,Ft. Zumwalt East,13,28.0
+89,Ft. Zumwalt East,10,32.0
+90,Ft. Zumwalt East,13,29.0
+91,Ft. Zumwalt East,11,30.0
+92,Ft. Zumwalt East,11,31.0
+93,Ft. Zumwalt East,10,31.0
+94,Ft. Zumwalt East,17,26.0
+95,Ft. Zumwalt East,17,26.0
+96,Ft. Zumwalt East,13,29.0
+97,Ft. Zumwalt East,11,31.0
+98,Ft. Zumwalt East,15,25.0
+99,Ft. Zumwalt East,16,27.0
+0,Ft. Zumwalt South,11,30.0
+1,Ft. Zumwalt South,7,33.0
+2,Ft. Zumwalt South,9,31.0
+3,Ft. Zumwalt South,12,26.0
+4,Ft. Zumwalt South,7,33.0
+5,Ft. Zumwalt South,9,35.0
+6,Ft. Zumwalt South,9,32.0
+7,Ft. Zumwalt South,5,36.0
+8,Ft. Zumwalt South,9,32.0
+9,Ft. Zumwalt South,7,35.0
+10,Ft. Zumwalt South,7,33.0
+11,Ft. Zumwalt South,11,28.0
+12,Ft. Zumwalt South,9,31.0
+13,Ft. Zumwalt South,15,27.0
+14,Ft. Zumwalt South,7,31.0
+15,Ft. Zumwalt South,15,25.0
+16,Ft. Zumwalt South,9,29.0
+17,Ft. Zumwalt South,5,34.0
+18,Ft. Zumwalt South,6,34.0
+19,Ft. Zumwalt South,11,32.0
+20,Ft. Zumwalt South,7,33.0
+21,Ft. Zumwalt South,12,29.0
+22,Ft. Zumwalt South,9,32.0
+23,Ft. Zumwalt South,7,33.0
+24,Ft. Zumwalt South,6,34.0
+25,Ft. Zumwalt South,13,31.0
+26,Ft. Zumwalt South,9,34.0
+27,Ft. Zumwalt South,9,32.0
+28,Ft. Zumwalt South,7,35.0
+29,Ft. Zumwalt South,9,32.0
+30,Ft. Zumwalt South,14,27.0
+31,Ft. Zumwalt South,16,27.0
+32,Ft. Zumwalt South,7,32.0
+33,Ft. Zumwalt South,6,33.0
+34,Ft. Zumwalt South,7,33.0
+35,Ft. Zumwalt South,11,28.0
+36,Ft. Zumwalt South,13,30.0
+37,Ft. Zumwalt South,4,35.0
+38,Ft. Zumwalt South,11,29.0
+39,Ft. Zumwalt South,9,31.0
+40,Ft. Zumwalt South,7,32.0
+41,Ft. Zumwalt South,11,30.0
+42,Ft. Zumwalt South,9,32.0
+43,Ft. Zumwalt South,13,28.0
+44,Ft. Zumwalt South,12,29.0
+45,Ft. Zumwalt South,7,33.0
+46,Ft. Zumwalt South,7,31.0
+47,Ft. Zumwalt South,13,28.0
+48,Ft. Zumwalt South,11,30.0
+49,Ft. Zumwalt South,11,30.0
+50,Ft. Zumwalt South,7,32.0
+51,Ft. Zumwalt South,9,33.0
+52,Ft. Zumwalt South,11,31.0
+53,Ft. Zumwalt South,9,34.0
+54,Ft. Zumwalt South,11,32.0
+55,Ft. Zumwalt South,6,34.0
+56,Ft. Zumwalt South,9,31.0
+57,Ft. Zumwalt South,11,31.0
+58,Ft. Zumwalt South,6,32.0
+59,Ft. Zumwalt South,11,31.0
+60,Ft. Zumwalt South,7,33.0
+61,Ft. Zumwalt South,15,26.0
+62,Ft. Zumwalt South,12,30.0
+63,Ft. Zumwalt South,11,31.0
+64,Ft. Zumwalt South,11,30.0
+65,Ft. Zumwalt South,12,28.0
+66,Ft. Zumwalt South,9,32.0
+67,Ft. Zumwalt South,7,34.0
+68,Ft. Zumwalt South,9,33.0
+69,Ft. Zumwalt South,7,33.0
+70,Ft. Zumwalt South,20,25.0
+71,Ft. Zumwalt South,6,33.0
+72,Ft. Zumwalt South,7,31.0
+73,Ft. Zumwalt South,12,30.0
+74,Ft. Zumwalt South,12,30.0
+75,Ft. Zumwalt South,11,29.0
+76,Ft. Zumwalt South,9,30.0
+77,Ft. Zumwalt South,11,31.0
+78,Ft. Zumwalt South,12,29.0
+79,Ft. Zumwalt South,13,29.0
+80,Ft. Zumwalt South,11,31.0
+81,Ft. Zumwalt South,16,27.0
+82,Ft. Zumwalt South,7,34.0
+83,Ft. Zumwalt South,12,30.0
+84,Ft. Zumwalt South,11,33.0
+85,Ft. Zumwalt South,6,34.0
+86,Ft. Zumwalt South,7,32.0
+87,Ft. Zumwalt South,12,28.0
+88,Ft. Zumwalt South,5,36.0
+89,Ft. Zumwalt South,14,27.0
+90,Ft. Zumwalt South,15,28.0
+91,Ft. Zumwalt South,11,31.0
+92,Ft. Zumwalt South,13,28.0
+93,Ft. Zumwalt South,7,34.0
+94,Ft. Zumwalt South,7,33.0
+95,Ft. Zumwalt South,9,32.0
+96,Ft. Zumwalt South,12,31.0
+97,Ft. Zumwalt South,12,29.0
+98,Ft. Zumwalt South,7,34.0
+99,Ft. Zumwalt South,9,33.0
+0,Glendale,29,23.0
+1,Glendale,22,24.0
+2,Glendale,39,19.0
+3,Glendale,38,19.0
+4,Glendale,30,22.0
+5,Glendale,44,19.0
+6,Glendale,39,19.0
+7,Glendale,38,19.0
+8,Glendale,27,23.0
+9,Glendale,30,22.0
+10,Glendale,18,24.0
+11,Glendale,22,24.0
+12,Glendale,27,22.0
+13,Glendale,26,24.0
+14,Glendale,39,18.0
+15,Glendale,15,26.0
+16,Glendale,26,23.0
+17,Glendale,35,21.0
+18,Glendale,29,22.0
+19,Glendale,23,23.0
+20,Glendale,43,18.0
+21,Glendale,21,25.0
+22,Glendale,37,19.0
+23,Glendale,25,23.0
+24,Glendale,18,26.0
+25,Glendale,36,21.0
+26,Glendale,22,26.0
+27,Glendale,23,24.0
+28,Glendale,35,20.0
+29,Glendale,26,22.0
+30,Glendale,27,23.0
+31,Glendale,42,19.0
+32,Glendale,38,19.0
+33,Glendale,33,21.0
+34,Glendale,25,24.0
+35,Glendale,27,23.0
+36,Glendale,27,23.0
+37,Glendale,28,23.0
+38,Glendale,33,21.0
+39,Glendale,28,22.0
+40,Glendale,43,18.0
+41,Glendale,30,22.0
+42,Glendale,19,25.0
+43,Glendale,29,22.0
+44,Glendale,21,25.0
+45,Glendale,28,23.0
+46,Glendale,29,22.0
+47,Glendale,34,20.0
+48,Glendale,37,20.0
+49,Glendale,29,23.0
+50,Glendale,23,23.0
+51,Glendale,20,25.0
+52,Glendale,26,24.0
+53,Glendale,24,23.0
+54,Glendale,21,26.0
+55,Glendale,32,22.0
+56,Glendale,11,30.0
+57,Glendale,22,25.0
+58,Glendale,17,27.0
+59,Glendale,34,20.0
+60,Glendale,34,19.0
+61,Glendale,29,22.0
+62,Glendale,31,23.0
+63,Glendale,22,24.0
+64,Glendale,47,17.0
+65,Glendale,24,24.0
+66,Glendale,28,23.0
+67,Glendale,25,24.0
+68,Glendale,49,16.0
+69,Glendale,49,16.0
+70,Glendale,40,20.0
+71,Glendale,28,23.0
+72,Glendale,35,21.0
+73,Glendale,17,26.0
+74,Glendale,19,26.0
+75,Glendale,27,24.0
+76,Glendale,26,24.0
+77,Glendale,25,26.0
+78,Glendale,35,20.0
+79,Glendale,29,23.0
+80,Glendale,34,20.0
+81,Glendale,31,22.0
+82,Glendale,30,23.0
+83,Glendale,49,16.0
+84,Glendale,26,23.0
+85,Glendale,31,22.0
+86,Glendale,20,25.0
+87,Glendale,27,22.0
+88,Glendale,32,21.0
+89,Glendale,18,26.0
+90,Glendale,33,19.0
+91,Glendale,43,18.0
+92,Glendale,29,21.0
+93,Glendale,28,23.0
+94,Glendale,30,23.0
+95,Glendale,31,22.0
+96,Glendale,33,21.0
+97,Glendale,23,26.0
+98,Glendale,43,17.0
+99,Glendale,43,17.0
+0,Grain Valley,77,11.0
+1,Grain Valley,90,9.0
+2,Grain Valley,82,10.0
+3,Grain Valley,77,10.0
+4,Grain Valley,102,8.0
+5,Grain Valley,93,7.0
+6,Grain Valley,60,16.0
+7,Grain Valley,83,9.0
+8,Grain Valley,94,10.0
+9,Grain Valley,86,9.0
+10,Grain Valley,77,10.0
+11,Grain Valley,90,9.0
+12,Grain Valley,79,10.0
+13,Grain Valley,93,9.0
+14,Grain Valley,94,9.0
+15,Grain Valley,103,8.0
+16,Grain Valley,91,9.0
+17,Grain Valley,73,12.0
+18,Grain Valley,87,10.0
+19,Grain Valley,80,10.0
+20,Grain Valley,53,15.0
+21,Grain Valley,101,8.0
+22,Grain Valley,83,10.0
+23,Grain Valley,90,9.0
+24,Grain Valley,80,10.0
+25,Grain Valley,70,11.0
+26,Grain Valley,109,8.0
+27,Grain Valley,73,11.0
+28,Grain Valley,73,12.0
+29,Grain Valley,73,11.0
+30,Grain Valley,74,10.0
+31,Grain Valley,85,9.0
+32,Grain Valley,92,9.0
+33,Grain Valley,56,15.0
+34,Grain Valley,94,8.0
+35,Grain Valley,85,9.0
+36,Grain Valley,71,11.0
+37,Grain Valley,89,9.0
+38,Grain Valley,77,10.0
+39,Grain Valley,95,9.0
+40,Grain Valley,77,11.0
+41,Grain Valley,94,9.0
+42,Grain Valley,73,12.0
+43,Grain Valley,83,10.0
+44,Grain Valley,108,7.0
+45,Grain Valley,73,11.0
+46,Grain Valley,69,13.0
+47,Grain Valley,91,9.0
+48,Grain Valley,97,9.0
+49,Grain Valley,85,9.0
+50,Grain Valley,81,10.0
+51,Grain Valley,88,9.0
+52,Grain Valley,97,9.0
+53,Grain Valley,82,8.0
+54,Grain Valley,91,9.0
+55,Grain Valley,89,10.0
+56,Grain Valley,99,8.0
+57,Grain Valley,88,10.0
+58,Grain Valley,99,8.0
+59,Grain Valley,81,11.0
+60,Grain Valley,67,13.0
+61,Grain Valley,78,11.0
+62,Grain Valley,76,11.0
+63,Grain Valley,82,10.0
+64,Grain Valley,75,11.0
+65,Grain Valley,77,12.0
+66,Grain Valley,52,16.0
+67,Grain Valley,75,11.0
+68,Grain Valley,81,10.0
+69,Grain Valley,103,8.0
+70,Grain Valley,82,10.0
+71,Grain Valley,96,8.0
+72,Grain Valley,58,14.0
+73,Grain Valley,84,10.0
+74,Grain Valley,78,11.0
+75,Grain Valley,56,15.0
+76,Grain Valley,83,10.0
+77,Grain Valley,79,10.0
+78,Grain Valley,75,11.0
+79,Grain Valley,70,11.0
+80,Grain Valley,88,10.0
+81,Grain Valley,110,8.0
+82,Grain Valley,93,10.0
+83,Grain Valley,88,9.0
+84,Grain Valley,79,9.0
+85,Grain Valley,90,8.0
+86,Grain Valley,80,9.0
+87,Grain Valley,87,9.0
+88,Grain Valley,72,12.0
+89,Grain Valley,79,10.0
+90,Grain Valley,116,8.0
+91,Grain Valley,93,9.0
+92,Grain Valley,64,13.0
+93,Grain Valley,74,14.0
+94,Grain Valley,107,8.0
+95,Grain Valley,97,9.0
+96,Grain Valley,80,10.0
+97,Grain Valley,82,9.0
+98,Grain Valley,92,9.0
+99,Grain Valley,86,9.0
+0,Greenwood,12,27.0
+1,Greenwood,13,29.0
+2,Greenwood,4,36.0
+3,Greenwood,12,27.0
+4,Greenwood,11,30.0
+5,Greenwood,13,31.0
+6,Greenwood,13,28.0
+7,Greenwood,9,32.0
+8,Greenwood,12,29.0
+9,Greenwood,13,26.0
+10,Greenwood,9,32.0
+11,Greenwood,5,33.0
+12,Greenwood,7,33.0
+13,Greenwood,3,37.0
+14,Greenwood,6,34.0
+15,Greenwood,13,29.0
+16,Greenwood,9,30.0
+17,Greenwood,11,30.0
+18,Greenwood,14,28.0
+19,Greenwood,9,33.0
+20,Greenwood,15,28.0
+21,Greenwood,6,33.0
+22,Greenwood,9,33.0
+23,Greenwood,11,30.0
+24,Greenwood,13,31.0
+25,Greenwood,11,33.0
+26,Greenwood,12,30.0
+27,Greenwood,9,33.0
+28,Greenwood,11,29.0
+29,Greenwood,7,34.0
+30,Greenwood,9,33.0
+31,Greenwood,11,31.0
+32,Greenwood,7,33.0
+33,Greenwood,7,30.0
+34,Greenwood,11,31.0
+35,Greenwood,7,33.0
+36,Greenwood,14,29.0
+37,Greenwood,15,27.0
+38,Greenwood,9,31.0
+39,Greenwood,9,32.0
+40,Greenwood,11,30.0
+41,Greenwood,11,31.0
+42,Greenwood,7,35.0
+43,Greenwood,6,34.0
+44,Greenwood,7,32.0
+45,Greenwood,7,34.0
+46,Greenwood,7,32.0
+47,Greenwood,5,35.0
+48,Greenwood,11,31.0
+49,Greenwood,11,31.0
+50,Greenwood,6,34.0
+51,Greenwood,9,34.0
+52,Greenwood,14,29.0
+53,Greenwood,11,31.0
+54,Greenwood,9,33.0
+55,Greenwood,5,35.0
+56,Greenwood,9,32.0
+57,Greenwood,6,34.0
+58,Greenwood,12,29.0
+59,Greenwood,12,29.0
+60,Greenwood,7,34.0
+61,Greenwood,12,29.0
+62,Greenwood,11,31.0
+63,Greenwood,12,28.0
+64,Greenwood,11,31.0
+65,Greenwood,5,34.0
+66,Greenwood,13,29.0
+67,Greenwood,9,33.0
+68,Greenwood,6,34.0
+69,Greenwood,12,30.0
+70,Greenwood,7,34.0
+71,Greenwood,12,29.0
+72,Greenwood,6,33.0
+73,Greenwood,12,31.0
+74,Greenwood,9,32.0
+75,Greenwood,11,30.0
+76,Greenwood,9,31.0
+77,Greenwood,15,27.0
+78,Greenwood,9,32.0
+79,Greenwood,6,33.0
+80,Greenwood,12,29.0
+81,Greenwood,7,31.0
+82,Greenwood,9,30.0
+83,Greenwood,9,32.0
+84,Greenwood,12,31.0
+85,Greenwood,11,30.0
+86,Greenwood,7,33.0
+87,Greenwood,11,29.0
+88,Greenwood,12,29.0
+89,Greenwood,12,28.0
+90,Greenwood,12,31.0
+91,Greenwood,13,27.0
+92,Greenwood,11,32.0
+93,Greenwood,7,35.0
+94,Greenwood,11,28.0
+95,Greenwood,9,33.0
+96,Greenwood,4,34.0
+97,Greenwood,14,27.0
+98,Greenwood,9,32.0
+99,Greenwood,11,32.0
+0,Hannibal,2,38.0
+1,Hannibal,2,37.0
+2,Hannibal,1,41.0
+3,Hannibal,2,39.0
+4,Hannibal,3,37.0
+5,Hannibal,3,40.0
+6,Hannibal,3,37.0
+7,Hannibal,2,39.0
+8,Hannibal,1,41.0
+9,Hannibal,1,42.0
+10,Hannibal,2,39.0
+11,Hannibal,1,40.0
+12,Hannibal,2,38.0
+13,Hannibal,1,42.0
+14,Hannibal,2,40.0
+15,Hannibal,3,38.0
+16,Hannibal,3,37.0
+17,Hannibal,1,41.0
+18,Hannibal,1,40.0
+19,Hannibal,2,38.0
+20,Hannibal,1,43.0
+21,Hannibal,1,42.0
+22,Hannibal,2,39.0
+23,Hannibal,2,36.0
+24,Hannibal,1,40.0
+25,Hannibal,3,37.0
+26,Hannibal,2,39.0
+27,Hannibal,1,42.0
+28,Hannibal,1,42.0
+29,Hannibal,3,36.0
+30,Hannibal,3,36.0
+31,Hannibal,2,37.0
+32,Hannibal,2,40.0
+33,Hannibal,2,38.0
+34,Hannibal,1,41.0
+35,Hannibal,7,34.0
+36,Hannibal,3,36.0
+37,Hannibal,1,42.0
+38,Hannibal,2,37.0
+39,Hannibal,4,36.0
+40,Hannibal,2,38.0
+41,Hannibal,2,36.0
+42,Hannibal,3,39.0
+43,Hannibal,2,38.0
+44,Hannibal,1,40.0
+45,Hannibal,1,40.0
+46,Hannibal,3,36.0
+47,Hannibal,1,41.0
+48,Hannibal,2,37.0
+49,Hannibal,1,42.0
+50,Hannibal,1,41.0
+51,Hannibal,1,41.0
+52,Hannibal,2,38.0
+53,Hannibal,1,39.0
+54,Hannibal,1,41.0
+55,Hannibal,1,41.0
+56,Hannibal,2,38.0
+57,Hannibal,2,39.0
+58,Hannibal,1,43.0
+59,Hannibal,3,37.0
+60,Hannibal,6,35.0
+61,Hannibal,3,37.0
+62,Hannibal,1,39.0
+63,Hannibal,2,39.0
+64,Hannibal,3,37.0
+65,Hannibal,3,37.0
+66,Hannibal,2,38.0
+67,Hannibal,2,40.0
+68,Hannibal,2,39.0
+69,Hannibal,2,38.0
+70,Hannibal,3,36.0
+71,Hannibal,2,37.0
+72,Hannibal,3,37.0
+73,Hannibal,3,37.0
+74,Hannibal,1,40.0
+75,Hannibal,2,37.0
+76,Hannibal,1,41.0
+77,Hannibal,2,37.0
+78,Hannibal,2,37.0
+79,Hannibal,2,38.0
+80,Hannibal,3,36.0
+81,Hannibal,3,38.0
+82,Hannibal,2,37.0
+83,Hannibal,3,37.0
+84,Hannibal,3,37.0
+85,Hannibal,1,42.0
+86,Hannibal,2,38.0
+87,Hannibal,1,41.0
+88,Hannibal,2,39.0
+89,Hannibal,2,39.0
+90,Hannibal,2,38.0
+91,Hannibal,3,35.0
+92,Hannibal,1,41.0
+93,Hannibal,2,37.0
+94,Hannibal,2,36.0
+95,Hannibal,4,36.0
+96,Hannibal,1,42.0
+97,Hannibal,2,38.0
+98,Hannibal,1,40.0
+99,Hannibal,1,42.0
+0,Hillcrest,0,48.0
+1,Hillcrest,0,48.0
+2,Hillcrest,0,48.0
+3,Hillcrest,0,48.0
+4,Hillcrest,0,48.0
+5,Hillcrest,0,48.0
+6,Hillcrest,0,47.0
+7,Hillcrest,0,48.0
+8,Hillcrest,0,47.0
+9,Hillcrest,0,48.0
+10,Hillcrest,0,47.0
+11,Hillcrest,0,47.0
+12,Hillcrest,0,49.0
+13,Hillcrest,0,48.0
+14,Hillcrest,0,47.0
+15,Hillcrest,0,48.0
+16,Hillcrest,0,47.0
+17,Hillcrest,0,48.0
+18,Hillcrest,0,47.0
+19,Hillcrest,0,47.0
+20,Hillcrest,0,49.0
+21,Hillcrest,0,48.0
+22,Hillcrest,0,48.0
+23,Hillcrest,0,47.0
+24,Hillcrest,0,47.0
+25,Hillcrest,0,48.0
+26,Hillcrest,0,48.0
+27,Hillcrest,0,48.0
+28,Hillcrest,0,49.0
+29,Hillcrest,0,47.0
+30,Hillcrest,0,47.0
+31,Hillcrest,0,47.0
+32,Hillcrest,0,48.0
+33,Hillcrest,0,49.0
+34,Hillcrest,0,47.0
+35,Hillcrest,0,48.0
+36,Hillcrest,0,47.0
+37,Hillcrest,0,48.0
+38,Hillcrest,0,47.0
+39,Hillcrest,0,47.0
+40,Hillcrest,0,47.0
+41,Hillcrest,0,48.0
+42,Hillcrest,0,49.0
+43,Hillcrest,0,48.0
+44,Hillcrest,0,48.0
+45,Hillcrest,0,47.0
+46,Hillcrest,0,47.0
+47,Hillcrest,0,48.0
+48,Hillcrest,0,47.0
+49,Hillcrest,0,48.0
+50,Hillcrest,0,48.0
+51,Hillcrest,0,48.0
+52,Hillcrest,0,47.0
+53,Hillcrest,0,47.0
+54,Hillcrest,0,47.0
+55,Hillcrest,0,48.0
+56,Hillcrest,0,48.0
+57,Hillcrest,0,48.0
+58,Hillcrest,0,48.0
+59,Hillcrest,0,48.0
+60,Hillcrest,0,48.0
+61,Hillcrest,0,47.0
+62,Hillcrest,0,47.0
+63,Hillcrest,0,48.0
+64,Hillcrest,0,47.0
+65,Hillcrest,0,48.0
+66,Hillcrest,0,48.0
+67,Hillcrest,0,48.0
+68,Hillcrest,0,47.0
+69,Hillcrest,0,47.0
+70,Hillcrest,0,47.0
+71,Hillcrest,0,47.0
+72,Hillcrest,0,48.0
+73,Hillcrest,0,48.0
+74,Hillcrest,0,47.0
+75,Hillcrest,0,47.0
+76,Hillcrest,0,47.0
+77,Hillcrest,0,47.0
+78,Hillcrest,0,48.0
+79,Hillcrest,0,48.0
+80,Hillcrest,0,48.0
+81,Hillcrest,0,48.0
+82,Hillcrest,0,48.0
+83,Hillcrest,0,48.0
+84,Hillcrest,0,47.0
+85,Hillcrest,0,48.0
+86,Hillcrest,0,48.0
+87,Hillcrest,0,48.0
+88,Hillcrest,0,48.0
+89,Hillcrest,0,48.0
+90,Hillcrest,0,48.0
+91,Hillcrest,0,47.0
+92,Hillcrest,0,48.0
+93,Hillcrest,0,47.0
+94,Hillcrest,0,47.0
+95,Hillcrest,0,48.0
+96,Hillcrest,0,48.0
+97,Hillcrest,0,48.0
+98,Hillcrest,0,48.0
+99,Hillcrest,0,48.0
+0,Holt,1,42.0
+1,Holt,1,43.0
+2,Holt,1,42.0
+3,Holt,2,40.0
+4,Holt,1,42.0
+5,Holt,1,42.0
+6,Holt,1,40.0
+7,Holt,1,42.0
+8,Holt,1,42.0
+9,Holt,2,39.0
+10,Holt,2,40.0
+11,Holt,1,41.0
+12,Holt,1,43.0
+13,Holt,2,39.0
+14,Holt,2,41.0
+15,Holt,1,43.0
+16,Holt,1,41.0
+17,Holt,1,42.0
+18,Holt,1,41.0
+19,Holt,1,41.0
+20,Holt,1,44.0
+21,Holt,1,43.0
+22,Holt,1,42.0
+23,Holt,1,40.0
+24,Holt,2,38.0
+25,Holt,1,43.0
+26,Holt,1,43.0
+27,Holt,1,43.0
+28,Holt,4,38.0
+29,Holt,2,37.0
+30,Holt,3,37.0
+31,Holt,1,40.0
+32,Holt,1,43.0
+33,Holt,1,42.0
+34,Holt,4,36.0
+35,Holt,2,38.0
+36,Holt,1,42.0
+37,Holt,1,43.0
+38,Holt,1,40.0
+39,Holt,1,42.0
+40,Holt,1,42.0
+41,Holt,1,43.0
+42,Holt,2,42.0
+43,Holt,1,41.0
+44,Holt,1,41.0
+45,Holt,1,41.0
+46,Holt,1,40.0
+47,Holt,3,37.0
+48,Holt,1,40.0
+49,Holt,1,43.0
+50,Holt,2,37.0
+51,Holt,1,42.0
+52,Holt,1,41.0
+53,Holt,1,40.0
+54,Holt,1,42.0
+55,Holt,2,38.0
+56,Holt,1,43.0
+57,Holt,2,40.0
+58,Holt,2,38.0
+59,Holt,1,43.0
+60,Holt,1,42.0
+61,Holt,5,35.0
+62,Holt,1,40.0
+63,Holt,1,42.0
+64,Holt,1,41.0
+65,Holt,2,39.0
+66,Holt,1,42.0
+67,Holt,1,42.0
+68,Holt,1,41.0
+69,Holt,1,41.0
+70,Holt,2,38.0
+71,Holt,1,39.0
+72,Holt,1,42.0
+73,Holt,2,40.0
+74,Holt,1,41.0
+75,Holt,1,40.0
+76,Holt,1,42.0
+77,Holt,1,41.0
+78,Holt,1,42.0
+79,Holt,2,39.0
+80,Holt,2,38.0
+81,Holt,1,43.0
+82,Holt,1,43.0
+83,Holt,1,42.0
+84,Holt,1,41.0
+85,Holt,1,43.0
+86,Holt,1,41.0
+87,Holt,1,42.0
+88,Holt,1,43.0
+89,Holt,1,43.0
+90,Holt,1,42.0
+91,Holt,1,41.0
+92,Holt,1,42.0
+93,Holt,1,41.0
+94,Holt,1,41.0
+95,Holt,1,42.0
+96,Holt,4,35.0
+97,Holt,7,34.0
+98,Holt,1,41.0
+99,Holt,2,39.0
+0,Incarnate Word Academy,0,49.0
+1,Incarnate Word Academy,0,49.0
+2,Incarnate Word Academy,0,49.0
+3,Incarnate Word Academy,0,49.0
+4,Incarnate Word Academy,0,49.0
+5,Incarnate Word Academy,0,49.0
+6,Incarnate Word Academy,0,48.0
+7,Incarnate Word Academy,0,49.0
+8,Incarnate Word Academy,0,48.0
+9,Incarnate Word Academy,0,49.0
+10,Incarnate Word Academy,0,48.0
+11,Incarnate Word Academy,0,48.0
+12,Incarnate Word Academy,0,50.0
+13,Incarnate Word Academy,0,49.0
+14,Incarnate Word Academy,0,48.0
+15,Incarnate Word Academy,0,49.0
+16,Incarnate Word Academy,0,48.0
+17,Incarnate Word Academy,0,49.0
+18,Incarnate Word Academy,0,48.0
+19,Incarnate Word Academy,0,48.0
+20,Incarnate Word Academy,0,50.0
+21,Incarnate Word Academy,0,49.0
+22,Incarnate Word Academy,0,49.0
+23,Incarnate Word Academy,0,48.0
+24,Incarnate Word Academy,0,48.0
+25,Incarnate Word Academy,0,49.0
+26,Incarnate Word Academy,0,49.0
+27,Incarnate Word Academy,0,49.0
+28,Incarnate Word Academy,0,50.0
+29,Incarnate Word Academy,0,48.0
+30,Incarnate Word Academy,0,48.0
+31,Incarnate Word Academy,0,48.0
+32,Incarnate Word Academy,0,49.0
+33,Incarnate Word Academy,0,50.0
+34,Incarnate Word Academy,0,48.0
+35,Incarnate Word Academy,0,49.0
+36,Incarnate Word Academy,0,48.0
+37,Incarnate Word Academy,0,49.0
+38,Incarnate Word Academy,0,48.0
+39,Incarnate Word Academy,0,48.0
+40,Incarnate Word Academy,0,48.0
+41,Incarnate Word Academy,0,49.0
+42,Incarnate Word Academy,0,50.0
+43,Incarnate Word Academy,0,49.0
+44,Incarnate Word Academy,0,49.0
+45,Incarnate Word Academy,0,48.0
+46,Incarnate Word Academy,0,48.0
+47,Incarnate Word Academy,0,49.0
+48,Incarnate Word Academy,0,48.0
+49,Incarnate Word Academy,0,49.0
+50,Incarnate Word Academy,0,49.0
+51,Incarnate Word Academy,0,49.0
+52,Incarnate Word Academy,0,48.0
+53,Incarnate Word Academy,0,48.0
+54,Incarnate Word Academy,0,48.0
+55,Incarnate Word Academy,0,49.0
+56,Incarnate Word Academy,0,49.0
+57,Incarnate Word Academy,0,49.0
+58,Incarnate Word Academy,0,49.0
+59,Incarnate Word Academy,0,49.0
+60,Incarnate Word Academy,0,49.0
+61,Incarnate Word Academy,0,48.0
+62,Incarnate Word Academy,0,48.0
+63,Incarnate Word Academy,0,49.0
+64,Incarnate Word Academy,0,48.0
+65,Incarnate Word Academy,0,49.0
+66,Incarnate Word Academy,0,49.0
+67,Incarnate Word Academy,0,49.0
+68,Incarnate Word Academy,0,48.0
+69,Incarnate Word Academy,0,48.0
+70,Incarnate Word Academy,0,48.0
+71,Incarnate Word Academy,0,48.0
+72,Incarnate Word Academy,0,49.0
+73,Incarnate Word Academy,0,49.0
+74,Incarnate Word Academy,0,48.0
+75,Incarnate Word Academy,0,48.0
+76,Incarnate Word Academy,0,48.0
+77,Incarnate Word Academy,0,48.0
+78,Incarnate Word Academy,0,49.0
+79,Incarnate Word Academy,0,49.0
+80,Incarnate Word Academy,0,49.0
+81,Incarnate Word Academy,0,49.0
+82,Incarnate Word Academy,0,49.0
+83,Incarnate Word Academy,0,49.0
+84,Incarnate Word Academy,0,48.0
+85,Incarnate Word Academy,0,49.0
+86,Incarnate Word Academy,0,49.0
+87,Incarnate Word Academy,0,49.0
+88,Incarnate Word Academy,0,49.0
+89,Incarnate Word Academy,0,49.0
+90,Incarnate Word Academy,0,49.0
+91,Incarnate Word Academy,0,48.0
+92,Incarnate Word Academy,0,49.0
+93,Incarnate Word Academy,0,48.0
+94,Incarnate Word Academy,0,48.0
+95,Incarnate Word Academy,0,49.0
+96,Incarnate Word Academy,0,49.0
+97,Incarnate Word Academy,0,49.0
+98,Incarnate Word Academy,0,49.0
+99,Incarnate Word Academy,0,49.0
+0,Jefferson City,0,50.0
+1,Jefferson City,0,50.0
+2,Jefferson City,0,50.0
+3,Jefferson City,0,50.0
+4,Jefferson City,0,50.0
+5,Jefferson City,0,50.0
+6,Jefferson City,0,49.0
+7,Jefferson City,0,50.0
+8,Jefferson City,0,49.0
+9,Jefferson City,0,50.0
+10,Jefferson City,0,49.0
+11,Jefferson City,0,49.0
+12,Jefferson City,0,51.0
+13,Jefferson City,0,50.0
+14,Jefferson City,0,49.0
+15,Jefferson City,0,50.0
+16,Jefferson City,0,49.0
+17,Jefferson City,0,50.0
+18,Jefferson City,0,49.0
+19,Jefferson City,0,49.0
+20,Jefferson City,0,51.0
+21,Jefferson City,0,50.0
+22,Jefferson City,0,50.0
+23,Jefferson City,0,49.0
+24,Jefferson City,0,49.0
+25,Jefferson City,0,50.0
+26,Jefferson City,0,50.0
+27,Jefferson City,0,50.0
+28,Jefferson City,0,51.0
+29,Jefferson City,0,49.0
+30,Jefferson City,0,49.0
+31,Jefferson City,0,49.0
+32,Jefferson City,0,50.0
+33,Jefferson City,0,51.0
+34,Jefferson City,0,49.0
+35,Jefferson City,0,50.0
+36,Jefferson City,0,49.0
+37,Jefferson City,0,50.0
+38,Jefferson City,0,49.0
+39,Jefferson City,0,49.0
+40,Jefferson City,0,49.0
+41,Jefferson City,0,50.0
+42,Jefferson City,0,51.0
+43,Jefferson City,0,50.0
+44,Jefferson City,0,50.0
+45,Jefferson City,0,49.0
+46,Jefferson City,0,49.0
+47,Jefferson City,0,50.0
+48,Jefferson City,0,49.0
+49,Jefferson City,0,50.0
+50,Jefferson City,0,50.0
+51,Jefferson City,0,50.0
+52,Jefferson City,0,49.0
+53,Jefferson City,0,49.0
+54,Jefferson City,0,49.0
+55,Jefferson City,0,50.0
+56,Jefferson City,0,50.0
+57,Jefferson City,0,50.0
+58,Jefferson City,0,50.0
+59,Jefferson City,0,50.0
+60,Jefferson City,0,50.0
+61,Jefferson City,0,49.0
+62,Jefferson City,0,49.0
+63,Jefferson City,0,50.0
+64,Jefferson City,0,49.0
+65,Jefferson City,0,50.0
+66,Jefferson City,0,50.0
+67,Jefferson City,0,50.0
+68,Jefferson City,0,49.0
+69,Jefferson City,0,49.0
+70,Jefferson City,0,49.0
+71,Jefferson City,0,49.0
+72,Jefferson City,0,50.0
+73,Jefferson City,0,50.0
+74,Jefferson City,0,49.0
+75,Jefferson City,0,49.0
+76,Jefferson City,0,49.0
+77,Jefferson City,0,49.0
+78,Jefferson City,0,50.0
+79,Jefferson City,0,50.0
+80,Jefferson City,0,50.0
+81,Jefferson City,0,50.0
+82,Jefferson City,0,50.0
+83,Jefferson City,0,50.0
+84,Jefferson City,0,49.0
+85,Jefferson City,0,50.0
+86,Jefferson City,0,50.0
+87,Jefferson City,0,50.0
+88,Jefferson City,0,50.0
+89,Jefferson City,0,50.0
+90,Jefferson City,0,50.0
+91,Jefferson City,0,49.0
+92,Jefferson City,0,50.0
+93,Jefferson City,0,49.0
+94,Jefferson City,0,49.0
+95,Jefferson City,0,50.0
+96,Jefferson City,0,50.0
+97,Jefferson City,0,50.0
+98,Jefferson City,0,50.0
+99,Jefferson City,0,50.0
+0,John Burroughs,94,8.0
+1,John Burroughs,126,7.0
+2,John Burroughs,107,8.0
+3,John Burroughs,101,8.0
+4,John Burroughs,93,9.0
+5,John Burroughs,92,8.0
+6,John Burroughs,107,7.0
+7,John Burroughs,113,7.0
+8,John Burroughs,117,7.0
+9,John Burroughs,108,7.0
+10,John Burroughs,104,8.0
+11,John Burroughs,103,8.0
+12,John Burroughs,116,7.0
+13,John Burroughs,116,8.0
+14,John Burroughs,116,7.0
+15,John Burroughs,105,7.0
+16,John Burroughs,89,10.0
+17,John Burroughs,108,8.0
+18,John Burroughs,127,7.0
+19,John Burroughs,111,7.0
+20,John Burroughs,104,7.0
+21,John Burroughs,115,7.0
+22,John Burroughs,102,7.0
+23,John Burroughs,104,7.0
+24,John Burroughs,105,8.0
+25,John Burroughs,100,8.0
+26,John Burroughs,97,9.0
+27,John Burroughs,100,8.0
+28,John Burroughs,104,8.0
+29,John Burroughs,99,7.0
+30,John Burroughs,82,9.0
+31,John Burroughs,111,7.0
+32,John Burroughs,83,11.0
+33,John Burroughs,115,7.0
+34,John Burroughs,74,12.0
+35,John Burroughs,102,8.0
+36,John Burroughs,94,8.0
+37,John Burroughs,96,8.0
+38,John Burroughs,111,7.0
+39,John Burroughs,123,7.0
+40,John Burroughs,119,8.0
+41,John Burroughs,108,7.0
+42,John Burroughs,105,8.0
+43,John Burroughs,99,8.0
+44,John Burroughs,99,9.0
+45,John Burroughs,119,7.0
+46,John Burroughs,105,7.0
+47,John Burroughs,115,7.0
+48,John Burroughs,111,7.0
+49,John Burroughs,103,8.0
+50,John Burroughs,100,8.0
+51,John Burroughs,113,7.0
+52,John Burroughs,103,8.0
+53,John Burroughs,79,11.0
+54,John Burroughs,103,8.0
+55,John Burroughs,119,7.0
+56,John Burroughs,97,9.0
+57,John Burroughs,127,7.0
+58,John Burroughs,97,9.0
+59,John Burroughs,102,7.0
+60,John Burroughs,112,8.0
+61,John Burroughs,112,7.0
+62,John Burroughs,112,8.0
+63,John Burroughs,116,7.0
+64,John Burroughs,107,7.0
+65,John Burroughs,111,8.0
+66,John Burroughs,93,8.0
+67,John Burroughs,96,7.0
+68,John Burroughs,89,9.0
+69,John Burroughs,107,7.0
+70,John Burroughs,113,7.0
+71,John Burroughs,78,10.0
+72,John Burroughs,107,8.0
+73,John Burroughs,106,7.0
+74,John Burroughs,89,9.0
+75,John Burroughs,109,7.0
+76,John Burroughs,91,8.0
+77,John Burroughs,121,6.0
+78,John Burroughs,109,7.0
+79,John Burroughs,103,7.0
+80,John Burroughs,100,8.0
+81,John Burroughs,111,7.0
+82,John Burroughs,101,8.0
+83,John Burroughs,95,8.0
+84,John Burroughs,118,7.0
+85,John Burroughs,85,11.0
+86,John Burroughs,115,7.0
+87,John Burroughs,112,7.0
+88,John Burroughs,115,7.0
+89,John Burroughs,113,7.0
+90,John Burroughs,130,6.0
+91,John Burroughs,105,8.0
+92,John Burroughs,111,8.0
+93,John Burroughs,95,7.0
+94,John Burroughs,100,9.0
+95,John Burroughs,103,8.0
+96,John Burroughs,105,7.0
+97,John Burroughs,93,7.0
+98,John Burroughs,112,7.0
+99,John Burroughs,105,7.0
+0,Kearney,36,18.0
+1,Kearney,33,21.0
+2,Kearney,30,23.0
+3,Kearney,26,23.0
+4,Kearney,40,18.0
+5,Kearney,48,17.0
+6,Kearney,30,23.0
+7,Kearney,28,22.0
+8,Kearney,30,22.0
+9,Kearney,29,23.0
+10,Kearney,40,18.0
+11,Kearney,42,19.0
+12,Kearney,36,19.0
+13,Kearney,31,22.0
+14,Kearney,33,21.0
+15,Kearney,47,18.0
+16,Kearney,38,19.0
+17,Kearney,39,18.0
+18,Kearney,28,23.0
+19,Kearney,42,18.0
+20,Kearney,45,16.0
+21,Kearney,32,19.0
+22,Kearney,25,23.0
+23,Kearney,37,18.0
+24,Kearney,39,19.0
+25,Kearney,57,15.0
+26,Kearney,26,23.0
+27,Kearney,35,19.0
+28,Kearney,40,19.0
+29,Kearney,31,20.0
+30,Kearney,38,19.0
+31,Kearney,33,21.0
+32,Kearney,37,20.0
+33,Kearney,41,19.0
+34,Kearney,38,19.0
+35,Kearney,37,18.0
+36,Kearney,37,19.0
+37,Kearney,69,13.0
+38,Kearney,44,17.0
+39,Kearney,26,23.0
+40,Kearney,28,23.0
+41,Kearney,41,18.0
+42,Kearney,36,20.0
+43,Kearney,33,20.0
+44,Kearney,31,22.0
+45,Kearney,39,18.0
+46,Kearney,29,23.0
+47,Kearney,28,23.0
+48,Kearney,38,18.0
+49,Kearney,32,20.0
+50,Kearney,32,21.0
+51,Kearney,51,16.0
+52,Kearney,25,25.0
+53,Kearney,35,20.0
+54,Kearney,30,23.0
+55,Kearney,35,20.0
+56,Kearney,30,22.0
+57,Kearney,23,24.0
+58,Kearney,37,19.0
+59,Kearney,38,18.0
+60,Kearney,23,25.0
+61,Kearney,60,14.0
+62,Kearney,50,16.0
+63,Kearney,33,21.0
+64,Kearney,46,18.0
+65,Kearney,34,20.0
+66,Kearney,35,20.0
+67,Kearney,39,19.0
+68,Kearney,33,19.0
+69,Kearney,36,20.0
+70,Kearney,41,19.0
+71,Kearney,34,21.0
+72,Kearney,34,23.0
+73,Kearney,35,20.0
+74,Kearney,35,20.0
+75,Kearney,41,19.0
+76,Kearney,59,16.0
+77,Kearney,33,21.0
+78,Kearney,27,24.0
+79,Kearney,39,17.0
+80,Kearney,30,23.0
+81,Kearney,30,23.0
+82,Kearney,37,18.0
+83,Kearney,47,17.0
+84,Kearney,42,18.0
+85,Kearney,25,25.0
+86,Kearney,27,23.0
+87,Kearney,39,18.0
+88,Kearney,32,22.0
+89,Kearney,49,16.0
+90,Kearney,40,17.0
+91,Kearney,43,19.0
+92,Kearney,25,23.0
+93,Kearney,30,21.0
+94,Kearney,55,15.0
+95,Kearney,30,23.0
+96,Kearney,32,22.0
+97,Kearney,25,24.0
+98,Kearney,43,18.0
+99,Kearney,45,16.0
+0,Ladue Horton Watkins,42,16.0
+1,Ladue Horton Watkins,62,14.0
+2,Ladue Horton Watkins,40,18.0
+3,Ladue Horton Watkins,57,16.0
+4,Ladue Horton Watkins,52,15.0
+5,Ladue Horton Watkins,45,18.0
+6,Ladue Horton Watkins,45,17.0
+7,Ladue Horton Watkins,65,13.0
+8,Ladue Horton Watkins,46,17.0
+9,Ladue Horton Watkins,40,18.0
+10,Ladue Horton Watkins,52,17.0
+11,Ladue Horton Watkins,61,13.0
+12,Ladue Horton Watkins,48,17.0
+13,Ladue Horton Watkins,43,17.0
+14,Ladue Horton Watkins,43,17.0
+15,Ladue Horton Watkins,42,19.0
+16,Ladue Horton Watkins,34,20.0
+17,Ladue Horton Watkins,57,15.0
+18,Ladue Horton Watkins,42,17.0
+19,Ladue Horton Watkins,51,17.0
+20,Ladue Horton Watkins,44,17.0
+21,Ladue Horton Watkins,31,21.0
+22,Ladue Horton Watkins,52,17.0
+23,Ladue Horton Watkins,38,17.0
+24,Ladue Horton Watkins,41,18.0
+25,Ladue Horton Watkins,53,17.0
+26,Ladue Horton Watkins,35,20.0
+27,Ladue Horton Watkins,49,17.0
+28,Ladue Horton Watkins,47,16.0
+29,Ladue Horton Watkins,42,17.0
+30,Ladue Horton Watkins,40,18.0
+31,Ladue Horton Watkins,47,17.0
+32,Ladue Horton Watkins,44,16.0
+33,Ladue Horton Watkins,56,16.0
+34,Ladue Horton Watkins,40,17.0
+35,Ladue Horton Watkins,48,17.0
+36,Ladue Horton Watkins,43,18.0
+37,Ladue Horton Watkins,39,18.0
+38,Ladue Horton Watkins,40,18.0
+39,Ladue Horton Watkins,41,17.0
+40,Ladue Horton Watkins,40,19.0
+41,Ladue Horton Watkins,49,16.0
+42,Ladue Horton Watkins,40,18.0
+43,Ladue Horton Watkins,53,16.0
+44,Ladue Horton Watkins,35,18.0
+45,Ladue Horton Watkins,48,16.0
+46,Ladue Horton Watkins,36,17.0
+47,Ladue Horton Watkins,43,17.0
+48,Ladue Horton Watkins,53,16.0
+49,Ladue Horton Watkins,49,17.0
+50,Ladue Horton Watkins,61,13.0
+51,Ladue Horton Watkins,49,17.0
+52,Ladue Horton Watkins,42,18.0
+53,Ladue Horton Watkins,47,18.0
+54,Ladue Horton Watkins,70,13.0
+55,Ladue Horton Watkins,42,17.0
+56,Ladue Horton Watkins,32,20.0
+57,Ladue Horton Watkins,45,16.0
+58,Ladue Horton Watkins,40,18.0
+59,Ladue Horton Watkins,85,10.0
+60,Ladue Horton Watkins,38,18.0
+61,Ladue Horton Watkins,39,18.0
+62,Ladue Horton Watkins,39,19.0
+63,Ladue Horton Watkins,43,17.0
+64,Ladue Horton Watkins,41,19.0
+65,Ladue Horton Watkins,39,18.0
+66,Ladue Horton Watkins,46,17.0
+67,Ladue Horton Watkins,49,18.0
+68,Ladue Horton Watkins,48,18.0
+69,Ladue Horton Watkins,40,18.0
+70,Ladue Horton Watkins,42,17.0
+71,Ladue Horton Watkins,48,18.0
+72,Ladue Horton Watkins,60,12.0
+73,Ladue Horton Watkins,39,17.0
+74,Ladue Horton Watkins,54,15.0
+75,Ladue Horton Watkins,47,18.0
+76,Ladue Horton Watkins,38,19.0
+77,Ladue Horton Watkins,45,16.0
+78,Ladue Horton Watkins,45,17.0
+79,Ladue Horton Watkins,38,18.0
+80,Ladue Horton Watkins,38,18.0
+81,Ladue Horton Watkins,48,17.0
+82,Ladue Horton Watkins,42,17.0
+83,Ladue Horton Watkins,43,18.0
+84,Ladue Horton Watkins,48,17.0
+85,Ladue Horton Watkins,48,17.0
+86,Ladue Horton Watkins,54,17.0
+87,Ladue Horton Watkins,63,14.0
+88,Ladue Horton Watkins,45,17.0
+89,Ladue Horton Watkins,39,18.0
+90,Ladue Horton Watkins,53,15.0
+91,Ladue Horton Watkins,48,17.0
+92,Ladue Horton Watkins,57,16.0
+93,Ladue Horton Watkins,49,17.0
+94,Ladue Horton Watkins,42,18.0
+95,Ladue Horton Watkins,55,16.0
+96,Ladue Horton Watkins,65,15.0
+97,Ladue Horton Watkins,36,20.0
+98,Ladue Horton Watkins,42,19.0
+99,Ladue Horton Watkins,37,19.0
+0,Lebanon,31,21.0
+1,Lebanon,52,16.0
+2,Lebanon,41,16.0
+3,Lebanon,35,20.0
+4,Lebanon,46,17.0
+5,Lebanon,25,23.0
+6,Lebanon,65,13.0
+7,Lebanon,27,23.0
+8,Lebanon,34,19.0
+9,Lebanon,41,17.0
+10,Lebanon,30,22.0
+11,Lebanon,48,18.0
+12,Lebanon,27,23.0
+13,Lebanon,50,15.0
+14,Lebanon,27,23.0
+15,Lebanon,51,15.0
+16,Lebanon,49,17.0
+17,Lebanon,34,22.0
+18,Lebanon,36,18.0
+19,Lebanon,29,22.0
+20,Lebanon,33,22.0
+21,Lebanon,30,22.0
+22,Lebanon,27,22.0
+23,Lebanon,27,22.0
+24,Lebanon,27,23.0
+25,Lebanon,24,25.0
+26,Lebanon,31,22.0
+27,Lebanon,27,23.0
+28,Lebanon,28,22.0
+29,Lebanon,26,23.0
+30,Lebanon,18,26.0
+31,Lebanon,43,18.0
+32,Lebanon,31,23.0
+33,Lebanon,44,18.0
+34,Lebanon,36,20.0
+35,Lebanon,33,21.0
+36,Lebanon,33,21.0
+37,Lebanon,35,20.0
+38,Lebanon,28,23.0
+39,Lebanon,34,20.0
+40,Lebanon,48,17.0
+41,Lebanon,33,21.0
+42,Lebanon,56,15.0
+43,Lebanon,28,23.0
+44,Lebanon,29,23.0
+45,Lebanon,38,19.0
+46,Lebanon,35,18.0
+47,Lebanon,42,18.0
+48,Lebanon,34,21.0
+49,Lebanon,39,19.0
+50,Lebanon,34,19.0
+51,Lebanon,30,22.0
+52,Lebanon,31,22.0
+53,Lebanon,58,16.0
+54,Lebanon,37,19.0
+55,Lebanon,36,19.0
+56,Lebanon,39,17.0
+57,Lebanon,31,21.0
+58,Lebanon,44,17.0
+59,Lebanon,25,24.0
+60,Lebanon,41,17.0
+61,Lebanon,32,21.0
+62,Lebanon,40,17.0
+63,Lebanon,34,19.0
+64,Lebanon,36,21.0
+65,Lebanon,27,22.0
+66,Lebanon,46,18.0
+67,Lebanon,54,16.0
+68,Lebanon,30,23.0
+69,Lebanon,35,22.0
+70,Lebanon,24,24.0
+71,Lebanon,50,17.0
+72,Lebanon,45,17.0
+73,Lebanon,30,22.0
+74,Lebanon,51,17.0
+75,Lebanon,52,16.0
+76,Lebanon,54,18.0
+77,Lebanon,35,19.0
+78,Lebanon,33,21.0
+79,Lebanon,30,22.0
+80,Lebanon,42,17.0
+81,Lebanon,32,21.0
+82,Lebanon,37,19.0
+83,Lebanon,25,24.0
+84,Lebanon,27,22.0
+85,Lebanon,34,20.0
+86,Lebanon,53,18.0
+87,Lebanon,27,23.0
+88,Lebanon,39,18.0
+89,Lebanon,35,20.0
+90,Lebanon,24,24.0
+91,Lebanon,31,23.0
+92,Lebanon,55,17.0
+93,Lebanon,29,22.0
+94,Lebanon,38,19.0
+95,Lebanon,37,19.0
+96,Lebanon,40,18.0
+97,Lebanon,36,21.0
+98,Lebanon,27,23.0
+99,Lebanon,41,18.0
+0,Lincoln College Prep,0,51.0
+1,Lincoln College Prep,0,51.0
+2,Lincoln College Prep,0,51.0
+3,Lincoln College Prep,0,51.0
+4,Lincoln College Prep,0,51.0
+5,Lincoln College Prep,0,51.0
+6,Lincoln College Prep,0,50.0
+7,Lincoln College Prep,0,51.0
+8,Lincoln College Prep,0,50.0
+9,Lincoln College Prep,0,51.0
+10,Lincoln College Prep,0,50.0
+11,Lincoln College Prep,0,50.0
+12,Lincoln College Prep,0,52.0
+13,Lincoln College Prep,0,51.0
+14,Lincoln College Prep,0,50.0
+15,Lincoln College Prep,0,51.0
+16,Lincoln College Prep,0,50.0
+17,Lincoln College Prep,0,51.0
+18,Lincoln College Prep,0,50.0
+19,Lincoln College Prep,0,50.0
+20,Lincoln College Prep,0,52.0
+21,Lincoln College Prep,0,51.0
+22,Lincoln College Prep,0,51.0
+23,Lincoln College Prep,0,50.0
+24,Lincoln College Prep,0,50.0
+25,Lincoln College Prep,0,51.0
+26,Lincoln College Prep,0,51.0
+27,Lincoln College Prep,0,51.0
+28,Lincoln College Prep,0,52.0
+29,Lincoln College Prep,0,50.0
+30,Lincoln College Prep,0,50.0
+31,Lincoln College Prep,0,50.0
+32,Lincoln College Prep,0,51.0
+33,Lincoln College Prep,0,52.0
+34,Lincoln College Prep,0,50.0
+35,Lincoln College Prep,0,51.0
+36,Lincoln College Prep,0,50.0
+37,Lincoln College Prep,0,51.0
+38,Lincoln College Prep,0,50.0
+39,Lincoln College Prep,0,50.0
+40,Lincoln College Prep,0,50.0
+41,Lincoln College Prep,0,51.0
+42,Lincoln College Prep,0,52.0
+43,Lincoln College Prep,0,51.0
+44,Lincoln College Prep,0,51.0
+45,Lincoln College Prep,0,50.0
+46,Lincoln College Prep,0,50.0
+47,Lincoln College Prep,0,51.0
+48,Lincoln College Prep,0,50.0
+49,Lincoln College Prep,0,51.0
+50,Lincoln College Prep,0,51.0
+51,Lincoln College Prep,0,51.0
+52,Lincoln College Prep,0,50.0
+53,Lincoln College Prep,0,50.0
+54,Lincoln College Prep,0,50.0
+55,Lincoln College Prep,0,51.0
+56,Lincoln College Prep,0,51.0
+57,Lincoln College Prep,0,51.0
+58,Lincoln College Prep,0,51.0
+59,Lincoln College Prep,0,51.0
+60,Lincoln College Prep,0,51.0
+61,Lincoln College Prep,0,50.0
+62,Lincoln College Prep,0,50.0
+63,Lincoln College Prep,0,51.0
+64,Lincoln College Prep,0,50.0
+65,Lincoln College Prep,0,51.0
+66,Lincoln College Prep,0,51.0
+67,Lincoln College Prep,0,51.0
+68,Lincoln College Prep,0,50.0
+69,Lincoln College Prep,0,50.0
+70,Lincoln College Prep,0,50.0
+71,Lincoln College Prep,0,50.0
+72,Lincoln College Prep,0,51.0
+73,Lincoln College Prep,0,51.0
+74,Lincoln College Prep,0,50.0
+75,Lincoln College Prep,0,50.0
+76,Lincoln College Prep,0,50.0
+77,Lincoln College Prep,0,50.0
+78,Lincoln College Prep,0,51.0
+79,Lincoln College Prep,0,51.0
+80,Lincoln College Prep,0,51.0
+81,Lincoln College Prep,0,51.0
+82,Lincoln College Prep,0,51.0
+83,Lincoln College Prep,0,51.0
+84,Lincoln College Prep,0,50.0
+85,Lincoln College Prep,0,51.0
+86,Lincoln College Prep,0,51.0
+87,Lincoln College Prep,0,51.0
+88,Lincoln College Prep,0,51.0
+89,Lincoln College Prep,0,51.0
+90,Lincoln College Prep,0,51.0
+91,Lincoln College Prep,0,50.0
+92,Lincoln College Prep,0,51.0
+93,Lincoln College Prep,0,50.0
+94,Lincoln College Prep,0,50.0
+95,Lincoln College Prep,0,51.0
+96,Lincoln College Prep,0,51.0
+97,Lincoln College Prep,0,51.0
+98,Lincoln College Prep,0,51.0
+99,Lincoln College Prep,0,51.0
+0,Logan-Rogersville,0,52.0
+1,Logan-Rogersville,0,52.0
+2,Logan-Rogersville,0,52.0
+3,Logan-Rogersville,0,52.0
+4,Logan-Rogersville,0,52.0
+5,Logan-Rogersville,0,52.0
+6,Logan-Rogersville,0,51.0
+7,Logan-Rogersville,0,52.0
+8,Logan-Rogersville,0,51.0
+9,Logan-Rogersville,0,52.0
+10,Logan-Rogersville,0,51.0
+11,Logan-Rogersville,0,51.0
+12,Logan-Rogersville,0,53.0
+13,Logan-Rogersville,0,52.0
+14,Logan-Rogersville,0,51.0
+15,Logan-Rogersville,0,52.0
+16,Logan-Rogersville,0,51.0
+17,Logan-Rogersville,0,52.0
+18,Logan-Rogersville,0,51.0
+19,Logan-Rogersville,0,51.0
+20,Logan-Rogersville,0,53.0
+21,Logan-Rogersville,0,52.0
+22,Logan-Rogersville,0,52.0
+23,Logan-Rogersville,0,51.0
+24,Logan-Rogersville,0,51.0
+25,Logan-Rogersville,0,52.0
+26,Logan-Rogersville,0,52.0
+27,Logan-Rogersville,0,52.0
+28,Logan-Rogersville,0,53.0
+29,Logan-Rogersville,0,51.0
+30,Logan-Rogersville,0,51.0
+31,Logan-Rogersville,0,51.0
+32,Logan-Rogersville,0,52.0
+33,Logan-Rogersville,0,53.0
+34,Logan-Rogersville,0,51.0
+35,Logan-Rogersville,0,52.0
+36,Logan-Rogersville,0,51.0
+37,Logan-Rogersville,0,52.0
+38,Logan-Rogersville,0,51.0
+39,Logan-Rogersville,0,51.0
+40,Logan-Rogersville,0,51.0
+41,Logan-Rogersville,0,52.0
+42,Logan-Rogersville,0,53.0
+43,Logan-Rogersville,0,52.0
+44,Logan-Rogersville,0,52.0
+45,Logan-Rogersville,0,51.0
+46,Logan-Rogersville,0,51.0
+47,Logan-Rogersville,0,52.0
+48,Logan-Rogersville,0,51.0
+49,Logan-Rogersville,0,52.0
+50,Logan-Rogersville,0,52.0
+51,Logan-Rogersville,0,52.0
+52,Logan-Rogersville,0,51.0
+53,Logan-Rogersville,0,51.0
+54,Logan-Rogersville,0,51.0
+55,Logan-Rogersville,0,52.0
+56,Logan-Rogersville,0,52.0
+57,Logan-Rogersville,0,52.0
+58,Logan-Rogersville,0,52.0
+59,Logan-Rogersville,0,52.0
+60,Logan-Rogersville,0,52.0
+61,Logan-Rogersville,0,51.0
+62,Logan-Rogersville,0,51.0
+63,Logan-Rogersville,0,52.0
+64,Logan-Rogersville,0,51.0
+65,Logan-Rogersville,0,52.0
+66,Logan-Rogersville,0,52.0
+67,Logan-Rogersville,0,52.0
+68,Logan-Rogersville,0,51.0
+69,Logan-Rogersville,0,51.0
+70,Logan-Rogersville,0,51.0
+71,Logan-Rogersville,0,51.0
+72,Logan-Rogersville,0,52.0
+73,Logan-Rogersville,0,52.0
+74,Logan-Rogersville,0,51.0
+75,Logan-Rogersville,0,51.0
+76,Logan-Rogersville,0,51.0
+77,Logan-Rogersville,0,51.0
+78,Logan-Rogersville,0,52.0
+79,Logan-Rogersville,0,52.0
+80,Logan-Rogersville,0,52.0
+81,Logan-Rogersville,0,52.0
+82,Logan-Rogersville,0,52.0
+83,Logan-Rogersville,0,52.0
+84,Logan-Rogersville,0,51.0
+85,Logan-Rogersville,0,52.0
+86,Logan-Rogersville,0,52.0
+87,Logan-Rogersville,0,52.0
+88,Logan-Rogersville,0,52.0
+89,Logan-Rogersville,0,52.0
+90,Logan-Rogersville,0,52.0
+91,Logan-Rogersville,0,51.0
+92,Logan-Rogersville,0,52.0
+93,Logan-Rogersville,0,51.0
+94,Logan-Rogersville,0,51.0
+95,Logan-Rogersville,0,52.0
+96,Logan-Rogersville,0,52.0
+97,Logan-Rogersville,0,52.0
+98,Logan-Rogersville,0,52.0
+99,Logan-Rogersville,0,52.0
+0,Louisiana,75,12.0
+1,Louisiana,72,12.0
+2,Louisiana,92,9.0
+3,Louisiana,73,11.0
+4,Louisiana,87,10.0
+5,Louisiana,74,10.0
+6,Louisiana,77,9.0
+7,Louisiana,62,14.0
+8,Louisiana,95,9.0
+9,Louisiana,73,12.0
+10,Louisiana,78,9.0
+11,Louisiana,90,10.0
+12,Louisiana,77,11.0
+13,Louisiana,84,10.0
+14,Louisiana,78,10.0
+15,Louisiana,73,12.0
+16,Louisiana,84,12.0
+17,Louisiana,83,9.0
+18,Louisiana,86,11.0
+19,Louisiana,67,13.0
+20,Louisiana,81,10.0
+21,Louisiana,98,9.0
+22,Louisiana,64,14.0
+23,Louisiana,73,14.0
+24,Louisiana,69,14.0
+25,Louisiana,68,12.0
+26,Louisiana,57,14.0
+27,Louisiana,88,9.0
+28,Louisiana,99,9.0
+29,Louisiana,68,14.0
+30,Louisiana,95,8.0
+31,Louisiana,73,10.0
+32,Louisiana,88,10.0
+33,Louisiana,75,9.0
+34,Louisiana,84,10.0
+35,Louisiana,72,11.0
+36,Louisiana,79,10.0
+37,Louisiana,82,11.0
+38,Louisiana,63,14.0
+39,Louisiana,81,10.0
+40,Louisiana,75,12.0
+41,Louisiana,92,10.0
+42,Louisiana,78,11.0
+43,Louisiana,71,12.0
+44,Louisiana,71,11.0
+45,Louisiana,71,12.0
+46,Louisiana,98,9.0
+47,Louisiana,79,11.0
+48,Louisiana,76,11.0
+49,Louisiana,76,11.0
+50,Louisiana,90,9.0
+51,Louisiana,79,11.0
+52,Louisiana,60,13.0
+53,Louisiana,82,9.0
+54,Louisiana,72,12.0
+55,Louisiana,107,9.0
+56,Louisiana,73,11.0
+57,Louisiana,80,11.0
+58,Louisiana,72,11.0
+59,Louisiana,102,8.0
+60,Louisiana,75,11.0
+61,Louisiana,75,12.0
+62,Louisiana,63,13.0
+63,Louisiana,89,9.0
+64,Louisiana,78,10.0
+65,Louisiana,79,11.0
+66,Louisiana,82,9.0
+67,Louisiana,78,10.0
+68,Louisiana,68,12.0
+69,Louisiana,82,10.0
+70,Louisiana,78,11.0
+71,Louisiana,74,11.0
+72,Louisiana,83,10.0
+73,Louisiana,85,9.0
+74,Louisiana,76,12.0
+75,Louisiana,77,10.0
+76,Louisiana,79,11.0
+77,Louisiana,76,11.0
+78,Louisiana,94,9.0
+79,Louisiana,76,10.0
+80,Louisiana,82,11.0
+81,Louisiana,63,13.0
+82,Louisiana,76,12.0
+83,Louisiana,82,10.0
+84,Louisiana,79,10.0
+85,Louisiana,88,10.0
+86,Louisiana,79,10.0
+87,Louisiana,81,11.0
+88,Louisiana,66,13.0
+89,Louisiana,61,15.0
+90,Louisiana,53,16.0
+91,Louisiana,68,12.0
+92,Louisiana,75,11.0
+93,Louisiana,88,9.0
+94,Louisiana,66,12.0
+95,Louisiana,78,11.0
+96,Louisiana,73,11.0
+97,Louisiana,81,10.0
+98,Louisiana,51,16.0
+99,Louisiana,79,11.0
+0,Lutheran South,30,22.0
+1,Lutheran South,31,22.0
+2,Lutheran South,32,22.0
+3,Lutheran South,31,22.0
+4,Lutheran South,30,23.0
+5,Lutheran South,34,22.0
+6,Lutheran South,33,22.0
+7,Lutheran South,33,20.0
+8,Lutheran South,31,21.0
+9,Lutheran South,35,19.0
+10,Lutheran South,33,20.0
+11,Lutheran South,29,22.0
+12,Lutheran South,36,20.0
+13,Lutheran South,32,21.0
+14,Lutheran South,33,22.0
+15,Lutheran South,33,21.0
+16,Lutheran South,32,21.0
+17,Lutheran South,32,23.0
+18,Lutheran South,32,20.0
+19,Lutheran South,32,21.0
+20,Lutheran South,33,23.0
+21,Lutheran South,32,20.0
+22,Lutheran South,34,21.0
+23,Lutheran South,31,21.0
+24,Lutheran South,35,21.0
+25,Lutheran South,40,18.0
+26,Lutheran South,33,21.0
+27,Lutheran South,28,22.0
+28,Lutheran South,26,24.0
+29,Lutheran South,28,21.0
+30,Lutheran South,37,20.0
+31,Lutheran South,31,23.0
+32,Lutheran South,26,24.0
+33,Lutheran South,32,22.0
+34,Lutheran South,32,22.0
+35,Lutheran South,32,22.0
+36,Lutheran South,32,22.0
+37,Lutheran South,32,21.0
+38,Lutheran South,33,22.0
+39,Lutheran South,36,19.0
+40,Lutheran South,33,22.0
+41,Lutheran South,30,23.0
+42,Lutheran South,34,21.0
+43,Lutheran South,32,21.0
+44,Lutheran South,33,21.0
+45,Lutheran South,33,21.0
+46,Lutheran South,30,21.0
+47,Lutheran South,33,21.0
+48,Lutheran South,31,23.0
+49,Lutheran South,32,21.0
+50,Lutheran South,30,22.0
+51,Lutheran South,31,21.0
+52,Lutheran South,32,21.0
+53,Lutheran South,32,22.0
+54,Lutheran South,33,21.0
+55,Lutheran South,33,21.0
+56,Lutheran South,32,21.0
+57,Lutheran South,33,20.0
+58,Lutheran South,27,23.0
+59,Lutheran South,32,22.0
+60,Lutheran South,25,24.0
+61,Lutheran South,29,23.0
+62,Lutheran South,32,22.0
+63,Lutheran South,32,22.0
+64,Lutheran South,35,22.0
+65,Lutheran South,32,21.0
+66,Lutheran South,32,22.0
+67,Lutheran South,32,22.0
+68,Lutheran South,32,21.0
+69,Lutheran South,36,21.0
+70,Lutheran South,36,21.0
+71,Lutheran South,32,22.0
+72,Lutheran South,33,24.0
+73,Lutheran South,33,21.0
+74,Lutheran South,33,21.0
+75,Lutheran South,31,23.0
+76,Lutheran South,32,22.0
+77,Lutheran South,28,23.0
+78,Lutheran South,32,22.0
+79,Lutheran South,32,21.0
+80,Lutheran South,32,21.0
+81,Lutheran South,33,20.0
+82,Lutheran South,37,20.0
+83,Lutheran South,32,21.0
+84,Lutheran South,31,21.0
+85,Lutheran South,33,21.0
+86,Lutheran South,31,21.0
+87,Lutheran South,32,21.0
+88,Lutheran South,33,19.0
+89,Lutheran South,30,22.0
+90,Lutheran South,32,20.0
+91,Lutheran South,31,24.0
+92,Lutheran South,29,22.0
+93,Lutheran South,33,18.0
+94,Lutheran South,35,20.0
+95,Lutheran South,32,21.0
+96,Lutheran South,30,23.0
+97,Lutheran South,33,23.0
+98,Lutheran South,33,21.0
+99,Lutheran South,31,22.0
+0,Lutheran St. Charles,0,53.0
+1,Lutheran St. Charles,2,38.0
+2,Lutheran St. Charles,0,53.0
+3,Lutheran St. Charles,0,53.0
+4,Lutheran St. Charles,0,53.0
+5,Lutheran St. Charles,0,53.0
+6,Lutheran St. Charles,0,52.0
+7,Lutheran St. Charles,0,53.0
+8,Lutheran St. Charles,0,52.0
+9,Lutheran St. Charles,0,53.0
+10,Lutheran St. Charles,0,52.0
+11,Lutheran St. Charles,0,52.0
+12,Lutheran St. Charles,8,32.0
+13,Lutheran St. Charles,0,53.0
+14,Lutheran St. Charles,0,52.0
+15,Lutheran St. Charles,4,36.0
+16,Lutheran St. Charles,0,52.0
+17,Lutheran St. Charles,0,53.0
+18,Lutheran St. Charles,0,52.0
+19,Lutheran St. Charles,0,52.0
+20,Lutheran St. Charles,4,38.0
+21,Lutheran St. Charles,0,53.0
+22,Lutheran St. Charles,0,53.0
+23,Lutheran St. Charles,0,52.0
+24,Lutheran St. Charles,0,52.0
+25,Lutheran St. Charles,0,53.0
+26,Lutheran St. Charles,0,53.0
+27,Lutheran St. Charles,0,53.0
+28,Lutheran St. Charles,8,32.0
+29,Lutheran St. Charles,0,52.0
+30,Lutheran St. Charles,0,52.0
+31,Lutheran St. Charles,0,52.0
+32,Lutheran St. Charles,0,53.0
+33,Lutheran St. Charles,4,35.0
+34,Lutheran St. Charles,0,52.0
+35,Lutheran St. Charles,2,39.0
+36,Lutheran St. Charles,0,52.0
+37,Lutheran St. Charles,0,53.0
+38,Lutheran St. Charles,0,52.0
+39,Lutheran St. Charles,0,52.0
+40,Lutheran St. Charles,0,52.0
+41,Lutheran St. Charles,0,53.0
+42,Lutheran St. Charles,14,28.0
+43,Lutheran St. Charles,4,35.0
+44,Lutheran St. Charles,0,53.0
+45,Lutheran St. Charles,0,52.0
+46,Lutheran St. Charles,0,52.0
+47,Lutheran St. Charles,0,53.0
+48,Lutheran St. Charles,0,52.0
+49,Lutheran St. Charles,14,28.0
+50,Lutheran St. Charles,0,53.0
+51,Lutheran St. Charles,2,38.0
+52,Lutheran St. Charles,0,52.0
+53,Lutheran St. Charles,0,52.0
+54,Lutheran St. Charles,0,52.0
+55,Lutheran St. Charles,0,53.0
+56,Lutheran St. Charles,0,53.0
+57,Lutheran St. Charles,0,53.0
+58,Lutheran St. Charles,0,53.0
+59,Lutheran St. Charles,0,53.0
+60,Lutheran St. Charles,0,53.0
+61,Lutheran St. Charles,0,52.0
+62,Lutheran St. Charles,0,52.0
+63,Lutheran St. Charles,0,53.0
+64,Lutheran St. Charles,0,52.0
+65,Lutheran St. Charles,4,36.0
+66,Lutheran St. Charles,0,53.0
+67,Lutheran St. Charles,4,37.0
+68,Lutheran St. Charles,0,52.0
+69,Lutheran St. Charles,0,52.0
+70,Lutheran St. Charles,0,52.0
+71,Lutheran St. Charles,0,52.0
+72,Lutheran St. Charles,0,53.0
+73,Lutheran St. Charles,0,53.0
+74,Lutheran St. Charles,0,52.0
+75,Lutheran St. Charles,0,52.0
+76,Lutheran St. Charles,0,52.0
+77,Lutheran St. Charles,0,52.0
+78,Lutheran St. Charles,0,53.0
+79,Lutheran St. Charles,0,53.0
+80,Lutheran St. Charles,0,53.0
+81,Lutheran St. Charles,0,53.0
+82,Lutheran St. Charles,0,53.0
+83,Lutheran St. Charles,0,53.0
+84,Lutheran St. Charles,0,52.0
+85,Lutheran St. Charles,0,53.0
+86,Lutheran St. Charles,0,53.0
+87,Lutheran St. Charles,0,53.0
+88,Lutheran St. Charles,0,53.0
+89,Lutheran St. Charles,0,53.0
+90,Lutheran St. Charles,0,53.0
+91,Lutheran St. Charles,0,52.0
+92,Lutheran St. Charles,12,29.0
+93,Lutheran St. Charles,0,52.0
+94,Lutheran St. Charles,0,52.0
+95,Lutheran St. Charles,0,53.0
+96,Lutheran St. Charles,0,53.0
+97,Lutheran St. Charles,0,53.0
+98,Lutheran St. Charles,0,53.0
+99,Lutheran St. Charles,0,53.0
+0,Mehlville,35,19.0
+1,Mehlville,36,20.0
+2,Mehlville,36,21.0
+3,Mehlville,33,21.0
+4,Mehlville,35,20.0
+5,Mehlville,37,20.0
+6,Mehlville,36,20.0
+7,Mehlville,31,21.0
+8,Mehlville,34,20.0
+9,Mehlville,35,20.0
+10,Mehlville,33,21.0
+11,Mehlville,36,21.0
+12,Mehlville,33,21.0
+13,Mehlville,35,20.0
+14,Mehlville,34,20.0
+15,Mehlville,32,22.0
+16,Mehlville,29,22.0
+17,Mehlville,37,19.0
+18,Mehlville,34,19.0
+19,Mehlville,34,20.0
+20,Mehlville,36,21.0
+21,Mehlville,36,18.0
+22,Mehlville,35,20.0
+23,Mehlville,37,19.0
+24,Mehlville,37,20.0
+25,Mehlville,37,19.0
+26,Mehlville,36,19.0
+27,Mehlville,36,18.0
+28,Mehlville,32,21.0
+29,Mehlville,36,19.0
+30,Mehlville,35,21.0
+31,Mehlville,35,20.0
+32,Mehlville,33,22.0
+33,Mehlville,32,23.0
+34,Mehlville,35,21.0
+35,Mehlville,35,20.0
+36,Mehlville,35,20.0
+37,Mehlville,31,22.0
+38,Mehlville,36,20.0
+39,Mehlville,33,21.0
+40,Mehlville,35,21.0
+41,Mehlville,36,20.0
+42,Mehlville,31,22.0
+43,Mehlville,36,19.0
+44,Mehlville,34,19.0
+45,Mehlville,30,22.0
+46,Mehlville,33,20.0
+47,Mehlville,33,22.0
+48,Mehlville,34,22.0
+49,Mehlville,30,22.0
+50,Mehlville,34,20.0
+51,Mehlville,35,19.0
+52,Mehlville,35,20.0
+53,Mehlville,34,21.0
+54,Mehlville,35,20.0
+55,Mehlville,32,23.0
+56,Mehlville,36,19.0
+57,Mehlville,35,19.0
+58,Mehlville,36,20.0
+59,Mehlville,35,19.0
+60,Mehlville,34,20.0
+61,Mehlville,36,19.0
+62,Mehlville,33,21.0
+63,Mehlville,34,20.0
+64,Mehlville,30,23.0
+65,Mehlville,35,19.0
+66,Mehlville,33,21.0
+67,Mehlville,34,21.0
+68,Mehlville,31,22.0
+69,Mehlville,33,23.0
+70,Mehlville,34,22.0
+71,Mehlville,36,20.0
+72,Mehlville,36,20.0
+73,Mehlville,36,18.0
+74,Mehlville,32,22.0
+75,Mehlville,36,21.0
+76,Mehlville,34,21.0
+77,Mehlville,31,22.0
+78,Mehlville,36,19.0
+79,Mehlville,34,20.0
+80,Mehlville,32,22.0
+81,Mehlville,35,19.0
+82,Mehlville,34,22.0
+83,Mehlville,32,22.0
+84,Mehlville,33,20.0
+85,Mehlville,35,18.0
+86,Mehlville,35,20.0
+87,Mehlville,36,20.0
+88,Mehlville,32,23.0
+89,Mehlville,33,21.0
+90,Mehlville,32,21.0
+91,Mehlville,33,20.0
+92,Mehlville,36,20.0
+93,Mehlville,33,19.0
+94,Mehlville,35,21.0
+95,Mehlville,35,20.0
+96,Mehlville,34,19.0
+97,Mehlville,37,18.0
+98,Mehlville,33,22.0
+99,Mehlville,30,23.0
+0,Monett,2,39.0
+1,Monett,11,31.0
+2,Monett,9,32.0
+3,Monett,7,33.0
+4,Monett,5,36.0
+5,Monett,7,36.0
+6,Monett,14,27.0
+7,Monett,5,37.0
+8,Monett,11,30.0
+9,Monett,10,32.0
+10,Monett,3,35.0
+11,Monett,6,32.0
+12,Monett,7,34.0
+13,Monett,4,36.0
+14,Monett,7,32.0
+15,Monett,13,30.0
+16,Monett,5,36.0
+17,Monett,20,25.0
+18,Monett,7,33.0
+19,Monett,22,26.0
+20,Monett,8,31.0
+21,Monett,11,31.0
+22,Monett,5,35.0
+23,Monett,6,34.0
+24,Monett,4,35.0
+25,Monett,6,35.0
+26,Monett,41,17.0
+27,Monett,13,28.0
+28,Monett,9,30.0
+29,Monett,7,35.0
+30,Monett,5,34.0
+31,Monett,5,35.0
+32,Monett,6,35.0
+33,Monett,3,36.0
+34,Monett,6,34.0
+35,Monett,5,36.0
+36,Monett,4,35.0
+37,Monett,5,33.0
+38,Monett,8,32.0
+39,Monett,5,35.0
+40,Monett,3,35.0
+41,Monett,4,35.0
+42,Monett,9,33.0
+43,Monett,3,36.0
+44,Monett,7,33.0
+45,Monett,7,35.0
+46,Monett,4,35.0
+47,Monett,11,30.0
+48,Monett,5,35.0
+49,Monett,14,29.0
+50,Monett,5,35.0
+51,Monett,10,32.0
+52,Monett,5,34.0
+53,Monett,11,32.0
+54,Monett,4,36.0
+55,Monett,3,36.0
+56,Monett,5,34.0
+57,Monett,10,32.0
+58,Monett,6,33.0
+59,Monett,8,33.0
+60,Monett,6,36.0
+61,Monett,10,32.0
+62,Monett,5,34.0
+63,Monett,12,29.0
+64,Monett,8,34.0
+65,Monett,9,30.0
+66,Monett,3,36.0
+67,Monett,18,25.0
+68,Monett,6,35.0
+69,Monett,6,35.0
+70,Monett,5,35.0
+71,Monett,6,34.0
+72,Monett,3,38.0
+73,Monett,16,27.0
+74,Monett,6,33.0
+75,Monett,14,27.0
+76,Monett,3,36.0
+77,Monett,6,35.0
+78,Monett,8,33.0
+79,Monett,6,34.0
+80,Monett,6,34.0
+81,Monett,12,29.0
+82,Monett,2,38.0
+83,Monett,16,26.0
+84,Monett,6,34.0
+85,Monett,5,35.0
+86,Monett,8,31.0
+87,Monett,6,33.0
+88,Monett,15,26.0
+89,Monett,3,37.0
+90,Monett,4,35.0
+91,Monett,3,36.0
+92,Monett,15,26.0
+93,Monett,10,32.0
+94,Monett,5,34.0
+95,Monett,6,34.0
+96,Monett,4,36.0
+97,Monett,5,35.0
+98,Monett,9,33.0
+99,Monett,7,35.0
+0,Nerinx Hall,74,13.0
+1,Nerinx Hall,64,13.0
+2,Nerinx Hall,74,11.0
+3,Nerinx Hall,70,12.0
+4,Nerinx Hall,50,16.0
+5,Nerinx Hall,61,15.0
+6,Nerinx Hall,68,12.0
+7,Nerinx Hall,76,11.0
+8,Nerinx Hall,72,11.0
+9,Nerinx Hall,86,10.0
+10,Nerinx Hall,71,12.0
+11,Nerinx Hall,55,17.0
+12,Nerinx Hall,60,15.0
+13,Nerinx Hall,75,12.0
+14,Nerinx Hall,74,11.0
+15,Nerinx Hall,82,11.0
+16,Nerinx Hall,86,11.0
+17,Nerinx Hall,60,14.0
+18,Nerinx Hall,80,12.0
+19,Nerinx Hall,79,11.0
+20,Nerinx Hall,96,8.0
+21,Nerinx Hall,69,14.0
+22,Nerinx Hall,59,15.0
+23,Nerinx Hall,82,10.0
+24,Nerinx Hall,75,11.0
+25,Nerinx Hall,76,10.0
+26,Nerinx Hall,56,15.0
+27,Nerinx Hall,64,14.0
+28,Nerinx Hall,81,11.0
+29,Nerinx Hall,87,10.0
+30,Nerinx Hall,70,11.0
+31,Nerinx Hall,59,16.0
+32,Nerinx Hall,66,13.0
+33,Nerinx Hall,62,14.0
+34,Nerinx Hall,86,9.0
+35,Nerinx Hall,77,10.0
+36,Nerinx Hall,87,9.0
+37,Nerinx Hall,72,12.0
+38,Nerinx Hall,68,12.0
+39,Nerinx Hall,74,11.0
+40,Nerinx Hall,83,9.0
+41,Nerinx Hall,81,11.0
+42,Nerinx Hall,85,10.0
+43,Nerinx Hall,84,9.0
+44,Nerinx Hall,62,14.0
+45,Nerinx Hall,68,13.0
+46,Nerinx Hall,74,12.0
+47,Nerinx Hall,79,12.0
+48,Nerinx Hall,74,12.0
+49,Nerinx Hall,67,12.0
+50,Nerinx Hall,71,12.0
+51,Nerinx Hall,64,14.0
+52,Nerinx Hall,69,10.0
+53,Nerinx Hall,74,13.0
+54,Nerinx Hall,86,10.0
+55,Nerinx Hall,74,11.0
+56,Nerinx Hall,64,15.0
+57,Nerinx Hall,72,13.0
+58,Nerinx Hall,68,13.0
+59,Nerinx Hall,55,16.0
+60,Nerinx Hall,80,10.0
+61,Nerinx Hall,83,10.0
+62,Nerinx Hall,73,12.0
+63,Nerinx Hall,69,13.0
+64,Nerinx Hall,64,13.0
+65,Nerinx Hall,112,7.0
+66,Nerinx Hall,73,12.0
+67,Nerinx Hall,81,9.0
+68,Nerinx Hall,66,13.0
+69,Nerinx Hall,79,11.0
+70,Nerinx Hall,68,13.0
+71,Nerinx Hall,74,12.0
+72,Nerinx Hall,72,11.0
+73,Nerinx Hall,71,13.0
+74,Nerinx Hall,105,8.0
+75,Nerinx Hall,96,9.0
+76,Nerinx Hall,67,13.0
+77,Nerinx Hall,62,14.0
+78,Nerinx Hall,63,13.0
+79,Nerinx Hall,69,12.0
+80,Nerinx Hall,55,15.0
+81,Nerinx Hall,83,10.0
+82,Nerinx Hall,65,13.0
+83,Nerinx Hall,74,12.0
+84,Nerinx Hall,75,11.0
+85,Nerinx Hall,91,7.0
+86,Nerinx Hall,67,12.0
+87,Nerinx Hall,83,10.0
+88,Nerinx Hall,61,15.0
+89,Nerinx Hall,75,11.0
+90,Nerinx Hall,69,12.0
+91,Nerinx Hall,77,11.0
+92,Nerinx Hall,68,12.0
+93,Nerinx Hall,82,10.0
+94,Nerinx Hall,80,11.0
+95,Nerinx Hall,59,14.0
+96,Nerinx Hall,93,8.0
+97,Nerinx Hall,63,14.0
+98,Nerinx Hall,84,11.0
+99,Nerinx Hall,63,14.0
+0,Nevada,11,31.0
+1,Nevada,16,26.0
+2,Nevada,9,33.0
+3,Nevada,11,29.0
+4,Nevada,14,28.0
+5,Nevada,14,30.0
+6,Nevada,11,31.0
+7,Nevada,14,27.0
+8,Nevada,13,28.0
+9,Nevada,12,28.0
+10,Nevada,14,26.0
+11,Nevada,3,36.0
+12,Nevada,11,29.0
+13,Nevada,7,35.0
+14,Nevada,9,30.0
+15,Nevada,12,31.0
+16,Nevada,9,31.0
+17,Nevada,12,29.0
+18,Nevada,14,29.0
+19,Nevada,12,31.0
+20,Nevada,13,29.0
+21,Nevada,5,35.0
+22,Nevada,1,43.0
+23,Nevada,11,31.0
+24,Nevada,11,33.0
+25,Nevada,14,28.0
+26,Nevada,14,29.0
+27,Nevada,12,29.0
+28,Nevada,6,36.0
+29,Nevada,14,29.0
+30,Nevada,12,30.0
+31,Nevada,12,30.0
+32,Nevada,14,30.0
+33,Nevada,13,28.0
+34,Nevada,17,28.0
+35,Nevada,11,29.0
+36,Nevada,15,27.0
+37,Nevada,7,32.0
+38,Nevada,6,35.0
+39,Nevada,12,29.0
+40,Nevada,6,33.0
+41,Nevada,12,28.0
+42,Nevada,13,29.0
+43,Nevada,14,26.0
+44,Nevada,6,34.0
+45,Nevada,9,30.0
+46,Nevada,6,33.0
+47,Nevada,11,31.0
+48,Nevada,12,29.0
+49,Nevada,9,33.0
+50,Nevada,12,30.0
+51,Nevada,14,28.0
+52,Nevada,14,30.0
+53,Nevada,13,28.0
+54,Nevada,12,30.0
+55,Nevada,13,28.0
+56,Nevada,13,28.0
+57,Nevada,14,29.0
+58,Nevada,3,35.0
+59,Nevada,7,35.0
+60,Nevada,13,29.0
+61,Nevada,12,30.0
+62,Nevada,15,28.0
+63,Nevada,12,30.0
+64,Nevada,14,28.0
+65,Nevada,9,31.0
+66,Nevada,6,33.0
+67,Nevada,11,32.0
+68,Nevada,15,29.0
+69,Nevada,11,31.0
+70,Nevada,12,31.0
+71,Nevada,12,30.0
+72,Nevada,12,29.0
+73,Nevada,13,28.0
+74,Nevada,13,28.0
+75,Nevada,12,28.0
+76,Nevada,16,27.0
+77,Nevada,14,28.0
+78,Nevada,11,31.0
+79,Nevada,13,30.0
+80,Nevada,12,30.0
+81,Nevada,6,34.0
+82,Nevada,9,31.0
+83,Nevada,12,31.0
+84,Nevada,13,30.0
+85,Nevada,12,29.0
+86,Nevada,13,29.0
+87,Nevada,6,34.0
+88,Nevada,12,30.0
+89,Nevada,12,29.0
+90,Nevada,13,30.0
+91,Nevada,12,28.0
+92,Nevada,11,33.0
+93,Nevada,9,33.0
+94,Nevada,11,29.0
+95,Nevada,11,30.0
+96,Nevada,14,28.0
+97,Nevada,11,32.0
+98,Nevada,11,29.0
+99,Nevada,12,31.0
+0,New Covenant Academy,0,54.0
+1,New Covenant Academy,0,53.0
+2,New Covenant Academy,0,54.0
+3,New Covenant Academy,0,54.0
+4,New Covenant Academy,0,54.0
+5,New Covenant Academy,0,54.0
+6,New Covenant Academy,0,53.0
+7,New Covenant Academy,0,54.0
+8,New Covenant Academy,0,53.0
+9,New Covenant Academy,0,54.0
+10,New Covenant Academy,0,53.0
+11,New Covenant Academy,0,53.0
+12,New Covenant Academy,0,54.0
+13,New Covenant Academy,0,54.0
+14,New Covenant Academy,0,53.0
+15,New Covenant Academy,0,53.0
+16,New Covenant Academy,0,53.0
+17,New Covenant Academy,0,54.0
+18,New Covenant Academy,0,53.0
+19,New Covenant Academy,0,53.0
+20,New Covenant Academy,0,54.0
+21,New Covenant Academy,0,54.0
+22,New Covenant Academy,0,54.0
+23,New Covenant Academy,0,53.0
+24,New Covenant Academy,0,53.0
+25,New Covenant Academy,0,54.0
+26,New Covenant Academy,0,54.0
+27,New Covenant Academy,0,54.0
+28,New Covenant Academy,0,54.0
+29,New Covenant Academy,0,53.0
+30,New Covenant Academy,0,53.0
+31,New Covenant Academy,0,53.0
+32,New Covenant Academy,0,54.0
+33,New Covenant Academy,0,54.0
+34,New Covenant Academy,0,53.0
+35,New Covenant Academy,0,53.0
+36,New Covenant Academy,0,53.0
+37,New Covenant Academy,0,54.0
+38,New Covenant Academy,0,53.0
+39,New Covenant Academy,0,53.0
+40,New Covenant Academy,0,53.0
+41,New Covenant Academy,0,54.0
+42,New Covenant Academy,0,54.0
+43,New Covenant Academy,0,53.0
+44,New Covenant Academy,0,54.0
+45,New Covenant Academy,0,53.0
+46,New Covenant Academy,0,53.0
+47,New Covenant Academy,0,54.0
+48,New Covenant Academy,0,53.0
+49,New Covenant Academy,0,53.0
+50,New Covenant Academy,0,54.0
+51,New Covenant Academy,0,53.0
+52,New Covenant Academy,0,53.0
+53,New Covenant Academy,0,53.0
+54,New Covenant Academy,0,53.0
+55,New Covenant Academy,0,54.0
+56,New Covenant Academy,0,54.0
+57,New Covenant Academy,0,54.0
+58,New Covenant Academy,0,54.0
+59,New Covenant Academy,0,54.0
+60,New Covenant Academy,0,54.0
+61,New Covenant Academy,0,53.0
+62,New Covenant Academy,0,53.0
+63,New Covenant Academy,0,54.0
+64,New Covenant Academy,0,53.0
+65,New Covenant Academy,0,53.0
+66,New Covenant Academy,0,54.0
+67,New Covenant Academy,0,53.0
+68,New Covenant Academy,0,53.0
+69,New Covenant Academy,0,53.0
+70,New Covenant Academy,0,53.0
+71,New Covenant Academy,0,53.0
+72,New Covenant Academy,0,54.0
+73,New Covenant Academy,0,54.0
+74,New Covenant Academy,0,53.0
+75,New Covenant Academy,0,53.0
+76,New Covenant Academy,0,53.0
+77,New Covenant Academy,0,53.0
+78,New Covenant Academy,0,54.0
+79,New Covenant Academy,0,54.0
+80,New Covenant Academy,0,54.0
+81,New Covenant Academy,0,54.0
+82,New Covenant Academy,0,54.0
+83,New Covenant Academy,0,54.0
+84,New Covenant Academy,0,53.0
+85,New Covenant Academy,0,54.0
+86,New Covenant Academy,0,54.0
+87,New Covenant Academy,0,54.0
+88,New Covenant Academy,0,54.0
+89,New Covenant Academy,0,54.0
+90,New Covenant Academy,0,54.0
+91,New Covenant Academy,0,53.0
+92,New Covenant Academy,0,53.0
+93,New Covenant Academy,0,53.0
+94,New Covenant Academy,0,53.0
+95,New Covenant Academy,0,54.0
+96,New Covenant Academy,0,54.0
+97,New Covenant Academy,0,54.0
+98,New Covenant Academy,0,54.0
+99,New Covenant Academy,0,54.0
+0,Notre Dame (Cape Girardeau),1,43.0
+1,Notre Dame (Cape Girardeau),2,39.0
+2,Notre Dame (Cape Girardeau),2,38.0
+3,Notre Dame (Cape Girardeau),2,41.0
+4,Notre Dame (Cape Girardeau),2,39.0
+5,Notre Dame (Cape Girardeau),1,43.0
+6,Notre Dame (Cape Girardeau),1,41.0
+7,Notre Dame (Cape Girardeau),1,43.0
+8,Notre Dame (Cape Girardeau),2,37.0
+9,Notre Dame (Cape Girardeau),2,40.0
+10,Notre Dame (Cape Girardeau),3,36.0
+11,Notre Dame (Cape Girardeau),1,42.0
+12,Notre Dame (Cape Girardeau),1,44.0
+13,Notre Dame (Cape Girardeau),2,40.0
+14,Notre Dame (Cape Girardeau),5,36.0
+15,Notre Dame (Cape Girardeau),3,39.0
+16,Notre Dame (Cape Girardeau),8,33.0
+17,Notre Dame (Cape Girardeau),1,43.0
+18,Notre Dame (Cape Girardeau),2,36.0
+19,Notre Dame (Cape Girardeau),1,42.0
+20,Notre Dame (Cape Girardeau),7,34.0
+21,Notre Dame (Cape Girardeau),2,38.0
+22,Notre Dame (Cape Girardeau),2,40.0
+23,Notre Dame (Cape Girardeau),1,41.0
+24,Notre Dame (Cape Girardeau),1,41.0
+25,Notre Dame (Cape Girardeau),2,38.0
+26,Notre Dame (Cape Girardeau),2,40.0
+27,Notre Dame (Cape Girardeau),2,41.0
+28,Notre Dame (Cape Girardeau),1,43.0
+29,Notre Dame (Cape Girardeau),2,38.0
+30,Notre Dame (Cape Girardeau),2,40.0
+31,Notre Dame (Cape Girardeau),1,41.0
+32,Notre Dame (Cape Girardeau),2,41.0
+33,Notre Dame (Cape Girardeau),1,43.0
+34,Notre Dame (Cape Girardeau),1,42.0
+35,Notre Dame (Cape Girardeau),2,40.0
+36,Notre Dame (Cape Girardeau),2,38.0
+37,Notre Dame (Cape Girardeau),2,37.0
+38,Notre Dame (Cape Girardeau),1,41.0
+39,Notre Dame (Cape Girardeau),2,40.0
+40,Notre Dame (Cape Girardeau),2,39.0
+41,Notre Dame (Cape Girardeau),2,37.0
+42,Notre Dame (Cape Girardeau),2,43.0
+43,Notre Dame (Cape Girardeau),1,42.0
+44,Notre Dame (Cape Girardeau),1,42.0
+45,Notre Dame (Cape Girardeau),5,36.0
+46,Notre Dame (Cape Girardeau),2,38.0
+47,Notre Dame (Cape Girardeau),1,42.0
+48,Notre Dame (Cape Girardeau),1,41.0
+49,Notre Dame (Cape Girardeau),2,38.0
+50,Notre Dame (Cape Girardeau),1,42.0
+51,Notre Dame (Cape Girardeau),1,43.0
+52,Notre Dame (Cape Girardeau),1,42.0
+53,Notre Dame (Cape Girardeau),1,41.0
+54,Notre Dame (Cape Girardeau),7,34.0
+55,Notre Dame (Cape Girardeau),1,42.0
+56,Notre Dame (Cape Girardeau),2,39.0
+57,Notre Dame (Cape Girardeau),1,42.0
+58,Notre Dame (Cape Girardeau),2,39.0
+59,Notre Dame (Cape Girardeau),2,39.0
+60,Notre Dame (Cape Girardeau),1,43.0
+61,Notre Dame (Cape Girardeau),1,42.0
+62,Notre Dame (Cape Girardeau),1,41.0
+63,Notre Dame (Cape Girardeau),1,43.0
+64,Notre Dame (Cape Girardeau),2,39.0
+65,Notre Dame (Cape Girardeau),2,40.0
+66,Notre Dame (Cape Girardeau),1,43.0
+67,Notre Dame (Cape Girardeau),1,43.0
+68,Notre Dame (Cape Girardeau),1,42.0
+69,Notre Dame (Cape Girardeau),1,42.0
+70,Notre Dame (Cape Girardeau),1,40.0
+71,Notre Dame (Cape Girardeau),1,40.0
+72,Notre Dame (Cape Girardeau),1,43.0
+73,Notre Dame (Cape Girardeau),1,43.0
+74,Notre Dame (Cape Girardeau),3,37.0
+75,Notre Dame (Cape Girardeau),1,41.0
+76,Notre Dame (Cape Girardeau),2,38.0
+77,Notre Dame (Cape Girardeau),2,38.0
+78,Notre Dame (Cape Girardeau),2,38.0
+79,Notre Dame (Cape Girardeau),2,40.0
+80,Notre Dame (Cape Girardeau),1,41.0
+81,Notre Dame (Cape Girardeau),2,40.0
+82,Notre Dame (Cape Girardeau),2,39.0
+83,Notre Dame (Cape Girardeau),2,39.0
+84,Notre Dame (Cape Girardeau),2,38.0
+85,Notre Dame (Cape Girardeau),2,38.0
+86,Notre Dame (Cape Girardeau),1,42.0
+87,Notre Dame (Cape Girardeau),1,43.0
+88,Notre Dame (Cape Girardeau),2,40.0
+89,Notre Dame (Cape Girardeau),2,40.0
+90,Notre Dame (Cape Girardeau),1,43.0
+91,Notre Dame (Cape Girardeau),3,37.0
+92,Notre Dame (Cape Girardeau),2,38.0
+93,Notre Dame (Cape Girardeau),1,42.0
+94,Notre Dame (Cape Girardeau),2,37.0
+95,Notre Dame (Cape Girardeau),1,43.0
+96,Notre Dame (Cape Girardeau),2,40.0
+97,Notre Dame (Cape Girardeau),2,39.0
+98,Notre Dame (Cape Girardeau),1,42.0
+99,Notre Dame (Cape Girardeau),2,40.0
+0,Notre Dame de Sion,85,10.0
+1,Notre Dame de Sion,81,10.0
+2,Notre Dame de Sion,68,13.0
+3,Notre Dame de Sion,62,13.0
+4,Notre Dame de Sion,62,13.0
+5,Notre Dame de Sion,66,13.0
+6,Notre Dame de Sion,63,14.0
+7,Notre Dame de Sion,41,17.0
+8,Notre Dame de Sion,48,16.0
+9,Notre Dame de Sion,65,13.0
+10,Notre Dame de Sion,71,13.0
+11,Notre Dame de Sion,57,14.0
+12,Notre Dame de Sion,68,12.0
+13,Notre Dame de Sion,77,11.0
+14,Notre Dame de Sion,65,15.0
+15,Notre Dame de Sion,49,17.0
+16,Notre Dame de Sion,63,13.0
+17,Notre Dame de Sion,83,10.0
+18,Notre Dame de Sion,53,15.0
+19,Notre Dame de Sion,77,12.0
+20,Notre Dame de Sion,68,13.0
+21,Notre Dame de Sion,70,13.0
+22,Notre Dame de Sion,68,13.0
+23,Notre Dame de Sion,79,12.0
+24,Notre Dame de Sion,70,12.0
+25,Notre Dame de Sion,78,9.0
+26,Notre Dame de Sion,68,11.0
+27,Notre Dame de Sion,70,12.0
+28,Notre Dame de Sion,56,15.0
+29,Notre Dame de Sion,73,12.0
+30,Notre Dame de Sion,65,12.0
+31,Notre Dame de Sion,61,14.0
+32,Notre Dame de Sion,66,14.0
+33,Notre Dame de Sion,64,13.0
+34,Notre Dame de Sion,68,13.0
+35,Notre Dame de Sion,60,15.0
+36,Notre Dame de Sion,52,17.0
+37,Notre Dame de Sion,61,15.0
+38,Notre Dame de Sion,84,9.0
+39,Notre Dame de Sion,68,13.0
+40,Notre Dame de Sion,62,15.0
+41,Notre Dame de Sion,42,17.0
+42,Notre Dame de Sion,54,16.0
+43,Notre Dame de Sion,75,11.0
+44,Notre Dame de Sion,71,12.0
+45,Notre Dame de Sion,79,10.0
+46,Notre Dame de Sion,82,11.0
+47,Notre Dame de Sion,59,16.0
+48,Notre Dame de Sion,67,14.0
+49,Notre Dame de Sion,61,13.0
+50,Notre Dame de Sion,58,16.0
+51,Notre Dame de Sion,65,13.0
+52,Notre Dame de Sion,57,15.0
+53,Notre Dame de Sion,81,10.0
+54,Notre Dame de Sion,68,14.0
+55,Notre Dame de Sion,71,12.0
+56,Notre Dame de Sion,66,13.0
+57,Notre Dame de Sion,91,9.0
+58,Notre Dame de Sion,80,10.0
+59,Notre Dame de Sion,67,13.0
+60,Notre Dame de Sion,42,16.0
+61,Notre Dame de Sion,66,13.0
+62,Notre Dame de Sion,62,14.0
+63,Notre Dame de Sion,72,12.0
+64,Notre Dame de Sion,66,12.0
+65,Notre Dame de Sion,66,14.0
+66,Notre Dame de Sion,73,13.0
+67,Notre Dame de Sion,74,12.0
+68,Notre Dame de Sion,75,11.0
+69,Notre Dame de Sion,37,19.0
+70,Notre Dame de Sion,74,12.0
+71,Notre Dame de Sion,66,14.0
+72,Notre Dame de Sion,38,19.0
+73,Notre Dame de Sion,70,14.0
+74,Notre Dame de Sion,68,13.0
+75,Notre Dame de Sion,66,12.0
+76,Notre Dame de Sion,64,14.0
+77,Notre Dame de Sion,72,12.0
+78,Notre Dame de Sion,61,14.0
+79,Notre Dame de Sion,68,13.0
+80,Notre Dame de Sion,71,12.0
+81,Notre Dame de Sion,64,12.0
+82,Notre Dame de Sion,103,7.0
+83,Notre Dame de Sion,72,13.0
+84,Notre Dame de Sion,62,13.0
+85,Notre Dame de Sion,61,15.0
+86,Notre Dame de Sion,66,13.0
+87,Notre Dame de Sion,53,17.0
+88,Notre Dame de Sion,81,9.0
+89,Notre Dame de Sion,62,14.0
+90,Notre Dame de Sion,69,13.0
+91,Notre Dame de Sion,50,15.0
+92,Notre Dame de Sion,60,14.0
+93,Notre Dame de Sion,76,13.0
+94,Notre Dame de Sion,46,17.0
+95,Notre Dame de Sion,56,15.0
+96,Notre Dame de Sion,58,16.0
+97,Notre Dame de Sion,74,11.0
+98,Notre Dame de Sion,65,12.0
+99,Notre Dame de Sion,64,13.0
+0,Parkway Central,229,1.0
+1,Parkway Central,234,1.0
+2,Parkway Central,236,1.0
+3,Parkway Central,236,1.0
+4,Parkway Central,253,1.0
+5,Parkway Central,228,1.0
+6,Parkway Central,228,1.0
+7,Parkway Central,229,1.0
+8,Parkway Central,243,1.0
+9,Parkway Central,247,1.0
+10,Parkway Central,216,1.0
+11,Parkway Central,237,1.0
+12,Parkway Central,227,1.0
+13,Parkway Central,223,1.0
+14,Parkway Central,232,1.0
+15,Parkway Central,233,1.0
+16,Parkway Central,227,1.0
+17,Parkway Central,231,1.0
+18,Parkway Central,234,1.0
+19,Parkway Central,232,1.0
+20,Parkway Central,222,1.0
+21,Parkway Central,224,1.0
+22,Parkway Central,234,1.0
+23,Parkway Central,223,1.0
+24,Parkway Central,221,1.0
+25,Parkway Central,221,1.0
+26,Parkway Central,234,1.0
+27,Parkway Central,222,1.0
+28,Parkway Central,226,1.0
+29,Parkway Central,225,1.0
+30,Parkway Central,246,1.0
+31,Parkway Central,212,1.0
+32,Parkway Central,217,1.0
+33,Parkway Central,228,1.0
+34,Parkway Central,228,1.0
+35,Parkway Central,235,1.0
+36,Parkway Central,250,1.0
+37,Parkway Central,234,1.0
+38,Parkway Central,235,1.0
+39,Parkway Central,219,1.0
+40,Parkway Central,216,1.0
+41,Parkway Central,229,1.0
+42,Parkway Central,225,1.0
+43,Parkway Central,217,1.0
+44,Parkway Central,222,1.0
+45,Parkway Central,216,1.0
+46,Parkway Central,220,1.0
+47,Parkway Central,224,1.0
+48,Parkway Central,239,1.0
+49,Parkway Central,215,1.0
+50,Parkway Central,234,1.0
+51,Parkway Central,209,1.0
+52,Parkway Central,232,1.0
+53,Parkway Central,225,1.0
+54,Parkway Central,204,1.0
+55,Parkway Central,237,1.0
+56,Parkway Central,217,1.0
+57,Parkway Central,215,1.0
+58,Parkway Central,228,1.0
+59,Parkway Central,242,1.0
+60,Parkway Central,232,1.0
+61,Parkway Central,233,1.0
+62,Parkway Central,233,1.0
+63,Parkway Central,231,1.0
+64,Parkway Central,235,1.0
+65,Parkway Central,239,1.0
+66,Parkway Central,222,1.0
+67,Parkway Central,227,1.0
+68,Parkway Central,221,1.0
+69,Parkway Central,217,1.0
+70,Parkway Central,239,1.0
+71,Parkway Central,227,1.0
+72,Parkway Central,221,1.0
+73,Parkway Central,226,1.0
+74,Parkway Central,233,1.0
+75,Parkway Central,223,1.0
+76,Parkway Central,225,1.0
+77,Parkway Central,239,1.0
+78,Parkway Central,223,1.0
+79,Parkway Central,217,1.0
+80,Parkway Central,225,1.0
+81,Parkway Central,228,1.0
+82,Parkway Central,226,1.0
+83,Parkway Central,234,1.0
+84,Parkway Central,229,1.0
+85,Parkway Central,213,1.0
+86,Parkway Central,236,1.0
+87,Parkway Central,225,1.0
+88,Parkway Central,222,1.0
+89,Parkway Central,212,1.0
+90,Parkway Central,223,1.0
+91,Parkway Central,218,1.0
+92,Parkway Central,233,1.0
+93,Parkway Central,233,1.0
+94,Parkway Central,231,1.0
+95,Parkway Central,228,1.0
+96,Parkway Central,249,1.0
+97,Parkway Central,214,1.0
+98,Parkway Central,234,1.0
+99,Parkway Central,237,1.0
+0,Parkway North,0,55.0
+1,Parkway North,0,54.0
+2,Parkway North,0,55.0
+3,Parkway North,0,55.0
+4,Parkway North,0,55.0
+5,Parkway North,0,55.0
+6,Parkway North,0,54.0
+7,Parkway North,0,55.0
+8,Parkway North,0,54.0
+9,Parkway North,0,55.0
+10,Parkway North,0,54.0
+11,Parkway North,0,54.0
+12,Parkway North,0,55.0
+13,Parkway North,0,55.0
+14,Parkway North,0,54.0
+15,Parkway North,0,54.0
+16,Parkway North,0,54.0
+17,Parkway North,0,55.0
+18,Parkway North,0,54.0
+19,Parkway North,0,54.0
+20,Parkway North,0,55.0
+21,Parkway North,0,55.0
+22,Parkway North,0,55.0
+23,Parkway North,0,54.0
+24,Parkway North,0,54.0
+25,Parkway North,0,55.0
+26,Parkway North,0,55.0
+27,Parkway North,0,55.0
+28,Parkway North,0,55.0
+29,Parkway North,0,54.0
+30,Parkway North,0,54.0
+31,Parkway North,0,54.0
+32,Parkway North,0,55.0
+33,Parkway North,0,55.0
+34,Parkway North,0,54.0
+35,Parkway North,0,54.0
+36,Parkway North,0,54.0
+37,Parkway North,0,55.0
+38,Parkway North,0,54.0
+39,Parkway North,0,54.0
+40,Parkway North,0,54.0
+41,Parkway North,0,55.0
+42,Parkway North,0,55.0
+43,Parkway North,0,54.0
+44,Parkway North,0,55.0
+45,Parkway North,0,54.0
+46,Parkway North,0,54.0
+47,Parkway North,0,55.0
+48,Parkway North,0,54.0
+49,Parkway North,0,54.0
+50,Parkway North,0,55.0
+51,Parkway North,0,54.0
+52,Parkway North,0,54.0
+53,Parkway North,0,54.0
+54,Parkway North,0,54.0
+55,Parkway North,0,55.0
+56,Parkway North,0,55.0
+57,Parkway North,0,55.0
+58,Parkway North,0,55.0
+59,Parkway North,0,55.0
+60,Parkway North,0,55.0
+61,Parkway North,0,54.0
+62,Parkway North,0,54.0
+63,Parkway North,0,55.0
+64,Parkway North,0,54.0
+65,Parkway North,0,54.0
+66,Parkway North,0,55.0
+67,Parkway North,0,54.0
+68,Parkway North,0,54.0
+69,Parkway North,0,54.0
+70,Parkway North,0,54.0
+71,Parkway North,0,54.0
+72,Parkway North,0,55.0
+73,Parkway North,0,55.0
+74,Parkway North,0,54.0
+75,Parkway North,0,54.0
+76,Parkway North,0,54.0
+77,Parkway North,0,54.0
+78,Parkway North,0,55.0
+79,Parkway North,0,55.0
+80,Parkway North,0,55.0
+81,Parkway North,0,55.0
+82,Parkway North,0,55.0
+83,Parkway North,0,55.0
+84,Parkway North,0,54.0
+85,Parkway North,0,55.0
+86,Parkway North,0,55.0
+87,Parkway North,0,55.0
+88,Parkway North,0,55.0
+89,Parkway North,0,55.0
+90,Parkway North,0,55.0
+91,Parkway North,0,54.0
+92,Parkway North,0,54.0
+93,Parkway North,0,54.0
+94,Parkway North,0,54.0
+95,Parkway North,0,55.0
+96,Parkway North,0,55.0
+97,Parkway North,0,55.0
+98,Parkway North,0,55.0
+99,Parkway North,0,55.0
+0,Parkway West,86,9.0
+1,Parkway West,76,11.0
+2,Parkway West,62,15.0
+3,Parkway West,87,9.0
+4,Parkway West,69,11.0
+5,Parkway West,69,11.0
+6,Parkway West,70,10.0
+7,Parkway West,79,10.0
+8,Parkway West,69,13.0
+9,Parkway West,81,11.0
+10,Parkway West,75,11.0
+11,Parkway West,77,11.0
+12,Parkway West,100,9.0
+13,Parkway West,68,13.0
+14,Parkway West,74,12.0
+15,Parkway West,89,10.0
+16,Parkway West,108,7.0
+17,Parkway West,81,11.0
+18,Parkway West,91,9.0
+19,Parkway West,81,9.0
+20,Parkway West,73,11.0
+21,Parkway West,74,11.0
+22,Parkway West,90,9.0
+23,Parkway West,76,13.0
+24,Parkway West,87,9.0
+25,Parkway West,65,13.0
+26,Parkway West,77,10.0
+27,Parkway West,86,10.0
+28,Parkway West,93,10.0
+29,Parkway West,91,9.0
+30,Parkway West,56,15.0
+31,Parkway West,68,12.0
+32,Parkway West,93,8.0
+33,Parkway West,69,10.0
+34,Parkway West,84,11.0
+35,Parkway West,67,12.0
+36,Parkway West,54,15.0
+37,Parkway West,85,10.0
+38,Parkway West,73,11.0
+39,Parkway West,67,15.0
+40,Parkway West,82,10.0
+41,Parkway West,78,12.0
+42,Parkway West,86,9.0
+43,Parkway West,71,13.0
+44,Parkway West,79,10.0
+45,Parkway West,92,9.0
+46,Parkway West,89,10.0
+47,Parkway West,81,10.0
+48,Parkway West,79,10.0
+49,Parkway West,78,10.0
+50,Parkway West,80,11.0
+51,Parkway West,83,10.0
+52,Parkway West,66,11.0
+53,Parkway West,76,12.0
+54,Parkway West,53,17.0
+55,Parkway West,59,14.0
+56,Parkway West,90,10.0
+57,Parkway West,78,12.0
+58,Parkway West,70,12.0
+59,Parkway West,92,9.0
+60,Parkway West,90,9.0
+61,Parkway West,88,9.0
+62,Parkway West,81,10.0
+63,Parkway West,59,14.0
+64,Parkway West,89,9.0
+65,Parkway West,90,10.0
+66,Parkway West,79,10.0
+67,Parkway West,72,13.0
+68,Parkway West,95,8.0
+69,Parkway West,79,12.0
+70,Parkway West,104,8.0
+71,Parkway West,73,13.0
+72,Parkway West,84,9.0
+73,Parkway West,73,12.0
+74,Parkway West,80,10.0
+75,Parkway West,75,11.0
+76,Parkway West,90,9.0
+77,Parkway West,88,9.0
+78,Parkway West,85,10.0
+79,Parkway West,91,9.0
+80,Parkway West,96,9.0
+81,Parkway West,83,11.0
+82,Parkway West,80,11.0
+83,Parkway West,71,14.0
+84,Parkway West,72,12.0
+85,Parkway West,90,9.0
+86,Parkway West,76,11.0
+87,Parkway West,81,12.0
+88,Parkway West,75,11.0
+89,Parkway West,87,9.0
+90,Parkway West,94,10.0
+91,Parkway West,80,10.0
+92,Parkway West,76,10.0
+93,Parkway West,78,11.0
+94,Parkway West,87,10.0
+95,Parkway West,94,10.0
+96,Parkway West,66,12.0
+97,Parkway West,84,8.0
+98,Parkway West,86,10.0
+99,Parkway West,67,12.0
+0,Platte County,5,35.0
+1,Platte County,5,34.0
+2,Platte County,9,34.0
+3,Platte County,10,30.0
+4,Platte County,6,34.0
+5,Platte County,11,33.0
+6,Platte County,6,35.0
+7,Platte County,6,34.0
+8,Platte County,5,35.0
+9,Platte County,5,36.0
+10,Platte County,6,34.0
+11,Platte County,5,34.0
+12,Platte County,6,36.0
+13,Platte County,9,32.0
+14,Platte County,6,35.0
+15,Platte County,5,35.0
+16,Platte County,7,35.0
+17,Platte County,5,35.0
+18,Platte County,5,35.0
+19,Platte County,6,34.0
+20,Platte County,5,36.0
+21,Platte County,6,34.0
+22,Platte County,24,24.0
+23,Platte County,4,35.0
+24,Platte County,16,28.0
+25,Platte County,8,34.0
+26,Platte County,5,35.0
+27,Platte County,6,37.0
+28,Platte County,5,37.0
+29,Platte County,19,27.0
+30,Platte County,5,35.0
+31,Platte County,6,34.0
+32,Platte County,5,36.0
+33,Platte County,7,31.0
+34,Platte County,17,29.0
+35,Platte County,6,35.0
+36,Platte County,7,34.0
+37,Platte County,5,34.0
+38,Platte County,11,30.0
+39,Platte County,7,33.0
+40,Platte County,5,34.0
+41,Platte County,6,34.0
+42,Platte County,6,36.0
+43,Platte County,7,33.0
+44,Platte County,5,35.0
+45,Platte County,9,31.0
+46,Platte County,5,34.0
+47,Platte County,5,36.0
+48,Platte County,6,34.0
+49,Platte County,6,36.0
+50,Platte County,8,31.0
+51,Platte County,5,35.0
+52,Platte County,9,33.0
+53,Platte County,5,36.0
+54,Platte County,5,35.0
+55,Platte County,7,33.0
+56,Platte County,5,35.0
+57,Platte County,5,35.0
+58,Platte County,5,34.0
+59,Platte County,6,36.0
+60,Platte County,13,30.0
+61,Platte County,5,36.0
+62,Platte County,5,35.0
+63,Platte County,4,36.0
+64,Platte County,5,36.0
+65,Platte County,5,35.0
+66,Platte County,5,34.0
+67,Platte County,6,35.0
+68,Platte County,21,26.0
+69,Platte County,5,36.0
+70,Platte County,19,27.0
+71,Platte County,16,28.0
+72,Platte County,5,35.0
+73,Platte County,9,34.0
+74,Platte County,5,34.0
+75,Platte County,5,35.0
+76,Platte County,6,34.0
+77,Platte County,14,29.0
+78,Platte County,6,35.0
+79,Platte County,5,35.0
+80,Platte County,5,35.0
+81,Platte County,6,35.0
+82,Platte County,4,35.0
+83,Platte County,7,34.0
+84,Platte County,17,27.0
+85,Platte County,5,36.0
+86,Platte County,5,35.0
+87,Platte County,6,35.0
+88,Platte County,6,34.0
+89,Platte County,7,35.0
+90,Platte County,6,34.0
+91,Platte County,8,33.0
+92,Platte County,12,30.0
+93,Platte County,11,30.0
+94,Platte County,5,35.0
+95,Platte County,5,35.0
+96,Platte County,7,32.0
+97,Platte County,5,36.0
+98,Platte County,5,36.0
+99,Platte County,5,36.0
+0,Poplar Bluff,6,34.0
+1,Poplar Bluff,0,55.0
+2,Poplar Bluff,12,29.0
+3,Poplar Bluff,6,35.0
+4,Poplar Bluff,6,35.0
+5,Poplar Bluff,22,26.0
+6,Poplar Bluff,0,55.0
+7,Poplar Bluff,8,33.0
+8,Poplar Bluff,0,55.0
+9,Poplar Bluff,12,29.0
+10,Poplar Bluff,0,55.0
+11,Poplar Bluff,0,55.0
+12,Poplar Bluff,2,39.0
+13,Poplar Bluff,8,34.0
+14,Poplar Bluff,0,55.0
+15,Poplar Bluff,0,55.0
+16,Poplar Bluff,0,55.0
+17,Poplar Bluff,4,36.0
+18,Poplar Bluff,0,55.0
+19,Poplar Bluff,0,55.0
+20,Poplar Bluff,8,32.0
+21,Poplar Bluff,4,36.0
+22,Poplar Bluff,10,31.0
+23,Poplar Bluff,0,55.0
+24,Poplar Bluff,0,55.0
+25,Poplar Bluff,2,39.0
+26,Poplar Bluff,4,36.0
+27,Poplar Bluff,8,34.0
+28,Poplar Bluff,8,33.0
+29,Poplar Bluff,0,55.0
+30,Poplar Bluff,0,55.0
+31,Poplar Bluff,0,55.0
+32,Poplar Bluff,18,26.0
+33,Poplar Bluff,2,39.0
+34,Poplar Bluff,0,55.0
+35,Poplar Bluff,0,55.0
+36,Poplar Bluff,0,55.0
+37,Poplar Bluff,2,38.0
+38,Poplar Bluff,0,55.0
+39,Poplar Bluff,0,55.0
+40,Poplar Bluff,0,55.0
+41,Poplar Bluff,0,56.0
+42,Poplar Bluff,6,37.0
+43,Poplar Bluff,0,55.0
+44,Poplar Bluff,4,36.0
+45,Poplar Bluff,0,55.0
+46,Poplar Bluff,0,55.0
+47,Poplar Bluff,8,34.0
+48,Poplar Bluff,0,55.0
+49,Poplar Bluff,0,55.0
+50,Poplar Bluff,2,38.0
+51,Poplar Bluff,0,55.0
+52,Poplar Bluff,0,55.0
+53,Poplar Bluff,0,55.0
+54,Poplar Bluff,0,55.0
+55,Poplar Bluff,12,29.0
+56,Poplar Bluff,4,36.0
+57,Poplar Bluff,22,26.0
+58,Poplar Bluff,2,40.0
+59,Poplar Bluff,26,23.0
+60,Poplar Bluff,4,37.0
+61,Poplar Bluff,0,55.0
+62,Poplar Bluff,0,55.0
+63,Poplar Bluff,10,33.0
+64,Poplar Bluff,0,55.0
+65,Poplar Bluff,0,55.0
+66,Poplar Bluff,2,39.0
+67,Poplar Bluff,0,55.0
+68,Poplar Bluff,0,55.0
+69,Poplar Bluff,0,55.0
+70,Poplar Bluff,0,55.0
+71,Poplar Bluff,0,55.0
+72,Poplar Bluff,6,34.0
+73,Poplar Bluff,0,56.0
+74,Poplar Bluff,0,55.0
+75,Poplar Bluff,0,55.0
+76,Poplar Bluff,0,55.0
+77,Poplar Bluff,0,55.0
+78,Poplar Bluff,4,36.0
+79,Poplar Bluff,4,36.0
+80,Poplar Bluff,2,39.0
+81,Poplar Bluff,6,36.0
+82,Poplar Bluff,10,29.0
+83,Poplar Bluff,6,36.0
+84,Poplar Bluff,0,55.0
+85,Poplar Bluff,10,31.0
+86,Poplar Bluff,4,36.0
+87,Poplar Bluff,4,36.0
+88,Poplar Bluff,8,33.0
+89,Poplar Bluff,8,33.0
+90,Poplar Bluff,2,39.0
+91,Poplar Bluff,0,55.0
+92,Poplar Bluff,0,55.0
+93,Poplar Bluff,0,55.0
+94,Poplar Bluff,0,55.0
+95,Poplar Bluff,2,38.0
+96,Poplar Bluff,4,37.0
+97,Poplar Bluff,4,37.0
+98,Poplar Bluff,10,30.0
+99,Poplar Bluff,26,24.0
+0,Principia,4,36.0
+1,Principia,4,35.0
+2,Principia,1,43.0
+3,Principia,1,43.0
+4,Principia,2,40.0
+5,Principia,6,37.0
+6,Principia,1,42.0
+7,Principia,6,35.0
+8,Principia,2,38.0
+9,Principia,4,37.0
+10,Principia,3,37.0
+11,Principia,3,37.0
+12,Principia,2,40.0
+13,Principia,9,33.0
+14,Principia,3,38.0
+15,Principia,3,40.0
+16,Principia,1,42.0
+17,Principia,4,37.0
+18,Principia,1,42.0
+19,Principia,4,36.0
+20,Principia,2,40.0
+21,Principia,2,39.0
+22,Principia,5,36.0
+23,Principia,2,37.0
+24,Principia,3,37.0
+25,Principia,5,36.0
+26,Principia,3,38.0
+27,Principia,11,31.0
+28,Principia,4,39.0
+29,Principia,2,39.0
+30,Principia,1,42.0
+31,Principia,1,42.0
+32,Principia,4,37.0
+33,Principia,3,37.0
+34,Principia,5,35.0
+35,Principia,1,42.0
+36,Principia,3,37.0
+37,Principia,2,39.0
+38,Principia,2,38.0
+39,Principia,3,38.0
+40,Principia,3,36.0
+41,Principia,2,38.0
+42,Principia,3,40.0
+43,Principia,1,43.0
+44,Principia,1,43.0
+45,Principia,1,42.0
+46,Principia,1,41.0
+47,Principia,2,39.0
+48,Principia,1,42.0
+49,Principia,3,37.0
+50,Principia,5,36.0
+51,Principia,4,36.0
+52,Principia,5,35.0
+53,Principia,7,35.0
+54,Principia,4,37.0
+55,Principia,2,39.0
+56,Principia,4,37.0
+57,Principia,4,36.0
+58,Principia,3,36.0
+59,Principia,2,40.0
+60,Principia,2,38.0
+61,Principia,2,39.0
+62,Principia,1,42.0
+63,Principia,3,37.0
+64,Principia,6,35.0
+65,Principia,1,42.0
+66,Principia,4,35.0
+67,Principia,5,36.0
+68,Principia,3,37.0
+69,Principia,7,34.0
+70,Principia,1,41.0
+71,Principia,1,41.0
+72,Principia,4,36.0
+73,Principia,4,36.0
+74,Principia,5,35.0
+75,Principia,1,42.0
+76,Principia,2,39.0
+77,Principia,1,42.0
+78,Principia,2,39.0
+79,Principia,2,41.0
+80,Principia,1,42.0
+81,Principia,3,39.0
+82,Principia,2,40.0
+83,Principia,1,43.0
+84,Principia,1,42.0
+85,Principia,2,39.0
+86,Principia,4,37.0
+87,Principia,3,38.0
+88,Principia,3,37.0
+89,Principia,3,38.0
+90,Principia,4,36.0
+91,Principia,1,42.0
+92,Principia,1,43.0
+93,Principia,3,36.0
+94,Principia,1,42.0
+95,Principia,2,39.0
+96,Principia,5,33.0
+97,Principia,1,42.0
+98,Principia,2,37.0
+99,Principia,3,37.0
+0,Rockwood Summit,140,7.0
+1,Rockwood Summit,97,8.0
+2,Rockwood Summit,130,7.0
+3,Rockwood Summit,119,7.0
+4,Rockwood Summit,130,7.0
+5,Rockwood Summit,79,9.0
+6,Rockwood Summit,102,8.0
+7,Rockwood Summit,104,8.0
+8,Rockwood Summit,106,8.0
+9,Rockwood Summit,97,8.0
+10,Rockwood Summit,113,7.0
+11,Rockwood Summit,113,7.0
+12,Rockwood Summit,105,8.0
+13,Rockwood Summit,121,7.0
+14,Rockwood Summit,100,8.0
+15,Rockwood Summit,95,9.0
+16,Rockwood Summit,100,8.0
+17,Rockwood Summit,148,4.0
+18,Rockwood Summit,92,8.0
+19,Rockwood Summit,100,8.0
+20,Rockwood Summit,87,9.0
+21,Rockwood Summit,93,10.0
+22,Rockwood Summit,94,8.0
+23,Rockwood Summit,102,8.0
+24,Rockwood Summit,127,7.0
+25,Rockwood Summit,107,7.0
+26,Rockwood Summit,110,7.0
+27,Rockwood Summit,111,7.0
+28,Rockwood Summit,107,7.0
+29,Rockwood Summit,95,8.0
+30,Rockwood Summit,140,7.0
+31,Rockwood Summit,111,8.0
+32,Rockwood Summit,102,7.0
+33,Rockwood Summit,115,8.0
+34,Rockwood Summit,107,7.0
+35,Rockwood Summit,122,7.0
+36,Rockwood Summit,109,7.0
+37,Rockwood Summit,112,7.0
+38,Rockwood Summit,103,8.0
+39,Rockwood Summit,101,8.0
+40,Rockwood Summit,122,7.0
+41,Rockwood Summit,98,8.0
+42,Rockwood Summit,107,7.0
+43,Rockwood Summit,112,7.0
+44,Rockwood Summit,105,8.0
+45,Rockwood Summit,104,8.0
+46,Rockwood Summit,103,8.0
+47,Rockwood Summit,95,8.0
+48,Rockwood Summit,99,8.0
+49,Rockwood Summit,120,7.0
+50,Rockwood Summit,112,7.0
+51,Rockwood Summit,113,8.0
+52,Rockwood Summit,110,7.0
+53,Rockwood Summit,121,7.0
+54,Rockwood Summit,121,7.0
+55,Rockwood Summit,110,8.0
+56,Rockwood Summit,113,7.0
+57,Rockwood Summit,99,8.0
+58,Rockwood Summit,103,7.0
+59,Rockwood Summit,78,12.0
+60,Rockwood Summit,113,7.0
+61,Rockwood Summit,97,8.0
+62,Rockwood Summit,116,7.0
+63,Rockwood Summit,113,8.0
+64,Rockwood Summit,95,8.0
+65,Rockwood Summit,111,9.0
+66,Rockwood Summit,116,7.0
+67,Rockwood Summit,94,8.0
+68,Rockwood Summit,103,7.0
+69,Rockwood Summit,103,9.0
+70,Rockwood Summit,97,9.0
+71,Rockwood Summit,132,6.0
+72,Rockwood Summit,112,7.0
+73,Rockwood Summit,95,8.0
+74,Rockwood Summit,110,7.0
+75,Rockwood Summit,102,8.0
+76,Rockwood Summit,101,7.0
+77,Rockwood Summit,120,7.0
+78,Rockwood Summit,101,8.0
+79,Rockwood Summit,101,8.0
+80,Rockwood Summit,110,7.0
+81,Rockwood Summit,100,9.0
+82,Rockwood Summit,96,9.0
+83,Rockwood Summit,117,7.0
+84,Rockwood Summit,109,8.0
+85,Rockwood Summit,75,12.0
+86,Rockwood Summit,103,8.0
+87,Rockwood Summit,94,8.0
+88,Rockwood Summit,104,8.0
+89,Rockwood Summit,112,8.0
+90,Rockwood Summit,101,9.0
+91,Rockwood Summit,115,7.0
+92,Rockwood Summit,113,7.0
+93,Rockwood Summit,94,8.0
+94,Rockwood Summit,117,7.0
+95,Rockwood Summit,105,7.0
+96,Rockwood Summit,93,9.0
+97,Rockwood Summit,74,12.0
+98,Rockwood Summit,106,8.0
+99,Rockwood Summit,86,10.0
+0,STEAM Academy,0,56.0
+1,STEAM Academy,0,56.0
+2,STEAM Academy,0,56.0
+3,STEAM Academy,0,56.0
+4,STEAM Academy,0,56.0
+5,STEAM Academy,0,56.0
+6,STEAM Academy,0,56.0
+7,STEAM Academy,0,56.0
+8,STEAM Academy,0,56.0
+9,STEAM Academy,0,56.0
+10,STEAM Academy,0,56.0
+11,STEAM Academy,0,56.0
+12,STEAM Academy,0,56.0
+13,STEAM Academy,0,56.0
+14,STEAM Academy,0,56.0
+15,STEAM Academy,0,56.0
+16,STEAM Academy,0,56.0
+17,STEAM Academy,0,56.0
+18,STEAM Academy,0,56.0
+19,STEAM Academy,0,56.0
+20,STEAM Academy,0,56.0
+21,STEAM Academy,0,56.0
+22,STEAM Academy,0,56.0
+23,STEAM Academy,0,56.0
+24,STEAM Academy,0,56.0
+25,STEAM Academy,0,56.0
+26,STEAM Academy,0,56.0
+27,STEAM Academy,0,56.0
+28,STEAM Academy,0,56.0
+29,STEAM Academy,0,56.0
+30,STEAM Academy,0,56.0
+31,STEAM Academy,0,56.0
+32,STEAM Academy,0,56.0
+33,STEAM Academy,0,56.0
+34,STEAM Academy,0,56.0
+35,STEAM Academy,0,56.0
+36,STEAM Academy,0,56.0
+37,STEAM Academy,0,56.0
+38,STEAM Academy,0,56.0
+39,STEAM Academy,0,56.0
+40,STEAM Academy,0,56.0
+41,STEAM Academy,0,57.0
+42,STEAM Academy,0,56.0
+43,STEAM Academy,0,56.0
+44,STEAM Academy,0,56.0
+45,STEAM Academy,0,56.0
+46,STEAM Academy,0,56.0
+47,STEAM Academy,0,56.0
+48,STEAM Academy,0,56.0
+49,STEAM Academy,0,56.0
+50,STEAM Academy,0,56.0
+51,STEAM Academy,0,56.0
+52,STEAM Academy,0,56.0
+53,STEAM Academy,0,56.0
+54,STEAM Academy,0,56.0
+55,STEAM Academy,0,56.0
+56,STEAM Academy,0,56.0
+57,STEAM Academy,0,56.0
+58,STEAM Academy,0,56.0
+59,STEAM Academy,0,56.0
+60,STEAM Academy,0,56.0
+61,STEAM Academy,0,56.0
+62,STEAM Academy,0,56.0
+63,STEAM Academy,0,56.0
+64,STEAM Academy,0,56.0
+65,STEAM Academy,0,56.0
+66,STEAM Academy,0,56.0
+67,STEAM Academy,0,56.0
+68,STEAM Academy,0,56.0
+69,STEAM Academy,0,56.0
+70,STEAM Academy,0,56.0
+71,STEAM Academy,0,56.0
+72,STEAM Academy,0,56.0
+73,STEAM Academy,0,57.0
+74,STEAM Academy,0,56.0
+75,STEAM Academy,0,56.0
+76,STEAM Academy,0,56.0
+77,STEAM Academy,0,56.0
+78,STEAM Academy,0,56.0
+79,STEAM Academy,0,56.0
+80,STEAM Academy,0,56.0
+81,STEAM Academy,0,56.0
+82,STEAM Academy,0,56.0
+83,STEAM Academy,0,56.0
+84,STEAM Academy,0,56.0
+85,STEAM Academy,0,56.0
+86,STEAM Academy,0,56.0
+87,STEAM Academy,0,56.0
+88,STEAM Academy,0,56.0
+89,STEAM Academy,0,56.0
+90,STEAM Academy,0,56.0
+91,STEAM Academy,0,56.0
+92,STEAM Academy,0,56.0
+93,STEAM Academy,0,56.0
+94,STEAM Academy,0,56.0
+95,STEAM Academy,0,56.0
+96,STEAM Academy,0,56.0
+97,STEAM Academy,0,56.0
+98,STEAM Academy,0,56.0
+99,STEAM Academy,0,56.0
+0,Savannah,9,32.0
+1,Savannah,15,27.0
+2,Savannah,7,35.0
+3,Savannah,10,31.0
+4,Savannah,9,31.0
+5,Savannah,17,29.0
+6,Savannah,8,33.0
+7,Savannah,13,28.0
+8,Savannah,11,31.0
+9,Savannah,8,34.0
+10,Savannah,13,27.0
+11,Savannah,7,31.0
+12,Savannah,7,35.0
+13,Savannah,14,28.0
+14,Savannah,7,33.0
+15,Savannah,7,34.0
+16,Savannah,8,34.0
+17,Savannah,7,32.0
+18,Savannah,25,25.0
+19,Savannah,6,35.0
+20,Savannah,7,35.0
+21,Savannah,7,32.0
+22,Savannah,8,34.0
+23,Savannah,25,24.0
+24,Savannah,15,29.0
+25,Savannah,35,22.0
+26,Savannah,11,32.0
+27,Savannah,16,26.0
+28,Savannah,9,31.0
+29,Savannah,8,33.0
+30,Savannah,11,32.0
+31,Savannah,9,32.0
+32,Savannah,7,34.0
+33,Savannah,7,32.0
+34,Savannah,23,25.0
+35,Savannah,9,32.0
+36,Savannah,13,31.0
+37,Savannah,15,28.0
+38,Savannah,7,34.0
+39,Savannah,14,28.0
+40,Savannah,14,27.0
+41,Savannah,8,32.0
+42,Savannah,8,34.0
+43,Savannah,11,31.0
+44,Savannah,8,31.0
+45,Savannah,9,32.0
+46,Savannah,13,28.0
+47,Savannah,13,29.0
+48,Savannah,7,33.0
+49,Savannah,8,34.0
+50,Savannah,7,33.0
+51,Savannah,26,23.0
+52,Savannah,60,14.0
+53,Savannah,20,24.0
+54,Savannah,26,24.0
+55,Savannah,8,32.0
+56,Savannah,25,25.0
+57,Savannah,8,33.0
+58,Savannah,19,26.0
+59,Savannah,8,34.0
+60,Savannah,9,32.0
+61,Savannah,9,33.0
+62,Savannah,8,32.0
+63,Savannah,17,26.0
+64,Savannah,15,27.0
+65,Savannah,8,32.0
+66,Savannah,18,26.0
+67,Savannah,12,30.0
+68,Savannah,14,31.0
+69,Savannah,17,27.0
+70,Savannah,14,29.0
+71,Savannah,6,35.0
+72,Savannah,7,32.0
+73,Savannah,11,33.0
+74,Savannah,5,36.0
+75,Savannah,8,33.0
+76,Savannah,9,32.0
+77,Savannah,9,33.0
+78,Savannah,8,34.0
+79,Savannah,7,32.0
+80,Savannah,16,26.0
+81,Savannah,7,32.0
+82,Savannah,8,32.0
+83,Savannah,8,33.0
+84,Savannah,6,35.0
+85,Savannah,9,33.0
+86,Savannah,6,34.0
+87,Savannah,13,27.0
+88,Savannah,6,35.0
+89,Savannah,12,30.0
+90,Savannah,21,26.0
+91,Savannah,5,34.0
+92,Savannah,7,34.0
+93,Savannah,17,26.0
+94,Savannah,11,30.0
+95,Savannah,15,27.0
+96,Savannah,13,30.0
+97,Savannah,10,33.0
+98,Savannah,10,31.0
+99,Savannah,8,34.0
+0,Smithville,0,57.0
+1,Smithville,0,57.0
+2,Smithville,0,57.0
+3,Smithville,0,57.0
+4,Smithville,0,57.0
+5,Smithville,0,57.0
+6,Smithville,0,57.0
+7,Smithville,0,57.0
+8,Smithville,0,57.0
+9,Smithville,0,57.0
+10,Smithville,0,57.0
+11,Smithville,0,57.0
+12,Smithville,0,57.0
+13,Smithville,0,57.0
+14,Smithville,0,57.0
+15,Smithville,0,57.0
+16,Smithville,0,57.0
+17,Smithville,0,57.0
+18,Smithville,0,57.0
+19,Smithville,0,57.0
+20,Smithville,0,57.0
+21,Smithville,0,57.0
+22,Smithville,0,57.0
+23,Smithville,0,57.0
+24,Smithville,0,57.0
+25,Smithville,0,57.0
+26,Smithville,0,57.0
+27,Smithville,0,57.0
+28,Smithville,0,57.0
+29,Smithville,0,57.0
+30,Smithville,0,57.0
+31,Smithville,0,57.0
+32,Smithville,0,57.0
+33,Smithville,0,57.0
+34,Smithville,0,57.0
+35,Smithville,0,57.0
+36,Smithville,0,57.0
+37,Smithville,0,57.0
+38,Smithville,0,57.0
+39,Smithville,0,57.0
+40,Smithville,0,57.0
+41,Smithville,0,58.0
+42,Smithville,0,57.0
+43,Smithville,0,57.0
+44,Smithville,0,57.0
+45,Smithville,0,57.0
+46,Smithville,0,57.0
+47,Smithville,0,57.0
+48,Smithville,0,57.0
+49,Smithville,0,57.0
+50,Smithville,0,57.0
+51,Smithville,0,57.0
+52,Smithville,0,57.0
+53,Smithville,0,57.0
+54,Smithville,0,57.0
+55,Smithville,0,57.0
+56,Smithville,0,57.0
+57,Smithville,0,57.0
+58,Smithville,0,57.0
+59,Smithville,0,57.0
+60,Smithville,0,57.0
+61,Smithville,0,57.0
+62,Smithville,0,57.0
+63,Smithville,0,57.0
+64,Smithville,0,57.0
+65,Smithville,0,57.0
+66,Smithville,0,57.0
+67,Smithville,0,57.0
+68,Smithville,0,57.0
+69,Smithville,0,57.0
+70,Smithville,0,57.0
+71,Smithville,0,57.0
+72,Smithville,0,57.0
+73,Smithville,0,58.0
+74,Smithville,0,57.0
+75,Smithville,0,57.0
+76,Smithville,0,57.0
+77,Smithville,0,57.0
+78,Smithville,0,57.0
+79,Smithville,0,57.0
+80,Smithville,0,57.0
+81,Smithville,0,57.0
+82,Smithville,0,57.0
+83,Smithville,0,57.0
+84,Smithville,0,57.0
+85,Smithville,0,57.0
+86,Smithville,0,57.0
+87,Smithville,0,57.0
+88,Smithville,0,57.0
+89,Smithville,0,57.0
+90,Smithville,0,57.0
+91,Smithville,0,57.0
+92,Smithville,0,57.0
+93,Smithville,0,57.0
+94,Smithville,0,57.0
+95,Smithville,0,57.0
+96,Smithville,0,57.0
+97,Smithville,0,57.0
+98,Smithville,0,57.0
+99,Smithville,0,57.0
+0,St. Charles West,0,58.0
+1,St. Charles West,0,58.0
+2,St. Charles West,0,58.0
+3,St. Charles West,0,58.0
+4,St. Charles West,0,58.0
+5,St. Charles West,0,58.0
+6,St. Charles West,0,58.0
+7,St. Charles West,0,58.0
+8,St. Charles West,0,58.0
+9,St. Charles West,0,58.0
+10,St. Charles West,0,58.0
+11,St. Charles West,0,58.0
+12,St. Charles West,0,58.0
+13,St. Charles West,0,58.0
+14,St. Charles West,0,58.0
+15,St. Charles West,0,58.0
+16,St. Charles West,0,58.0
+17,St. Charles West,0,58.0
+18,St. Charles West,0,58.0
+19,St. Charles West,0,58.0
+20,St. Charles West,0,58.0
+21,St. Charles West,0,58.0
+22,St. Charles West,0,58.0
+23,St. Charles West,0,58.0
+24,St. Charles West,0,58.0
+25,St. Charles West,0,58.0
+26,St. Charles West,0,58.0
+27,St. Charles West,0,58.0
+28,St. Charles West,0,58.0
+29,St. Charles West,0,58.0
+30,St. Charles West,0,58.0
+31,St. Charles West,0,58.0
+32,St. Charles West,0,58.0
+33,St. Charles West,0,58.0
+34,St. Charles West,0,58.0
+35,St. Charles West,0,58.0
+36,St. Charles West,0,58.0
+37,St. Charles West,0,58.0
+38,St. Charles West,0,58.0
+39,St. Charles West,0,58.0
+40,St. Charles West,0,58.0
+41,St. Charles West,0,59.0
+42,St. Charles West,0,58.0
+43,St. Charles West,0,58.0
+44,St. Charles West,0,58.0
+45,St. Charles West,0,58.0
+46,St. Charles West,0,58.0
+47,St. Charles West,0,58.0
+48,St. Charles West,0,58.0
+49,St. Charles West,0,58.0
+50,St. Charles West,0,58.0
+51,St. Charles West,0,58.0
+52,St. Charles West,0,58.0
+53,St. Charles West,0,58.0
+54,St. Charles West,0,58.0
+55,St. Charles West,0,58.0
+56,St. Charles West,0,58.0
+57,St. Charles West,0,58.0
+58,St. Charles West,0,58.0
+59,St. Charles West,0,58.0
+60,St. Charles West,0,58.0
+61,St. Charles West,0,58.0
+62,St. Charles West,0,58.0
+63,St. Charles West,0,58.0
+64,St. Charles West,0,58.0
+65,St. Charles West,0,58.0
+66,St. Charles West,0,58.0
+67,St. Charles West,0,58.0
+68,St. Charles West,0,58.0
+69,St. Charles West,0,58.0
+70,St. Charles West,0,58.0
+71,St. Charles West,0,58.0
+72,St. Charles West,0,58.0
+73,St. Charles West,0,59.0
+74,St. Charles West,0,58.0
+75,St. Charles West,0,58.0
+76,St. Charles West,0,58.0
+77,St. Charles West,0,58.0
+78,St. Charles West,0,58.0
+79,St. Charles West,0,58.0
+80,St. Charles West,0,58.0
+81,St. Charles West,0,58.0
+82,St. Charles West,0,58.0
+83,St. Charles West,0,58.0
+84,St. Charles West,0,58.0
+85,St. Charles West,0,58.0
+86,St. Charles West,0,58.0
+87,St. Charles West,0,58.0
+88,St. Charles West,0,58.0
+89,St. Charles West,0,58.0
+90,St. Charles West,0,58.0
+91,St. Charles West,0,58.0
+92,St. Charles West,0,58.0
+93,St. Charles West,0,58.0
+94,St. Charles West,0,58.0
+95,St. Charles West,0,58.0
+96,St. Charles West,0,58.0
+97,St. Charles West,0,58.0
+98,St. Charles West,0,58.0
+99,St. Charles West,0,58.0
+0,St. Dominic,2,40.0
+1,St. Dominic,2,40.0
+2,St. Dominic,2,39.0
+3,St. Dominic,3,38.0
+4,St. Dominic,2,41.0
+5,St. Dominic,4,38.0
+6,St. Dominic,4,36.0
+7,St. Dominic,2,40.0
+8,St. Dominic,2,39.0
+9,St. Dominic,1,43.0
+10,St. Dominic,1,42.0
+11,St. Dominic,2,38.0
+12,St. Dominic,2,41.0
+13,St. Dominic,1,43.0
+14,St. Dominic,3,39.0
+15,St. Dominic,2,41.0
+16,St. Dominic,2,39.0
+17,St. Dominic,2,39.0
+18,St. Dominic,2,37.0
+19,St. Dominic,2,39.0
+20,St. Dominic,2,41.0
+21,St. Dominic,2,40.0
+22,St. Dominic,2,41.0
+23,St. Dominic,2,38.0
+24,St. Dominic,1,42.0
+25,St. Dominic,2,40.0
+26,St. Dominic,2,41.0
+27,St. Dominic,3,39.0
+28,St. Dominic,1,44.0
+29,St. Dominic,1,42.0
+30,St. Dominic,3,38.0
+31,St. Dominic,2,38.0
+32,St. Dominic,3,38.0
+33,St. Dominic,2,40.0
+34,St. Dominic,2,38.0
+35,St. Dominic,1,43.0
+36,St. Dominic,2,39.0
+37,St. Dominic,2,40.0
+38,St. Dominic,2,39.0
+39,St. Dominic,3,39.0
+40,St. Dominic,2,40.0
+41,St. Dominic,2,39.0
+42,St. Dominic,1,44.0
+43,St. Dominic,2,39.0
+44,St. Dominic,3,38.0
+45,St. Dominic,2,37.0
+46,St. Dominic,3,37.0
+47,St. Dominic,1,43.0
+48,St. Dominic,2,38.0
+49,St. Dominic,2,39.0
+50,St. Dominic,1,43.0
+51,St. Dominic,2,39.0
+52,St. Dominic,2,39.0
+53,St. Dominic,2,37.0
+54,St. Dominic,2,39.0
+55,St. Dominic,1,43.0
+56,St. Dominic,2,40.0
+57,St. Dominic,1,43.0
+58,St. Dominic,3,37.0
+59,St. Dominic,2,41.0
+60,St. Dominic,2,39.0
+61,St. Dominic,2,40.0
+62,St. Dominic,2,37.0
+63,St. Dominic,2,40.0
+64,St. Dominic,2,40.0
+65,St. Dominic,1,43.0
+66,St. Dominic,2,40.0
+67,St. Dominic,3,38.0
+68,St. Dominic,3,38.0
+69,St. Dominic,2,39.0
+70,St. Dominic,1,42.0
+71,St. Dominic,2,38.0
+72,St. Dominic,3,39.0
+73,St. Dominic,3,38.0
+74,St. Dominic,2,39.0
+75,St. Dominic,2,38.0
+76,St. Dominic,5,35.0
+77,St. Dominic,2,39.0
+78,St. Dominic,2,40.0
+79,St. Dominic,1,43.0
+80,St. Dominic,1,43.0
+81,St. Dominic,4,37.0
+82,St. Dominic,2,41.0
+83,St. Dominic,2,40.0
+84,St. Dominic,2,39.0
+85,St. Dominic,2,40.0
+86,St. Dominic,2,39.0
+87,St. Dominic,2,39.0
+88,St. Dominic,2,41.0
+89,St. Dominic,2,41.0
+90,St. Dominic,2,40.0
+91,St. Dominic,2,39.0
+92,St. Dominic,2,39.0
+93,St. Dominic,2,38.0
+94,St. Dominic,2,38.0
+95,St. Dominic,2,40.0
+96,St. Dominic,1,43.0
+97,St. Dominic,2,40.0
+98,St. Dominic,2,38.0
+99,St. Dominic,1,43.0
+0,St. Michael the Archangel,33,20.0
+1,St. Michael the Archangel,40,19.0
+2,St. Michael the Archangel,37,20.0
+3,St. Michael the Archangel,40,18.0
+4,St. Michael the Archangel,37,19.0
+5,St. Michael the Archangel,37,21.0
+6,St. Michael the Archangel,34,21.0
+7,St. Michael the Archangel,41,18.0
+8,St. Michael the Archangel,37,18.0
+9,St. Michael the Archangel,31,21.0
+10,St. Michael the Archangel,37,19.0
+11,St. Michael the Archangel,37,20.0
+12,St. Michael the Archangel,40,18.0
+13,St. Michael the Archangel,40,18.0
+14,St. Michael the Archangel,37,19.0
+15,St. Michael the Archangel,37,20.0
+16,St. Michael the Archangel,44,18.0
+17,St. Michael the Archangel,37,20.0
+18,St. Michael the Archangel,31,21.0
+19,St. Michael the Archangel,40,19.0
+20,St. Michael the Archangel,40,19.0
+21,St. Michael the Archangel,39,17.0
+22,St. Michael the Archangel,40,18.0
+23,St. Michael the Archangel,37,20.0
+24,St. Michael the Archangel,44,17.0
+25,St. Michael the Archangel,37,20.0
+26,St. Michael the Archangel,47,16.0
+27,St. Michael the Archangel,34,20.0
+28,St. Michael the Archangel,43,17.0
+29,St. Michael the Archangel,37,18.0
+30,St. Michael the Archangel,42,17.0
+31,St. Michael the Archangel,33,22.0
+32,St. Michael the Archangel,40,18.0
+33,St. Michael the Archangel,34,20.0
+34,St. Michael the Archangel,40,18.0
+35,St. Michael the Archangel,37,19.0
+36,St. Michael the Archangel,62,12.0
+37,St. Michael the Archangel,37,19.0
+38,St. Michael the Archangel,37,19.0
+39,St. Michael the Archangel,37,18.0
+40,St. Michael the Archangel,40,20.0
+41,St. Michael the Archangel,37,19.0
+42,St. Michael the Archangel,41,17.0
+43,St. Michael the Archangel,37,18.0
+44,St. Michael the Archangel,40,17.0
+45,St. Michael the Archangel,35,20.0
+46,St. Michael the Archangel,34,19.0
+47,St. Michael the Archangel,37,19.0
+48,St. Michael the Archangel,45,17.0
+49,St. Michael the Archangel,46,18.0
+50,St. Michael the Archangel,37,18.0
+51,St. Michael the Archangel,34,20.0
+52,St. Michael the Archangel,38,19.0
+53,St. Michael the Archangel,36,19.0
+54,St. Michael the Archangel,41,18.0
+55,St. Michael the Archangel,40,18.0
+56,St. Michael the Archangel,37,18.0
+57,St. Michael the Archangel,39,17.0
+58,St. Michael the Archangel,34,21.0
+59,St. Michael the Archangel,34,21.0
+60,St. Michael the Archangel,28,23.0
+61,St. Michael the Archangel,34,20.0
+62,St. Michael the Archangel,40,18.0
+63,St. Michael the Archangel,42,18.0
+64,St. Michael the Archangel,37,20.0
+65,St. Michael the Archangel,40,17.0
+66,St. Michael the Archangel,40,19.0
+67,St. Michael the Archangel,36,20.0
+68,St. Michael the Archangel,33,20.0
+69,St. Michael the Archangel,43,17.0
+70,St. Michael the Archangel,42,18.0
+71,St. Michael the Archangel,37,19.0
+72,St. Michael the Archangel,40,18.0
+73,St. Michael the Archangel,36,19.0
+74,St. Michael the Archangel,47,18.0
+75,St. Michael the Archangel,41,20.0
+76,St. Michael the Archangel,37,20.0
+77,St. Michael the Archangel,37,18.0
+78,St. Michael the Archangel,37,18.0
+79,St. Michael the Archangel,37,19.0
+80,St. Michael the Archangel,37,19.0
+81,St. Michael the Archangel,37,18.0
+82,St. Michael the Archangel,35,21.0
+83,St. Michael the Archangel,37,19.0
+84,St. Michael the Archangel,42,19.0
+85,St. Michael the Archangel,35,19.0
+86,St. Michael the Archangel,37,19.0
+87,St. Michael the Archangel,37,19.0
+88,St. Michael the Archangel,33,20.0
+89,St. Michael the Archangel,37,19.0
+90,St. Michael the Archangel,37,18.0
+91,St. Michael the Archangel,33,21.0
+92,St. Michael the Archangel,50,19.0
+93,St. Michael the Archangel,32,20.0
+94,St. Michael the Archangel,35,22.0
+95,St. Michael the Archangel,52,17.0
+96,St. Michael the Archangel,34,20.0
+97,St. Michael the Archangel,37,19.0
+98,St. Michael the Archangel,37,20.0
+99,St. Michael the Archangel,33,20.0
+0,St. Pius X (Kansas City),3,37.0
+1,St. Pius X (Kansas City),3,36.0
+2,St. Pius X (Kansas City),3,37.0
+3,St. Pius X (Kansas City),5,36.0
+4,St. Pius X (Kansas City),3,38.0
+5,St. Pius X (Kansas City),4,39.0
+6,St. Pius X (Kansas City),2,38.0
+7,St. Pius X (Kansas City),2,41.0
+8,St. Pius X (Kansas City),3,36.0
+9,St. Pius X (Kansas City),3,38.0
+10,St. Pius X (Kansas City),3,38.0
+11,St. Pius X (Kansas City),4,35.0
+12,St. Pius X (Kansas City),3,37.0
+13,St. Pius X (Kansas City),3,38.0
+14,St. Pius X (Kansas City),4,37.0
+15,St. Pius X (Kansas City),4,37.0
+16,St. Pius X (Kansas City),3,38.0
+17,St. Pius X (Kansas City),3,38.0
+18,St. Pius X (Kansas City),2,38.0
+19,St. Pius X (Kansas City),2,40.0
+20,St. Pius X (Kansas City),3,39.0
+21,St. Pius X (Kansas City),3,37.0
+22,St. Pius X (Kansas City),3,37.0
+23,St. Pius X (Kansas City),1,42.0
+24,St. Pius X (Kansas City),4,36.0
+25,St. Pius X (Kansas City),2,41.0
+26,St. Pius X (Kansas City),4,37.0
+27,St. Pius X (Kansas City),4,38.0
+28,St. Pius X (Kansas City),3,40.0
+29,St. Pius X (Kansas City),2,40.0
+30,St. Pius X (Kansas City),3,39.0
+31,St. Pius X (Kansas City),5,36.0
+32,St. Pius X (Kansas City),3,39.0
+33,St. Pius X (Kansas City),1,44.0
+34,St. Pius X (Kansas City),2,39.0
+35,St. Pius X (Kansas City),3,37.0
+36,St. Pius X (Kansas City),2,40.0
+37,St. Pius X (Kansas City),3,36.0
+38,St. Pius X (Kansas City),3,36.0
+39,St. Pius X (Kansas City),4,37.0
+40,St. Pius X (Kansas City),3,37.0
+41,St. Pius X (Kansas City),2,40.0
+42,St. Pius X (Kansas City),3,41.0
+43,St. Pius X (Kansas City),3,37.0
+44,St. Pius X (Kansas City),4,37.0
+45,St. Pius X (Kansas City),2,38.0
+46,St. Pius X (Kansas City),1,42.0
+47,St. Pius X (Kansas City),3,38.0
+48,St. Pius X (Kansas City),4,36.0
+49,St. Pius X (Kansas City),2,40.0
+50,St. Pius X (Kansas City),2,39.0
+51,St. Pius X (Kansas City),3,37.0
+52,St. Pius X (Kansas City),3,36.0
+53,St. Pius X (Kansas City),1,42.0
+54,St. Pius X (Kansas City),3,38.0
+55,St. Pius X (Kansas City),3,37.0
+56,St. Pius X (Kansas City),2,41.0
+57,St. Pius X (Kansas City),3,37.0
+58,St. Pius X (Kansas City),2,41.0
+59,St. Pius X (Kansas City),3,38.0
+60,St. Pius X (Kansas City),2,40.0
+61,St. Pius X (Kansas City),3,38.0
+62,St. Pius X (Kansas City),4,36.0
+63,St. Pius X (Kansas City),3,38.0
+64,St. Pius X (Kansas City),3,38.0
+65,St. Pius X (Kansas City),3,38.0
+66,St. Pius X (Kansas City),3,37.0
+67,St. Pius X (Kansas City),3,39.0
+68,St. Pius X (Kansas City),4,36.0
+69,St. Pius X (Kansas City),3,37.0
+70,St. Pius X (Kansas City),3,37.0
+71,St. Pius X (Kansas City),3,36.0
+72,St. Pius X (Kansas City),3,40.0
+73,St. Pius X (Kansas City),3,39.0
+74,St. Pius X (Kansas City),3,38.0
+75,St. Pius X (Kansas City),3,36.0
+76,St. Pius X (Kansas City),3,37.0
+77,St. Pius X (Kansas City),3,36.0
+78,St. Pius X (Kansas City),1,43.0
+79,St. Pius X (Kansas City),3,37.0
+80,St. Pius X (Kansas City),3,37.0
+81,St. Pius X (Kansas City),2,41.0
+82,St. Pius X (Kansas City),3,36.0
+83,St. Pius X (Kansas City),3,38.0
+84,St. Pius X (Kansas City),4,36.0
+85,St. Pius X (Kansas City),3,37.0
+86,St. Pius X (Kansas City),1,43.0
+87,St. Pius X (Kansas City),4,37.0
+88,St. Pius X (Kansas City),3,38.0
+89,St. Pius X (Kansas City),4,36.0
+90,St. Pius X (Kansas City),4,37.0
+91,St. Pius X (Kansas City),3,38.0
+92,St. Pius X (Kansas City),4,36.0
+93,St. Pius X (Kansas City),2,39.0
+94,St. Pius X (Kansas City),2,39.0
+95,St. Pius X (Kansas City),3,37.0
+96,St. Pius X (Kansas City),3,39.0
+97,St. Pius X (Kansas City),2,41.0
+98,St. Pius X (Kansas City),1,43.0
+99,St. Pius X (Kansas City),3,38.0
+0,St. Teresa's Academy,153,3.0
+1,St. Teresa's Academy,136,5.0
+2,St. Teresa's Academy,148,3.0
+3,St. Teresa's Academy,147,6.0
+4,St. Teresa's Academy,135,6.0
+5,St. Teresa's Academy,149,4.0
+6,St. Teresa's Academy,144,6.0
+7,St. Teresa's Academy,159,3.0
+8,St. Teresa's Academy,168,2.0
+9,St. Teresa's Academy,155,2.0
+10,St. Teresa's Academy,175,2.0
+11,St. Teresa's Academy,158,3.0
+12,St. Teresa's Academy,160,3.0
+13,St. Teresa's Academy,137,6.0
+14,St. Teresa's Academy,158,2.0
+15,St. Teresa's Academy,161,2.0
+16,St. Teresa's Academy,158,2.0
+17,St. Teresa's Academy,144,6.0
+18,St. Teresa's Academy,149,4.0
+19,St. Teresa's Academy,149,4.0
+20,St. Teresa's Academy,147,4.0
+21,St. Teresa's Academy,159,3.0
+22,St. Teresa's Academy,149,4.0
+23,St. Teresa's Academy,151,3.0
+24,St. Teresa's Academy,157,2.0
+25,St. Teresa's Academy,126,6.0
+26,St. Teresa's Academy,153,2.0
+27,St. Teresa's Academy,156,3.0
+28,St. Teresa's Academy,158,3.0
+29,St. Teresa's Academy,146,6.0
+30,St. Teresa's Academy,156,3.0
+31,St. Teresa's Academy,160,3.0
+32,St. Teresa's Academy,141,5.0
+33,St. Teresa's Academy,167,2.0
+34,St. Teresa's Academy,150,3.0
+35,St. Teresa's Academy,161,3.0
+36,St. Teresa's Academy,152,4.0
+37,St. Teresa's Academy,152,3.0
+38,St. Teresa's Academy,169,2.0
+39,St. Teresa's Academy,163,2.0
+40,St. Teresa's Academy,145,5.0
+41,St. Teresa's Academy,156,2.0
+42,St. Teresa's Academy,154,3.0
+43,St. Teresa's Academy,167,2.0
+44,St. Teresa's Academy,162,2.0
+45,St. Teresa's Academy,162,2.0
+46,St. Teresa's Academy,161,2.0
+47,St. Teresa's Academy,159,3.0
+48,St. Teresa's Academy,141,5.0
+49,St. Teresa's Academy,158,2.0
+50,St. Teresa's Academy,161,2.0
+51,St. Teresa's Academy,169,2.0
+52,St. Teresa's Academy,159,3.0
+53,St. Teresa's Academy,151,3.0
+54,St. Teresa's Academy,158,2.0
+55,St. Teresa's Academy,150,2.0
+56,St. Teresa's Academy,161,2.0
+57,St. Teresa's Academy,160,2.0
+58,St. Teresa's Academy,162,3.0
+59,St. Teresa's Academy,135,5.0
+60,St. Teresa's Academy,170,2.0
+61,St. Teresa's Academy,165,2.0
+62,St. Teresa's Academy,161,2.0
+63,St. Teresa's Academy,161,2.0
+64,St. Teresa's Academy,156,2.0
+65,St. Teresa's Academy,121,6.0
+66,St. Teresa's Academy,157,3.0
+67,St. Teresa's Academy,146,5.0
+68,St. Teresa's Academy,153,4.0
+69,St. Teresa's Academy,160,2.0
+70,St. Teresa's Academy,151,2.0
+71,St. Teresa's Academy,156,2.0
+72,St. Teresa's Academy,167,2.0
+73,St. Teresa's Academy,152,5.0
+74,St. Teresa's Academy,143,5.0
+75,St. Teresa's Academy,155,3.0
+76,St. Teresa's Academy,146,4.0
+77,St. Teresa's Academy,165,2.0
+78,St. Teresa's Academy,164,2.0
+79,St. Teresa's Academy,152,5.0
+80,St. Teresa's Academy,148,5.0
+81,St. Teresa's Academy,161,2.0
+82,St. Teresa's Academy,148,4.0
+83,St. Teresa's Academy,146,4.0
+84,St. Teresa's Academy,145,5.0
+85,St. Teresa's Academy,154,4.0
+86,St. Teresa's Academy,163,2.0
+87,St. Teresa's Academy,163,2.0
+88,St. Teresa's Academy,153,4.0
+89,St. Teresa's Academy,158,2.0
+90,St. Teresa's Academy,123,7.0
+91,St. Teresa's Academy,159,2.0
+92,St. Teresa's Academy,148,3.0
+93,St. Teresa's Academy,149,5.0
+94,St. Teresa's Academy,155,3.0
+95,St. Teresa's Academy,161,3.0
+96,St. Teresa's Academy,146,4.0
+97,St. Teresa's Academy,161,3.0
+98,St. Teresa's Academy,142,6.0
+99,St. Teresa's Academy,155,3.0
+0,Summit Christian Academy,0,59.0
+1,Summit Christian Academy,0,59.0
+2,Summit Christian Academy,0,59.0
+3,Summit Christian Academy,0,59.0
+4,Summit Christian Academy,0,59.0
+5,Summit Christian Academy,0,59.0
+6,Summit Christian Academy,0,59.0
+7,Summit Christian Academy,0,59.0
+8,Summit Christian Academy,0,59.0
+9,Summit Christian Academy,0,59.0
+10,Summit Christian Academy,0,59.0
+11,Summit Christian Academy,0,59.0
+12,Summit Christian Academy,0,59.0
+13,Summit Christian Academy,0,59.0
+14,Summit Christian Academy,0,59.0
+15,Summit Christian Academy,0,59.0
+16,Summit Christian Academy,0,59.0
+17,Summit Christian Academy,0,59.0
+18,Summit Christian Academy,0,59.0
+19,Summit Christian Academy,0,59.0
+20,Summit Christian Academy,0,59.0
+21,Summit Christian Academy,0,59.0
+22,Summit Christian Academy,0,59.0
+23,Summit Christian Academy,0,59.0
+24,Summit Christian Academy,0,59.0
+25,Summit Christian Academy,0,59.0
+26,Summit Christian Academy,0,59.0
+27,Summit Christian Academy,0,59.0
+28,Summit Christian Academy,0,59.0
+29,Summit Christian Academy,0,59.0
+30,Summit Christian Academy,0,59.0
+31,Summit Christian Academy,0,59.0
+32,Summit Christian Academy,0,59.0
+33,Summit Christian Academy,0,59.0
+34,Summit Christian Academy,0,59.0
+35,Summit Christian Academy,0,59.0
+36,Summit Christian Academy,0,59.0
+37,Summit Christian Academy,0,59.0
+38,Summit Christian Academy,0,59.0
+39,Summit Christian Academy,0,59.0
+40,Summit Christian Academy,0,59.0
+41,Summit Christian Academy,2,41.0
+42,Summit Christian Academy,0,59.0
+43,Summit Christian Academy,0,59.0
+44,Summit Christian Academy,0,59.0
+45,Summit Christian Academy,0,59.0
+46,Summit Christian Academy,0,59.0
+47,Summit Christian Academy,0,59.0
+48,Summit Christian Academy,0,59.0
+49,Summit Christian Academy,0,59.0
+50,Summit Christian Academy,0,59.0
+51,Summit Christian Academy,0,59.0
+52,Summit Christian Academy,0,59.0
+53,Summit Christian Academy,0,59.0
+54,Summit Christian Academy,0,59.0
+55,Summit Christian Academy,0,59.0
+56,Summit Christian Academy,0,59.0
+57,Summit Christian Academy,0,59.0
+58,Summit Christian Academy,0,59.0
+59,Summit Christian Academy,0,59.0
+60,Summit Christian Academy,0,59.0
+61,Summit Christian Academy,0,59.0
+62,Summit Christian Academy,0,59.0
+63,Summit Christian Academy,0,59.0
+64,Summit Christian Academy,0,59.0
+65,Summit Christian Academy,0,59.0
+66,Summit Christian Academy,0,59.0
+67,Summit Christian Academy,0,59.0
+68,Summit Christian Academy,0,59.0
+69,Summit Christian Academy,0,59.0
+70,Summit Christian Academy,0,59.0
+71,Summit Christian Academy,0,59.0
+72,Summit Christian Academy,0,59.0
+73,Summit Christian Academy,2,41.0
+74,Summit Christian Academy,0,59.0
+75,Summit Christian Academy,0,59.0
+76,Summit Christian Academy,0,59.0
+77,Summit Christian Academy,0,59.0
+78,Summit Christian Academy,0,59.0
+79,Summit Christian Academy,0,59.0
+80,Summit Christian Academy,0,59.0
+81,Summit Christian Academy,0,59.0
+82,Summit Christian Academy,0,59.0
+83,Summit Christian Academy,0,59.0
+84,Summit Christian Academy,0,59.0
+85,Summit Christian Academy,0,59.0
+86,Summit Christian Academy,0,59.0
+87,Summit Christian Academy,0,59.0
+88,Summit Christian Academy,0,59.0
+89,Summit Christian Academy,0,59.0
+90,Summit Christian Academy,0,59.0
+91,Summit Christian Academy,0,59.0
+92,Summit Christian Academy,0,59.0
+93,Summit Christian Academy,0,59.0
+94,Summit Christian Academy,0,59.0
+95,Summit Christian Academy,0,59.0
+96,Summit Christian Academy,0,59.0
+97,Summit Christian Academy,0,59.0
+98,Summit Christian Academy,0,59.0
+99,Summit Christian Academy,0,59.0
+0,Timberland,25,24.0
+1,Timberland,22,25.0
+2,Timberland,25,25.0
+3,Timberland,18,25.0
+4,Timberland,26,24.0
+5,Timberland,24,25.0
+6,Timberland,25,24.0
+7,Timberland,25,24.0
+8,Timberland,24,24.0
+9,Timberland,24,24.0
+10,Timberland,21,23.0
+11,Timberland,18,25.0
+12,Timberland,24,24.0
+13,Timberland,27,23.0
+14,Timberland,25,24.0
+15,Timberland,16,23.0
+16,Timberland,23,24.0
+17,Timberland,22,24.0
+18,Timberland,19,27.0
+19,Timberland,18,27.0
+20,Timberland,23,25.0
+21,Timberland,26,24.0
+22,Timberland,23,25.0
+23,Timberland,24,25.0
+24,Timberland,23,24.0
+25,Timberland,25,24.0
+26,Timberland,26,24.0
+27,Timberland,30,21.0
+28,Timberland,22,26.0
+29,Timberland,20,26.0
+30,Timberland,24,24.0
+31,Timberland,21,25.0
+32,Timberland,24,25.0
+33,Timberland,24,24.0
+34,Timberland,26,23.0
+35,Timberland,23,24.0
+36,Timberland,23,24.0
+37,Timberland,23,25.0
+38,Timberland,26,24.0
+39,Timberland,24,24.0
+40,Timberland,22,24.0
+41,Timberland,22,24.0
+42,Timberland,23,23.0
+43,Timberland,23,24.0
+44,Timberland,19,27.0
+45,Timberland,23,25.0
+46,Timberland,27,24.0
+47,Timberland,20,24.0
+48,Timberland,20,25.0
+49,Timberland,25,24.0
+50,Timberland,20,24.0
+51,Timberland,25,24.0
+52,Timberland,27,23.0
+53,Timberland,16,26.0
+54,Timberland,23,25.0
+55,Timberland,24,24.0
+56,Timberland,20,26.0
+57,Timberland,24,23.0
+58,Timberland,27,24.0
+59,Timberland,23,25.0
+60,Timberland,30,22.0
+61,Timberland,23,24.0
+62,Timberland,16,26.0
+63,Timberland,24,23.0
+64,Timberland,23,24.0
+65,Timberland,26,23.0
+66,Timberland,24,24.0
+67,Timberland,28,23.0
+68,Timberland,23,25.0
+69,Timberland,25,24.0
+70,Timberland,27,23.0
+71,Timberland,24,24.0
+72,Timberland,25,25.0
+73,Timberland,30,23.0
+74,Timberland,29,23.0
+75,Timberland,23,25.0
+76,Timberland,23,25.0
+77,Timberland,28,24.0
+78,Timberland,25,25.0
+79,Timberland,26,24.0
+80,Timberland,27,24.0
+81,Timberland,25,25.0
+82,Timberland,26,24.0
+83,Timberland,26,23.0
+84,Timberland,25,24.0
+85,Timberland,27,24.0
+86,Timberland,30,22.0
+87,Timberland,22,25.0
+88,Timberland,21,24.0
+89,Timberland,23,24.0
+90,Timberland,18,27.0
+91,Timberland,23,25.0
+92,Timberland,24,25.0
+93,Timberland,23,24.0
+94,Timberland,20,24.0
+95,Timberland,25,24.0
+96,Timberland,19,26.0
+97,Timberland,25,25.0
+98,Timberland,21,24.0
+99,Timberland,25,25.0
+0,Ursuline Academy,37,17.0
+1,Ursuline Academy,43,18.0
+2,Ursuline Academy,41,17.0
+3,Ursuline Academy,55,17.0
+4,Ursuline Academy,32,21.0
+5,Ursuline Academy,55,16.0
+6,Ursuline Academy,44,18.0
+7,Ursuline Academy,59,16.0
+8,Ursuline Academy,59,15.0
+9,Ursuline Academy,57,15.0
+10,Ursuline Academy,65,14.0
+11,Ursuline Academy,70,12.0
+12,Ursuline Academy,51,16.0
+13,Ursuline Academy,40,19.0
+14,Ursuline Academy,44,16.0
+15,Ursuline Academy,51,16.0
+16,Ursuline Academy,52,16.0
+17,Ursuline Academy,46,17.0
+18,Ursuline Academy,52,16.0
+19,Ursuline Academy,54,16.0
+20,Ursuline Academy,38,20.0
+21,Ursuline Academy,59,15.0
+22,Ursuline Academy,54,16.0
+23,Ursuline Academy,55,16.0
+24,Ursuline Academy,49,16.0
+25,Ursuline Academy,35,23.0
+26,Ursuline Academy,39,18.0
+27,Ursuline Academy,55,16.0
+28,Ursuline Academy,41,18.0
+29,Ursuline Academy,71,13.0
+30,Ursuline Academy,48,16.0
+31,Ursuline Academy,61,15.0
+32,Ursuline Academy,44,17.0
+33,Ursuline Academy,54,17.0
+34,Ursuline Academy,52,16.0
+35,Ursuline Academy,53,16.0
+36,Ursuline Academy,54,16.0
+37,Ursuline Academy,46,17.0
+38,Ursuline Academy,57,15.0
+39,Ursuline Academy,70,12.0
+40,Ursuline Academy,56,16.0
+41,Ursuline Academy,63,14.0
+42,Ursuline Academy,40,19.0
+43,Ursuline Academy,47,17.0
+44,Ursuline Academy,57,15.0
+45,Ursuline Academy,45,17.0
+46,Ursuline Academy,54,16.0
+47,Ursuline Academy,60,15.0
+48,Ursuline Academy,38,19.0
+49,Ursuline Academy,51,16.0
+50,Ursuline Academy,57,17.0
+51,Ursuline Academy,44,18.0
+52,Ursuline Academy,50,17.0
+53,Ursuline Academy,53,17.0
+54,Ursuline Academy,73,11.0
+55,Ursuline Academy,53,16.0
+56,Ursuline Academy,47,16.0
+57,Ursuline Academy,38,18.0
+58,Ursuline Academy,52,16.0
+59,Ursuline Academy,46,17.0
+60,Ursuline Academy,75,12.0
+61,Ursuline Academy,47,17.0
+62,Ursuline Academy,39,20.0
+63,Ursuline Academy,53,16.0
+64,Ursuline Academy,62,14.0
+65,Ursuline Academy,61,16.0
+66,Ursuline Academy,53,15.0
+67,Ursuline Academy,52,17.0
+68,Ursuline Academy,49,17.0
+69,Ursuline Academy,56,14.0
+70,Ursuline Academy,47,16.0
+71,Ursuline Academy,52,16.0
+72,Ursuline Academy,57,15.0
+73,Ursuline Academy,59,15.0
+74,Ursuline Academy,37,19.0
+75,Ursuline Academy,50,17.0
+76,Ursuline Academy,56,17.0
+77,Ursuline Academy,42,17.0
+78,Ursuline Academy,60,15.0
+79,Ursuline Academy,52,16.0
+80,Ursuline Academy,51,16.0
+81,Ursuline Academy,50,16.0
+82,Ursuline Academy,54,16.0
+83,Ursuline Academy,35,20.0
+84,Ursuline Academy,53,15.0
+85,Ursuline Academy,64,13.0
+86,Ursuline Academy,55,16.0
+87,Ursuline Academy,55,16.0
+88,Ursuline Academy,51,16.0
+89,Ursuline Academy,72,12.0
+90,Ursuline Academy,31,22.0
+91,Ursuline Academy,49,16.0
+92,Ursuline Academy,55,18.0
+93,Ursuline Academy,59,16.0
+94,Ursuline Academy,51,16.0
+95,Ursuline Academy,52,18.0
+96,Ursuline Academy,43,17.0
+97,Ursuline Academy,42,17.0
+98,Ursuline Academy,59,15.0
+99,Ursuline Academy,32,21.0
+0,Villa Duchesne,155,2.0
+1,Villa Duchesne,150,4.0
+2,Villa Duchesne,139,5.0
+3,Villa Duchesne,160,2.0
+4,Villa Duchesne,155,2.0
+5,Villa Duchesne,143,5.0
+6,Villa Duchesne,167,2.0
+7,Villa Duchesne,171,2.0
+8,Villa Duchesne,151,3.0
+9,Villa Duchesne,148,5.0
+10,Villa Duchesne,157,4.0
+11,Villa Duchesne,163,2.0
+12,Villa Duchesne,129,6.0
+13,Villa Duchesne,145,4.0
+14,Villa Duchesne,139,6.0
+15,Villa Duchesne,159,3.0
+16,Villa Duchesne,151,4.0
+17,Villa Duchesne,149,3.0
+18,Villa Duchesne,143,5.0
+19,Villa Duchesne,143,5.0
+20,Villa Duchesne,135,6.0
+21,Villa Duchesne,133,6.0
+22,Villa Duchesne,140,6.0
+23,Villa Duchesne,146,4.0
+24,Villa Duchesne,146,3.0
+25,Villa Duchesne,141,5.0
+26,Villa Duchesne,147,6.0
+27,Villa Duchesne,159,2.0
+28,Villa Duchesne,137,5.0
+29,Villa Duchesne,151,3.0
+30,Villa Duchesne,157,2.0
+31,Villa Duchesne,162,2.0
+32,Villa Duchesne,141,6.0
+33,Villa Duchesne,157,3.0
+34,Villa Duchesne,152,2.0
+35,Villa Duchesne,165,2.0
+36,Villa Duchesne,155,3.0
+37,Villa Duchesne,141,5.0
+38,Villa Duchesne,151,4.0
+39,Villa Duchesne,130,6.0
+40,Villa Duchesne,151,2.0
+41,Villa Duchesne,153,4.0
+42,Villa Duchesne,140,6.0
+43,Villa Duchesne,142,6.0
+44,Villa Duchesne,160,3.0
+45,Villa Duchesne,145,5.0
+46,Villa Duchesne,142,6.0
+47,Villa Duchesne,141,5.0
+48,Villa Duchesne,135,6.0
+49,Villa Duchesne,146,6.0
+50,Villa Duchesne,134,6.0
+51,Villa Duchesne,132,6.0
+52,Villa Duchesne,143,5.0
+53,Villa Duchesne,146,5.0
+54,Villa Duchesne,143,4.0
+55,Villa Duchesne,140,5.0
+56,Villa Duchesne,159,3.0
+57,Villa Duchesne,140,6.0
+58,Villa Duchesne,167,2.0
+59,Villa Duchesne,140,4.0
+60,Villa Duchesne,145,5.0
+61,Villa Duchesne,138,6.0
+62,Villa Duchesne,149,4.0
+63,Villa Duchesne,135,6.0
+64,Villa Duchesne,141,6.0
+65,Villa Duchesne,135,5.0
+66,Villa Duchesne,155,4.0
+67,Villa Duchesne,152,4.0
+68,Villa Duchesne,167,2.0
+69,Villa Duchesne,142,5.0
+70,Villa Duchesne,142,4.0
+71,Villa Duchesne,150,3.0
+72,Villa Duchesne,150,4.0
+73,Villa Duchesne,122,6.0
+74,Villa Duchesne,142,6.0
+75,Villa Duchesne,146,6.0
+76,Villa Duchesne,144,6.0
+77,Villa Duchesne,145,4.0
+78,Villa Duchesne,158,3.0
+79,Villa Duchesne,163,2.0
+80,Villa Duchesne,152,4.0
+81,Villa Duchesne,142,4.0
+82,Villa Duchesne,147,5.0
+83,Villa Duchesne,154,3.0
+84,Villa Duchesne,159,2.0
+85,Villa Duchesne,145,6.0
+86,Villa Duchesne,142,5.0
+87,Villa Duchesne,140,6.0
+88,Villa Duchesne,157,3.0
+89,Villa Duchesne,157,3.0
+90,Villa Duchesne,144,4.0
+91,Villa Duchesne,153,4.0
+92,Villa Duchesne,142,5.0
+93,Villa Duchesne,151,4.0
+94,Villa Duchesne,159,2.0
+95,Villa Duchesne,164,2.0
+96,Villa Duchesne,164,2.0
+97,Villa Duchesne,158,4.0
+98,Villa Duchesne,158,2.0
+99,Villa Duchesne,143,5.0
+0,Visitation Academy,146,5.0
+1,Visitation Academy,156,3.0
+2,Visitation Academy,138,6.0
+3,Visitation Academy,149,4.0
+4,Visitation Academy,144,4.0
+5,Visitation Academy,152,3.0
+6,Visitation Academy,157,4.0
+7,Visitation Academy,147,5.0
+8,Visitation Academy,149,4.0
+9,Visitation Academy,151,4.0
+10,Visitation Academy,161,3.0
+11,Visitation Academy,148,5.0
+12,Visitation Academy,151,4.0
+13,Visitation Academy,147,3.0
+14,Visitation Academy,156,3.0
+15,Visitation Academy,146,4.0
+16,Visitation Academy,152,3.0
+17,Visitation Academy,154,2.0
+18,Visitation Academy,154,3.0
+19,Visitation Academy,141,6.0
+20,Visitation Academy,176,2.0
+21,Visitation Academy,148,4.0
+22,Visitation Academy,149,5.0
+23,Visitation Academy,156,2.0
+24,Visitation Academy,145,4.0
+25,Visitation Academy,159,3.0
+26,Visitation Academy,149,5.0
+27,Visitation Academy,155,4.0
+28,Visitation Academy,160,2.0
+29,Visitation Academy,164,2.0
+30,Visitation Academy,148,4.0
+31,Visitation Academy,149,5.0
+32,Visitation Academy,151,4.0
+33,Visitation Academy,143,6.0
+34,Visitation Academy,146,6.0
+35,Visitation Academy,161,4.0
+36,Visitation Academy,148,5.0
+37,Visitation Academy,154,2.0
+38,Visitation Academy,143,6.0
+39,Visitation Academy,153,4.0
+40,Visitation Academy,146,4.0
+41,Visitation Academy,156,3.0
+42,Visitation Academy,150,4.0
+43,Visitation Academy,152,5.0
+44,Visitation Academy,148,5.0
+45,Visitation Academy,141,6.0
+46,Visitation Academy,156,3.0
+47,Visitation Academy,144,4.0
+48,Visitation Academy,146,3.0
+49,Visitation Academy,158,3.0
+50,Visitation Academy,158,4.0
+51,Visitation Academy,146,4.0
+52,Visitation Academy,174,2.0
+53,Visitation Academy,151,4.0
+54,Visitation Academy,152,3.0
+55,Visitation Academy,149,3.0
+56,Visitation Academy,150,5.0
+57,Visitation Academy,152,4.0
+58,Visitation Academy,144,5.0
+59,Visitation Academy,148,2.0
+60,Visitation Academy,162,3.0
+61,Visitation Academy,160,3.0
+62,Visitation Academy,145,5.0
+63,Visitation Academy,141,5.0
+64,Visitation Academy,155,3.0
+65,Visitation Academy,150,3.0
+66,Visitation Academy,158,2.0
+67,Visitation Academy,154,3.0
+68,Visitation Academy,148,5.0
+69,Visitation Academy,150,3.0
+70,Visitation Academy,130,6.0
+71,Visitation Academy,148,4.0
+72,Visitation Academy,147,5.0
+73,Visitation Academy,158,4.0
+74,Visitation Academy,148,3.0
+75,Visitation Academy,149,4.0
+76,Visitation Academy,150,3.0
+77,Visitation Academy,149,3.0
+78,Visitation Academy,148,4.0
+79,Visitation Academy,158,4.0
+80,Visitation Academy,153,3.0
+81,Visitation Academy,157,3.0
+82,Visitation Academy,157,3.0
+83,Visitation Academy,156,2.0
+84,Visitation Academy,140,6.0
+85,Visitation Academy,155,3.0
+86,Visitation Academy,159,3.0
+87,Visitation Academy,160,3.0
+88,Visitation Academy,169,2.0
+89,Visitation Academy,154,4.0
+90,Visitation Academy,150,3.0
+91,Visitation Academy,147,6.0
+92,Visitation Academy,148,4.0
+93,Visitation Academy,153,3.0
+94,Visitation Academy,149,5.0
+95,Visitation Academy,142,5.0
+96,Visitation Academy,132,6.0
+97,Visitation Academy,170,2.0
+98,Visitation Academy,147,4.0
+99,Visitation Academy,157,2.0
+0,Warrensburg,0,60.0
+1,Warrensburg,0,60.0
+2,Warrensburg,0,60.0
+3,Warrensburg,0,60.0
+4,Warrensburg,0,60.0
+5,Warrensburg,0,60.0
+6,Warrensburg,0,60.0
+7,Warrensburg,0,60.0
+8,Warrensburg,0,60.0
+9,Warrensburg,0,60.0
+10,Warrensburg,0,60.0
+11,Warrensburg,0,60.0
+12,Warrensburg,0,60.0
+13,Warrensburg,0,60.0
+14,Warrensburg,0,60.0
+15,Warrensburg,0,60.0
+16,Warrensburg,0,60.0
+17,Warrensburg,0,60.0
+18,Warrensburg,0,60.0
+19,Warrensburg,0,60.0
+20,Warrensburg,0,60.0
+21,Warrensburg,0,60.0
+22,Warrensburg,0,60.0
+23,Warrensburg,0,60.0
+24,Warrensburg,0,60.0
+25,Warrensburg,0,60.0
+26,Warrensburg,0,60.0
+27,Warrensburg,0,60.0
+28,Warrensburg,0,60.0
+29,Warrensburg,0,60.0
+30,Warrensburg,0,60.0
+31,Warrensburg,0,60.0
+32,Warrensburg,0,60.0
+33,Warrensburg,0,60.0
+34,Warrensburg,0,60.0
+35,Warrensburg,0,60.0
+36,Warrensburg,0,60.0
+37,Warrensburg,0,60.0
+38,Warrensburg,0,60.0
+39,Warrensburg,0,60.0
+40,Warrensburg,0,60.0
+41,Warrensburg,0,60.0
+42,Warrensburg,0,60.0
+43,Warrensburg,0,60.0
+44,Warrensburg,0,60.0
+45,Warrensburg,0,60.0
+46,Warrensburg,0,60.0
+47,Warrensburg,0,60.0
+48,Warrensburg,0,60.0
+49,Warrensburg,0,60.0
+50,Warrensburg,0,60.0
+51,Warrensburg,0,60.0
+52,Warrensburg,0,60.0
+53,Warrensburg,0,60.0
+54,Warrensburg,0,60.0
+55,Warrensburg,0,60.0
+56,Warrensburg,0,60.0
+57,Warrensburg,0,60.0
+58,Warrensburg,0,60.0
+59,Warrensburg,0,60.0
+60,Warrensburg,0,60.0
+61,Warrensburg,0,60.0
+62,Warrensburg,0,60.0
+63,Warrensburg,0,60.0
+64,Warrensburg,0,60.0
+65,Warrensburg,0,60.0
+66,Warrensburg,0,60.0
+67,Warrensburg,0,60.0
+68,Warrensburg,0,60.0
+69,Warrensburg,0,60.0
+70,Warrensburg,0,60.0
+71,Warrensburg,0,60.0
+72,Warrensburg,0,60.0
+73,Warrensburg,0,60.0
+74,Warrensburg,0,60.0
+75,Warrensburg,0,60.0
+76,Warrensburg,0,60.0
+77,Warrensburg,0,60.0
+78,Warrensburg,0,60.0
+79,Warrensburg,0,60.0
+80,Warrensburg,0,60.0
+81,Warrensburg,0,60.0
+82,Warrensburg,0,60.0
+83,Warrensburg,0,60.0
+84,Warrensburg,0,60.0
+85,Warrensburg,0,60.0
+86,Warrensburg,0,60.0
+87,Warrensburg,0,60.0
+88,Warrensburg,0,60.0
+89,Warrensburg,0,60.0
+90,Warrensburg,0,60.0
+91,Warrensburg,0,60.0
+92,Warrensburg,0,60.0
+93,Warrensburg,0,60.0
+94,Warrensburg,0,60.0
+95,Warrensburg,0,60.0
+96,Warrensburg,0,60.0
+97,Warrensburg,0,60.0
+98,Warrensburg,0,60.0
+99,Warrensburg,0,60.0
+0,Washington,2,41.0
+1,Washington,2,41.0
+2,Washington,2,40.0
+3,Washington,2,42.0
+4,Washington,1,43.0
+5,Washington,2,41.0
+6,Washington,2,39.0
+7,Washington,3,38.0
+8,Washington,2,40.0
+9,Washington,2,41.0
+10,Washington,2,41.0
+11,Washington,2,39.0
+12,Washington,2,42.0
+13,Washington,2,41.0
+14,Washington,2,42.0
+15,Washington,2,42.0
+16,Washington,2,40.0
+17,Washington,2,40.0
+18,Washington,2,39.0
+19,Washington,3,37.0
+20,Washington,2,42.0
+21,Washington,2,41.0
+22,Washington,3,38.0
+23,Washington,2,39.0
+24,Washington,2,39.0
+25,Washington,2,42.0
+26,Washington,2,42.0
+27,Washington,3,40.0
+28,Washington,2,41.0
+29,Washington,2,41.0
+30,Washington,2,41.0
+31,Washington,2,39.0
+32,Washington,2,42.0
+33,Washington,2,41.0
+34,Washington,2,40.0
+35,Washington,2,41.0
+36,Washington,2,41.0
+37,Washington,2,41.0
+38,Washington,1,42.0
+39,Washington,2,41.0
+40,Washington,2,41.0
+41,Washington,2,42.0
+42,Washington,5,38.0
+43,Washington,2,40.0
+44,Washington,2,39.0
+45,Washington,2,39.0
+46,Washington,2,39.0
+47,Washington,2,40.0
+48,Washington,2,39.0
+49,Washington,2,41.0
+50,Washington,2,40.0
+51,Washington,2,40.0
+52,Washington,2,40.0
+53,Washington,2,38.0
+54,Washington,2,40.0
+55,Washington,2,40.0
+56,Washington,2,42.0
+57,Washington,2,41.0
+58,Washington,2,42.0
+59,Washington,2,42.0
+60,Washington,2,41.0
+61,Washington,2,41.0
+62,Washington,2,38.0
+63,Washington,2,41.0
+64,Washington,1,42.0
+65,Washington,2,41.0
+66,Washington,2,41.0
+67,Washington,2,41.0
+68,Washington,2,40.0
+69,Washington,2,40.0
+70,Washington,2,39.0
+71,Washington,1,42.0
+72,Washington,2,41.0
+73,Washington,2,42.0
+74,Washington,1,42.0
+75,Washington,2,39.0
+76,Washington,2,40.0
+77,Washington,2,40.0
+78,Washington,2,41.0
+79,Washington,2,42.0
+80,Washington,2,40.0
+81,Washington,2,42.0
+82,Washington,2,42.0
+83,Washington,2,41.0
+84,Washington,2,40.0
+85,Washington,2,41.0
+86,Washington,2,40.0
+87,Washington,2,40.0
+88,Washington,2,42.0
+89,Washington,2,42.0
+90,Washington,2,41.0
+91,Washington,2,40.0
+92,Washington,2,40.0
+93,Washington,2,40.0
+94,Washington,2,40.0
+95,Washington,2,41.0
+96,Washington,2,41.0
+97,Washington,1,43.0
+98,Washington,2,39.0
+99,Washington,2,41.0
+0,Webb City,20,25.0
+1,Webb City,15,28.0
+2,Webb City,26,24.0
+3,Webb City,10,32.0
+4,Webb City,19,26.0
+5,Webb City,25,24.0
+6,Webb City,15,26.0
+7,Webb City,13,29.0
+8,Webb City,20,25.0
+9,Webb City,13,27.0
+10,Webb City,15,25.0
+11,Webb City,13,26.0
+12,Webb City,18,25.0
+13,Webb City,12,29.0
+14,Webb City,17,26.0
+15,Webb City,14,27.0
+16,Webb City,9,32.0
+17,Webb City,13,28.0
+18,Webb City,21,26.0
+19,Webb City,23,24.0
+20,Webb City,21,26.0
+21,Webb City,30,23.0
+22,Webb City,15,28.0
+23,Webb City,23,26.0
+24,Webb City,28,22.0
+25,Webb City,14,29.0
+26,Webb City,24,25.0
+27,Webb City,14,27.0
+28,Webb City,27,23.0
+29,Webb City,24,24.0
+30,Webb City,20,25.0
+31,Webb City,25,24.0
+32,Webb City,15,28.0
+33,Webb City,16,26.0
+34,Webb City,11,32.0
+35,Webb City,13,25.0
+36,Webb City,20,26.0
+37,Webb City,27,24.0
+38,Webb City,20,25.0
+39,Webb City,15,27.0
+40,Webb City,21,25.0
+41,Webb City,19,26.0
+42,Webb City,15,27.0
+43,Webb City,12,30.0
+44,Webb City,27,24.0
+45,Webb City,23,26.0
+46,Webb City,26,25.0
+47,Webb City,16,26.0
+48,Webb City,26,24.0
+49,Webb City,15,27.0
+50,Webb City,17,26.0
+51,Webb City,19,26.0
+52,Webb City,16,28.0
+53,Webb City,17,25.0
+54,Webb City,31,22.0
+55,Webb City,16,26.0
+56,Webb City,28,24.0
+57,Webb City,16,27.0
+58,Webb City,31,22.0
+59,Webb City,21,27.0
+60,Webb City,33,21.0
+61,Webb City,15,27.0
+62,Webb City,20,25.0
+63,Webb City,21,25.0
+64,Webb City,17,26.0
+65,Webb City,14,27.0
+66,Webb City,18,27.0
+67,Webb City,14,28.0
+68,Webb City,25,24.0
+69,Webb City,22,25.0
+70,Webb City,10,33.0
+71,Webb City,23,25.0
+72,Webb City,24,26.0
+73,Webb City,23,25.0
+74,Webb City,24,25.0
+75,Webb City,9,32.0
+76,Webb City,15,28.0
+77,Webb City,27,25.0
+78,Webb City,23,26.0
+79,Webb City,23,26.0
+80,Webb City,9,32.0
+81,Webb City,29,24.0
+82,Webb City,12,26.0
+83,Webb City,16,27.0
+84,Webb City,21,26.0
+85,Webb City,25,26.0
+86,Webb City,21,24.0
+87,Webb City,23,24.0
+88,Webb City,16,25.0
+89,Webb City,25,23.0
+90,Webb City,22,25.0
+91,Webb City,33,22.0
+92,Webb City,25,24.0
+93,Webb City,13,28.0
+94,Webb City,9,31.0
+95,Webb City,11,31.0
+96,Webb City,29,24.0
+97,Webb City,35,22.0
+98,Webb City,14,27.0
+99,Webb City,22,26.0
+0,Webster Groves,149,4.0
+1,Webster Groves,157,2.0
+2,Webster Groves,150,2.0
+3,Webster Groves,152,3.0
+4,Webster Groves,151,3.0
+5,Webster Groves,156,2.0
+6,Webster Groves,162,3.0
+7,Webster Groves,151,4.0
+8,Webster Groves,118,6.0
+9,Webster Groves,144,6.0
+10,Webster Groves,154,5.0
+11,Webster Groves,150,4.0
+12,Webster Groves,145,5.0
+13,Webster Groves,143,5.0
+14,Webster Groves,148,4.0
+15,Webster Groves,141,6.0
+16,Webster Groves,129,6.0
+17,Webster Groves,118,7.0
+18,Webster Groves,168,2.0
+19,Webster Groves,151,2.0
+20,Webster Groves,154,3.0
+21,Webster Groves,160,2.0
+22,Webster Groves,155,2.0
+23,Webster Groves,141,5.0
+24,Webster Groves,134,6.0
+25,Webster Groves,144,4.0
+26,Webster Groves,152,4.0
+27,Webster Groves,150,5.0
+28,Webster Groves,133,6.0
+29,Webster Groves,151,4.0
+30,Webster Groves,147,5.0
+31,Webster Groves,151,4.0
+32,Webster Groves,157,2.0
+33,Webster Groves,155,4.0
+34,Webster Groves,149,4.0
+35,Webster Groves,147,5.0
+36,Webster Groves,140,6.0
+37,Webster Groves,140,6.0
+38,Webster Groves,158,3.0
+39,Webster Groves,162,3.0
+40,Webster Groves,125,6.0
+41,Webster Groves,144,5.0
+42,Webster Groves,144,5.0
+43,Webster Groves,159,3.0
+44,Webster Groves,157,4.0
+45,Webster Groves,156,4.0
+46,Webster Groves,151,4.0
+47,Webster Groves,160,2.0
+48,Webster Groves,158,2.0
+49,Webster Groves,150,4.0
+50,Webster Groves,159,3.0
+51,Webster Groves,159,3.0
+52,Webster Groves,154,4.0
+53,Webster Groves,153,2.0
+54,Webster Groves,128,6.0
+55,Webster Groves,140,6.0
+56,Webster Groves,154,4.0
+57,Webster Groves,148,5.0
+58,Webster Groves,140,6.0
+59,Webster Groves,132,6.0
+60,Webster Groves,129,6.0
+61,Webster Groves,159,4.0
+62,Webster Groves,161,3.0
+63,Webster Groves,152,3.0
+64,Webster Groves,148,4.0
+65,Webster Groves,148,4.0
+66,Webster Groves,148,5.0
+67,Webster Groves,162,2.0
+68,Webster Groves,159,3.0
+69,Webster Groves,150,4.0
+70,Webster Groves,144,3.0
+71,Webster Groves,114,7.0
+72,Webster Groves,139,6.0
+73,Webster Groves,159,2.0
+74,Webster Groves,151,2.0
+75,Webster Groves,158,2.0
+76,Webster Groves,145,5.0
+77,Webster Groves,118,8.0
+78,Webster Groves,134,6.0
+79,Webster Groves,163,3.0
+80,Webster Groves,157,2.0
+81,Webster Groves,130,6.0
+82,Webster Groves,162,2.0
+83,Webster Groves,125,6.0
+84,Webster Groves,147,4.0
+85,Webster Groves,161,2.0
+86,Webster Groves,143,4.0
+87,Webster Groves,145,4.0
+88,Webster Groves,143,6.0
+89,Webster Groves,150,5.0
+90,Webster Groves,151,2.0
+91,Webster Groves,155,3.0
+92,Webster Groves,152,2.0
+93,Webster Groves,166,2.0
+94,Webster Groves,155,4.0
+95,Webster Groves,126,6.0
+96,Webster Groves,151,3.0
+97,Webster Groves,150,6.0
+98,Webster Groves,145,5.0
+99,Webster Groves,154,4.0
+0,West Plains,14,26.0
+1,West Plains,28,23.0
+2,West Plains,21,26.0
+3,West Plains,21,24.0
+4,West Plains,20,25.0
+5,West Plains,18,27.0
+6,West Plains,21,25.0
+7,West Plains,18,26.0
+8,West Plains,20,26.0
+9,West Plains,12,30.0
+10,West Plains,12,29.0
+11,West Plains,24,23.0
+12,West Plains,16,27.0
+13,West Plains,17,25.0
+14,West Plains,25,25.0
+15,West Plains,16,24.0
+16,West Plains,21,25.0
+17,West Plains,16,26.0
+18,West Plains,27,24.0
+19,West Plains,23,25.0
+20,West Plains,25,24.0
+21,West Plains,19,26.0
+22,West Plains,20,26.0
+23,West Plains,18,28.0
+24,West Plains,22,25.0
+25,West Plains,19,26.0
+26,West Plains,19,27.0
+27,West Plains,18,25.0
+28,West Plains,24,25.0
+29,West Plains,21,25.0
+30,West Plains,28,22.0
+31,West Plains,17,26.0
+32,West Plains,35,21.0
+33,West Plains,20,25.0
+34,West Plains,20,26.0
+35,West Plains,11,30.0
+36,West Plains,21,25.0
+37,West Plains,17,26.0
+38,West Plains,20,26.0
+39,West Plains,22,25.0
+40,West Plains,21,26.0
+41,West Plains,20,25.0
+42,West Plains,20,24.0
+43,West Plains,20,25.0
+44,West Plains,34,20.0
+45,West Plains,28,24.0
+46,West Plains,25,26.0
+47,West Plains,20,25.0
+48,West Plains,20,26.0
+49,West Plains,22,25.0
+50,West Plains,19,25.0
+51,West Plains,13,30.0
+52,West Plains,23,26.0
+53,West Plains,13,29.0
+54,West Plains,14,28.0
+55,West Plains,22,25.0
+56,West Plains,29,23.0
+57,West Plains,25,22.0
+58,West Plains,23,25.0
+59,West Plains,23,26.0
+60,West Plains,19,26.0
+61,West Plains,16,25.0
+62,West Plains,24,24.0
+63,West Plains,14,27.0
+64,West Plains,21,25.0
+65,West Plains,19,25.0
+66,West Plains,19,25.0
+67,West Plains,16,26.0
+68,West Plains,17,27.0
+69,West Plains,19,26.0
+70,West Plains,16,28.0
+71,West Plains,18,26.0
+72,West Plains,35,22.0
+73,West Plains,25,24.0
+74,West Plains,29,24.0
+75,West Plains,35,22.0
+76,West Plains,29,23.0
+77,West Plains,34,20.0
+78,West Plains,30,23.0
+79,West Plains,24,25.0
+80,West Plains,21,25.0
+81,West Plains,24,26.0
+82,West Plains,11,28.0
+83,West Plains,22,25.0
+84,West Plains,25,25.0
+85,West Plains,30,23.0
+86,West Plains,20,26.0
+87,West Plains,16,26.0
+88,West Plains,15,27.0
+89,West Plains,22,25.0
+90,West Plains,31,23.0
+91,West Plains,18,26.0
+92,West Plains,14,27.0
+93,West Plains,21,25.0
+94,West Plains,19,25.0
+95,West Plains,20,25.0
+96,West Plains,23,25.0
+97,West Plains,46,16.0
+98,West Plains,15,26.0
+99,West Plains,13,29.0
