@@ -2,3 +2,5 @@ env/
 bin/
 etc/
 include/
+
+.DS_Store

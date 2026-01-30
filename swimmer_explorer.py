@@ -15,6 +15,7 @@ import numpy as np
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 # --- Page config ---
 st.set_page_config(
@@ -24,16 +25,22 @@ st.set_page_config(
 )
 
 SWIMMER_FILE = "swimmer_results.csv"
-TEAM_FILE = "team_scores.csv"  # fallback: simulation_results.csv
+TEAM_FILE = "team_scores.csv"
 
 
 @st.cache_data
 def load_csv(path: str) -> pd.DataFrame:
-    return pd.read_csv(path)
+    """Load CSV, trying .gz version first for smaller files."""
+    import os
+    base = path.replace(".csv", "")
+    for p in (f"{base}.csv.gz", path):
+        if os.path.exists(p):
+            return pd.read_csv(p)
+    raise FileNotFoundError(path)
 
 
 def load_team_scores():
-    """Load team scores from team_scores.csv or simulation_results.csv."""
+    """Load team scores from team_scores.csv or simulation_results.csv (.gz tried first)."""
     for path in [TEAM_FILE, "simulation_results.csv"]:
         try:
             return load_csv(path)
@@ -92,11 +99,12 @@ def compute_team_stats(df_scores: pd.DataFrame):
         how="left",
     ).fillna(0)
     summary = summary.merge(
-        podium[["podium_prob"]],
+        podium[["podium_prob", "avg_rank"]],
         left_index=True,
         right_index=True,
         how="left",
     )
+    summary["avg_rank"] = summary["avg_rank"].round(2)
     summary = summary.sort_values("mean", ascending=False)
 
     return {
@@ -151,7 +159,7 @@ def format_time_series(series: pd.Series) -> pd.Series:
 
 
 def render_team_section():
-    st.header("🏆 Team Results")
+    st.header("Team Results")
     df_scores = load_team_scores()
     if df_scores is None:
         st.error("Team scores file not found. Export from the notebook:")
@@ -167,17 +175,17 @@ def render_team_section():
     st.caption(f"Based on **{n_sims}** simulations • **{data['df_scores']['team'].nunique()}** teams")
 
     tab_scores, tab_placement, tab_dist, tab_box = st.tabs([
-        "📊 Overall Team Scores",
-        "📋 Placement Probabilities",
-        "📈 Score Distributions",
-        "📦 Box Plot (Top Teams)",
+        "Overall Team Scores",
+        "Placement Probabilities",
+        "Score Distributions",
+        "Box Plot (Top Teams)",
     ])
 
     with tab_scores:
-        st.subheader("Team summary (mean, std, min, max, win %, podium)")
+        st.subheader("Team summary (mean, std, min, max, avg placement, win %, podium)")
         summary = data["summary"].head(25).reset_index()
-        cols = [c for c in ["team", "mean", "std", "min", "max", "median", "win_%", "wins", "podium_prob"] if c in summary.columns]
-        st.dataframe(summary[cols].rename(columns={"team": "Team", "mean": "Avg Pts", "std": "Std", "min": "Min", "max": "Max", "median": "Median", "win_%": "Win %", "podium_prob": "Podium Prob"}), use_container_width=True, hide_index=True)
+        cols = [c for c in ["team", "mean", "std", "min", "max", "median", "avg_rank", "win_%", "wins", "podium_prob"] if c in summary.columns]
+        st.dataframe(summary[cols].rename(columns={"team": "Team", "mean": "Avg Pts", "std": "Std", "min": "Min", "max": "Max", "median": "Median", "avg_rank": "Avg Place", "win_%": "Win %", "podium_prob": "Podium Prob"}), use_container_width=True, hide_index=True)
 
     with tab_placement:
         st.subheader("Placement probabilities (%)")
@@ -192,15 +200,24 @@ def render_team_section():
         st.subheader("Score distribution by team (top 10)")
         top_teams = data["team_stats"].head(10).index.tolist()
         df_top = data["df_scores"][data["df_scores"]["team"].isin(top_teams)]
-        fig, ax = plt.subplots(figsize=(10, 5))
-        for team in top_teams:
-            pts = df_top[df_top["team"] == team]["points"].values
-            ax.hist(pts, bins=min(30, max(5, len(pts)//10)), alpha=0.5, label=team, density=True)
-        ax.set_xlabel("Total points")
-        ax.set_ylabel("Density")
-        ax.set_title(f"Score distribution (top 10 teams, {n_sims} sims)")
-        ax.legend(bbox_to_anchor=(1.02, 1), loc="upper left", fontsize=8)
-        plt.tight_layout()
+        fig, ax = plt.subplots(figsize=(12, 7))
+        palette = sns.color_palette("tab10", n_colors=len(top_teams))
+        for i, team in enumerate(top_teams):
+            team_data = df_top[df_top["team"] == team]
+            sns.kdeplot(
+                data=team_data,
+                x="points",
+                fill=True,
+                alpha=0.3,
+                color=palette[i],
+                label=team,
+                ax=ax,
+            )
+        ax.set_title("Team Points Distribution Across Simulated Meets (Top 10 Teams)", fontsize=14, fontweight="bold")
+        ax.set_xlabel("Total Points", fontsize=12)
+        ax.set_ylabel("Density", fontsize=12)
+        ax.legend(title="Team", bbox_to_anchor=(1.05, 1), loc="upper left")
+        plt.tight_layout(rect=[0, 0, 0.85, 1])
         st.pyplot(fig)
         plt.close()
 
@@ -230,7 +247,7 @@ def render_team_section():
 
 
 def render_swimmer_section():
-    st.header("🏊 Swimmer Explorer")
+    st.header("Swimmer Explorer")
     try:
         df = load_csv(SWIMMER_FILE)
     except FileNotFoundError:
@@ -267,7 +284,7 @@ def render_swimmer_section():
         return
 
     stats = compute_swimmer_stats(filtered)
-    tab1, tab2, tab3 = st.tabs(["📊 Swimmer Stats", "🏅 Medal Probabilities", "📈 Distributions"])
+    tab1, tab2, tab3 = st.tabs(["Swimmer Stats", "Medal Probabilities", "Distributions"])
 
     with tab1:
         st.subheader("Swimmer performance summary")
@@ -283,6 +300,8 @@ def render_swimmer_section():
             ["name", "team", "event", "avg_time", "avg_place", "avg_points", "gold_prob", "silver_prob", "bronze_prob", "medal_prob"]
         ].copy()
         display_df["avg_time"] = format_time_series(display_df["avg_time"])
+        # Add 1-based index column on the left
+        display_df.insert(0, "#", range(1, len(display_df) + 1))
         st.dataframe(
             display_df.rename(columns={
                 "name": "Swimmer", "team": "Team", "event": "Event", "avg_time": "Avg Time", "avg_place": "Avg Place",
@@ -309,32 +328,35 @@ def render_swimmer_section():
         if selected_label:
             sel_name, sel_event = selected_label.split(" — ", 1)
             subset = filtered[(filtered["name"] == sel_name) & (filtered["event"] == sel_event)]
+            # Round time to nearest hundredth for distribution display
+            time_rounded = subset["time"].round(2)
             c1, c2 = st.columns(2)
             with c1:
-                st.bar_chart(subset["time"].value_counts().sort_index())
+                st.bar_chart(time_rounded.value_counts().sort_index())
             with c2:
                 st.bar_chart(subset["place"].value_counts().sort_index())
-            st.metric("Avg Time", format_time(subset["time"].mean()))
+            st.metric("Avg Time", format_time(round(subset["time"].mean(), 2)))
             st.metric("Avg Place", f"{subset['place'].mean():.1f}")
 
 
 def main():
-    st.title("🏊 Swim Meet Simulation Explorer")
+    st.title("Swim Meet Simulation Explorer")
     st.markdown("Explore **team scores** and **individual swimmer** results from Monte Carlo simulations.")
 
     mode = st.sidebar.radio(
         "View",
-        ["🏆 Team Results", "🏊 Swimmer Explorer"],
+        ["Team Results", "Swimmer Explorer"],
         label_visibility="collapsed",
     )
 
-    if mode == "🏆 Team Results":
+    if mode == "Team Results":
         render_team_section()
     else:
         render_swimmer_section()
 
     st.markdown("---")
     st.caption("Stochastic Swim Meet Simulator • Export team_scores.csv & swimmer_results.csv from the notebook")
+    st.caption("Made by Serena")
 
 
 if __name__ == "__main__":

@@ -6,9 +6,9 @@ Usage:
   1. Run the swim_meet_simulator_notebook.ipynb and ensure the Monte Carlo cell
      has been executed (df_scores is in memory).
   2. Export results to CSV by running in the notebook:
-       df_scores.to_csv('simulation_results.csv', index=False)
+       df_scores.to_csv('team_scores.csv', index=False)
   3. Run this script:
-       python generate_report.py [path/to/simulation_results.csv] [-o output.pdf]
+       python generate_report.py [path/to/team_scores.csv] [-o output.pdf]
 """
 
 import argparse
@@ -32,14 +32,18 @@ from reportlab.lib.enums import TA_CENTER, TA_LEFT
 
 
 def load_and_validate_csv(path: Path) -> pd.DataFrame:
-    """Load simulation results CSV; must have simulation_id, team, points."""
-    if not path.exists():
+    """Load simulation results CSV; must have simulation_id, team, points. Tries .csv.gz if .csv missing."""
+    p = Path(path)
+    if not p.exists():
+        p = Path(str(p).replace(".csv", "") + ".csv.gz")
+    if not p.exists():
         print(f"Error: File not found: {path}", file=sys.stderr)
-        print("\nTo create it, run the swim meet simulator notebook, then in a cell run:",
+        print("\nTo create it, run the swim meet simulator notebook, then export (optionally gzipped):",
               file=sys.stderr)
-        print("  df_scores.to_csv('simulation_results.csv', index=False)", file=sys.stderr)
+        print("  df_scores.to_csv('team_scores.csv', index=False)", file=sys.stderr)
+        print("  # or: df_scores.to_csv('team_scores.csv.gz', index=False, compression='gzip')", file=sys.stderr)
         sys.exit(1)
-    df = pd.read_csv(path)
+    df = pd.read_csv(p)
     for col in ['simulation_id', 'team', 'points']:
         if col not in df.columns:
             print(f"Error: CSV must have column '{col}'. Found: {list(df.columns)}", file=sys.stderr)
@@ -342,8 +346,8 @@ def main():
     parser.add_argument(
         "input_csv",
         nargs="?",
-        default="simulation_results.csv",
-        help="Path to simulation_results CSV (default: simulation_results.csv)",
+        default="team_scores.csv",
+        help="Path to team_scores CSV (default: team_scores.csv)",
     )
     parser.add_argument(
         "-o", "--output",
