@@ -19,7 +19,7 @@ import seaborn as sns
 
 # --- Page config ---
 st.set_page_config(
-    page_title="Swim Meet Explorer",
+    page_title="Swimulator Explorer",
     page_icon="🏊",
     layout="wide",
 )
@@ -316,7 +316,7 @@ def render_team_section():
 
 
 def render_swimmer_section():
-    st.header("Swimmer Explorer")
+    st.header("Swimmer Results")
     try:
         df = load_csv(SWIMMER_FILE)
     except FileNotFoundError:
@@ -430,12 +430,12 @@ def render_swimmer_section():
 
 
 def main():
-    st.title("Swim Meet Simulation Explorer")
+    st.title("Swimulator Explorer")
     st.markdown("Explore **team scores** and **individual swimmer** results from Monte Carlo simulations.")
 
     mode = st.sidebar.radio(
         "View",
-        ["Team Results", "Swimmer Explorer"],
+        ["Team Results", "Swimmer Results"],
         label_visibility="collapsed",
     )
 
@@ -445,12 +445,12 @@ def main():
         render_swimmer_section()
 
     st.markdown("---")
-    st.caption("Stochastic Swim Meet Simulator • Exported team_scores.csv & swimmer_results.csv from the notebook")
+    st.caption("Stochastic Monte Carlo Markov Chain Swim Meet Simulator • Exported team_scores.csv & swimmer_results.csv from the notebook")
     st.caption(
         "**MSHSAA Girls State Championship Meet 2026**; Note this is a simulation only, not official results. "
         "Seed data from [MSHSAA Swimming Performance List](https://www.mshsaa.org/Activities/SwimmingPerformances.aspx?alg=45)."
     )
-    st.caption("Made with 💜 by Serena")
+    st.caption("Swimulator Made with 💜 by Serena")
 
 
 if __name__ == "__main__":
