@@ -39,11 +39,16 @@ def load_csv(path: str) -> pd.DataFrame:
     raise FileNotFoundError(path)
 
 
-def load_team_scores():
-    """Load team scores from team_scores.csv or simulation_results.csv (.gz tried first)."""
-    for path in [TEAM_FILE, "simulation_results.csv"]:
+def load_team_scores(path=None):
+    """Load team scores from the given path, or team_scores.csv / simulation_results.csv if path is None (.gz tried first)."""
+    if path is not None:
         try:
             return load_csv(path)
+        except FileNotFoundError:
+            return None
+    for p in [TEAM_FILE, "simulation_results.csv"]:
+        try:
+            return load_csv(p)
         except FileNotFoundError:
             continue
     return None
@@ -196,12 +201,11 @@ def format_time_series(series: pd.Series) -> pd.Series:
     return series.apply(format_time)
 
 
-def render_team_section():
+def render_team_section(team_scores_file):
     st.header("Team Results")
-    df_scores = load_team_scores()
+    df_scores = load_team_scores(team_scores_file)
     if df_scores is None:
-        st.error("Team scores file not found. Export from the notebook:")
-        st.code("df_scores.to_csv('team_scores.csv', index=False)\ndf_scores.to_csv('simulation_results.csv', index=False)")
+        st.error(f"Team scores file not found: **{team_scores_file}** (or .csv.gz). Export from the notebook.")
         return
 
     if "points" not in df_scores.columns or "simulation_id" not in df_scores.columns:
@@ -213,8 +217,9 @@ def render_team_section():
     st.caption(f"Based on **{n_sims}** simulations • **{data['df_scores']['team'].nunique()}** teams")
 
     df_results = None
+    swimmer_file = "class1_swimmer_results.csv.gz" if "class_1" in team_scores_file else "class2_swimmer_results.csv.gz"
     try:
-        df_results = load_csv(SWIMMER_FILE)
+        df_results = load_csv(swimmer_file)
     except FileNotFoundError:
         pass
 
@@ -232,7 +237,7 @@ def render_team_section():
         cols = [c for c in ["team", "mean", "std", "min", "max", "median", "avg_rank", "win_%", "wins", "podium_prob"] if c in summary.columns]
         team_display = summary[cols].copy()
         team_display.insert(0, "#", range(1, len(team_display) + 1))
-        st.dataframe(team_display.rename(columns={"team": "Team", "mean": "Avg Pts", "std": "Std", "min": "Min", "max": "Max", "median": "Median", "avg_rank": "Avg Place", "win_%": "Win %", "podium_prob": "Podium Prob"}), width="stretch", hide_index=True)
+        st.dataframe(team_display.rename(columns={"team": "Team", "mean": "Avg Pts", "std": "Std", "min": "Min", "max": "Max", "median": "Median", "avg_rank": "Avg Place", "win_%": "Win %", "podium_prob": "Podium Prob (out of 1)"}), width="stretch", hide_index=True)
 
     with tab_placement:
         st.subheader("Placement probabilities (%)")
@@ -315,13 +320,13 @@ def render_team_section():
         plt.close()
 
 
-def render_swimmer_section():
+def render_swimmer_section(swimmer_results_file):
     st.header("Swimmer Results")
     try:
-        df = load_csv(SWIMMER_FILE)
+        df = load_csv(swimmer_results_file)
     except FileNotFoundError:
-        st.error(f"**File not found:** `{SWIMMER_FILE}`")
-        st.info("Export from the notebook: `df_results.to_csv('swimmer_results.csv', index=False)`")
+        st.error(f"**File not found:** `{swimmer_results_file}` (or .csv)")
+        st.info("Export from the notebook: `df_results.to_csv('class_1_swimmer_results.csv', index=False)` (and class_2)")
         return
 
     n_sims = df["simulation_id"].nunique()
@@ -431,7 +436,7 @@ def render_swimmer_section():
 
 def main():
     st.title("Swimulator Explorer")
-    st.markdown("Explore **team scores** and **individual swimmer** results from Monte Carlo simulations.")
+    st.markdown("Explore **team scores** and **individual swimmer** simulation results for the **2026 MSHSAA Girls Class 1/2 Swim State Championship Meet**")
 
     mode = st.sidebar.radio(
         "View",
@@ -440,17 +445,19 @@ def main():
     )
 
     if mode == "Team Results":
-        render_team_section()
+        team_scores_choice = st.sidebar.selectbox("Team scores", ["Class 1", "Class 2"])
+        team_scores_file = "class1_team_scores.csv.gz" if team_scores_choice == "Class 1" else "class2_team_scores.csv.gz"
+        render_team_section(team_scores_file)
     else:
-        render_swimmer_section()
+        swimmer_results_choice = st.sidebar.selectbox("Swimmer results", ["Class 1", "Class 2"])
+        swimmer_results_file = "class1_swimmer_results.csv.gz" if swimmer_results_choice == "Class 1" else "class2_swimmer_results.csv.gz"
+        render_swimmer_section(swimmer_results_file)
 
     st.markdown("---")
-    st.caption("Stochastic Monte Carlo Markov Chain Swim Meet Simulator • Exported team_scores.csv & swimmer_results.csv from the notebook")
-    st.caption(
-        "**MSHSAA Girls Class 1State Championship Meet 2026**; Note this is a simulation only, not official results. "
-        "Seed data from [MSHSAA Swimming Performance List](https://www.mshsaa.org/Activities/SwimmingPerformances.aspx?alg=45)."
-    )
-    st.caption("Swimulator Made with 💜 by Serena")
+    st.caption("Stochastic Monte Carlo Markov Chain Swim Meet Simulator "
+    "Made with 💜 by Serena Huang ")
+    st.caption("Note this is a simulation only, not official results. "
+    "Seed data from [MSHSAA Swimming Performance List](https://www.mshsaa.org/Activities/SwimmingPerformances.aspx?alg=45).")
 
 
 if __name__ == "__main__":

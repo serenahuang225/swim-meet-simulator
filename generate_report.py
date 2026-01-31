@@ -346,8 +346,8 @@ def main():
     parser.add_argument(
         "input_csv",
         nargs="?",
-        default="team_scores.csv",
-        help="Path to team_scores CSV (default: team_scores.csv)",
+        default="class1_team_scores.csv",
+        help="Path to team_scores CSV (default: class1_team_scores.csv or class2_team_scores.csv)",
     )
     parser.add_argument(
         "-o", "--output",

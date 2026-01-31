@@ -35,7 +35,7 @@ A **stochastic simulator** for high school swimming championships. It uses a Mar
 | `generate_report.py` | Builds a PDF report from team score CSVs. |
 | `import_data.ipynb` | Data prep (e.g. class split, schools). |
 
-Input data can come from an MSHSAA export (e.g. `Girls Swimming Export.csv`) or from preprocessed CSVs like `swimming_performance.csv` and `schools.csv`.
+Input data can come from an MSHSAA export (e.g. `Girls Swimming Export.csv`) or from preprocessed CSVs like `swimming_performance.csv` and `school_class_assignments.csv`.
 
 ## Outputs
 
