@@ -12,6 +12,7 @@ Usage:
 import streamlit as st
 import pandas as pd
 import numpy as np
+import altair as alt
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
@@ -136,12 +137,13 @@ def compute_swimmer_stats(df: pd.DataFrame) -> pd.DataFrame:
         gold_count=("place", lambda x: (x == 1).sum()),
         silver_count=("place", lambda x: (x == 2).sum()),
         bronze_count=("place", lambda x: (x == 3).sum()),
+        medal_count=("place", lambda x: (x <= 8).sum()),
         appearances=("place", "count"),
     ).reset_index()
     agg["gold_prob"] = (agg["gold_count"] / n_sims * 100).round(1)
     agg["silver_prob"] = (agg["silver_count"] / n_sims * 100).round(1)
     agg["bronze_prob"] = (agg["bronze_count"] / n_sims * 100).round(1)
-    agg["medal_prob"] = agg["gold_prob"] + agg["silver_prob"] + agg["bronze_prob"]
+    agg["medal_prob"] = (agg["medal_count"] / n_sims * 100).round(1)
     for c in ["avg_time", "std_time", "min_time", "max_time", "avg_place", "avg_points"]:
         agg[c] = agg[c].round(2)
     return agg.sort_values(["avg_points", "avg_place"], ascending=[False, True])
@@ -217,7 +219,7 @@ def render_team_section(team_scores_file):
     st.caption(f"Based on **{n_sims}** simulations • **{data['df_scores']['team'].nunique()}** teams")
 
     df_results = None
-    swimmer_file = "class1_swimmer_results.csv.gz" if "class_1" in team_scores_file else "class2_swimmer_results.csv.gz"
+    swimmer_file = "class1_swimmer_results.csv.gz" if "class1" in team_scores_file else "class2_swimmer_results.csv.gz"
     try:
         df_results = load_csv(swimmer_file)
     except FileNotFoundError:
@@ -333,10 +335,10 @@ def render_swimmer_section(swimmer_results_file):
     st.caption(f"Data from **{n_sims}** simulations • {len(df):,} total results")
 
     st.sidebar.header("Filters")
-    all_teams = sorted(df["team"].unique())
-    selected_teams = st.sidebar.multiselect("Team(s)", all_teams, default=[])
     all_events = sorted(df["event"].unique())
-    selected_events = st.sidebar.multiselect("Event(s)", all_events, default=[])
+    selected_events = st.sidebar.multiselect("Event (s)", all_events, default=[])
+    all_teams = sorted(df["team"].unique())
+    selected_teams = st.sidebar.multiselect("Team (s)", all_teams, default=[])
     show_relays = st.sidebar.checkbox("Include Relays", value=True)
     show_individual = st.sidebar.checkbox("Include Individual", value=True)
     swimmer_search = st.sidebar.text_input("Search swimmer")
@@ -369,15 +371,18 @@ def render_swimmer_section(swimmer_results_file):
         )
         ascending = sort_col in ["avg_place", "avg_time"]
         display_stats = stats.sort_values(sort_col, ascending=ascending)
-        # Format avg_time as MM:SS.ss for display
+        # Format avg_time as MM:SS.ss for display (for Diving, show as score)
         display_df = display_stats[
             ["name", "team", "event", "avg_time", "avg_place", "avg_points", "gold_prob", "silver_prob", "bronze_prob", "medal_prob"]
         ].copy()
-        display_df["avg_time"] = format_time_series(display_df["avg_time"])
+        display_df["avg_time"] = display_df.apply(
+            lambda r: f"{r['avg_time']:.2f}" if r["event"] == "Diving" else format_time(r["avg_time"]),
+            axis=1,
+        )
         # Add 1-based index column on the left
         display_df.insert(0, "#", range(1, len(display_df) + 1))
         col_rename = {
-            "name": "Swimmer", "team": "Team", "event": "Event", "avg_time": "Avg Time", "avg_place": "Avg Place",
+            "name": "Swimmer", "team": "Team", "event": "Event", "avg_time": "Avg Time / Score", "avg_place": "Avg Place",
             "avg_points": "Avg Pts", "gold_prob": "Gold %", "silver_prob": "Silver %", "bronze_prob": "Bronze %", "medal_prob": "Medal %",
         }
         show_point_cutoff = len(selected_events) == 1
@@ -408,29 +413,66 @@ def render_swimmer_section(swimmer_results_file):
 
     with tab2:
         st.subheader("Top medal contenders")
-        top_gold = stats[stats["is_relay"] == False].nlargest(15, "gold_prob")
-        if not top_gold.empty:
-            st.bar_chart(top_gold.set_index("name")["gold_prob"])
-        top_medal = stats[stats["is_relay"] == False].nlargest(15, "medal_prob")
-        if not top_medal.empty:
-            st.bar_chart(top_medal.set_index("name")["medal_prob"])
+
+        if len(selected_events) > 0:
+            st.caption(f"Top 16 Probability of Winning Gold for {selected_events[0]}")
+            top_gold = (
+                stats[stats["is_relay"] == False]
+                .nlargest(16, "gold_prob")
+                .sort_values("gold_prob", ascending=False)
+                .reset_index(drop=True)
+            )
+            if not top_gold.empty:
+                chart_gold = (
+                    alt.Chart(top_gold)
+                    .mark_bar()
+                    .encode(
+                        x=alt.X("name:N", sort=None, title="Swimmer"),
+                        y=alt.Y("gold_prob:Q", title="Gold %"),
+                    )
+                    .properties(height=400)
+                )
+                st.altair_chart(chart_gold, use_container_width=True)
+
+            st.caption(f"Top 16 Probability of Winning a Medal for {selected_events[0]}")
+            top_medal = (
+                stats[stats["is_relay"] == False]
+                .nlargest(16, "medal_prob")
+                .sort_values("medal_prob", ascending=False)
+                .reset_index(drop=True)
+            )
+            if not top_medal.empty:
+                chart_medal = (
+                    alt.Chart(top_medal)
+                    .mark_bar()
+                    .encode(
+                        x=alt.X("name:N", sort=None, title="Swimmer"),
+                        y=alt.Y("medal_prob:Q", title="Medal %"),
+                    )
+                    .properties(height=400)
+                )
+                st.altair_chart(chart_medal, use_container_width=True)
 
     with tab3:
-        st.subheader("Time / place distributions")
+        st.subheader("Time / score and place distributions")
         swimmer_event_options = stats[["name", "event"]].drop_duplicates()
         swimmer_event_options["label"] = swimmer_event_options["name"] + " — " + swimmer_event_options["event"]
         selected_label = st.selectbox("Swimmer + Event", swimmer_event_options["label"].tolist())
         if selected_label:
             sel_name, sel_event = selected_label.split(" — ", 1)
             subset = filtered[(filtered["name"] == sel_name) & (filtered["event"] == sel_event)]
-            # Round time to nearest hundredth for distribution display
+            # Round time/score to nearest hundredth for distribution display
             time_rounded = subset["time"].round(2)
             c1, c2 = st.columns(2)
             with c1:
                 st.bar_chart(time_rounded.value_counts().sort_index())
             with c2:
                 st.bar_chart(subset["place"].value_counts().sort_index())
-            st.metric("Avg Time", format_time(round(subset["time"].mean(), 2)))
+            is_diving = (subset["event"] == "Diving").any()
+            if is_diving:
+                st.metric("Avg Score", f"{subset['time'].mean():.2f}")
+            else:
+                st.metric("Avg Time", format_time(round(subset["time"].mean(), 2)))
             st.metric("Avg Place", f"{subset['place'].mean():.1f}")
 
 

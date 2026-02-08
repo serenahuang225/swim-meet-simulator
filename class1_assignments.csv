@@ -8,32 +8,32 @@
 6,Olivia Deberge,Timberland,100 Back,60.86,7,False,1,1:00.86,12.0,7
 7,Charlotte Leary,Villa Duchesne,100 Back,60.93,8,False,1,1:00.93,11.0,8
 8,Jane Hill,Villa Duchesne,100 Back,61.1,9,False,1,1:01.10,9.0,9
-9,Olive Agustin,Clayton,100 Back,61.77,13,False,1,1:01.77,4.0,10
-10,Kylie Montgomery,Webster Groves,100 Back,62.03,14,False,1,1:02.03,3.0,11
-11,Lucia Fox,Parkway West,100 Back,62.16,16,False,1,1:02.16,1.0,12
-12,Isabell Coffey,Monett,100 Back,62.88,18,False,1,1:02.88,0.8888888888888888,13
-13,Reece Gould,Savannah,100 Back,63.32,22,False,1,1:03.32,0.7272727272727273,14
-14,Mary Wolf-Slinkard,Parkway North,100 Back,63.39,23,False,1,1:03.39,0.6956521739130435,15
-15,Sienna Kelley,John Burroughs,100 Back,63.97,24,False,1,1:03.97,0.6666666666666666,16
-16,India Browning,Notre Dame de Sion,100 Back,64.04,25,False,1,1:04.04,0.64,17
-17,Andrea Jeliazkova,Ladue Horton Watkins,100 Back,64.29,27,False,1,1:04.29,0.5925925925925926,18
-18,Emma Cox,Kearney,100 Back,64.69,28,False,1,1:04.69,0.5714285714285714,19
-19,Mackenzie Johnson,Platte County,100 Back,65.71,30,False,1,1:05.71,0.5333333333333333,20
-20,Brooke Schoonover,Washington,100 Back,65.98,31,False,1,1:05.98,0.5161290322580645,21
-21,Ava Maus,Smithville,100 Back,65.99,32,False,1,1:05.99,0.5,22
-22,Maya Price,Glendale,100 Back,66.67,36,False,1,1:06.67,0.4444444444444444,23
-23,Hadley Kiser,Logan-Rogersville,100 Back,66.97,38,False,1,1:06.97,0.42105263157894735,24
-24,Alexis Stone,STEAM Academy,100 Back,67.1,39,False,1,1:07.10,0.41025641025641024,25
-25,Meghan Piper,Savannah,100 Back,67.34,42,False,1,1:07.34,0.38095238095238093,26
-26,Elle Schaefer,Nerinx Hall,100 Back,67.68,45,False,1,1:07.68,0.35555555555555557,27
-27,Annarose Schneider,Ladue Horton Watkins,100 Back,67.71,46,False,1,1:07.71,0.34782608695652173,28
-28,Aubrey Twyman,Grain Valley,100 Back,67.72,47,False,1,1:07.72,0.3404255319148936,29
-29,Camille Matlock,Clayton,100 Back,67.74,48,False,1,1:07.74,0.3333333333333333,30
-30,Emily Holzwarth,Grain Valley,100 Back,67.79,49,False,1,1:07.79,0.32653061224489793,31
-31,Elise Poulter,St. Dominic,100 Back,68.05,52,False,1,1:08.05,0.3076923076923077,32
+9,Missy Mizell,Lebanon,100 Back,61.27,12,False,1,1:01.27,5.0,10
+10,Olive Agustin,Clayton,100 Back,61.77,13,False,1,1:01.77,4.0,11
+11,Kylie Montgomery,Webster Groves,100 Back,62.03,14,False,1,1:02.03,3.0,12
+12,Lucia Fox,Parkway West,100 Back,62.16,16,False,1,1:02.16,1.0,13
+13,Isabell Coffey,Monett,100 Back,62.88,18,False,1,1:02.88,0.8888888888888888,14
+14,Andrea Jeliazkova,Ladue Horton Watkins,100 Back,63.07,19,False,1,1:03.07,0.8421052631578947,15
+15,Reece Gould,Savannah,100 Back,63.32,23,False,1,1:03.32,0.6956521739130435,16
+16,Mary Wolf-Slinkard,Parkway North,100 Back,63.39,24,False,1,1:03.39,0.6666666666666666,17
+17,Sienna Kelley,John Burroughs,100 Back,63.97,25,False,1,1:03.97,0.64,18
+18,India Browning,Notre Dame de Sion,100 Back,64.04,26,False,1,1:04.04,0.6153846153846154,19
+19,Emma Cox,Kearney,100 Back,64.69,29,False,1,1:04.69,0.5517241379310345,20
+20,Mackenzie Johnson,Platte County,100 Back,65.71,30,False,1,1:05.71,0.5333333333333333,21
+21,Alexis Stone,STEAM Academy,100 Back,65.97,31,False,1,1:05.97,0.5161290322580645,22
+22,Brooke Schoonover,Washington,100 Back,65.98,32,False,1,1:05.98,0.5,23
+23,Ava Maus,Smithville,100 Back,65.99,33,False,1,1:05.99,0.48484848484848486,24
+24,Maya Price,Glendale,100 Back,66.67,37,False,1,1:06.67,0.43243243243243246,25
+25,Hadley Kiser,Logan-Rogersville,100 Back,66.97,39,False,1,1:06.97,0.41025641025641024,26
+26,Annarose Schneider,Ladue Horton Watkins,100 Back,67.23,42,False,1,1:07.23,0.38095238095238093,27
+27,Meghan Piper,Savannah,100 Back,67.34,43,False,1,1:07.34,0.37209302325581395,28
+28,Claire Zhang,Ladue Horton Watkins,100 Back,67.53,46,False,1,1:07.53,0.34782608695652173,29
+29,Elle Schaefer,Nerinx Hall,100 Back,67.68,47,False,1,1:07.68,0.3404255319148936,30
+30,Aubrey Twyman,Grain Valley,100 Back,67.72,48,False,1,1:07.72,0.3333333333333333,31
+31,Camille Matlock,Clayton,100 Back,67.74,49,False,1,1:07.74,0.32653061224489793,32
 32,Lily Kohler,Mehlville,100 Breast,66.84,1,False,1,1:06.84,20.0,1
 33,Riley Muran,Parkway Central,100 Breast,67.62,2,False,1,1:07.62,17.0,2
-34,Serena Huang,Parkway Central,100 Breast,68.59,3,False,1,1:08.59,16.0,3
+34,Serena Huang,Parkway Central,100 Breast,68.3,3,False,1,1:08.30,16.0,3
 35,Kennedy Chrun,Ursuline Academy,100 Breast,69.17,4,False,1,1:09.17,15.0,4
 36,Molly Moriarty,Visitation Academy,100 Breast,69.49,5,False,1,1:09.49,14.0,5
 37,Jayli Cope,Glendale,100 Breast,70.21000000000001,7,False,1,1:10.21,12.0,6
@@ -66,67 +66,67 @@
 64,Charlotte Brown,Villa Duchesne,100 Fly,56.48,1,False,1,56.48,20.0,1
 65,Breanna Wilkinson,Rockwood Summit,100 Fly,57.57,2,False,1,57.57,17.0,2
 66,Aubrey Yancey,Lutheran South,100 Fly,58.12,3,False,1,58.12,16.0,3
-67,Madelyn Mug,Visitation Academy,100 Fly,59.2,6,False,1,59.20,13.0,4
-68,Serena Huang,Parkway Central,100 Fly,59.31,7,False,1,59.31,12.0,5
-69,Kaylie Gerber,Kearney,100 Fly,60.42,10,False,1,1:00.42,7.0,6
-70,Missy Mizell,Lebanon,100 Fly,60.56,11,False,1,1:00.56,6.0,7
-71,Ann Erwin,Webster Groves,100 Fly,60.79,12,False,1,1:00.79,5.0,8
-72,Marissa Kelley,John Burroughs,100 Fly,61.37,15,False,1,1:01.37,2.0,9
-73,Kalli Beard,Grain Valley,100 Fly,61.65,17,False,1,1:01.65,0.9411764705882353,10
-74,Isabell Coffey,Monett,100 Fly,61.71,18,False,1,1:01.71,0.8888888888888888,11
-75,Lucy Baley,Nerinx Hall,100 Fly,63.07,24,False,1,1:03.07,0.6666666666666666,12
-76,Sarah Lamb,Principia,100 Fly,63.07,25,False,1,1:03.07,0.64,13
-77,Ashleigh Cruce,Platte County,100 Fly,63.51,26,False,1,1:03.51,0.6153846153846154,14
-78,Jessica Lee,Ursuline Academy,100 Fly,63.56,27,False,1,1:03.56,0.5925925925925926,15
-79,Lilah Orlando,Clayton,100 Fly,64.63,32,False,1,1:04.63,0.5,16
-80,Jayli Cope,Glendale,100 Fly,64.97,36,False,1,1:04.97,0.4444444444444444,17
-81,Beau Gregg,Glendale,100 Fly,64.98,37,False,1,1:04.98,0.43243243243243246,18
-82,Jane Hill,Villa Duchesne,100 Fly,65.6,38,False,1,1:05.60,0.42105263157894735,19
-83,Lyla Ventimiglia,St. Michael the Archangel,100 Fly,65.65,40,False,1,1:05.65,0.4,20
-84,Kyla Potter,Webb City,100 Fly,65.71,41,False,1,1:05.71,0.3902439024390244,21
-85,Penelope Autry,West Plains,100 Fly,65.9,43,False,1,1:05.90,0.37209302325581395,22
-86,Sophia Hall,St. Pius X (Kansas City),100 Fly,65.93,44,False,1,1:05.93,0.36363636363636365,23
-87,Kyra Langenstein,Notre Dame (Cape Girardeau),100 Fly,66.44,46,False,1,1:06.44,0.34782608695652173,24
-88,Morley Anderson,St. Teresa's Academy,100 Fly,66.47,47,False,1,1:06.47,0.3404255319148936,25
-89,Vivian McCaffrey,Ladue Horton Watkins,100 Fly,66.61,48,False,1,1:06.61,0.3333333333333333,26
-90,Grace Branstetter,Louisiana,100 Fly,66.79,50,False,1,1:06.79,0.32,27
-91,Olivia Johnson,Hannibal,100 Fly,66.8,51,False,1,1:06.80,0.3137254901960784,28
-92,Morgan Parkerson,Incarnate Word Academy,100 Fly,66.84,52,False,1,1:06.84,0.3076923076923077,29
-93,Paige Garrett,Lutheran St. Charles,100 Fly,67.01,54,False,1,1:07.01,0.2962962962962963,30
-94,Gwendolyn Fiorino,West Plains,100 Fly,67.03,55,False,1,1:07.03,0.2909090909090909,31
-95,Madelyn Morris,Notre Dame de Sion,100 Fly,67.34,58,False,1,1:07.34,0.27586206896551724,32
+67,Serena Huang,Parkway Central,100 Fly,58.92,6,False,1,58.92,13.0,4
+68,Madelyn Mug,Visitation Academy,100 Fly,59.2,7,False,1,59.20,12.0,5
+69,Kaylie Gerber,Kearney,100 Fly,60.42,12,False,1,1:00.42,5.0,6
+70,Ann Erwin,Webster Groves,100 Fly,60.79,14,False,1,1:00.79,3.0,7
+71,Marissa Kelley,John Burroughs,100 Fly,61.37,17,False,1,1:01.37,0.9411764705882353,8
+72,Kalli Beard,Grain Valley,100 Fly,61.65,19,False,1,1:01.65,0.8421052631578947,9
+73,Isabell Coffey,Monett,100 Fly,61.71,20,False,1,1:01.71,0.8,10
+74,Lucy Baley,Nerinx Hall,100 Fly,63.07,24,False,1,1:03.07,0.6666666666666666,11
+75,Sarah Lamb,Principia,100 Fly,63.07,25,False,1,1:03.07,0.64,12
+76,Beau Gregg,Glendale,100 Fly,63.09,26,False,1,1:03.09,0.6153846153846154,13
+77,Ashleigh Cruce,Platte County,100 Fly,63.51,27,False,1,1:03.51,0.5925925925925926,14
+78,Jessica Lee,Ursuline Academy,100 Fly,63.56,28,False,1,1:03.56,0.5714285714285714,15
+79,Lilah Orlando,Clayton,100 Fly,64.63,33,False,1,1:04.63,0.48484848484848486,16
+80,Jayli Cope,Glendale,100 Fly,64.97,37,False,1,1:04.97,0.43243243243243246,17
+81,Jane Hill,Villa Duchesne,100 Fly,65.6,38,False,1,1:05.60,0.42105263157894735,18
+82,Lyla Ventimiglia,St. Michael the Archangel,100 Fly,65.65,40,False,1,1:05.65,0.4,19
+83,Kyla Potter,Webb City,100 Fly,65.71,41,False,1,1:05.71,0.3902439024390244,20
+84,Penelope Autry,West Plains,100 Fly,65.9,43,False,1,1:05.90,0.37209302325581395,21
+85,Sophia Hall,St. Pius X (Kansas City),100 Fly,65.93,44,False,1,1:05.93,0.36363636363636365,22
+86,Kyra Langenstein,Notre Dame (Cape Girardeau),100 Fly,66.44,46,False,1,1:06.44,0.34782608695652173,23
+87,Morley Anderson,St. Teresa's Academy,100 Fly,66.47,47,False,1,1:06.47,0.3404255319148936,24
+88,Vivian McCaffrey,Ladue Horton Watkins,100 Fly,66.61,48,False,1,1:06.61,0.3333333333333333,25
+89,Grace Branstetter,Louisiana,100 Fly,66.79,50,False,1,1:06.79,0.32,26
+90,Morgan Parkerson,Incarnate Word Academy,100 Fly,66.84,52,False,1,1:06.84,0.3076923076923077,27
+91,Paige Garrett,Lutheran St. Charles,100 Fly,67.01,54,False,1,1:07.01,0.2962962962962963,28
+92,Gwendolyn Fiorino,West Plains,100 Fly,67.03,55,False,1,1:07.03,0.2909090909090909,29
+93,Lillian Palisch,Parkway West,100 Fly,67.21,57,False,1,1:07.21,0.2807017543859649,30
+94,Lillian Ferguson,Notre Dame (Cape Girardeau),100 Fly,67.33,59,False,1,1:07.33,0.2711864406779661,31
+95,Madelyn Morris,Notre Dame de Sion,100 Fly,67.34,60,False,1,1:07.34,0.26666666666666666,32
 96,Avery Frick,St. Michael the Archangel,100 Free,52.41,1,False,1,52.41,20.0,1
 97,Quinn Porter,Webster Groves,100 Free,53.02,3,False,1,53.02,16.0,2
 98,Sydney Matheny,Parkway West,100 Free,53.2,4,False,1,53.20,15.0,3
 99,Ava Fugate,St. Teresa's Academy,100 Free,53.78,5,False,1,53.78,14.0,4
 100,Reese Anderson,Parkway Central,100 Free,54.01,6,False,1,54.01,13.0,5
-101,Cecilia Tremont,Parkway Central,100 Free,54.83,7,False,1,54.83,12.0,6
+101,Cecilia Tremont,Parkway Central,100 Free,54.68,8,False,1,54.68,11.0,6
 102,Madison Arroyo,Father Tolton,100 Free,55.17,10,False,1,55.17,7.0,7
 103,Abigail Conrardy,Visitation Academy,100 Free,55.6,12,False,1,55.60,5.0,8
 104,Madeleine Williams,John Burroughs,100 Free,56.15,16,False,1,56.15,1.0,9
 105,Storie Talbert,Louisiana,100 Free,56.15,17,False,1,56.15,0.9411764705882353,10
-106,Roslyn Fiorino,West Plains,100 Free,56.26,19,False,1,56.26,0.8421052631578947,11
-107,Kayla Perrone,Father Tolton,100 Free,56.42,21,False,1,56.42,0.7619047619047619,12
-108,Kennedy Roberts,Notre Dame de Sion,100 Free,56.43,22,False,1,56.43,0.7272727272727273,13
-109,Gabrielle Salmans,Parkway Central,100 Free,56.9,26,False,1,56.90,0.6153846153846154,14
+106,Gabrielle Salmans,Parkway Central,100 Free,56.25,19,False,1,56.25,0.8421052631578947,11
+107,Roslyn Fiorino,West Plains,100 Free,56.26,20,False,1,56.26,0.8,12
+108,Kayla Perrone,Father Tolton,100 Free,56.42,22,False,1,56.42,0.7272727272727273,13
+109,Kennedy Roberts,Notre Dame de Sion,100 Free,56.43,23,False,1,56.43,0.6956521739130435,14
 110,Katelyn Epple,Grain Valley,100 Free,57.01,27,False,1,57.01,0.5925925925925926,15
 111,Edith Ferguson,Central (Springfield),100 Free,57.19,29,False,1,57.19,0.5517241379310345,16
 112,Ella Chrun,Ursuline Academy,100 Free,57.4,30,False,1,57.40,0.5333333333333333,17
 113,Kenadie Johnson,Parkway Central,100 Free,57.72,32,False,1,57.72,0.5,18
 114,Elsa Dogotch,Carl Junction,100 Free,57.74,33,False,1,57.74,0.48484848484848486,19
 115,Mary Wolf-Slinkard,Parkway North,100 Free,57.75,34,False,1,57.75,0.47058823529411764,20
-116,Amelia Ostendorf,Notre Dame de Sion,100 Free,58.12,40,False,1,58.12,0.4,21
-117,Josephine Schloegel,St. Teresa's Academy,100 Free,58.31,41,False,1,58.31,0.3902439024390244,22
-118,Katherine Campbell,St. Teresa's Academy,100 Free,58.46,43,False,1,58.46,0.37209302325581395,23
-119,Tula Richard,Lincoln College Prep,100 Free,58.88,47,False,1,58.88,0.3404255319148936,24
-120,Katherine Scott,Poplar Bluff,100 Free,58.97,49,False,1,58.97,0.32653061224489793,25
-121,Rori Day,Grandview,100 Free,59.15,51,False,1,59.15,0.3137254901960784,26
-122,Audrianna VanKirk,Parkway West,100 Free,59.22,52,False,1,59.22,0.3076923076923077,27
-123,Eleanor Woosley,Bolivar,100 Free,59.51,59,False,1,59.51,0.2711864406779661,28
-124,Mia Rose,Visitation Academy,100 Free,59.53,60,False,1,59.53,0.26666666666666666,29
-125,Elise Poulter,St. Dominic,100 Free,59.54,61,False,1,59.54,0.26229508196721313,30
-126,Lynn Cotrell,Poplar Bluff,100 Free,59.81,67,False,1,59.81,0.23880597014925373,31
-127,Sarah Gross,Lutheran St. Charles,100 Free,59.84,68,False,1,59.84,0.23529411764705882,32
+116,Amelia Ostendorf,Notre Dame de Sion,100 Free,58.12,41,False,1,58.12,0.3902439024390244,21
+117,Josephine Schloegel,St. Teresa's Academy,100 Free,58.31,42,False,1,58.31,0.38095238095238093,22
+118,Ella Messner,St. Teresa's Academy,100 Free,58.39,43,False,1,58.39,0.37209302325581395,23
+119,Katherine Campbell,St. Teresa's Academy,100 Free,58.46,44,False,1,58.46,0.36363636363636365,24
+120,Alexis Stone,STEAM Academy,100 Free,58.81,47,False,1,58.81,0.3404255319148936,25
+121,Aspen Ritchie,Webb City,100 Free,58.84,48,False,1,58.84,0.3333333333333333,26
+122,Tula Richard,Lincoln College Prep,100 Free,58.88,49,False,1,58.88,0.32653061224489793,27
+123,Katherine Scott,Poplar Bluff,100 Free,58.97,51,False,1,58.97,0.3137254901960784,28
+124,Rori Day,Grandview,100 Free,59.15,53,False,1,59.15,0.3018867924528302,29
+125,Audrianna VanKirk,Parkway West,100 Free,59.22,54,False,1,59.22,0.2962962962962963,30
+126,Eleanor Woosley,Bolivar,100 Free,59.51,60,False,1,59.51,0.26666666666666666,31
+127,Mia Rose,Visitation Academy,100 Free,59.53,61,False,1,59.53,0.26229508196721313,32
 128,Quinn Porter,Webster Groves,200 Free,114.2,1,False,1,1:54.20,20.0,1
 129,Gracey MacLaughlin,Louisiana,200 Free,114.35,2,False,1,1:54.35,17.0,2
 130,Aubrey Yancey,Lutheran South,200 Free,115.12,3,False,1,1:55.12,16.0,3
@@ -135,30 +135,30 @@
 133,Sydney Matheny,Parkway West,200 Free,117.22,7,False,1,1:57.22,12.0,6
 134,Olivia Deberge,Timberland,200 Free,117.71000000000001,9,False,1,1:57.71,9.0,7
 135,Madison Arroyo,Father Tolton,200 Free,118.34,10,False,1,1:58.34,7.0,8
-136,Kennedy Ringwald,Central (Cape Girardeau),200 Free,122.48,16,False,1,2:02.48,1.0,9
-137,Paige Boomer,Father Tolton,200 Free,122.69,17,False,1,2:02.69,0.9411764705882353,10
-138,Abigail Conrardy,Visitation Academy,200 Free,122.89,18,False,1,2:02.89,0.8888888888888888,11
-139,Gabrielle Salmans,Parkway Central,200 Free,122.95,19,False,1,2:02.95,0.8421052631578947,12
-140,Roslyn Fiorino,West Plains,200 Free,123.13,20,False,1,2:03.13,0.8,13
-141,Sophia Warnick,Webster Groves,200 Free,125.21,24,False,1,2:05.21,0.6666666666666666,14
-142,Maya West,Ft. Zumwalt East,200 Free,125.34,25,False,1,2:05.34,0.64,15
-143,Ryan Weber,Rockwood Summit,200 Free,125.82,26,False,1,2:05.82,0.6153846153846154,16
-144,Madison Seabaugh,Visitation Academy,200 Free,126.03,27,False,1,2:06.03,0.5925925925925926,17
-145,Madelyn Tucker,Parkway Central,200 Free,126.43,29,False,1,2:06.43,0.5517241379310345,18
-146,Katelyn Epple,Grain Valley,200 Free,126.53,30,False,1,2:06.53,0.5333333333333333,19
-147,Norah Klosterman,Webb City,200 Free,127.57,37,False,1,2:07.57,0.43243243243243246,20
-148,Avery Eastman,Lutheran St. Charles,200 Free,128.42,40,False,1,2:08.42,0.4,21
-149,Olivia Hanes,Ladue Horton Watkins,200 Free,128.61,42,False,1,2:08.61,0.38095238095238093,22
-150,Brooke Hess,Hannibal,200 Free,129.71,46,False,1,2:09.71,0.34782608695652173,23
-151,Lilah Orlando,Clayton,200 Free,129.86,47,False,1,2:09.86,0.3404255319148936,24
-152,Isabella Lamb,Parkway West,200 Free,129.88,48,False,1,2:09.88,0.3333333333333333,25
-153,Remi Woolard,Platte County,200 Free,130.01,49,False,1,2:10.01,0.32653061224489793,26
-154,Hannah Walls,Parkway Central,200 Free,130.29,51,False,1,2:10.29,0.3137254901960784,27
-155,Anna Cribbs,St. Teresa's Academy,200 Free,130.41,52,False,1,2:10.41,0.3076923076923077,28
-156,Olivia Earnest,Monett,200 Free,130.92,56,False,1,2:10.92,0.2857142857142857,29
-157,Ella Messner,St. Teresa's Academy,200 Free,131.78,60,False,1,2:11.78,0.26666666666666666,30
-158,Emma Hane,Nerinx Hall,200 Free,132.28,61,False,1,2:12.28,0.26229508196721313,31
-159,Alexis Stone,STEAM Academy,200 Free,132.53,63,False,1,2:12.53,0.25396825396825395,32
+136,Kennedy Ringwald,Central (Cape Girardeau),200 Free,122.48,17,False,1,2:02.48,0.9411764705882353,9
+137,Paige Boomer,Father Tolton,200 Free,122.69,18,False,1,2:02.69,0.8888888888888888,10
+138,Abigail Conrardy,Visitation Academy,200 Free,122.89,19,False,1,2:02.89,0.8421052631578947,11
+139,Gabrielle Salmans,Parkway Central,200 Free,122.95,20,False,1,2:02.95,0.8,12
+140,Roslyn Fiorino,West Plains,200 Free,123.13,21,False,1,2:03.13,0.7619047619047619,13
+141,Sophia Warnick,Webster Groves,200 Free,123.84,23,False,1,2:03.84,0.6956521739130435,14
+142,Maya West,Ft. Zumwalt East,200 Free,125.34,26,False,1,2:05.34,0.6153846153846154,15
+143,Ryan Weber,Rockwood Summit,200 Free,125.82,27,False,1,2:05.82,0.5925925925925926,16
+144,Madison Seabaugh,Visitation Academy,200 Free,126.03,28,False,1,2:06.03,0.5714285714285714,17
+145,Madelyn Tucker,Parkway Central,200 Free,126.43,30,False,1,2:06.43,0.5333333333333333,18
+146,Katelyn Epple,Grain Valley,200 Free,126.53,31,False,1,2:06.53,0.5161290322580645,19
+147,Norah Klosterman,Webb City,200 Free,127.57,38,False,1,2:07.57,0.42105263157894735,20
+148,Avery Eastman,Lutheran St. Charles,200 Free,128.42,41,False,1,2:08.42,0.3902439024390244,21
+149,Olivia Hanes,Ladue Horton Watkins,200 Free,128.42,42,False,1,2:08.42,0.38095238095238093,22
+150,Hannah Walls,Parkway Central,200 Free,129.28,46,False,1,2:09.28,0.34782608695652173,23
+151,Brooke Hess,Hannibal,200 Free,129.71,49,False,1,2:09.71,0.32653061224489793,24
+152,Lilah Orlando,Clayton,200 Free,129.86,50,False,1,2:09.86,0.32,25
+153,Isabella Lamb,Parkway West,200 Free,129.88,51,False,1,2:09.88,0.3137254901960784,26
+154,Remi Woolard,Platte County,200 Free,130.01,53,False,1,2:10.01,0.3018867924528302,27
+155,Anna Cribbs,St. Teresa's Academy,200 Free,130.41,54,False,1,2:10.41,0.2962962962962963,28
+156,Olivia Earnest,Monett,200 Free,130.92,58,False,1,2:10.92,0.27586206896551724,29
+157,Ella Messner,St. Teresa's Academy,200 Free,131.78,61,False,1,2:11.78,0.26229508196721313,30
+158,Emma Hane,Nerinx Hall,200 Free,132.28,62,False,1,2:12.28,0.25806451612903225,31
+159,CeCe Shah,Villa Duchesne,200 Free,133.31,69,False,1,2:13.31,0.2318840579710145,32
 160,St. Teresa's Academy,St. Teresa's Academy,200 Free Relay,101.1,1,True,1,1:41.10,20.0,1
 161,Father Tolton,Father Tolton,200 Free Relay,102.78999999999999,3,True,1,1:42.79,16.0,2
 162,Webster Groves,Webster Groves,200 Free Relay,104.07,4,True,1,1:44.07,15.0,3
@@ -169,24 +169,24 @@
 167,Nerinx Hall,Nerinx Hall,200 Free Relay,105.83,10,True,1,1:45.83,7.0,8
 168,St. Michael the Archangel,St. Michael the Archangel,200 Free Relay,106.06,12,True,1,1:46.06,5.0,9
 169,Louisiana,Louisiana,200 Free Relay,106.31,13,True,1,1:46.31,4.0,10
-170,Lebanon,Lebanon,200 Free Relay,107.74000000000001,14,True,1,1:47.74,3.0,11
-171,Ursuline Academy,Ursuline Academy,200 Free Relay,107.97999999999999,15,True,1,1:47.98,2.0,12
-172,Webb City,Webb City,200 Free Relay,108.05,17,True,1,1:48.05,0.9411764705882353,13
-173,Kearney,Kearney,200 Free Relay,108.08,18,True,1,1:48.08,0.8888888888888888,14
-174,Poplar Bluff,Poplar Bluff,200 Free Relay,108.16,19,True,1,1:48.16,0.8421052631578947,15
-175,Carl Junction,Carl Junction,200 Free Relay,108.64,20,True,1,1:48.64,0.8,16
-176,Savannah,Savannah,200 Free Relay,108.67,21,True,1,1:48.67,0.7619047619047619,17
-177,Monett,Monett,200 Free Relay,109.39,22,True,1,1:49.39,0.7272727272727273,18
-178,Notre Dame (Cape Girardeau),Notre Dame (Cape Girardeau),200 Free Relay,110.22,24,True,1,1:50.22,0.6666666666666666,19
-179,Glendale,Glendale,200 Free Relay,111.1,28,True,1,1:51.10,0.5714285714285714,20
-180,Central (Cape Girardeau),Central (Cape Girardeau),200 Free Relay,111.35,29,True,1,1:51.35,0.5517241379310345,21
-181,Summit Christian Academy,Summit Christian Academy,200 Free Relay,112.31,30,True,1,1:52.31,0.5333333333333333,22
-182,Timberland,Timberland,200 Free Relay,112.41,31,True,1,1:52.41,0.5161290322580645,23
-183,St. Dominic,St. Dominic,200 Free Relay,113.22,32,True,1,1:53.22,0.5,24
-184,Warrensburg,Warrensburg,200 Free Relay,114.03,34,True,1,1:54.03,0.47058823529411764,25
-185,Holt,Holt,200 Free Relay,114.75999999999999,35,True,1,1:54.76,0.45714285714285713,26
-186,Lutheran South,Lutheran South,200 Free Relay,114.99000000000001,36,True,1,1:54.99,0.4444444444444444,27
-187,Hannibal,Hannibal,200 Free Relay,115.34,38,True,1,1:55.34,0.42105263157894735,28
+170,Lebanon,Lebanon,200 Free Relay,107.74000000000001,15,True,1,1:47.74,2.0,11
+171,Ursuline Academy,Ursuline Academy,200 Free Relay,107.97999999999999,16,True,1,1:47.98,1.0,12
+172,Webb City,Webb City,200 Free Relay,108.05,18,True,1,1:48.05,0.8888888888888888,13
+173,Kearney,Kearney,200 Free Relay,108.08,19,True,1,1:48.08,0.8421052631578947,14
+174,Poplar Bluff,Poplar Bluff,200 Free Relay,108.16,20,True,1,1:48.16,0.8,15
+175,Carl Junction,Carl Junction,200 Free Relay,108.64,21,True,1,1:48.64,0.7619047619047619,16
+176,Savannah,Savannah,200 Free Relay,108.67,22,True,1,1:48.67,0.7272727272727273,17
+177,Monett,Monett,200 Free Relay,109.39,23,True,1,1:49.39,0.6956521739130435,18
+178,Notre Dame (Cape Girardeau),Notre Dame (Cape Girardeau),200 Free Relay,110.22,25,True,1,1:50.22,0.64,19
+179,Central (Cape Girardeau),Central (Cape Girardeau),200 Free Relay,111.35,29,True,1,1:51.35,0.5517241379310345,20
+180,Summit Christian Academy,Summit Christian Academy,200 Free Relay,112.31,30,True,1,1:52.31,0.5333333333333333,21
+181,Timberland,Timberland,200 Free Relay,112.41,31,True,1,1:52.41,0.5161290322580645,22
+182,St. Dominic,St. Dominic,200 Free Relay,113.22,32,True,1,1:53.22,0.5,23
+183,Warrensburg,Warrensburg,200 Free Relay,114.03,34,True,1,1:54.03,0.47058823529411764,24
+184,Holt,Holt,200 Free Relay,114.75999999999999,35,True,1,1:54.76,0.45714285714285713,25
+185,Lutheran South,Lutheran South,200 Free Relay,114.99000000000001,36,True,1,1:54.99,0.4444444444444444,26
+186,Hannibal,Hannibal,200 Free Relay,115.34,38,True,1,1:55.34,0.42105263157894735,27
+187,Incarnate Word Academy,Incarnate Word Academy,200 Free Relay,115.52000000000001,39,True,1,1:55.52,0.41025641025641024,28
 188,Logan-Rogersville,Logan-Rogersville,200 Free Relay,115.62,40,True,1,1:55.62,0.4,29
 189,New Covenant Academy,New Covenant Academy,200 Free Relay,116.07,42,True,1,1:56.07,0.38095238095238093,30
 190,Smithville,Smithville,200 Free Relay,116.34,43,True,1,1:56.34,0.37209302325581395,31
@@ -194,28 +194,28 @@
 192,Charlotte Brown,Villa Duchesne,200 IM,124.27,1,False,1,2:04.27,20.0,1
 193,Kate Punnewaert,Nerinx Hall,200 IM,129.0,2,False,1,2:09.00,17.0,2
 194,Sophia Stoops,Father Tolton,200 IM,129.1,3,False,1,2:09.10,16.0,3
-195,Lily Kohler,Mehlville,200 IM,130.18,4,False,1,2:10.18,15.0,4
-196,Riley Muran,Parkway Central,200 IM,131.38,6,False,1,2:11.38,13.0,5
-197,Molly Moriarty,Visitation Academy,200 IM,131.47,7,False,1,2:11.47,12.0,6
-198,Ema Stojicevic,Clayton,200 IM,133.59,9,False,1,2:13.59,9.0,7
-199,Kennedy Chrun,Ursuline Academy,200 IM,134.52,11,False,1,2:14.52,6.0,8
-200,Elizabeth Martin,Grain Valley,200 IM,137.73,14,False,1,2:17.73,3.0,9
-201,Marissa Kelley,John Burroughs,200 IM,138.19,15,False,1,2:18.19,2.0,10
-202,Lucia Fox,Parkway West,200 IM,138.43,16,False,1,2:18.43,1.0,11
-203,Olive Agustin,Clayton,200 IM,138.45,17,False,1,2:18.45,0.9411764705882353,12
-204,Charlotte Leary,Villa Duchesne,200 IM,139.71,20,False,1,2:19.71,0.8,13
-205,Anna Irminger,Capital City,200 IM,139.93,21,False,1,2:19.93,0.7619047619047619,14
-206,Alicia Williams,John Burroughs,200 IM,140.34,23,False,1,2:20.34,0.6956521739130435,15
-207,Olyvia Beach,Greenwood,200 IM,141.99,27,False,1,2:21.99,0.5925925925925926,16
-208,Kya Baker,Ft. Zumwalt South,200 IM,142.02,28,False,1,2:22.02,0.5714285714285714,17
-209,Reece Gould,Savannah,200 IM,142.87,29,False,1,2:22.87,0.5517241379310345,18
-210,Mackenzie Johnson,Platte County,200 IM,143.44,30,False,1,2:23.44,0.5333333333333333,19
-211,Burke Sutton,Notre Dame de Sion,200 IM,143.55,32,False,1,2:23.55,0.5,20
-212,Emelia Rosebaugh,Monett,200 IM,143.56,33,False,1,2:23.56,0.48484848484848486,21
-213,Kylie Montgomery,Webster Groves,200 IM,143.82,35,False,1,2:23.82,0.45714285714285713,22
-214,Lucy Baley,Nerinx Hall,200 IM,144.44,40,False,1,2:24.44,0.4,23
-215,Aspen Ritchie,Webb City,200 IM,144.62,41,False,1,2:24.62,0.3902439024390244,24
-216,Evelyn Martin,Lebanon,200 IM,145.06,45,False,1,2:25.06,0.35555555555555557,25
+195,Riley Muran,Parkway Central,200 IM,131.38,6,False,1,2:11.38,13.0,4
+196,Molly Moriarty,Visitation Academy,200 IM,131.47,7,False,1,2:11.47,12.0,5
+197,Ema Stojicevic,Clayton,200 IM,133.59,10,False,1,2:13.59,7.0,6
+198,Kennedy Chrun,Ursuline Academy,200 IM,134.52,12,False,1,2:14.52,5.0,7
+199,Elizabeth Martin,Grain Valley,200 IM,137.73,14,False,1,2:17.73,3.0,8
+200,Marissa Kelley,John Burroughs,200 IM,138.19,15,False,1,2:18.19,2.0,9
+201,Lucia Fox,Parkway West,200 IM,138.43,16,False,1,2:18.43,1.0,10
+202,Olive Agustin,Clayton,200 IM,138.45,17,False,1,2:18.45,0.9411764705882353,11
+203,Charlotte Leary,Villa Duchesne,200 IM,139.71,20,False,1,2:19.71,0.8,12
+204,Anna Irminger,Capital City,200 IM,139.93,21,False,1,2:19.93,0.7619047619047619,13
+205,Alicia Williams,John Burroughs,200 IM,140.34,23,False,1,2:20.34,0.6956521739130435,14
+206,Kylie Montgomery,Webster Groves,200 IM,140.68,25,False,1,2:20.68,0.64,15
+207,Olyvia Beach,Greenwood,200 IM,141.99,28,False,1,2:21.99,0.5714285714285714,16
+208,Kya Baker,Ft. Zumwalt South,200 IM,142.02,29,False,1,2:22.02,0.5517241379310345,17
+209,Reece Gould,Savannah,200 IM,142.87,30,False,1,2:22.87,0.5333333333333333,18
+210,Mackenzie Johnson,Platte County,200 IM,143.44,31,False,1,2:23.44,0.5161290322580645,19
+211,Burke Sutton,Notre Dame de Sion,200 IM,143.55,33,False,1,2:23.55,0.48484848484848486,20
+212,Emelia Rosebaugh,Monett,200 IM,143.56,34,False,1,2:23.56,0.47058823529411764,21
+213,Lucy Baley,Nerinx Hall,200 IM,144.44,40,False,1,2:24.44,0.4,22
+214,Aspen Ritchie,Webb City,200 IM,144.62,41,False,1,2:24.62,0.3902439024390244,23
+215,Evelyn Martin,Lebanon,200 IM,145.06,45,False,1,2:25.06,0.35555555555555557,24
+216,Olivia Johnson,Hannibal,200 IM,145.45,48,False,1,2:25.45,0.3333333333333333,25
 217,Penelope Autry,West Plains,200 IM,145.77,50,False,1,2:25.77,0.32,26
 218,Gwendolyn Fiorino,West Plains,200 IM,146.28,51,False,1,2:26.28,0.3137254901960784,27
 219,Kyra Langenstein,Notre Dame (Cape Girardeau),200 IM,148.29,57,False,1,2:28.29,0.2807017543859649,28
@@ -224,61 +224,61 @@
 222,Bella Greene,Notre Dame (Cape Girardeau),200 IM,149.16,61,False,1,2:29.16,0.26229508196721313,31
 223,Caroline Forhetz,Glendale,200 IM,149.84,64,False,1,2:29.84,0.25,32
 224,Visitation Academy,Visitation Academy,200 Medley Relay,110.53,1,True,1,1:50.53,20.0,1
-225,Parkway Central,Parkway Central,200 Medley Relay,111.25,2,True,1,1:51.25,17.0,2
+225,Parkway Central,Parkway Central,200 Medley Relay,111.00999999999999,2,True,1,1:51.01,17.0,2
 226,Villa Duchesne,Villa Duchesne,200 Medley Relay,114.33,3,True,1,1:54.33,16.0,3
 227,John Burroughs,John Burroughs,200 Medley Relay,115.45,4,True,1,1:55.45,15.0,4
-228,Louisiana,Louisiana,200 Medley Relay,116.62,7,True,1,1:56.62,12.0,5
-229,Ursuline Academy,Ursuline Academy,200 Medley Relay,118.07,8,True,1,1:58.07,11.0,6
-230,Notre Dame de Sion,Notre Dame de Sion,200 Medley Relay,118.1,9,True,1,1:58.10,9.0,7
-231,St. Michael the Archangel,St. Michael the Archangel,200 Medley Relay,118.24000000000001,10,True,1,1:58.24,7.0,8
-232,Glendale,Glendale,200 Medley Relay,118.9,11,True,1,1:58.90,6.0,9
-233,Monett,Monett,200 Medley Relay,119.75999999999999,13,True,1,1:59.76,4.0,10
-234,Clayton,Clayton,200 Medley Relay,119.84,14,True,1,1:59.84,3.0,11
-235,Kearney,Kearney,200 Medley Relay,119.97,15,True,1,1:59.97,2.0,12
-236,West Plains,West Plains,200 Medley Relay,120.53,17,True,1,2:00.53,0.9411764705882353,13
-237,Carl Junction,Carl Junction,200 Medley Relay,121.47,20,True,1,2:01.47,0.8,14
-238,Ladue Horton Watkins,Ladue Horton Watkins,200 Medley Relay,122.01,21,True,1,2:02.01,0.7619047619047619,15
-239,Savannah,Savannah,200 Medley Relay,122.21,22,True,1,2:02.21,0.7272727272727273,16
-240,Platte County,Platte County,200 Medley Relay,122.52,23,True,1,2:02.52,0.6956521739130435,17
-241,Central (Cape Girardeau),Central (Cape Girardeau),200 Medley Relay,123.37,24,True,1,2:03.37,0.6666666666666666,18
-242,Lutheran St. Charles,Lutheran St. Charles,200 Medley Relay,124.21,26,True,1,2:04.21,0.6153846153846154,19
-243,Hannibal,Hannibal,200 Medley Relay,124.7,28,True,1,2:04.70,0.5714285714285714,20
-244,Timberland,Timberland,200 Medley Relay,124.8,29,True,1,2:04.80,0.5517241379310345,21
-245,St. Pius X (Kansas City),St. Pius X (Kansas City),200 Medley Relay,125.84,31,True,1,2:05.84,0.5161290322580645,22
-246,Ft. Zumwalt South,Ft. Zumwalt South,200 Medley Relay,126.19,32,True,1,2:06.19,0.5,23
-247,Lutheran South,Lutheran South,200 Medley Relay,126.23,33,True,1,2:06.23,0.48484848484848486,24
-248,Parkway North,Parkway North,200 Medley Relay,128.72,35,True,1,2:08.72,0.45714285714285713,25
-249,St. Dominic,St. Dominic,200 Medley Relay,128.87,36,True,1,2:08.87,0.4444444444444444,26
-250,Smithville,Smithville,200 Medley Relay,129.56,37,True,1,2:09.56,0.43243243243243246,27
-251,Bolivar,Bolivar,200 Medley Relay,129.95,38,True,1,2:09.95,0.42105263157894735,28
-252,Incarnate Word Academy,Incarnate Word Academy,200 Medley Relay,131.65,40,True,1,2:11.65,0.4,29
+228,St. Teresa's Academy,St. Teresa's Academy,200 Medley Relay,116.1,5,True,1,1:56.10,14.0,5
+229,Louisiana,Louisiana,200 Medley Relay,116.62,7,True,1,1:56.62,12.0,6
+230,Ursuline Academy,Ursuline Academy,200 Medley Relay,118.07,8,True,1,1:58.07,11.0,7
+231,Notre Dame de Sion,Notre Dame de Sion,200 Medley Relay,118.1,9,True,1,1:58.10,9.0,8
+232,St. Michael the Archangel,St. Michael the Archangel,200 Medley Relay,118.24000000000001,10,True,1,1:58.24,7.0,9
+233,Glendale,Glendale,200 Medley Relay,118.31,11,True,1,1:58.31,6.0,10
+234,Ladue Horton Watkins,Ladue Horton Watkins,200 Medley Relay,119.64,13,True,1,1:59.64,4.0,11
+235,Monett,Monett,200 Medley Relay,119.75999999999999,14,True,1,1:59.76,3.0,12
+236,Clayton,Clayton,200 Medley Relay,119.84,15,True,1,1:59.84,2.0,13
+237,Kearney,Kearney,200 Medley Relay,119.97,16,True,1,1:59.97,1.0,14
+238,West Plains,West Plains,200 Medley Relay,120.53,18,True,1,2:00.53,0.8888888888888888,15
+239,Carl Junction,Carl Junction,200 Medley Relay,121.47,21,True,1,2:01.47,0.7619047619047619,16
+240,Savannah,Savannah,200 Medley Relay,122.21,22,True,1,2:02.21,0.7272727272727273,17
+241,Platte County,Platte County,200 Medley Relay,122.52,23,True,1,2:02.52,0.6956521739130435,18
+242,Central (Cape Girardeau),Central (Cape Girardeau),200 Medley Relay,123.37,24,True,1,2:03.37,0.6666666666666666,19
+243,Lutheran St. Charles,Lutheran St. Charles,200 Medley Relay,124.21,26,True,1,2:04.21,0.6153846153846154,20
+244,Hannibal,Hannibal,200 Medley Relay,124.7,28,True,1,2:04.70,0.5714285714285714,21
+245,Timberland,Timberland,200 Medley Relay,124.8,29,True,1,2:04.80,0.5517241379310345,22
+246,St. Pius X (Kansas City),St. Pius X (Kansas City),200 Medley Relay,125.84,31,True,1,2:05.84,0.5161290322580645,23
+247,Ft. Zumwalt South,Ft. Zumwalt South,200 Medley Relay,126.19,32,True,1,2:06.19,0.5,24
+248,Lutheran South,Lutheran South,200 Medley Relay,126.23,33,True,1,2:06.23,0.48484848484848486,25
+249,Parkway North,Parkway North,200 Medley Relay,128.72,35,True,1,2:08.72,0.45714285714285713,26
+250,St. Dominic,St. Dominic,200 Medley Relay,128.87,36,True,1,2:08.87,0.4444444444444444,27
+251,Smithville,Smithville,200 Medley Relay,129.56,37,True,1,2:09.56,0.43243243243243246,28
+252,Bolivar,Bolivar,200 Medley Relay,129.95,38,True,1,2:09.95,0.42105263157894735,29
 253,Washington,Washington,200 Medley Relay,132.85,42,True,1,2:12.85,0.38095238095238093,30
 254,Mehlville,Mehlville,200 Medley Relay,133.14,43,True,1,2:13.14,0.37209302325581395,31
 255,Central (Springfield),Central (Springfield),200 Medley Relay,133.23,44,True,1,2:13.23,0.36363636363636365,32
-256,Parkway Central,Parkway Central,400 Free Relay,220.7,1,True,1,3:40.70,20.0,1
+256,Parkway Central,Parkway Central,400 Free Relay,220.18,1,True,1,3:40.18,20.0,1
 257,Visitation Academy,Visitation Academy,400 Free Relay,220.75,2,True,1,3:40.75,17.0,2
 258,Father Tolton,Father Tolton,400 Free Relay,224.96,3,True,1,3:44.96,16.0,3
 259,Villa Duchesne,Villa Duchesne,400 Free Relay,226.29,4,True,1,3:46.29,15.0,4
-260,St. Teresa's Academy,St. Teresa's Academy,400 Free Relay,226.51,5,True,1,3:46.51,14.0,5
-261,Webster Groves,Webster Groves,400 Free Relay,228.29,6,True,1,3:48.29,13.0,6
-262,Grain Valley,Grain Valley,400 Free Relay,231.29,7,True,1,3:51.29,12.0,7
-263,John Burroughs,John Burroughs,400 Free Relay,232.13,8,True,1,3:52.13,11.0,8
-264,Parkway West,Parkway West,400 Free Relay,232.49,9,True,1,3:52.49,9.0,9
-265,Rockwood Summit,Rockwood Summit,400 Free Relay,233.0,10,True,1,3:53.00,7.0,10
-266,Ladue Horton Watkins,Ladue Horton Watkins,400 Free Relay,235.79,11,True,1,3:55.79,6.0,11
-267,Clayton,Clayton,400 Free Relay,237.21,12,True,1,3:57.21,5.0,12
-268,Nerinx Hall,Nerinx Hall,400 Free Relay,237.66,14,True,1,3:57.66,3.0,13
-269,West Plains,West Plains,400 Free Relay,239.36,15,True,1,3:59.36,2.0,14
-270,Webb City,Webb City,400 Free Relay,240.95,17,True,1,4:00.95,0.9411764705882353,15
-271,Lebanon,Lebanon,400 Free Relay,242.08,18,True,1,4:02.08,0.8888888888888888,16
-272,Platte County,Platte County,400 Free Relay,243.5,20,True,1,4:03.50,0.8,17
-273,Poplar Bluff,Poplar Bluff,400 Free Relay,244.59,21,True,1,4:04.59,0.7619047619047619,18
-274,Lutheran St. Charles,Lutheran St. Charles,400 Free Relay,245.05,22,True,1,4:05.05,0.7272727272727273,19
-275,Notre Dame (Cape Girardeau),Notre Dame (Cape Girardeau),400 Free Relay,248.66,24,True,1,4:08.66,0.6666666666666666,20
-276,Summit Christian Academy,Summit Christian Academy,400 Free Relay,248.99,26,True,1,4:08.99,0.6153846153846154,21
-277,Ft. Zumwalt South,Ft. Zumwalt South,400 Free Relay,252.14,29,True,1,4:12.14,0.5517241379310345,22
-278,Bolivar,Bolivar,400 Free Relay,253.01,31,True,1,4:13.01,0.5161290322580645,23
-279,Holt,Holt,400 Free Relay,253.01,32,True,1,4:13.01,0.5,24
+260,Webster Groves,Webster Groves,400 Free Relay,228.29,6,True,1,3:48.29,13.0,5
+261,Grain Valley,Grain Valley,400 Free Relay,231.29,7,True,1,3:51.29,12.0,6
+262,John Burroughs,John Burroughs,400 Free Relay,232.13,8,True,1,3:52.13,11.0,7
+263,Parkway West,Parkway West,400 Free Relay,232.22,9,True,1,3:52.22,9.0,8
+264,Rockwood Summit,Rockwood Summit,400 Free Relay,233.0,10,True,1,3:53.00,7.0,9
+265,Ladue Horton Watkins,Ladue Horton Watkins,400 Free Relay,235.79,11,True,1,3:55.79,6.0,10
+266,Clayton,Clayton,400 Free Relay,237.21,12,True,1,3:57.21,5.0,11
+267,Nerinx Hall,Nerinx Hall,400 Free Relay,237.66,14,True,1,3:57.66,3.0,12
+268,West Plains,West Plains,400 Free Relay,239.36,15,True,1,3:59.36,2.0,13
+269,Webb City,Webb City,400 Free Relay,240.95,17,True,1,4:00.95,0.9411764705882353,14
+270,Lebanon,Lebanon,400 Free Relay,242.08,18,True,1,4:02.08,0.8888888888888888,15
+271,Platte County,Platte County,400 Free Relay,243.5,20,True,1,4:03.50,0.8,16
+272,Poplar Bluff,Poplar Bluff,400 Free Relay,244.59,21,True,1,4:04.59,0.7619047619047619,17
+273,Lutheran St. Charles,Lutheran St. Charles,400 Free Relay,245.05,22,True,1,4:05.05,0.7272727272727273,18
+274,Notre Dame (Cape Girardeau),Notre Dame (Cape Girardeau),400 Free Relay,248.66,24,True,1,4:08.66,0.6666666666666666,19
+275,Summit Christian Academy,Summit Christian Academy,400 Free Relay,248.99,26,True,1,4:08.99,0.6153846153846154,20
+276,Glendale,Glendale,400 Free Relay,251.45,28,True,1,4:11.45,0.5714285714285714,21
+277,Ft. Zumwalt South,Ft. Zumwalt South,400 Free Relay,252.14,30,True,1,4:12.14,0.5333333333333333,22
+278,Bolivar,Bolivar,400 Free Relay,253.01,32,True,1,4:13.01,0.5,23
+279,Holt,Holt,400 Free Relay,253.01,33,True,1,4:13.01,0.48484848484848486,24
 280,Incarnate Word Academy,Incarnate Word Academy,400 Free Relay,255.7,35,True,1,4:15.70,0.45714285714285713,25
 281,Parkway North,Parkway North,400 Free Relay,255.82,36,True,1,4:15.82,0.4444444444444444,26
 282,Logan-Rogersville,Logan-Rogersville,400 Free Relay,258.83,38,True,1,4:18.83,0.42105263157894735,27
@@ -292,9 +292,9 @@
 290,Ava Fugate,St. Teresa's Academy,50 Free,24.45,3,False,1,24.45,16.0,3
 291,Missy Mizell,Lebanon,50 Free,24.63,4,False,1,24.63,15.0,4
 292,Breanna Wilkinson,Rockwood Summit,50 Free,24.85,5,False,1,24.85,14.0,5
-293,Kaylie Gerber,Kearney,50 Free,24.89,6,False,1,24.89,13.0,6
-294,Jaycee Shrewsbury,Nevada,50 Free,24.91,7,False,1,24.91,12.0,7
-295,Cecilia Tremont,Parkway Central,50 Free,25.02,9,False,1,25.02,9.0,8
+293,Cecilia Tremont,Parkway Central,50 Free,24.87,6,False,1,24.87,13.0,6
+294,Kaylie Gerber,Kearney,50 Free,24.89,7,False,1,24.89,12.0,7
+295,Jaycee Shrewsbury,Nevada,50 Free,24.91,8,False,1,24.91,11.0,8
 296,Polly Fendler,St. Teresa's Academy,50 Free,25.02,10,False,1,25.02,7.0,9
 297,Audrey Qureshi,Villa Duchesne,50 Free,25.33,11,False,1,25.33,6.0,10
 298,Kyla Potter,Webb City,50 Free,25.53,13,False,1,25.53,4.0,11
@@ -314,40 +314,40 @@
 312,Rori Day,Grandview,50 Free,26.38,36,False,1,26.38,0.4444444444444444,25
 313,Lynn Cotrell,Poplar Bluff,50 Free,26.45,40,False,1,26.45,0.4,26
 314,Grace Branstetter,Louisiana,50 Free,26.5,44,False,1,26.50,0.36363636363636365,27
-315,Mia Rose,Visitation Academy,50 Free,26.62,46,False,1,26.62,0.34782608695652173,28
-316,Elle Schaefer,Nerinx Hall,50 Free,26.66,48,False,1,26.66,0.3333333333333333,29
-317,Andrea Jeliazkova,Ladue Horton Watkins,50 Free,26.69,49,False,1,26.69,0.32653061224489793,30
-318,India Browning,Notre Dame de Sion,50 Free,26.71,50,False,1,26.71,0.32,31
-319,Julia Pajewski,Rockwood Summit,50 Free,26.71,51,False,1,26.71,0.3137254901960784,32
+315,Andrea Jeliazkova,Ladue Horton Watkins,50 Free,26.52,45,False,1,26.52,0.35555555555555557,28
+316,Victoria Knolhoff,Parkway Central,50 Free,26.61,47,False,1,26.61,0.3404255319148936,29
+317,Mia Rose,Visitation Academy,50 Free,26.62,48,False,1,26.62,0.3333333333333333,30
+318,Elle Schaefer,Nerinx Hall,50 Free,26.66,50,False,1,26.66,0.32,31
+319,India Browning,Notre Dame de Sion,50 Free,26.71,51,False,1,26.71,0.3137254901960784,32
 320,Kate Punnewaert,Nerinx Hall,500 Free,307.02,1,False,1,5:07.02,20.0,1
-321,Kate Brinton,Ladue Horton Watkins,500 Free,311.09,2,False,1,5:11.09,17.0,2
-322,Sophia Stoops,Father Tolton,500 Free,311.87,3,False,1,5:11.87,16.0,3
-323,Ema Stojicevic,Clayton,500 Free,318.9,5,False,1,5:18.90,14.0,4
-324,Ella Paul,Rockwood Summit,500 Free,321.17,6,False,1,5:21.17,13.0,5
-325,Kennedy Ringwald,Central (Cape Girardeau),500 Free,324.28,9,False,1,5:24.28,9.0,6
-326,Paige Boomer,Father Tolton,500 Free,325.47,11,False,1,5:25.47,6.0,7
-327,Burke Sutton,Notre Dame de Sion,500 Free,330.15,13,False,1,5:30.15,4.0,8
-328,Kya Baker,Ft. Zumwalt South,500 Free,330.29,15,False,1,5:30.29,2.0,9
-329,Maya West,Ft. Zumwalt East,500 Free,330.35,16,False,1,5:30.35,1.0,10
-330,Sophia Warnick,Webster Groves,500 Free,336.19,21,False,1,5:36.19,0.7619047619047619,11
-331,Isabella Lamb,Parkway West,500 Free,337.07,23,False,1,5:37.07,0.6956521739130435,12
-332,Madelyn Tucker,Parkway Central,500 Free,337.90999999999997,24,False,1,5:37.91,0.6666666666666666,13
-333,Morgan Parkerson,Incarnate Word Academy,500 Free,339.35,27,False,1,5:39.35,0.5925925925925926,14
-334,Vivian McCaffrey,Ladue Horton Watkins,500 Free,341.71,31,False,1,5:41.71,0.5161290322580645,15
-335,Madison Seabaugh,Visitation Academy,500 Free,342.46,33,False,1,5:42.46,0.48484848484848486,16
-336,Norah Klosterman,Webb City,500 Free,343.27,34,False,1,5:43.27,0.47058823529411764,17
-337,Olivia Hanes,Ladue Horton Watkins,500 Free,344.01,35,False,1,5:44.01,0.45714285714285713,18
-338,Avery Eastman,Lutheran St. Charles,500 Free,345.11,38,False,1,5:45.11,0.42105263157894735,19
-339,Jessica Lee,Ursuline Academy,500 Free,345.23,39,False,1,5:45.23,0.41025641025641024,20
-340,Ryan Weber,Rockwood Summit,500 Free,346.32,41,False,1,5:46.32,0.3902439024390244,21
-341,Bella Greene,Notre Dame (Cape Girardeau),500 Free,346.33,42,False,1,5:46.33,0.38095238095238093,22
-342,Anna Cribbs,St. Teresa's Academy,500 Free,346.85,43,False,1,5:46.85,0.37209302325581395,23
-343,Maya Price,Glendale,500 Free,348.94,44,False,1,5:48.94,0.36363636363636365,24
-344,Ella Messner,St. Teresa's Academy,500 Free,349.28,45,False,1,5:49.28,0.35555555555555557,25
-345,Aspen Ritchie,Webb City,500 Free,354.24,48,False,1,5:54.24,0.3333333333333333,26
-346,Berkli Dias,Clayton,500 Free,354.58,49,False,1,5:54.58,0.32653061224489793,27
-347,Remi Woolard,Platte County,500 Free,356.92,53,False,1,5:56.92,0.3018867924528302,28
-348,Brooke Hess,Hannibal,500 Free,357.76,55,False,1,5:57.76,0.2909090909090909,29
-349,Alice Irminger,Capital City,500 Free,358.11,56,False,1,5:58.11,0.2857142857142857,30
-350,Layla Murphy,Hannibal,500 Free,358.23,57,False,1,5:58.23,0.2807017543859649,31
-351,Olivia Earnest,Monett,500 Free,359.98,60,False,1,5:59.98,0.26666666666666666,32
+321,Kate Brinton,Ladue Horton Watkins,500 Free,309.61,2,False,1,5:09.61,17.0,2
+322,Lily Kohler,Mehlville,500 Free,310.28,3,False,1,5:10.28,16.0,3
+323,Sophia Stoops,Father Tolton,500 Free,311.87,4,False,1,5:11.87,15.0,4
+324,Ema Stojicevic,Clayton,500 Free,318.9,6,False,1,5:18.90,13.0,5
+325,Ella Paul,Rockwood Summit,500 Free,321.17,7,False,1,5:21.17,12.0,6
+326,Kennedy Ringwald,Central (Cape Girardeau),500 Free,324.28,9,False,1,5:24.28,9.0,7
+327,Paige Boomer,Father Tolton,500 Free,325.47,11,False,1,5:25.47,6.0,8
+328,Burke Sutton,Notre Dame de Sion,500 Free,330.15,13,False,1,5:30.15,4.0,9
+329,Kya Baker,Ft. Zumwalt South,500 Free,330.29,15,False,1,5:30.29,2.0,10
+330,Maya West,Ft. Zumwalt East,500 Free,330.35,16,False,1,5:30.35,1.0,11
+331,Sophia Warnick,Webster Groves,500 Free,336.19,21,False,1,5:36.19,0.7619047619047619,12
+332,Isabella Lamb,Parkway West,500 Free,337.07,23,False,1,5:37.07,0.6956521739130435,13
+333,Madelyn Tucker,Parkway Central,500 Free,337.90999999999997,24,False,1,5:37.91,0.6666666666666666,14
+334,Morgan Parkerson,Incarnate Word Academy,500 Free,339.35,27,False,1,5:39.35,0.5925925925925926,15
+335,Vivian McCaffrey,Ladue Horton Watkins,500 Free,341.71,31,False,1,5:41.71,0.5161290322580645,16
+336,Madison Seabaugh,Visitation Academy,500 Free,342.46,33,False,1,5:42.46,0.48484848484848486,17
+337,Norah Klosterman,Webb City,500 Free,343.27,34,False,1,5:43.27,0.47058823529411764,18
+338,Olivia Hanes,Ladue Horton Watkins,500 Free,344.01,35,False,1,5:44.01,0.45714285714285713,19
+339,Avery Eastman,Lutheran St. Charles,500 Free,345.11,38,False,1,5:45.11,0.42105263157894735,20
+340,Jessica Lee,Ursuline Academy,500 Free,345.23,39,False,1,5:45.23,0.41025641025641024,21
+341,Ryan Weber,Rockwood Summit,500 Free,346.32,41,False,1,5:46.32,0.3902439024390244,22
+342,Bella Greene,Notre Dame (Cape Girardeau),500 Free,346.33,42,False,1,5:46.33,0.38095238095238093,23
+343,Anna Cribbs,St. Teresa's Academy,500 Free,346.85,43,False,1,5:46.85,0.37209302325581395,24
+344,Maya Price,Glendale,500 Free,348.94,44,False,1,5:48.94,0.36363636363636365,25
+345,Gianna Pearson,Parkway Central,500 Free,354.38,49,False,1,5:54.38,0.32653061224489793,26
+346,Berkli Dias,Clayton,500 Free,354.58,50,False,1,5:54.58,0.32,27
+347,Remi Woolard,Platte County,500 Free,356.92,54,False,1,5:56.92,0.2962962962962963,28
+348,Brooke Hess,Hannibal,500 Free,357.76,56,False,1,5:57.76,0.2857142857142857,29
+349,Alice Irminger,Capital City,500 Free,358.11,57,False,1,5:58.11,0.2807017543859649,30
+350,Layla Murphy,Hannibal,500 Free,358.23,58,False,1,5:58.23,0.27586206896551724,31
+351,Lily Schaefer,Ft. Zumwalt East,500 Free,359.63,61,False,1,5:59.63,0.26229508196721313,32

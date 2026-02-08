@@ -206,7 +206,8 @@ def add_commentary(story, data: dict) -> None:
         f"Based on {n_sims} simulated meets, <b>{top_team}</b> is the clear favorite, "
         f"winning approximately <b>{win_pct:.1f}%</b> of simulations with an average "
         f"total score of <b>{avg_pts:.1f} points</b>. The model reflects seed times, "
-        "event assignments, and a Markov-style performance state with team momentum.",
+        "event assignments, and a Markov-style performance state with team momentum. "
+        "Total scores include both swimming and diving events.",
         style
     ))
     story.append(Spacer(1, 0.15 * inch))
