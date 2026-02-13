@@ -9,6 +9,8 @@ Usage:
        df_scores.to_csv('team_scores.csv', index=False)
   3. Run this script:
        python generate_report.py [path/to/team_scores.csv] [-o output.pdf]
+       python generate_report.py -c 1          # Class 1 (default)
+       python generate_report.py -c 2          # Class 2 → class2_team_scores.csv, ..._class2.pdf
 """
 
 import argparse
@@ -347,21 +349,40 @@ def main():
     parser.add_argument(
         "input_csv",
         nargs="?",
-        default="class1_team_scores.csv",
-        help="Path to team_scores CSV (default: class1_team_scores.csv or class2_team_scores.csv)",
+        default=None,
+        help="Path to team_scores CSV (default: class1_team_scores.csv or class2_team_scores.csv when -c/--class is set)",
+    )
+    parser.add_argument(
+        "-c", "--class",
+        dest="class_num",
+        choices=["1", "2"],
+        default="1",
+        help="Class 1 or Class 2 data (default: 1). Sets default input/output when input_csv is not given.",
     )
     parser.add_argument(
         "-o", "--output",
-        default="swim_meet_simulation_report.pdf",
-        help="Output PDF path (default: swim_meet_simulation_report.pdf)",
+        default=None,
+        help="Output PDF path (default: swim_meet_simulation_report.pdf or ..._class2.pdf for class 2)",
     )
     args = parser.parse_args()
 
-    base = Path(args.input_csv).resolve().parent
-    csv_path = Path(args.input_csv).resolve()
-    out_path = Path(args.output).resolve()
+    default_inputs = {
+        "1": "class1_team_scores.csv",
+        "2": "class2_team_scores.csv",
+    }
+    default_outputs = {
+        "1": "swim_meet_simulation_report.pdf",
+        "2": "swim_meet_simulation_report_class2.pdf",
+    }
+    csv_path = Path(args.input_csv or default_inputs[args.class_num]).resolve()
+    base = csv_path.parent
+    out_path = Path(args.output or default_outputs[args.class_num]).resolve()
     if not out_path.is_absolute():
         out_path = base / out_path
+
+    title = "Swim Meet Simulation Report"
+    if args.class_num == "2":
+        title = "Swim Meet Simulation Report — Class 2"
 
     df_scores = load_and_validate_csv(csv_path)
     data = compute_summary_tables(df_scores)
@@ -373,7 +394,7 @@ def main():
     plot_win_probability(data['prob_df'], data['n_sims'], fig_win)
     plot_score_distribution(df_scores, data['team_stats'], data['n_sims'], fig_dist)
 
-    build_pdf(data, fig_win, fig_dist, out_path)
+    build_pdf(data, fig_win, fig_dist, out_path, title=title)
 
     for f in (fig_win, fig_dist):
         if f.exists():
