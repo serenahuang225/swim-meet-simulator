@@ -3,4 +3,6 @@ bin/
 etc/
 include/
 
+__pycache__/
+
 .DS_Store

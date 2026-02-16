@@ -1,0 +1,353 @@
+name,team,event,best_time,seed_rank,is_relay
+St. Joseph's Aca,St. Joseph's Aca,200 Medley Relay,106.57,1,True
+Park Hill South,Park Hill South,200 Medley Relay,108.32,2,True
+Rock Bridge,Rock Bridge,200 Medley Relay,108.68,3,True
+Kirkwood,Kirkwood,200 Medley Relay,110.84,4,True
+Westminster Chri,Westminster Chri,200 Medley Relay,112.21,5,True
+Liberty,Liberty,200 Medley Relay,113.05,6,True
+Lafayette (Wildw,Lafayette (Wildw,200 Medley Relay,113.84,7,True
+Staley,Staley,200 Medley Relay,114.49,8,True
+Marquette,Marquette,200 Medley Relay,114.59,9,True
+Lee's Summit Nor,Lee's Summit Nor,200 Medley Relay,114.9,10,True
+Parkway South,Parkway South,200 Medley Relay,115.01,11,True
+Cor Jesu Academy,Cor Jesu Academy,200 Medley Relay,115.3,12,True
+Blue Springs Sou,Blue Springs Sou,200 Medley Relay,115.7,13,True
+MICDS,MICDS,200 Medley Relay,117.15,14,True
+Hickman,Hickman,200 Medley Relay,117.25,15,True
+Francis Howell,Francis Howell,200 Medley Relay,117.29,16,True
+Lee's Summit,Lee's Summit,200 Medley Relay,117.35,17,True
+Lee's Summit Wes,Lee's Summit Wes,200 Medley Relay,117.36,18,True
+Pembroke Hill,Pembroke Hill,200 Medley Relay,117.53,19,True
+Ft. Zumwalt Nort,Ft. Zumwalt Nort,200 Medley Relay,117.73,20,True
+Lindbergh,Lindbergh,200 Medley Relay,118.83,21,True
+Jackson,Jackson,200 Medley Relay,119.56,22,True
+Francis Howell C,Francis Howell C,200 Medley Relay,119.6,23,True
+Carthage,Carthage,200 Medley Relay,120.42,24,True
+Liberty (Wentzvi,Liberty (Wentzvi,200 Medley Relay,120.62,25,True
+Republic,Republic,200 Medley Relay,121.6,26,True
+Eureka,Eureka,200 Medley Relay,121.76,27,True
+Liberty North,Liberty North,200 Medley Relay,122.01,28,True
+Park Hill,Park Hill,200 Medley Relay,123.12,29,True
+Blue Springs,Blue Springs,200 Medley Relay,124.14,30,True
+Nixa,Nixa,200 Medley Relay,125.38,31,True
+Pattonville,Pattonville,200 Medley Relay,125.73,32,True
+Helena Tietjen,Pembroke Hill,200 Free,108.61,1,False
+Anna-Grace Guenther,St. Joseph's Aca,200 Free,111.91,2,False
+Jenna Ridings,Pattonville,200 Free,114.53,3,False
+Paige Samuelson,Eureka,200 Free,115.79,4,False
+Amelia Coy,Hickman,200 Free,116.55,5,False
+Lynlee Lavalle,Jackson,200 Free,116.66,6,False
+Brooke Nichols,Park Hill South,200 Free,118.14,7,False
+Claire Dierker,Park Hill South,200 Free,119.98,8,False
+Marlowe Weis,Rock Bridge,200 Free,120.17,9,False
+Erin Jones,St. Joseph's Aca,200 Free,120.53,10,False
+Prairey Maxwell,Kirkwood,200 Free,120.8,11,False
+Teagan Mitchell,Staley,200 Free,120.98,12,False
+Anja Taylor,Rock Bridge,200 Free,121.12,13,False
+Cecilia Hoganson,Kirkwood,200 Free,121.36,14,False
+Olivia Kimball,Staley,200 Free,121.84,15,False
+Delaney Mehl,Liberty,200 Free,122.24,16,False
+Ava Brown,Republic,200 Free,122.55,17,False
+Alivia Cook,Parkway South,200 Free,122.56,18,False
+Allison Brent,St. Joseph's Aca,200 Free,123.03,19,False
+Lauren Otte,Liberty North,200 Free,123.09,20,False
+Lucille Werner,Kirkwood,200 Free,123.62,21,False
+Audrey Brown,Westminster Chri,200 Free,123.88,22,False
+Isabel Kosiara,Rock Bridge,200 Free,125.02,23,False
+Ashley Searls,Liberty,200 Free,125.03,24,False
+Vanessa VanHoesen,Blue Springs,200 Free,125.04,25,False
+Natalie Lorber,Marquette,200 Free,125.05,26,False
+Shae Mortimer,Liberty,200 Free,125.17,27,False
+Madeline Bartsch,Staley,200 Free,125.24,28,False
+Audrey Tuschhoff,Jackson,200 Free,126.13,29,False
+Chloe Johnson,Staley,200 Free,126.34,30,False
+Ella Marcum,Eureka,200 Free,126.48,31,False
+Olivia Seiler,Kickapoo,200 Free,126.74,32,False
+Avery Hogue,Park Hill South,200 IM,125.6,1,False
+Madison Shryock,Rock Bridge,200 IM,127.78,2,False
+Sarah Miner,Rock Bridge,200 IM,128.92,3,False
+Elizabeth Landuyt,Park Hill South,200 IM,129.36,4,False
+Payton Robic,St. Joseph's Aca,200 IM,130.96,5,False
+Abigail Sanning,Lee's Summit,200 IM,131.36,6,False
+Izy Chalfant,Kirkwood,200 IM,131.92,7,False
+Vienna Schindler,St. Joseph's Aca,200 IM,133.47,8,False
+Avree Melhus,Liberty North,200 IM,133.51,9,False
+Luci Cordes-Palmer,Lafayette (Wildw,200 IM,134.07,10,False
+Addison Murray,Pembroke Hill,200 IM,136.03,11,False
+Addison Woody,Lee's Summit Wes,200 IM,136.21,12,False
+Kayla Wahl,Cor Jesu Academy,200 IM,136.83,13,False
+Lily Wheeler,Park Hill South,200 IM,137.01,14,False
+Natalie Grither,Parkway South,200 IM,137.25,15,False
+Stella Crilley,Staley,200 IM,137.42,16,False
+Sophie Sobush,Kirkwood,200 IM,138.06,17,False
+Isabella Leone,Lindbergh,200 IM,138.52,18,False
+Rebecca Christiansen,Francis Howell,200 IM,138.81,19,False
+Soo Jin Park,Francis Howell,200 IM,138.9,20,False
+Hannah Daughety,Liberty,200 IM,139.12,21,False
+Brynne Schneider,Francis Howell C,200 IM,139.51,22,False
+Olivia Manning,Carthage,200 IM,139.74,23,False
+Lauren Stein,Marquette,200 IM,140.28,24,False
+Adalyn Dolan,Ft. Zumwalt Nort,200 IM,140.59,25,False
+Sierra Graham,Kirkwood,200 IM,140.73,26,False
+Elizabeth Mohan,Lafayette (Wildw,200 IM,140.82,27,False
+Joslyn Perry,Park Hill South,200 IM,140.83,28,False
+Brianna Petrova,Liberty (Wentzvi,200 IM,140.85,29,False
+Miranda Kiewiet,Francis Howell,200 IM,141.08,30,False
+Kelsey Morrison,Eureka,200 IM,141.68,31,False
+Alexandra Moran,Liberty North,200 IM,142.18,32,False
+Paige Blom,Marquette,50 Free,23.9,1,False
+Esther Borgmeyer,Kirkwood,50 Free,24.27,2,False
+Ashlyn Hines,Park Hill South,50 Free,24.67,3,False
+Adrianna Hudnall,Liberty North,50 Free,24.86,4,False
+Grace Shaw,Ozark,50 Free,24.87,5,False
+Marlo Deaver,Liberty,50 Free,24.98,6,False
+Sarah Weber,Hickman,50 Free,25.0,7,False
+Elisa DeCaro,Park Hill South,50 Free,25.1,8,False
+Campbell McCool,Parkway South,50 Free,25.13,9,False
+Elaina Wells,Staley,50 Free,25.34,10,False
+Caroline Goeke,Ft. Zumwalt Nort,50 Free,25.42,11,False
+Edith Susanne Doehring,Westminster Chri,50 Free,25.43,12,False
+Anja Taylor,Rock Bridge,50 Free,25.45,13,False
+Evyn Lashley,Eureka,50 Free,25.47,14,False
+Kaiya Cooper,Liberty,50 Free,25.51,15,False
+Zaylie Pinnell,Republic,50 Free,25.66,16,False
+Heidi Haberstroh,MICDS,50 Free,25.68,17,False
+Jessica Wang,Lindbergh,50 Free,25.71,18,False
+Isabella Johnson,Lee's Summit,50 Free,25.73,19,False
+Elizabeth Eckelkamp,Eureka,50 Free,25.81,20,False
+Meghan Glaser,Kirkwood,50 Free,25.82,21,False
+Chloe Belen,Westminster Chri,50 Free,25.82,22,False
+Tangant Tuggle,Blue Springs Sou,50 Free,25.84,23,False
+Noemi Crall,MICDS,50 Free,25.86,24,False
+Danielle Hume,Marquette,50 Free,25.91,25,False
+Olivia Kim,Pembroke Hill,50 Free,25.91,26,False
+Natalie Gronborg,Eureka,50 Free,25.96,27,False
+Kayla Ilardi,Pembroke Hill,50 Free,26.05,28,False
+Anna Eshleman,Raymore-Peculiar,50 Free,26.05,29,False
+Maggie Hopkins,Lee's Summit Nor,50 Free,26.06,30,False
+Ensley Fisher,Blue Springs Sou,50 Free,26.08,31,False
+Claire Petri,St. Joseph's Aca,50 Free,26.12,32,False
+Helena Tietjen,Pembroke Hill,100 Butterfly,56.64,1,False
+Paige Blom,Marquette,100 Butterfly,56.86,2,False
+Jenna Ridings,Pattonville,100 Butterfly,56.87,3,False
+Kayla Wahl,Cor Jesu Academy,100 Butterfly,58.47,4,False
+Emma Fry,Lee's Summit Nor,100 Butterfly,58.97,5,False
+Jessica Wang,Lindbergh,100 Butterfly,59.77,6,False
+Libby Price,Parkway South,100 Butterfly,60.56,7,False
+Edith Susanne Doehring,Westminster Chri,100 Butterfly,60.73,8,False
+Lily Wheeler,Park Hill South,100 Butterfly,61.13,9,False
+Natalie Grither,Parkway South,100 Butterfly,61.17,10,False
+Addison Woody,Lee's Summit Wes,100 Butterfly,61.41,11,False
+Maddie Riley,St. Joseph's Aca,100 Butterfly,61.72,12,False
+Jia Hurst,Park Hill South,100 Butterfly,61.73,13,False
+Isabella Clerico,Lafayette (Wildw,100 Butterfly,61.75,14,False
+Elaina Wells,Staley,100 Butterfly,62.13,15,False
+Margo Heckadon,Lee's Summit Wes,100 Butterfly,62.42,16,False
+Brynne Schneider,Francis Howell C,100 Butterfly,62.47,17,False
+Elise Replogle,Republic,100 Butterfly,62.79,18,False
+Helen Hedlund,Rock Bridge,100 Butterfly,62.8,19,False
+Shae Mortimer,Liberty,100 Butterfly,62.99,20,False
+Aditi Roy,Lafayette (Wildw,100 Butterfly,63.29,21,False
+Delaney Bartels,Liberty (Wentzvi,100 Butterfly,63.29,22,False
+Soo Jin Park,Francis Howell,100 Butterfly,64.04,23,False
+Kate Finucane,Blue Springs Sou,100 Butterfly,64.1,24,False
+Morgan Sanborn,Marquette,100 Butterfly,64.23,25,False
+Rebecca Christiansen,Francis Howell,100 Butterfly,64.31,26,False
+Lucy Nofziger,Lee's Summit,100 Butterfly,64.32,27,False
+Clara Wilson,Park Hill South,100 Butterfly,64.72,28,False
+Audrey Sekelsky,Blue Springs Sou,100 Butterfly,64.85,29,False
+Marilinda Smale-Murillo,Hickman,100 Butterfly,64.9,30,False
+Brynn Wilkens,Park Hill,100 Butterfly,65.06,31,False
+Lindsay Wang,Marquette,100 Butterfly,65.12,32,False
+Avery Cunneen,St. Joseph's Aca,100 Free,51.76,1,False
+Esther Borgmeyer,Kirkwood,100 Free,53.09,2,False
+Adrianna Hudnall,Liberty North,100 Free,53.27,3,False
+Sarah Weber,Hickman,100 Free,54.25,4,False
+Claire Dierker,Park Hill South,100 Free,54.5,5,False
+Elisa DeCaro,Park Hill South,100 Free,54.52,6,False
+Campbell McCool,Parkway South,100 Free,54.61,7,False
+Ashlyn Hines,Park Hill South,100 Free,54.75,8,False
+Marlo Deaver,Liberty,100 Free,54.84,9,False
+Grace Shaw,Ozark,100 Free,55.14,10,False
+Claire Chumley,St. Joseph's Aca,100 Free,55.23,11,False
+Elizabeth Eckelkamp,Eureka,100 Free,55.39,12,False
+Lauren McCall,Westminster Chri,100 Free,55.39,13,False
+Cecilia Hoganson,Kirkwood,100 Free,55.72,14,False
+Helen Hedlund,Rock Bridge,100 Free,55.87,15,False
+Anna Eshleman,Raymore-Peculiar,100 Free,55.97,16,False
+Lauren Otte,Liberty North,100 Free,56.0,17,False
+Mallory Crane,Park Hill South,100 Free,56.05,18,False
+Meghan Glaser,Kirkwood,100 Free,56.19,19,False
+Emmi Hoss,Liberty,100 Free,56.27,20,False
+Eva Barnfield,Jackson,100 Free,56.29,21,False
+Ava Brown,Republic,100 Free,56.63,22,False
+Isabella Johnson,Lee's Summit,100 Free,56.66,23,False
+Natalie Gronborg,Eureka,100 Free,56.89,24,False
+Chloe Belen,Westminster Chri,100 Free,56.95,25,False
+Natalie Lorber,Marquette,100 Free,57.32,26,False
+Zaylie Pinnell,Republic,100 Free,57.39,27,False
+Aditi Roy,Lafayette (Wildw,100 Free,57.4,28,False
+Claire Petri,St. Joseph's Aca,100 Free,57.52,29,False
+Kaiya Cooper,Liberty,100 Free,57.54,30,False
+Anne Holubowski,Marquette,100 Free,57.58,31,False
+Lucille Werner,Kirkwood,100 Free,57.74,32,False
+Alexis Cook,Parkway South,500 Free,300.69,1,False
+Avery Hogue,Park Hill South,500 Free,301.76,2,False
+Amelia Coy,Hickman,500 Free,304.31,3,False
+Anna-Grace Guenther,St. Joseph's Aca,500 Free,306.93,4,False
+Paige Samuelson,Eureka,500 Free,314.53,5,False
+Aftyn Williamson,Staley,500 Free,315.58,6,False
+Lynlee Lavalle,Jackson,500 Free,315.89,7,False
+Luci Cordes-Palmer,Lafayette (Wildw,500 Free,317.79,8,False
+Libby Price,Parkway South,500 Free,318.41,9,False
+Delaney Mehl,Liberty,500 Free,322.0,10,False
+Brooke Nichols,Park Hill South,500 Free,322.59,11,False
+Erin Jones,St. Joseph's Aca,500 Free,322.6,12,False
+Alivia Cook,Parkway South,500 Free,322.78,13,False
+Sophie Sobush,Kirkwood,500 Free,323.0,14,False
+Teagan Mitchell,Staley,500 Free,323.31,15,False
+Prairey Maxwell,Kirkwood,500 Free,324.46,16,False
+Anna Sundberg,Blue Springs Sou,500 Free,325.68,17,False
+Olivia Kimball,Staley,500 Free,329.28,18,False
+Brianna Petrova,Liberty (Wentzvi,500 Free,332.11,19,False
+Caroline Jones,Cor Jesu Academy,500 Free,332.51,20,False
+Adelyn Volpi,Liberty,500 Free,335.13,21,False
+Reagan Poggio,Lafayette (Wildw,500 Free,337.02,22,False
+Isabel Kosiara,Rock Bridge,500 Free,337.43,23,False
+Evyn Lashley,Eureka,500 Free,337.67,24,False
+Audrey Brown,Westminster Chri,500 Free,338.01,25,False
+Brooke Hoien,Hickman,500 Free,338.59,26,False
+Frances Igney,Kirkwood,500 Free,339.1,27,False
+Olivia Seiler,Kickapoo,500 Free,339.22,28,False
+Olivia Swanson,Blue Springs Sou,500 Free,340.11,29,False
+Vanessa VanHoesen,Blue Springs,500 Free,341.02,30,False
+Ella Marcum,Eureka,500 Free,341.16,31,False
+Neala McHugh,Park Hill South,500 Free,342.32,32,False
+Park Hill South,Park Hill South,200 Freestyle Relay,99.15,1,True
+St. Joseph's Aca,St. Joseph's Aca,200 Freestyle Relay,100.69,2,True
+Parkway South,Parkway South,200 Freestyle Relay,101.22,3,True
+Pembroke Hill,Pembroke Hill,200 Freestyle Relay,101.31,4,True
+Rock Bridge,Rock Bridge,200 Freestyle Relay,101.57,5,True
+Eureka,Eureka,200 Freestyle Relay,101.58,6,True
+Westminster Chri,Westminster Chri,200 Freestyle Relay,101.86,7,True
+Marquette,Marquette,200 Freestyle Relay,102.29,8,True
+Liberty North,Liberty North,200 Freestyle Relay,102.97,9,True
+Kirkwood,Kirkwood,200 Freestyle Relay,103.35,10,True
+Liberty,Liberty,200 Freestyle Relay,103.41,11,True
+Blue Springs Sou,Blue Springs Sou,200 Freestyle Relay,103.82,12,True
+Lee's Summit,Lee's Summit,200 Freestyle Relay,104.17,13,True
+Staley,Staley,200 Freestyle Relay,104.76,14,True
+Lafayette (Wildw,Lafayette (Wildw,200 Freestyle Relay,105.8,15,True
+Lindbergh,Lindbergh,200 Freestyle Relay,105.96,16,True
+Cor Jesu Academy,Cor Jesu Academy,200 Freestyle Relay,106.15,17,True
+Republic,Republic,200 Freestyle Relay,106.59,18,True
+Lee's Summit Nor,Lee's Summit Nor,200 Freestyle Relay,106.84,19,True
+Francis Howell,Francis Howell,200 Freestyle Relay,107.11,20,True
+Ft. Zumwalt Nort,Ft. Zumwalt Nort,200 Freestyle Relay,107.75,21,True
+Jackson,Jackson,200 Freestyle Relay,108.02,22,True
+Hickman,Hickman,200 Freestyle Relay,109.27,23,True
+MICDS,MICDS,200 Freestyle Relay,109.28,24,True
+Blue Springs,Blue Springs,200 Freestyle Relay,109.84,25,True
+Carthage,Carthage,200 Freestyle Relay,109.84,26,True
+Park Hill,Park Hill,200 Freestyle Relay,111.22,27,True
+Liberty (Wentzvi,Liberty (Wentzvi,200 Freestyle Relay,111.24,28,True
+Nixa,Nixa,200 Freestyle Relay,111.45,29,True
+Pattonville,Pattonville,200 Freestyle Relay,111.45,30,True
+Francis Howell C,Francis Howell C,200 Freestyle Relay,111.72,31,True
+Raymore-Peculiar,Raymore-Peculiar,200 Freestyle Relay,111.93,32,True
+Avery Cunneen,St. Joseph's Aca,100 Back,55.26,1,False
+Alexis Cook,Parkway South,100 Back,56.07,2,False
+Elizabeth Landuyt,Park Hill South,100 Back,57.35,3,False
+Claire Chumley,St. Joseph's Aca,100 Back,58.1,4,False
+Izy Chalfant,Kirkwood,100 Back,59.02,5,False
+Emma Fry,Lee's Summit Nor,100 Back,59.07,6,False
+Heidi Haberstroh,MICDS,100 Back,59.78,7,False
+Gianna DeMaggio,Westminster Chri,100 Back,59.8,8,False
+Hannah Daughety,Liberty,100 Back,60.44,9,False
+Allison Brent,St. Joseph's Aca,100 Back,60.89,10,False
+Miranda Kiewiet,Francis Howell,100 Back,61.23,11,False
+Isabella Leone,Lindbergh,100 Back,61.52,12,False
+Maddie Riley,St. Joseph's Aca,100 Back,62.1,13,False
+Danielle Hume,Marquette,100 Back,62.42,14,False
+Sadie Lee,Truman,100 Back,62.58,15,False
+Stella Crilley,Staley,100 Back,62.64,16,False
+Delaney Bartels,Liberty (Wentzvi,100 Back,62.72,17,False
+Mallory Crane,Park Hill South,100 Back,63.12,18,False
+Caroline Goeke,Ft. Zumwalt Nort,100 Back,63.27,19,False
+Marlowe Weis,Rock Bridge,100 Back,63.38,20,False
+Leela Anadkat,MICDS,100 Back,63.44,21,False
+Eva Barnfield,Jackson,100 Back,63.55,22,False
+Caroline Jones,Cor Jesu Academy,100 Back,64.16,23,False
+Ashley Searls,Liberty,100 Back,64.2,24,False
+Audrie Hanway,Lee's Summit,100 Back,64.25,25,False
+Jia Hurst,Park Hill South,100 Back,64.45,26,False
+Victoria Black,Liberty,100 Back,64.47,27,False
+Hailey Cooper,Oak Park,100 Back,64.51,28,False
+Frances Igney,Kirkwood,100 Back,64.52,29,False
+Noemi Crall,MICDS,100 Back,64.66,30,False
+Anne Holubowski,Marquette,100 Back,64.73,31,False
+Olivia Swanson,Blue Springs Sou,100 Back,64.95,32,False
+Sarah Miner,Rock Bridge,100 Breast,65.78,1,False
+Payton Robic,St. Joseph's Aca,100 Breast,66.3,2,False
+Vienna Schindler,St. Joseph's Aca,100 Breast,67.83,3,False
+Olivia Manning,Carthage,100 Breast,68.16,4,False
+Madison Shryock,Rock Bridge,100 Breast,68.51,5,False
+Avree Melhus,Liberty North,100 Breast,68.93,6,False
+Addison Murray,Pembroke Hill,100 Breast,69.14,7,False
+Abigail Sanning,Lee's Summit,100 Breast,69.15,8,False
+Joslyn Perry,Park Hill South,100 Breast,69.29,9,False
+Elizabeth Mohan,Lafayette (Wildw,100 Breast,69.47,10,False
+Aftyn Williamson,Staley,100 Breast,69.75,11,False
+Anna Sundberg,Blue Springs Sou,100 Breast,69.96,12,False
+Alexandra Moran,Liberty North,100 Breast,70.06,13,False
+Elise Replogle,Republic,100 Breast,70.07,14,False
+Lauren Stein,Marquette,100 Breast,70.08,15,False
+Sierra Graham,Kirkwood,100 Breast,70.97,16,False
+Lauren Callahan,Eureka,100 Breast,71.31,17,False
+Emmi Hoss,Liberty,100 Breast,71.41,18,False
+Phoebe Alcott,Cor Jesu Academy,100 Breast,72.42,19,False
+Lydia Van Horn,Kirkwood,100 Breast,72.64,20,False
+Andrea Alvarado Romero,Blue Springs,100 Breast,72.73,21,False
+Adelyn Volpi,Liberty,100 Breast,73.06,22,False
+Grace Cottle,Lee's Summit Wes,100 Breast,73.17,23,False
+Amelia Drafall,Cor Jesu Academy,100 Breast,73.18,24,False
+Callista Lake,Blue Springs Sou,100 Breast,73.19,25,False
+Isla Sattler,Marquette,100 Breast,73.21,26,False
+Amelia Holohan,Westminster Chri,100 Breast,73.22,27,False
+Caitlyn Hoppa,Lafayette (Wildw,100 Breast,73.71,28,False
+Maggie Dawson,Staley,100 Breast,73.76,29,False
+Isabelle Meyers,Lindbergh,100 Breast,73.77,30,False
+Madelyn James,Francis Howell,100 Breast,73.78,31,False
+Lucy Nofziger,Lee's Summit,100 Breast,73.81,32,False
+St. Joseph's Aca,St. Joseph's Aca,400 Freestyle Relay,214.94,1,True
+Park Hill South,Park Hill South,400 Freestyle Relay,216.63,2,True
+Kirkwood,Kirkwood,400 Freestyle Relay,216.96,3,True
+Rock Bridge,Rock Bridge,400 Freestyle Relay,217.18,4,True
+Parkway South,Parkway South,400 Freestyle Relay,219.02,5,True
+Marquette,Marquette,400 Freestyle Relay,224.0,6,True
+Staley,Staley,400 Freestyle Relay,224.55,7,True
+Eureka,Eureka,400 Freestyle Relay,225.42,8,True
+Liberty North,Liberty North,400 Freestyle Relay,225.55,9,True
+Pembroke Hill,Pembroke Hill,400 Freestyle Relay,226.23,10,True
+Lafayette (Wildw,Lafayette (Wildw,400 Freestyle Relay,228.16,11,True
+Westminster Chri,Westminster Chri,400 Freestyle Relay,228.48,12,True
+Liberty,Liberty,400 Freestyle Relay,229.09,13,True
+Jackson,Jackson,400 Freestyle Relay,229.88,14,True
+Hickman,Hickman,400 Freestyle Relay,231.81,15,True
+Republic,Republic,400 Freestyle Relay,232.97,16,True
+Blue Springs Sou,Blue Springs Sou,400 Freestyle Relay,233.18,17,True
+Cor Jesu Academy,Cor Jesu Academy,400 Freestyle Relay,233.72,18,True
+Lee's Summit Nor,Lee's Summit Nor,400 Freestyle Relay,234.64,19,True
+Ft. Zumwalt Nort,Ft. Zumwalt Nort,400 Freestyle Relay,235.12,20,True
+MICDS,MICDS,400 Freestyle Relay,235.32,21,True
+Liberty (Wentzvi,Liberty (Wentzvi,400 Freestyle Relay,237.87,22,True
+Francis Howell,Francis Howell,400 Freestyle Relay,237.89,23,True
+Lindbergh,Lindbergh,400 Freestyle Relay,238.76,24,True
+Lee's Summit Wes,Lee's Summit Wes,400 Freestyle Relay,240.7,25,True
+Francis Howell C,Francis Howell C,400 Freestyle Relay,241.54,26,True
+Lee's Summit,Lee's Summit,400 Freestyle Relay,243.35,27,True
+Blue Springs,Blue Springs,400 Freestyle Relay,243.6,28,True
+Carthage,Carthage,400 Freestyle Relay,245.28,29,True
+Park Hill,Park Hill,400 Freestyle Relay,246.61,30,True
+Kickapoo,Kickapoo,400 Freestyle Relay,247.7,31,True
+Nixa,Nixa,400 Freestyle Relay,250.53,32,True

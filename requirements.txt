@@ -102,6 +102,7 @@ tinycss2==1.4.0
 tornado==6.5.4
 tqdm==4.67.1
 reportlab>=4.0.0
+pdfplumber>=0.10.0
 streamlit>=1.30.0
 traitlets==5.14.3
 typing_extensions==4.15.0

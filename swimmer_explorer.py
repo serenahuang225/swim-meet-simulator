@@ -25,6 +25,8 @@ st.set_page_config(
     layout="wide",
 )
 
+DATA_DIR = "data/processed"
+RESULTS_DIR = "results"
 SWIMMER_FILE = "swimmer_results.csv"
 TEAM_FILE = "team_scores.csv"
 
@@ -38,6 +40,16 @@ def load_csv(path: str) -> pd.DataFrame:
         if os.path.exists(p):
             return pd.read_csv(p)
     raise FileNotFoundError(path)
+
+
+def load_csv_optional(path: str):
+    """Load CSV if it exists; try .gz first. Returns None if not found."""
+    import os
+    base = path.replace(".csv", "")
+    for p in (f"{base}.csv.gz", path):
+        if os.path.exists(p):
+            return pd.read_csv(p)
+    return None
 
 
 def load_team_scores(path=None):
@@ -219,7 +231,11 @@ def render_team_section(team_scores_file):
     st.caption(f"Based on **{n_sims}** simulations • **{data['df_scores']['team'].nunique()}** teams")
 
     df_results = None
-    swimmer_file = "class1_swimmer_results.csv.gz" if "class1" in team_scores_file else "class2_swimmer_results.csv.gz"
+    # Same subdir, swap team_scores -> swimmer_results
+    if "team_scores" in team_scores_file:
+        swimmer_file = team_scores_file.replace("team_scores", "swimmer_results")
+    else:
+        swimmer_file = f"{RESULTS_DIR}/class1_ilp/swimmer_results.csv" if "class1" in team_scores_file else f"{RESULTS_DIR}/class2_ilp/swimmer_results.csv"
     try:
         df_results = load_csv(swimmer_file)
     except FileNotFoundError:
@@ -476,24 +492,164 @@ def render_swimmer_section(swimmer_results_file):
             st.metric("Avg Place", f"{subset['place'].mean():.1f}")
 
 
+def _assignments_dict_from_df(df: pd.DataFrame) -> dict:
+    """Build name -> [events] from assignments or psych entries DataFrame (individual only)."""
+    ind = df[df["is_relay"] == False]
+    if ind.empty:
+        return {}
+    return ind.groupby("name")["event"].apply(list).to_dict()
+
+
+def render_assignments_vs_psych(class_num: str):
+    """Compare ILP assignments to actual psych sheet entries."""
+    st.header("Assignments vs Psych Sheet")
+    st.caption("Compare **ILP-optimized** event assignments to **actual psych sheet** (meet) entries.")
+
+    ilp_path = f"{DATA_DIR}/class{class_num}_assignments.csv"
+    psych_path = f"{DATA_DIR}/class{class_num}_psych_entries.csv"
+
+    df_ilp = load_csv_optional(ilp_path)
+    df_psych = load_csv_optional(psych_path)
+
+    if df_ilp is None and df_psych is None:
+        st.warning(f"No data found. Add **{ilp_path}** and/or **{psych_path}** (run notebook and psych_sheet_parser.py).")
+        return
+    if df_ilp is None:
+        st.warning(f"ILP assignments not found: **{ilp_path}**. Showing psych sheet only.")
+    if df_psych is None:
+        st.warning(f"Psych entries not found: **{psych_path}**. Showing ILP only.")
+
+    # Build assignment dicts (individual events only)
+    assignments_ilp = _assignments_dict_from_df(df_ilp) if df_ilp is not None else {}
+    assignments_psych = _assignments_dict_from_df(df_psych) if df_psych is not None else {}
+
+    # DataFrames for per-event view (individual only)
+    ilp_ind = df_ilp[df_ilp["is_relay"] == False] if df_ilp is not None else pd.DataFrame()
+    psych_ind = df_psych[df_psych["is_relay"] == False] if df_psych is not None else pd.DataFrame()
+
+    tab_summary, tab_event, tab_swimmer = st.tabs(["Summary", "Per-event comparison", "Per-swimmer"])
+
+    with tab_summary:
+        swimmers_ilp = set(assignments_ilp.keys())
+        swimmers_psych = set(assignments_psych.keys())
+        only_psych = swimmers_psych - swimmers_ilp
+        only_ilp = swimmers_ilp - swimmers_psych
+        both = swimmers_ilp & swimmers_psych
+
+        st.subheader("Swimmer overlap")
+        c1, c2, c3 = st.columns(3)
+        c1.metric("Only on psych sheet", len(only_psych))
+        c2.metric("Only in ILP", len(only_ilp))
+        c3.metric("In both", len(both))
+
+        if only_psych:
+            with st.expander("Swimmers only on psych sheet (not in ILP)"):
+                st.write(", ".join(sorted(only_psych)[:50]) + (" ..." if len(only_psych) > 50 else ""))
+        if only_ilp:
+            with st.expander("Swimmers only in ILP (not on psych sheet)"):
+                st.write(", ".join(sorted(only_ilp)[:50]) + (" ..." if len(only_ilp) > 50 else ""))
+
+        st.subheader("Per-event entrant counts")
+        events_ilp = set(ilp_ind["event"].unique()) if not ilp_ind.empty else set()
+        events_psych = set(psych_ind["event"].unique()) if not psych_ind.empty else set()
+        all_events = sorted(events_ilp | events_psych)
+
+        if all_events:
+            rows = []
+            for ev in all_events:
+                count_ilp = len(ilp_ind[ilp_ind["event"] == ev]) if not ilp_ind.empty else 0
+                count_psych = len(psych_ind[psych_ind["event"] == ev]) if not psych_ind.empty else 0
+                set_ilp = set(ilp_ind[ilp_ind["event"] == ev]["name"].tolist()) if not ilp_ind.empty else set()
+                set_psych = set(psych_ind[psych_ind["event"] == ev]["name"].tolist()) if not psych_ind.empty else set()
+                only_p = len(set_psych - set_ilp)
+                only_i = len(set_ilp - set_psych)
+                both_ev = len(set_psych & set_ilp)
+                rows.append({"event": ev, "Psych": count_psych, "ILP": count_ilp, "Only psych": only_p, "Only ILP": only_i, "Both": both_ev})
+            st.dataframe(pd.DataFrame(rows), use_container_width=True, hide_index=True)
+
+    with tab_event:
+        if not all_events:
+            st.info("No individual events to compare.")
+        else:
+            ev = st.selectbox("Event", all_events)
+            psych_ev = psych_ind[psych_ind["event"] == ev][["name", "team", "best_time", "seed_rank"]].copy() if not psych_ind.empty else pd.DataFrame()
+            ilp_ev = ilp_ind[ilp_ind["event"] == ev][["name", "team", "best_time", "seed_rank"]].copy() if not ilp_ind.empty else pd.DataFrame()
+            names_psych = set(psych_ev["name"].tolist()) if not psych_ev.empty else set()
+            names_ilp = set(ilp_ev["name"].tolist()) if not ilp_ev.empty else set()
+
+            col1, col2 = st.columns(2)
+            with col1:
+                st.markdown("**Psych sheet entrants**")
+                if psych_ev.empty:
+                    st.caption("No data")
+                else:
+                    psych_ev = psych_ev.copy()
+                    psych_ev["In ILP?"] = psych_ev["name"].isin(names_ilp)
+                    st.dataframe(psych_ev, use_container_width=True, hide_index=True)
+            with col2:
+                st.markdown("**ILP assignments**")
+                if ilp_ev.empty:
+                    st.caption("No data")
+                else:
+                    ilp_ev = ilp_ev.copy()
+                    ilp_ev["On psych?"] = ilp_ev["name"].isin(names_psych)
+                    st.dataframe(ilp_ev, use_container_width=True, hide_index=True)
+
+            only_psych_ev = names_psych - names_ilp
+            only_ilp_ev = names_ilp - names_psych
+            if only_psych_ev or only_ilp_ev:
+                st.caption(f"Only on psych: {len(only_psych_ev)} • Only in ILP: {len(only_ilp_ev)}")
+
+    with tab_swimmer:
+        all_swimmers = sorted(set(assignments_ilp.keys()) | set(assignments_psych.keys()))
+        if not all_swimmers:
+            st.info("No swimmer data.")
+        else:
+            swimmer_search = st.text_input("Search swimmer", placeholder="Type name...")
+            if swimmer_search:
+                candidates = [s for s in all_swimmers if swimmer_search.lower() in s.lower()]
+            else:
+                candidates = all_swimmers[:200]
+            sel = st.selectbox("Swimmer", [""] + candidates)
+            if sel:
+                ev_psych = assignments_psych.get(sel, [])
+                ev_ilp = assignments_ilp.get(sel, [])
+                st.markdown(f"**Psych:** {', '.join(ev_psych) or '—'}")
+                st.markdown(f"**ILP:** {', '.join(ev_ilp) or '—'}")
+                only_p = set(ev_psych) - set(ev_ilp)
+                only_i = set(ev_ilp) - set(ev_psych)
+                if only_p or only_i:
+                    st.caption(f"Only psych: {only_p or '—'} • Only ILP: {only_i or '—'}")
+
+
 def main():
     st.title("Swimulator Explorer")
     st.markdown("Explore **team scores** and **individual swimmer** simulation results for the **2026 MSHSAA Girls Class 1/2 Swim State Championship Meet**")
 
     mode = st.sidebar.radio(
         "View",
-        ["Team Results", "Swimmer Results"],
+        ["Team Results", "Swimmer Results", "Assignments vs Psych"],
         label_visibility="collapsed",
     )
 
     if mode == "Team Results":
         team_scores_choice = st.sidebar.selectbox("Team scores", ["Class 1", "Class 2"])
-        team_scores_file = "class1_team_scores.csv.gz" if team_scores_choice == "Class 1" else "class2_team_scores.csv.gz"
+        sim_source = st.sidebar.radio("Simulation source", ["ILP (optimized)", "Psych (actual entries)"], horizontal=True)
+        c = "1" if team_scores_choice == "Class 1" else "2"
+        subdir = f"class{c}_psych" if sim_source == "Psych (actual entries)" else f"class{c}_ilp"
+        team_scores_file = f"{RESULTS_DIR}/{subdir}/team_scores.csv"
         render_team_section(team_scores_file)
-    else:
+    elif mode == "Swimmer Results":
         swimmer_results_choice = st.sidebar.selectbox("Swimmer results", ["Class 1", "Class 2"])
-        swimmer_results_file = "class1_swimmer_results.csv.gz" if swimmer_results_choice == "Class 1" else "class2_swimmer_results.csv.gz"
+        sim_source = st.sidebar.radio("Simulation source", ["ILP (optimized)", "Psych (actual entries)"], horizontal=True)
+        c = "1" if swimmer_results_choice == "Class 1" else "2"
+        subdir = f"class{c}_psych" if sim_source == "Psych (actual entries)" else f"class{c}_ilp"
+        swimmer_results_file = f"{RESULTS_DIR}/{subdir}/swimmer_results.csv"
         render_swimmer_section(swimmer_results_file)
+    else:
+        class_choice = st.sidebar.selectbox("Class", ["Class 1", "Class 2"])
+        class_num = "1" if class_choice == "Class 1" else "2"
+        render_assignments_vs_psych(class_num)
 
     st.markdown("---")
     st.caption("Stochastic Monte Carlo Markov Chain Swim Meet Simulator "

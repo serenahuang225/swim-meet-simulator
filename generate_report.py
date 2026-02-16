@@ -350,7 +350,7 @@ def main():
         "input_csv",
         nargs="?",
         default=None,
-        help="Path to team_scores CSV (default: class1_team_scores.csv or class2_team_scores.csv when -c/--class is set)",
+        help="Path to team_scores CSV (default: results/classN_ilp/team_scores.csv when -c/--class is set)",
     )
     parser.add_argument(
         "-c", "--class",
@@ -367,18 +367,18 @@ def main():
     args = parser.parse_args()
 
     default_inputs = {
-        "1": "class1_team_scores.csv",
-        "2": "class2_team_scores.csv",
+        "1": "results/class1_ilp/team_scores.csv",
+        "2": "results/class2_ilp/team_scores.csv",
     }
     default_outputs = {
-        "1": "swim_meet_simulation_report.pdf",
-        "2": "swim_meet_simulation_report_class2.pdf",
+        "1": "results/reports/swim_meet_simulation_report.pdf",
+        "2": "results/reports/swim_meet_simulation_report_class2.pdf",
     }
     csv_path = Path(args.input_csv or default_inputs[args.class_num]).resolve()
-    base = csv_path.parent
     out_path = Path(args.output or default_outputs[args.class_num]).resolve()
     if not out_path.is_absolute():
-        out_path = base / out_path
+        out_path = Path.cwd() / out_path
+    out_path.parent.mkdir(parents=True, exist_ok=True)
 
     title = "Swim Meet Simulation Report"
     if args.class_num == "2":
