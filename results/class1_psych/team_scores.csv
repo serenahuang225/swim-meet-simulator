@@ -1,589 +1,589 @@
 simulation_id,team,points
 0,Barstow,0
 0,Bolivar,0
-0,Capital City,15
-0,Carl Junction,12
+0,Capital City,14
+0,Carl Junction,7
 0,Central (Cape Girardeau),0
-0,Central (Springf,3
+0,Central (Springf,5
 0,Central (Springfield),17
-0,Central Cape Gir,40
-0,Clayton,65
-0,Father Tolton,159
-0,Ft. Zumwalt East,13
-0,Ft. Zumwalt Sout,18
-0,Glendale,30
-0,Grain Valley,76
+0,Central Cape Gir,58
+0,Clayton,64
+0,Father Tolton,149
+0,Ft. Zumwalt East,10
+0,Ft. Zumwalt Sout,15
+0,Glendale,46
+0,Grain Valley,63
 0,Grandview,0
-0,Greenwood,7
-0,Hannibal,7
+0,Greenwood,6
+0,Hannibal,11
 0,Holt,0
-0,Incarnate Word A,4
+0,Incarnate Word A,5
 0,Jefferson City,0
-0,John Burroughs,110
-0,Kearney,53
-0,Ladue Horton Wat,53
-0,Ladue Horton Watkins,5
-0,Lebanon,33
-0,Lincoln College,13
-0,Lincoln College Prep,13
+0,John Burroughs,88
+0,Kearney,38
+0,Ladue Horton Wat,67
+0,Ladue Horton Watkins,6
+0,Lebanon,40
+0,Lincoln College,7
+0,Lincoln College Prep,11
 0,Logan-Rogersvill,0
-0,Louisiana,59
-0,Lutheran South,32
-0,Lutheran St. Cha,0
-0,Lutheran St. Charles,3
-0,Mehlville,37
-0,Monett,20
-0,Nerinx Hall,62
+0,Louisiana,69
+0,Lutheran South,37
+0,Lutheran St. Cha,6
+0,Lutheran St. Charles,5
+0,Mehlville,35
+0,Monett,16
+0,Nerinx Hall,73
 0,Nevada,12
 0,North Point,0
 0,Notre Dame Cape,0
-0,Notre Dame de Si,94
+0,Notre Dame de Si,77
 0,Notre Dame de Sion,39
-0,Parkway Central,236
+0,Parkway Central,243
 0,Parkway North,0
-0,Parkway West,95
+0,Parkway West,73
 0,Platte County,3
 0,Poplar Bluff,0
 0,Principia,19
-0,Rockwood Summit,85
+0,Rockwood Summit,74
 0,STEAM Academy,0
-0,Savannah,4
+0,Savannah,0
 0,Smith-Cotton,0
 0,Smithville,0
 0,St. Charles West,0
-0,St. Dominic,1
-0,St. Michael the,66
+0,St. Dominic,0
+0,St. Michael the,79
 0,St. Pius X Kansa,0
-0,St. Teresa's Aca,160
-0,St. Teresa's Academy,24
+0,St. Teresa's Aca,148
+0,St. Teresa's Academy,25
 0,Summit Christian,0
-0,Timberland,25
-0,Ursuline Academy,49
-0,Villa Duchesne,135
-0,Visitation Acade,132
-0,Visitation Academy,29
+0,Timberland,27
+0,Ursuline Academy,55
+0,Villa Duchesne,155
+0,Visitation Acade,139
+0,Visitation Academy,28
 0,Washington,0
-0,Webb City,0
-0,Webster Groves,136
-0,West Plains,22
+0,Webb City,8
+0,Webster Groves,129
+0,West Plains,24
 1,Barstow,0
 1,Bolivar,0
-1,Capital City,17
-1,Carl Junction,9
+1,Capital City,9
+1,Carl Junction,11
 1,Central (Cape Girardeau),0
-1,Central (Springf,7
+1,Central (Springf,2
 1,Central (Springfield),17
-1,Central Cape Gir,54
-1,Clayton,71
-1,Father Tolton,138
-1,Ft. Zumwalt East,11
-1,Ft. Zumwalt Sout,7
-1,Glendale,38
-1,Grain Valley,97
+1,Central Cape Gir,48
+1,Clayton,65
+1,Father Tolton,158
+1,Ft. Zumwalt East,7
+1,Ft. Zumwalt Sout,14
+1,Glendale,51
+1,Grain Valley,89
 1,Grandview,0
-1,Greenwood,8
-1,Hannibal,7
+1,Greenwood,5
+1,Hannibal,14
 1,Holt,0
-1,Incarnate Word A,2
+1,Incarnate Word A,3
 1,Jefferson City,0
-1,John Burroughs,128
-1,Kearney,37
-1,Ladue Horton Wat,55
-1,Ladue Horton Watkins,0
-1,Lebanon,48
-1,Lincoln College,5
-1,Lincoln College Prep,10
+1,John Burroughs,80
+1,Kearney,27
+1,Ladue Horton Wat,78
+1,Ladue Horton Watkins,7
+1,Lebanon,32
+1,Lincoln College,3
+1,Lincoln College Prep,12
 1,Logan-Rogersvill,0
-1,Louisiana,41
-1,Lutheran South,32
-1,Lutheran St. Cha,1
-1,Lutheran St. Charles,2
-1,Mehlville,34
-1,Monett,11
-1,Nerinx Hall,58
-1,Nevada,12
+1,Louisiana,53
+1,Lutheran South,34
+1,Lutheran St. Cha,0
+1,Lutheran St. Charles,6
+1,Mehlville,36
+1,Monett,13
+1,Nerinx Hall,71
+1,Nevada,6
 1,North Point,0
-1,Notre Dame Cape,1
-1,Notre Dame de Si,79
-1,Notre Dame de Sion,42
-1,Parkway Central,227
+1,Notre Dame Cape,0
+1,Notre Dame de Si,97
+1,Notre Dame de Sion,38
+1,Parkway Central,224
 1,Parkway North,0
-1,Parkway West,77
-1,Platte County,2
-1,Poplar Bluff,2
-1,Principia,14
-1,Rockwood Summit,75
+1,Parkway West,65
+1,Platte County,8
+1,Poplar Bluff,4
+1,Principia,13
+1,Rockwood Summit,88
 1,STEAM Academy,0
-1,Savannah,4
+1,Savannah,2
 1,Smith-Cotton,0
 1,Smithville,0
 1,St. Charles West,0
 1,St. Dominic,0
-1,St. Michael the,81
+1,St. Michael the,65
 1,St. Pius X Kansa,0
-1,St. Teresa's Aca,161
-1,St. Teresa's Academy,27
+1,St. Teresa's Aca,139
+1,St. Teresa's Academy,28
 1,Summit Christian,0
-1,Timberland,18
-1,Ursuline Academy,75
-1,Villa Duchesne,148
-1,Visitation Acade,153
-1,Visitation Academy,28
+1,Timberland,29
+1,Ursuline Academy,52
+1,Villa Duchesne,141
+1,Visitation Acade,151
+1,Visitation Academy,27
 1,Washington,0
-1,Webb City,6
-1,Webster Groves,130
-1,West Plains,18
+1,Webb City,22
+1,Webster Groves,152
+1,West Plains,29
 2,Barstow,0
 2,Bolivar,0
-2,Capital City,15
-2,Carl Junction,14
+2,Capital City,6
+2,Carl Junction,9
 2,Central (Cape Girardeau),0
-2,Central (Springf,15
+2,Central (Springf,4
 2,Central (Springfield),17
-2,Central Cape Gir,54
-2,Clayton,81
-2,Father Tolton,157
-2,Ft. Zumwalt East,23
-2,Ft. Zumwalt Sout,9
-2,Glendale,27
-2,Grain Valley,69
+2,Central Cape Gir,53
+2,Clayton,69
+2,Father Tolton,160
+2,Ft. Zumwalt East,9
+2,Ft. Zumwalt Sout,28
+2,Glendale,36
+2,Grain Valley,70
 2,Grandview,0
-2,Greenwood,3
-2,Hannibal,6
+2,Greenwood,7
+2,Hannibal,24
 2,Holt,0
-2,Incarnate Word A,3
+2,Incarnate Word A,9
 2,Jefferson City,0
-2,John Burroughs,116
-2,Kearney,19
-2,Ladue Horton Wat,52
-2,Ladue Horton Watkins,6
-2,Lebanon,37
-2,Lincoln College,3
-2,Lincoln College Prep,13
+2,John Burroughs,111
+2,Kearney,34
+2,Ladue Horton Wat,56
+2,Ladue Horton Watkins,5
+2,Lebanon,33
+2,Lincoln College,5
+2,Lincoln College Prep,12
 2,Logan-Rogersvill,0
-2,Louisiana,83
+2,Louisiana,41
 2,Lutheran South,33
 2,Lutheran St. Cha,0
-2,Lutheran St. Charles,3
-2,Mehlville,36
-2,Monett,20
-2,Nerinx Hall,59
-2,Nevada,12
+2,Lutheran St. Charles,4
+2,Mehlville,37
+2,Monett,31
+2,Nerinx Hall,74
+2,Nevada,9
 2,North Point,0
 2,Notre Dame Cape,0
-2,Notre Dame de Si,87
-2,Notre Dame de Sion,41
-2,Parkway Central,234
+2,Notre Dame de Si,57
+2,Notre Dame de Sion,43
+2,Parkway Central,225
 2,Parkway North,0
-2,Parkway West,85
-2,Platte County,6
+2,Parkway West,64
+2,Platte County,20
 2,Poplar Bluff,0
-2,Principia,18
-2,Rockwood Summit,81
+2,Principia,17
+2,Rockwood Summit,91
 2,STEAM Academy,0
-2,Savannah,1
+2,Savannah,8
 2,Smith-Cotton,0
 2,Smithville,0
 2,St. Charles West,0
 2,St. Dominic,0
-2,St. Michael the,102
+2,St. Michael the,75
 2,St. Pius X Kansa,0
-2,St. Teresa's Aca,151
-2,St. Teresa's Academy,20
+2,St. Teresa's Aca,176
+2,St. Teresa's Academy,21
 2,Summit Christian,0
-2,Timberland,23
-2,Ursuline Academy,45
-2,Villa Duchesne,91
-2,Visitation Acade,146
+2,Timberland,21
+2,Ursuline Academy,68
+2,Villa Duchesne,129
+2,Visitation Acade,142
 2,Visitation Academy,28
 2,Washington,0
-2,Webb City,4
-2,Webster Groves,163
-2,West Plains,14
+2,Webb City,6
+2,Webster Groves,141
+2,West Plains,7
 3,Barstow,0
 3,Bolivar,0
-3,Capital City,13
-3,Carl Junction,7
+3,Capital City,16
+3,Carl Junction,11
 3,Central (Cape Girardeau),0
-3,Central (Springf,3
+3,Central (Springf,2
 3,Central (Springfield),17
-3,Central Cape Gir,49
-3,Clayton,70
-3,Father Tolton,149
-3,Ft. Zumwalt East,19
-3,Ft. Zumwalt Sout,14
-3,Glendale,35
-3,Grain Valley,82
+3,Central Cape Gir,55
+3,Clayton,61
+3,Father Tolton,136
+3,Ft. Zumwalt East,9
+3,Ft. Zumwalt Sout,19
+3,Glendale,39
+3,Grain Valley,78
 3,Grandview,0
-3,Greenwood,14
-3,Hannibal,6
+3,Greenwood,6
+3,Hannibal,13
 3,Holt,0
-3,Incarnate Word A,2
+3,Incarnate Word A,5
 3,Jefferson City,0
-3,John Burroughs,123
-3,Kearney,37
-3,Ladue Horton Wat,49
-3,Ladue Horton Watkins,6
-3,Lebanon,41
-3,Lincoln College,11
-3,Lincoln College Prep,14
+3,John Burroughs,101
+3,Kearney,56
+3,Ladue Horton Wat,61
+3,Ladue Horton Watkins,5
+3,Lebanon,58
+3,Lincoln College,0
+3,Lincoln College Prep,9
 3,Logan-Rogersvill,0
-3,Louisiana,63
+3,Louisiana,43
 3,Lutheran South,37
-3,Lutheran St. Cha,2
-3,Lutheran St. Charles,9
+3,Lutheran St. Cha,0
+3,Lutheran St. Charles,4
 3,Mehlville,37
-3,Monett,27
-3,Nerinx Hall,87
-3,Nevada,14
+3,Monett,28
+3,Nerinx Hall,80
+3,Nevada,11
 3,North Point,0
-3,Notre Dame Cape,1
-3,Notre Dame de Si,42
-3,Notre Dame de Sion,38
-3,Parkway Central,224
+3,Notre Dame Cape,0
+3,Notre Dame de Si,76
+3,Notre Dame de Sion,42
+3,Parkway Central,241
 3,Parkway North,0
-3,Parkway West,90
-3,Platte County,1
+3,Parkway West,87
+3,Platte County,5
 3,Poplar Bluff,0
-3,Principia,20
-3,Rockwood Summit,64
+3,Principia,7
+3,Rockwood Summit,100
 3,STEAM Academy,0
-3,Savannah,2
+3,Savannah,7
 3,Smith-Cotton,0
 3,Smithville,0
 3,St. Charles West,0
 3,St. Dominic,0
-3,St. Michael the,75
+3,St. Michael the,74
 3,St. Pius X Kansa,0
-3,St. Teresa's Aca,129
-3,St. Teresa's Academy,15
-3,Summit Christian,4
-3,Timberland,22
-3,Ursuline Academy,81
-3,Villa Duchesne,145
-3,Visitation Acade,141
-3,Visitation Academy,26
+3,St. Teresa's Aca,118
+3,St. Teresa's Academy,20
+3,Summit Christian,0
+3,Timberland,25
+3,Ursuline Academy,38
+3,Villa Duchesne,134
+3,Visitation Acade,152
+3,Visitation Academy,27
 3,Washington,0
-3,Webb City,8
-3,Webster Groves,142
-3,West Plains,18
+3,Webb City,9
+3,Webster Groves,144
+3,West Plains,22
 4,Barstow,0
 4,Bolivar,0
-4,Capital City,16
-4,Carl Junction,41
+4,Capital City,11
+4,Carl Junction,11
 4,Central (Cape Girardeau),0
-4,Central (Springf,3
+4,Central (Springf,7
 4,Central (Springfield),17
-4,Central Cape Gir,45
-4,Clayton,97
-4,Father Tolton,126
-4,Ft. Zumwalt East,9
-4,Ft. Zumwalt Sout,11
-4,Glendale,39
-4,Grain Valley,55
+4,Central Cape Gir,60
+4,Clayton,54
+4,Father Tolton,146
+4,Ft. Zumwalt East,19
+4,Ft. Zumwalt Sout,17
+4,Glendale,27
+4,Grain Valley,75
 4,Grandview,0
-4,Greenwood,9
-4,Hannibal,3
+4,Greenwood,7
+4,Hannibal,14
 4,Holt,0
-4,Incarnate Word A,11
+4,Incarnate Word A,3
 4,Jefferson City,0
-4,John Burroughs,124
-4,Kearney,29
-4,Ladue Horton Wat,58
-4,Ladue Horton Watkins,6
-4,Lebanon,37
-4,Lincoln College,5
-4,Lincoln College Prep,7
+4,John Burroughs,100
+4,Kearney,23
+4,Ladue Horton Wat,56
+4,Ladue Horton Watkins,7
+4,Lebanon,61
+4,Lincoln College,4
+4,Lincoln College Prep,11
 4,Logan-Rogersvill,0
-4,Louisiana,79
-4,Lutheran South,36
+4,Louisiana,70
+4,Lutheran South,30
 4,Lutheran St. Cha,0
-4,Lutheran St. Charles,5
-4,Mehlville,32
-4,Monett,19
-4,Nerinx Hall,92
-4,Nevada,11
+4,Lutheran St. Charles,3
+4,Mehlville,37
+4,Monett,23
+4,Nerinx Hall,67
+4,Nevada,13
 4,North Point,0
 4,Notre Dame Cape,0
-4,Notre Dame de Si,61
-4,Notre Dame de Sion,40
-4,Parkway Central,208
-4,Parkway North,3
-4,Parkway West,80
-4,Platte County,0
-4,Poplar Bluff,0
-4,Principia,15
-4,Rockwood Summit,89
-4,STEAM Academy,0
-4,Savannah,1
+4,Notre Dame de Si,68
+4,Notre Dame de Sion,42
+4,Parkway Central,242
+4,Parkway North,0
+4,Parkway West,90
+4,Platte County,2
+4,Poplar Bluff,2
+4,Principia,11
+4,Rockwood Summit,100
+4,STEAM Academy,2
+4,Savannah,15
 4,Smith-Cotton,0
 4,Smithville,0
 4,St. Charles West,0
 4,St. Dominic,0
-4,St. Michael the,83
+4,St. Michael the,81
 4,St. Pius X Kansa,0
-4,St. Teresa's Aca,135
-4,St. Teresa's Academy,22
+4,St. Teresa's Aca,151
+4,St. Teresa's Academy,20
 4,Summit Christian,0
-4,Timberland,23
-4,Ursuline Academy,54
-4,Villa Duchesne,141
-4,Visitation Acade,157
+4,Timberland,21
+4,Ursuline Academy,51
+4,Villa Duchesne,142
+4,Visitation Acade,140
 4,Visitation Academy,28
 4,Washington,0
-4,Webb City,2
-4,Webster Groves,141
-4,West Plains,20
+4,Webb City,5
+4,Webster Groves,129
+4,West Plains,10
 5,Barstow,0
 5,Bolivar,0
-5,Capital City,16
-5,Carl Junction,9
+5,Capital City,10
+5,Carl Junction,14
 5,Central (Cape Girardeau),0
-5,Central (Springf,0
+5,Central (Springf,4
 5,Central (Springfield),17
-5,Central Cape Gir,59
-5,Clayton,76
-5,Father Tolton,148
-5,Ft. Zumwalt East,12
-5,Ft. Zumwalt Sout,18
-5,Glendale,47
-5,Grain Valley,67
+5,Central Cape Gir,49
+5,Clayton,52
+5,Father Tolton,144
+5,Ft. Zumwalt East,11
+5,Ft. Zumwalt Sout,15
+5,Glendale,34
+5,Grain Valley,60
 5,Grandview,0
-5,Greenwood,7
-5,Hannibal,6
+5,Greenwood,11
+5,Hannibal,9
 5,Holt,0
-5,Incarnate Word A,0
+5,Incarnate Word A,9
 5,Jefferson City,0
-5,John Burroughs,101
-5,Kearney,31
-5,Ladue Horton Wat,39
-5,Ladue Horton Watkins,6
-5,Lebanon,45
-5,Lincoln College,9
-5,Lincoln College Prep,5
+5,John Burroughs,102
+5,Kearney,25
+5,Ladue Horton Wat,51
+5,Ladue Horton Watkins,5
+5,Lebanon,30
+5,Lincoln College,2
+5,Lincoln College Prep,11
 5,Logan-Rogersvill,0
-5,Louisiana,48
-5,Lutheran South,37
-5,Lutheran St. Cha,5
-5,Lutheran St. Charles,9
-5,Mehlville,32
-5,Monett,21
-5,Nerinx Hall,85
-5,Nevada,7
+5,Louisiana,78
+5,Lutheran South,36
+5,Lutheran St. Cha,0
+5,Lutheran St. Charles,3
+5,Mehlville,37
+5,Monett,25
+5,Nerinx Hall,88
+5,Nevada,13
 5,North Point,0
 5,Notre Dame Cape,0
-5,Notre Dame de Si,78
-5,Notre Dame de Sion,40
-5,Parkway Central,239
+5,Notre Dame de Si,54
+5,Notre Dame de Sion,42
+5,Parkway Central,236
 5,Parkway North,0
-5,Parkway West,102
-5,Platte County,3
-5,Poplar Bluff,0
-5,Principia,19
-5,Rockwood Summit,87
+5,Parkway West,78
+5,Platte County,2
+5,Poplar Bluff,8
+5,Principia,16
+5,Rockwood Summit,94
 5,STEAM Academy,0
-5,Savannah,0
+5,Savannah,4
 5,Smith-Cotton,0
 5,Smithville,0
 5,St. Charles West,0
 5,St. Dominic,0
-5,St. Michael the,77
+5,St. Michael the,86
 5,St. Pius X Kansa,0
-5,St. Teresa's Aca,154
-5,St. Teresa's Academy,23
+5,St. Teresa's Aca,143
+5,St. Teresa's Academy,26
 5,Summit Christian,0
-5,Timberland,25
-5,Ursuline Academy,47
-5,Villa Duchesne,119
-5,Visitation Acade,154
+5,Timberland,26
+5,Ursuline Academy,68
+5,Villa Duchesne,146
+5,Visitation Acade,142
 5,Visitation Academy,28
 5,Washington,0
-5,Webb City,8
-5,Webster Groves,150
-5,West Plains,10
+5,Webb City,11
+5,Webster Groves,155
+5,West Plains,15
 6,Barstow,0
 6,Bolivar,0
-6,Capital City,8
-6,Carl Junction,22
+6,Capital City,4
+6,Carl Junction,13
 6,Central (Cape Girardeau),0
-6,Central (Springf,6
+6,Central (Springf,0
 6,Central (Springfield),17
-6,Central Cape Gir,63
-6,Clayton,60
-6,Father Tolton,140
+6,Central Cape Gir,60
+6,Clayton,70
+6,Father Tolton,157
 6,Ft. Zumwalt East,12
-6,Ft. Zumwalt Sout,19
-6,Glendale,39
-6,Grain Valley,70
-6,Grandview,1
-6,Greenwood,12
-6,Hannibal,7
+6,Ft. Zumwalt Sout,15
+6,Glendale,15
+6,Grain Valley,89
+6,Grandview,0
+6,Greenwood,14
+6,Hannibal,11
 6,Holt,0
-6,Incarnate Word A,11
+6,Incarnate Word A,5
 6,Jefferson City,0
-6,John Burroughs,106
-6,Kearney,28
-6,Ladue Horton Wat,43
-6,Ladue Horton Watkins,5
-6,Lebanon,53
-6,Lincoln College,9
-6,Lincoln College Prep,12
+6,John Burroughs,112
+6,Kearney,31
+6,Ladue Horton Wat,39
+6,Ladue Horton Watkins,3
+6,Lebanon,61
+6,Lincoln College,10
+6,Lincoln College Prep,9
 6,Logan-Rogersvill,0
-6,Louisiana,49
-6,Lutheran South,31
-6,Lutheran St. Cha,2
-6,Lutheran St. Charles,0
-6,Mehlville,37
-6,Monett,33
-6,Nerinx Hall,60
-6,Nevada,13
+6,Louisiana,68
+6,Lutheran South,33
+6,Lutheran St. Cha,0
+6,Lutheran St. Charles,4
+6,Mehlville,36
+6,Monett,20
+6,Nerinx Hall,65
+6,Nevada,14
 6,North Point,0
-6,Notre Dame Cape,0
+6,Notre Dame Cape,3
 6,Notre Dame de Si,48
 6,Notre Dame de Sion,42
-6,Parkway Central,233
-6,Parkway North,14
-6,Parkway West,110
+6,Parkway Central,223
+6,Parkway North,0
+6,Parkway West,88
 6,Platte County,0
-6,Poplar Bluff,0
-6,Principia,20
-6,Rockwood Summit,75
+6,Poplar Bluff,4
+6,Principia,15
+6,Rockwood Summit,90
 6,STEAM Academy,0
 6,Savannah,0
 6,Smith-Cotton,0
 6,Smithville,0
 6,St. Charles West,0
 6,St. Dominic,0
-6,St. Michael the,85
+6,St. Michael the,65
 6,St. Pius X Kansa,0
-6,St. Teresa's Aca,135
-6,St. Teresa's Academy,23
+6,St. Teresa's Aca,144
+6,St. Teresa's Academy,25
 6,Summit Christian,0
-6,Timberland,26
-6,Ursuline Academy,68
-6,Villa Duchesne,133
-6,Visitation Acade,144
-6,Visitation Academy,29
+6,Timberland,14
+6,Ursuline Academy,57
+6,Villa Duchesne,154
+6,Visitation Acade,142
+6,Visitation Academy,28
 6,Washington,0
-6,Webb City,2
-6,Webster Groves,155
+6,Webb City,24
+6,Webster Groves,157
 6,West Plains,15
 7,Barstow,0
 7,Bolivar,0
-7,Capital City,11
-7,Carl Junction,16
+7,Capital City,13
+7,Carl Junction,6
 7,Central (Cape Girardeau),0
-7,Central (Springf,4
+7,Central (Springf,1
 7,Central (Springfield),17
-7,Central Cape Gir,61
-7,Clayton,70
-7,Father Tolton,132
-7,Ft. Zumwalt East,27
-7,Ft. Zumwalt Sout,18
+7,Central Cape Gir,55
+7,Clayton,96
+7,Father Tolton,166
+7,Ft. Zumwalt East,11
+7,Ft. Zumwalt Sout,24
 7,Glendale,41
-7,Grain Valley,84
+7,Grain Valley,72
 7,Grandview,0
 7,Greenwood,1
-7,Hannibal,7
+7,Hannibal,15
 7,Holt,0
-7,Incarnate Word A,3
+7,Incarnate Word A,2
 7,Jefferson City,0
-7,John Burroughs,97
-7,Kearney,31
-7,Ladue Horton Wat,44
-7,Ladue Horton Watkins,3
-7,Lebanon,42
-7,Lincoln College,2
-7,Lincoln College Prep,17
+7,John Burroughs,109
+7,Kearney,39
+7,Ladue Horton Wat,71
+7,Ladue Horton Watkins,5
+7,Lebanon,34
+7,Lincoln College,8
+7,Lincoln College Prep,11
 7,Logan-Rogersvill,0
-7,Louisiana,70
-7,Lutheran South,36
+7,Louisiana,51
+7,Lutheran South,31
 7,Lutheran St. Cha,0
-7,Lutheran St. Charles,4
+7,Lutheran St. Charles,3
 7,Mehlville,37
-7,Monett,15
-7,Nerinx Hall,75
-7,Nevada,14
+7,Monett,16
+7,Nerinx Hall,61
+7,Nevada,9
 7,North Point,0
-7,Notre Dame Cape,2
-7,Notre Dame de Si,65
-7,Notre Dame de Sion,42
-7,Parkway Central,236
+7,Notre Dame Cape,0
+7,Notre Dame de Si,62
+7,Notre Dame de Sion,43
+7,Parkway Central,241
 7,Parkway North,0
-7,Parkway West,75
-7,Platte County,6
+7,Parkway West,70
+7,Platte County,4
 7,Poplar Bluff,0
-7,Principia,13
-7,Rockwood Summit,92
+7,Principia,21
+7,Rockwood Summit,94
 7,STEAM Academy,0
-7,Savannah,1
+7,Savannah,9
 7,Smith-Cotton,0
 7,Smithville,0
 7,St. Charles West,0
 7,St. Dominic,0
-7,St. Michael the,82
+7,St. Michael the,74
 7,St. Pius X Kansa,0
 7,St. Teresa's Aca,156
-7,St. Teresa's Academy,19
+7,St. Teresa's Academy,21
 7,Summit Christian,0
 7,Timberland,25
-7,Ursuline Academy,63
-7,Villa Duchesne,150
-7,Visitation Acade,147
-7,Visitation Academy,27
+7,Ursuline Academy,40
+7,Villa Duchesne,124
+7,Visitation Acade,130
+7,Visitation Academy,28
 7,Washington,0
-7,Webb City,7
-7,Webster Groves,118
+7,Webb City,5
+7,Webster Groves,153
 7,West Plains,20
 8,Barstow,0
 8,Bolivar,0
-8,Capital City,11
+8,Capital City,20
 8,Carl Junction,12
 8,Central (Cape Girardeau),0
-8,Central (Springf,3
+8,Central (Springf,4
 8,Central (Springfield),17
-8,Central Cape Gir,54
+8,Central Cape Gir,57
 8,Clayton,61
-8,Father Tolton,143
-8,Ft. Zumwalt East,16
-8,Ft. Zumwalt Sout,15
-8,Glendale,41
-8,Grain Valley,72
+8,Father Tolton,140
+8,Ft. Zumwalt East,11
+8,Ft. Zumwalt Sout,17
+8,Glendale,27
+8,Grain Valley,58
 8,Grandview,0
-8,Greenwood,22
-8,Hannibal,9
+8,Greenwood,12
+8,Hannibal,7
 8,Holt,0
-8,Incarnate Word A,3
+8,Incarnate Word A,5
 8,Jefferson City,0
-8,John Burroughs,119
-8,Kearney,22
-8,Ladue Horton Wat,79
-8,Ladue Horton Watkins,7
-8,Lebanon,37
-8,Lincoln College,4
-8,Lincoln College Prep,6
+8,John Burroughs,127
+8,Kearney,33
+8,Ladue Horton Wat,45
+8,Ladue Horton Watkins,2
+8,Lebanon,54
+8,Lincoln College,8
+8,Lincoln College Prep,13
 8,Logan-Rogersvill,0
-8,Louisiana,79
-8,Lutheran South,33
+8,Louisiana,65
+8,Lutheran South,31
 8,Lutheran St. Cha,0
 8,Lutheran St. Charles,3
-8,Mehlville,37
+8,Mehlville,34
 8,Monett,15
-8,Nerinx Hall,69
-8,Nevada,12
+8,Nerinx Hall,61
+8,Nevada,7
 8,North Point,0
 8,Notre Dame Cape,0
-8,Notre Dame de Si,65
-8,Notre Dame de Sion,38
-8,Parkway Central,227
+8,Notre Dame de Si,85
+8,Notre Dame de Sion,40
+8,Parkway Central,229
 8,Parkway North,0
-8,Parkway West,71
-8,Platte County,8
-8,Poplar Bluff,2
-8,Principia,12
-8,Rockwood Summit,88
+8,Parkway West,94
+8,Platte County,0
+8,Poplar Bluff,0
+8,Principia,11
+8,Rockwood Summit,89
 8,STEAM Academy,0
-8,Savannah,3
+8,Savannah,2
 8,Smith-Cotton,0
 8,Smithville,0
 8,St. Charles West,0
@@ -591,352 +591,352 @@ simulation_id,team,points
 8,St. Michael the,70
 8,St. Pius X Kansa,0
 8,St. Teresa's Aca,155
-8,St. Teresa's Academy,29
+8,St. Teresa's Academy,26
 8,Summit Christian,0
-8,Timberland,22
-8,Ursuline Academy,63
-8,Villa Duchesne,128
-8,Visitation Acade,154
+8,Timberland,30
+8,Ursuline Academy,47
+8,Villa Duchesne,132
+8,Visitation Acade,159
 8,Visitation Academy,28
 8,Washington,0
-8,Webb City,9
-8,Webster Groves,135
-8,West Plains,17
+8,Webb City,13
+8,Webster Groves,161
+8,West Plains,8
 9,Barstow,0
 9,Bolivar,0
-9,Capital City,18
-9,Carl Junction,13
+9,Capital City,11
+9,Carl Junction,20
 9,Central (Cape Girardeau),0
-9,Central (Springf,6
-9,Central (Springfield),17
-9,Central Cape Gir,50
-9,Clayton,58
-9,Father Tolton,146
-9,Ft. Zumwalt East,15
-9,Ft. Zumwalt Sout,12
-9,Glendale,27
-9,Grain Valley,78
+9,Central (Springf,2
+9,Central (Springfield),20
+9,Central Cape Gir,45
+9,Clayton,55
+9,Father Tolton,152
+9,Ft. Zumwalt East,17
+9,Ft. Zumwalt Sout,6
+9,Glendale,31
+9,Grain Valley,66
 9,Grandview,0
-9,Greenwood,20
-9,Hannibal,6
+9,Greenwood,13
+9,Hannibal,9
 9,Holt,0
-9,Incarnate Word A,9
+9,Incarnate Word A,7
 9,Jefferson City,0
-9,John Burroughs,106
-9,Kearney,40
-9,Ladue Horton Wat,36
-9,Ladue Horton Watkins,0
-9,Lebanon,24
-9,Lincoln College,3
-9,Lincoln College Prep,10
+9,John Burroughs,86
+9,Kearney,28
+9,Ladue Horton Wat,44
+9,Ladue Horton Watkins,5
+9,Lebanon,65
+9,Lincoln College,8
+9,Lincoln College Prep,12
 9,Logan-Rogersvill,0
-9,Louisiana,50
+9,Louisiana,64
 9,Lutheran South,36
 9,Lutheran St. Cha,0
-9,Lutheran St. Charles,5
-9,Mehlville,35
-9,Monett,36
-9,Nerinx Hall,63
-9,Nevada,9
+9,Lutheran St. Charles,6
+9,Mehlville,37
+9,Monett,23
+9,Nerinx Hall,81
+9,Nevada,11
 9,North Point,0
-9,Notre Dame Cape,2
-9,Notre Dame de Si,68
-9,Notre Dame de Sion,36
-9,Parkway Central,245
-9,Parkway North,2
-9,Parkway West,102
-9,Platte County,2
-9,Poplar Bluff,8
+9,Notre Dame Cape,0
+9,Notre Dame de Si,55
+9,Notre Dame de Sion,37
+9,Parkway Central,204
+9,Parkway North,3
+9,Parkway West,96
+9,Platte County,1
+9,Poplar Bluff,2
 9,Principia,15
-9,Rockwood Summit,85
+9,Rockwood Summit,112
 9,STEAM Academy,0
-9,Savannah,1
+9,Savannah,13
 9,Smith-Cotton,0
 9,Smithville,0
 9,St. Charles West,0
 9,St. Dominic,0
-9,St. Michael the,91
+9,St. Michael the,74
 9,St. Pius X Kansa,0
-9,St. Teresa's Aca,162
-9,St. Teresa's Academy,31
+9,St. Teresa's Aca,163
+9,St. Teresa's Academy,20
 9,Summit Christian,0
-9,Timberland,21
-9,Ursuline Academy,49
-9,Villa Duchesne,132
-9,Visitation Acade,140
-9,Visitation Academy,28
+9,Timberland,27
+9,Ursuline Academy,61
+9,Villa Duchesne,142
+9,Visitation Acade,143
+9,Visitation Academy,27
 9,Washington,0
 9,Webb City,4
-9,Webster Groves,154
-9,West Plains,19
+9,Webster Groves,142
+9,West Plains,24
 10,Barstow,0
 10,Bolivar,0
-10,Capital City,17
-10,Carl Junction,15
+10,Capital City,12
+10,Carl Junction,24
 10,Central (Cape Girardeau),0
-10,Central (Springf,6
-10,Central (Springfield),17
-10,Central Cape Gir,56
-10,Clayton,71
-10,Father Tolton,124
-10,Ft. Zumwalt East,15
-10,Ft. Zumwalt Sout,16
-10,Glendale,37
-10,Grain Valley,99
+10,Central (Springf,4
+10,Central (Springfield),20
+10,Central Cape Gir,53
+10,Clayton,83
+10,Father Tolton,150
+10,Ft. Zumwalt East,14
+10,Ft. Zumwalt Sout,14
+10,Glendale,45
+10,Grain Valley,81
 10,Grandview,0
 10,Greenwood,5
-10,Hannibal,12
+10,Hannibal,9
 10,Holt,0
-10,Incarnate Word A,2
+10,Incarnate Word A,3
 10,Jefferson City,0
-10,John Burroughs,107
-10,Kearney,40
-10,Ladue Horton Wat,55
-10,Ladue Horton Watkins,2
-10,Lebanon,33
-10,Lincoln College,4
-10,Lincoln College Prep,12
+10,John Burroughs,111
+10,Kearney,31
+10,Ladue Horton Wat,56
+10,Ladue Horton Watkins,5
+10,Lebanon,31
+10,Lincoln College,5
+10,Lincoln College Prep,11
 10,Logan-Rogersvill,0
 10,Louisiana,55
 10,Lutheran South,37
 10,Lutheran St. Cha,0
-10,Lutheran St. Charles,5
-10,Mehlville,37
-10,Monett,18
-10,Nerinx Hall,58
-10,Nevada,13
+10,Lutheran St. Charles,2
+10,Mehlville,36
+10,Monett,26
+10,Nerinx Hall,64
+10,Nevada,2
 10,North Point,0
 10,Notre Dame Cape,0
-10,Notre Dame de Si,64
-10,Notre Dame de Sion,42
-10,Parkway Central,234
-10,Parkway North,0
-10,Parkway West,84
-10,Platte County,4
+10,Notre Dame de Si,78
+10,Notre Dame de Sion,37
+10,Parkway Central,230
+10,Parkway North,2
+10,Parkway West,77
+10,Platte County,0
 10,Poplar Bluff,0
-10,Principia,13
+10,Principia,19
 10,Rockwood Summit,82
 10,STEAM Academy,0
-10,Savannah,0
-10,Smith-Cotton,0
+10,Savannah,2
+10,Smith-Cotton,1
 10,Smithville,0
 10,St. Charles West,0
 10,St. Dominic,0
-10,St. Michael the,75
+10,St. Michael the,76
 10,St. Pius X Kansa,0
-10,St. Teresa's Aca,147
-10,St. Teresa's Academy,23
+10,St. Teresa's Aca,150
+10,St. Teresa's Academy,27
 10,Summit Christian,0
-10,Timberland,27
-10,Ursuline Academy,53
-10,Villa Duchesne,155
+10,Timberland,25
+10,Ursuline Academy,48
+10,Villa Duchesne,138
 10,Visitation Acade,151
-10,Visitation Academy,27
+10,Visitation Academy,28
 10,Washington,0
-10,Webb City,2
-10,Webster Groves,151
-10,West Plains,23
+10,Webb City,7
+10,Webster Groves,146
+10,West Plains,12
 11,Barstow,0
 11,Bolivar,0
-11,Capital City,13
-11,Carl Junction,13
+11,Capital City,10
+11,Carl Junction,11
 11,Central (Cape Girardeau),0
 11,Central (Springf,1
-11,Central (Springfield),20
-11,Central Cape Gir,46
-11,Clayton,82
-11,Father Tolton,150
-11,Ft. Zumwalt East,8
-11,Ft. Zumwalt Sout,15
-11,Glendale,40
-11,Grain Valley,81
-11,Grandview,0
-11,Greenwood,12
-11,Hannibal,4
+11,Central (Springfield),17
+11,Central Cape Gir,58
+11,Clayton,65
+11,Father Tolton,133
+11,Ft. Zumwalt East,11
+11,Ft. Zumwalt Sout,17
+11,Glendale,53
+11,Grain Valley,74
+11,Grandview,2
+11,Greenwood,13
+11,Hannibal,7
 11,Holt,0
-11,Incarnate Word A,2
+11,Incarnate Word A,3
 11,Jefferson City,0
-11,John Burroughs,136
-11,Kearney,30
-11,Ladue Horton Wat,46
-11,Ladue Horton Watkins,4
-11,Lebanon,39
-11,Lincoln College,8
-11,Lincoln College Prep,14
+11,John Burroughs,113
+11,Kearney,49
+11,Ladue Horton Wat,47
+11,Ladue Horton Watkins,6
+11,Lebanon,37
+11,Lincoln College,1
+11,Lincoln College Prep,9
 11,Logan-Rogersvill,0
-11,Louisiana,40
-11,Lutheran South,37
+11,Louisiana,44
+11,Lutheran South,30
 11,Lutheran St. Cha,0
-11,Lutheran St. Charles,2
+11,Lutheran St. Charles,5
 11,Mehlville,37
-11,Monett,6
-11,Nerinx Hall,67
-11,Nevada,9
+11,Monett,33
+11,Nerinx Hall,45
+11,Nevada,14
 11,North Point,0
 11,Notre Dame Cape,0
-11,Notre Dame de Si,67
-11,Notre Dame de Sion,39
-11,Parkway Central,230
+11,Notre Dame de Si,56
+11,Notre Dame de Sion,40
+11,Parkway Central,233
 11,Parkway North,0
-11,Parkway West,86
-11,Platte County,9
+11,Parkway West,80
+11,Platte County,2
 11,Poplar Bluff,0
 11,Principia,19
-11,Rockwood Summit,99
+11,Rockwood Summit,100
 11,STEAM Academy,0
 11,Savannah,0
-11,Smith-Cotton,0
+11,Smith-Cotton,2
 11,Smithville,0
 11,St. Charles West,0
 11,St. Dominic,0
-11,St. Michael the,77
+11,St. Michael the,89
 11,St. Pius X Kansa,0
-11,St. Teresa's Aca,167
-11,St. Teresa's Academy,26
+11,St. Teresa's Aca,164
+11,St. Teresa's Academy,23
 11,Summit Christian,0
-11,Timberland,21
-11,Ursuline Academy,65
-11,Villa Duchesne,125
-11,Visitation Acade,135
-11,Visitation Academy,27
+11,Timberland,24
+11,Ursuline Academy,53
+11,Villa Duchesne,135
+11,Visitation Acade,139
+11,Visitation Academy,29
 11,Washington,0
-11,Webb City,5
+11,Webb City,44
 11,Webster Groves,131
-11,West Plains,35
+11,West Plains,17
 12,Barstow,0
 12,Bolivar,0
-12,Capital City,13
-12,Carl Junction,18
+12,Capital City,10
+12,Carl Junction,11
 12,Central (Cape Girardeau),0
-12,Central (Springf,2
+12,Central (Springf,11
 12,Central (Springfield),17
-12,Central Cape Gir,52
-12,Clayton,68
-12,Father Tolton,137
-12,Ft. Zumwalt East,17
-12,Ft. Zumwalt Sout,19
-12,Glendale,40
-12,Grain Valley,78
+12,Central Cape Gir,50
+12,Clayton,74
+12,Father Tolton,150
+12,Ft. Zumwalt East,12
+12,Ft. Zumwalt Sout,17
+12,Glendale,22
+12,Grain Valley,69
 12,Grandview,0
-12,Greenwood,12
-12,Hannibal,2
+12,Greenwood,8
+12,Hannibal,5
 12,Holt,0
-12,Incarnate Word A,0
+12,Incarnate Word A,5
 12,Jefferson City,0
-12,John Burroughs,125
+12,John Burroughs,104
 12,Kearney,36
-12,Ladue Horton Wat,49
-12,Ladue Horton Watkins,3
-12,Lebanon,31
-12,Lincoln College,16
-12,Lincoln College Prep,7
+12,Ladue Horton Wat,46
+12,Ladue Horton Watkins,2
+12,Lebanon,34
+12,Lincoln College,1
+12,Lincoln College Prep,12
 12,Logan-Rogersvill,0
-12,Louisiana,59
-12,Lutheran South,32
+12,Louisiana,58
+12,Lutheran South,37
 12,Lutheran St. Cha,0
-12,Lutheran St. Charles,6
-12,Mehlville,36
-12,Monett,29
-12,Nerinx Hall,65
-12,Nevada,11
+12,Lutheran St. Charles,5
+12,Mehlville,37
+12,Monett,34
+12,Nerinx Hall,94
+12,Nevada,16
 12,North Point,0
-12,Notre Dame Cape,0
-12,Notre Dame de Si,68
-12,Notre Dame de Sion,41
-12,Parkway Central,230
-12,Parkway North,0
-12,Parkway West,71
-12,Platte County,2
-12,Poplar Bluff,0
-12,Principia,15
-12,Rockwood Summit,110
+12,Notre Dame Cape,1
+12,Notre Dame de Si,69
+12,Notre Dame de Sion,42
+12,Parkway Central,252
+12,Parkway North,2
+12,Parkway West,99
+12,Platte County,4
+12,Poplar Bluff,2
+12,Principia,18
+12,Rockwood Summit,73
 12,STEAM Academy,0
-12,Savannah,2
+12,Savannah,1
 12,Smith-Cotton,0
 12,Smithville,0
 12,St. Charles West,0
 12,St. Dominic,0
 12,St. Michael the,69
 12,St. Pius X Kansa,0
-12,St. Teresa's Aca,154
-12,St. Teresa's Academy,24
+12,St. Teresa's Aca,152
+12,St. Teresa's Academy,19
 12,Summit Christian,0
 12,Timberland,27
-12,Ursuline Academy,50
-12,Villa Duchesne,138
-12,Visitation Acade,142
+12,Ursuline Academy,45
+12,Villa Duchesne,135
+12,Visitation Acade,140
 12,Visitation Academy,27
 12,Washington,0
-12,Webb City,8
-12,Webster Groves,151
-12,West Plains,16
+12,Webb City,2
+12,Webster Groves,148
+12,West Plains,21
 13,Barstow,0
 13,Bolivar,0
-13,Capital City,11
-13,Carl Junction,12
+13,Capital City,12
+13,Carl Junction,9
 13,Central (Cape Girardeau),0
-13,Central (Springf,4
-13,Central (Springfield),20
-13,Central Cape Gir,45
-13,Clayton,56
-13,Father Tolton,157
-13,Ft. Zumwalt East,19
-13,Ft. Zumwalt Sout,16
-13,Glendale,36
-13,Grain Valley,65
-13,Grandview,0
-13,Greenwood,6
-13,Hannibal,7
+13,Central (Springf,0
+13,Central (Springfield),17
+13,Central Cape Gir,44
+13,Clayton,66
+13,Father Tolton,140
+13,Ft. Zumwalt East,14
+13,Ft. Zumwalt Sout,14
+13,Glendale,28
+13,Grain Valley,57
+13,Grandview,7
+13,Greenwood,2
+13,Hannibal,6
 13,Holt,0
-13,Incarnate Word A,0
-13,Jefferson City,1
-13,John Burroughs,110
-13,Kearney,37
-13,Ladue Horton Wat,49
-13,Ladue Horton Watkins,5
-13,Lebanon,37
-13,Lincoln College,3
-13,Lincoln College Prep,9
+13,Incarnate Word A,2
+13,Jefferson City,0
+13,John Burroughs,108
+13,Kearney,36
+13,Ladue Horton Wat,45
+13,Ladue Horton Watkins,6
+13,Lebanon,33
+13,Lincoln College,5
+13,Lincoln College Prep,8
 13,Logan-Rogersvill,0
-13,Louisiana,58
+13,Louisiana,74
 13,Lutheran South,33
 13,Lutheran St. Cha,0
-13,Lutheran St. Charles,6
-13,Mehlville,32
-13,Monett,49
-13,Nerinx Hall,80
-13,Nevada,3
+13,Lutheran St. Charles,0
+13,Mehlville,37
+13,Monett,45
+13,Nerinx Hall,73
+13,Nevada,9
 13,North Point,0
-13,Notre Dame Cape,0
-13,Notre Dame de Si,65
-13,Notre Dame de Sion,35
-13,Parkway Central,228
-13,Parkway North,0
-13,Parkway West,83
-13,Platte County,2
+13,Notre Dame Cape,1
+13,Notre Dame de Si,58
+13,Notre Dame de Sion,41
+13,Parkway Central,238
+13,Parkway North,3
+13,Parkway West,82
+13,Platte County,3
 13,Poplar Bluff,0
 13,Principia,21
-13,Rockwood Summit,110
+13,Rockwood Summit,92
 13,STEAM Academy,0
-13,Savannah,1
-13,Smith-Cotton,1
+13,Savannah,0
+13,Smith-Cotton,0
 13,Smithville,0
 13,St. Charles West,0
 13,St. Dominic,0
-13,St. Michael the,66
+13,St. Michael the,74
 13,St. Pius X Kansa,0
-13,St. Teresa's Aca,156
-13,St. Teresa's Academy,30
+13,St. Teresa's Aca,154
+13,St. Teresa's Academy,28
 13,Summit Christian,0
-13,Timberland,23
-13,Ursuline Academy,61
-13,Villa Duchesne,131
-13,Visitation Acade,137
-13,Visitation Academy,28
+13,Timberland,24
+13,Ursuline Academy,53
+13,Villa Duchesne,158
+13,Visitation Acade,150
+13,Visitation Academy,25
 13,Washington,0
-13,Webb City,8
-13,Webster Groves,163
-13,West Plains,10
+13,Webb City,3
+13,Webster Groves,158
+13,West Plains,29
 14,Barstow,0
 14,Bolivar,0
 14,Capital City,14
@@ -944,2408 +944,3547 @@ simulation_id,team,points
 14,Central (Cape Girardeau),0
 14,Central (Springf,5
 14,Central (Springfield),17
-14,Central Cape Gir,53
-14,Clayton,74
-14,Father Tolton,160
-14,Ft. Zumwalt East,10
-14,Ft. Zumwalt Sout,16
-14,Glendale,30
-14,Grain Valley,58
-14,Grandview,1
-14,Greenwood,4
-14,Hannibal,15
+14,Central Cape Gir,56
+14,Clayton,70
+14,Father Tolton,147
+14,Ft. Zumwalt East,15
+14,Ft. Zumwalt Sout,15
+14,Glendale,55
+14,Grain Valley,64
+14,Grandview,0
+14,Greenwood,6
+14,Hannibal,7
 14,Holt,0
-14,Incarnate Word A,3
+14,Incarnate Word A,0
 14,Jefferson City,0
-14,John Burroughs,108
-14,Kearney,33
-14,Ladue Horton Wat,51
+14,John Burroughs,112
+14,Kearney,38
+14,Ladue Horton Wat,46
 14,Ladue Horton Watkins,5
-14,Lebanon,32
-14,Lincoln College,8
-14,Lincoln College Prep,13
+14,Lebanon,33
+14,Lincoln College,0
+14,Lincoln College Prep,12
 14,Logan-Rogersvill,0
-14,Louisiana,65
-14,Lutheran South,33
+14,Louisiana,74
+14,Lutheran South,34
 14,Lutheran St. Cha,0
-14,Lutheran St. Charles,6
-14,Mehlville,30
-14,Monett,41
-14,Nerinx Hall,85
-14,Nevada,11
+14,Lutheran St. Charles,9
+14,Mehlville,36
+14,Monett,21
+14,Nerinx Hall,65
+14,Nevada,7
 14,North Point,0
-14,Notre Dame Cape,0
-14,Notre Dame de Si,66
-14,Notre Dame de Sion,40
-14,Parkway Central,229
+14,Notre Dame Cape,3
+14,Notre Dame de Si,101
+14,Notre Dame de Sion,39
+14,Parkway Central,206
 14,Parkway North,1
-14,Parkway West,91
-14,Platte County,8
+14,Parkway West,69
+14,Platte County,0
 14,Poplar Bluff,0
 14,Principia,19
-14,Rockwood Summit,81
+14,Rockwood Summit,76
 14,STEAM Academy,0
 14,Savannah,3
 14,Smith-Cotton,0
 14,Smithville,0
 14,St. Charles West,0
 14,St. Dominic,0
-14,St. Michael the,52
+14,St. Michael the,86
 14,St. Pius X Kansa,0
 14,St. Teresa's Aca,134
-14,St. Teresa's Academy,20
+14,St. Teresa's Academy,24
 14,Summit Christian,0
-14,Timberland,28
-14,Ursuline Academy,48
-14,Villa Duchesne,163
-14,Visitation Acade,140
-14,Visitation Academy,27
+14,Timberland,52
+14,Ursuline Academy,35
+14,Villa Duchesne,117
+14,Visitation Acade,148
+14,Visitation Academy,28
 14,Washington,0
-14,Webb City,6
-14,Webster Groves,155
-14,West Plains,21
+14,Webb City,38
+14,Webster Groves,152
+14,West Plains,19
 15,Barstow,0
 15,Bolivar,0
-15,Capital City,28
-15,Carl Junction,12
+15,Capital City,15
+15,Carl Junction,14
 15,Central (Cape Girardeau),0
-15,Central (Springf,7
+15,Central (Springf,5
 15,Central (Springfield),17
-15,Central Cape Gir,53
-15,Clayton,65
-15,Father Tolton,151
-15,Ft. Zumwalt East,11
-15,Ft. Zumwalt Sout,14
+15,Central Cape Gir,50
+15,Clayton,82
+15,Father Tolton,143
+15,Ft. Zumwalt East,18
+15,Ft. Zumwalt Sout,17
 15,Glendale,45
-15,Grain Valley,69
+15,Grain Valley,84
 15,Grandview,0
 15,Greenwood,6
-15,Hannibal,6
+15,Hannibal,7
 15,Holt,0
-15,Incarnate Word A,5
+15,Incarnate Word A,0
 15,Jefferson City,0
-15,John Burroughs,121
-15,Kearney,25
-15,Ladue Horton Wat,49
-15,Ladue Horton Watkins,6
-15,Lebanon,37
-15,Lincoln College,7
+15,John Burroughs,114
+15,Kearney,38
+15,Ladue Horton Wat,69
+15,Ladue Horton Watkins,7
+15,Lebanon,57
+15,Lincoln College,3
 15,Lincoln College Prep,11
 15,Logan-Rogersvill,0
-15,Louisiana,46
-15,Lutheran South,32
-15,Lutheran St. Cha,1
-15,Lutheran St. Charles,1
-15,Mehlville,36
+15,Louisiana,58
+15,Lutheran South,31
+15,Lutheran St. Cha,0
+15,Lutheran St. Charles,4
+15,Mehlville,35
 15,Monett,17
-15,Nerinx Hall,76
-15,Nevada,13
+15,Nerinx Hall,47
+15,Nevada,14
 15,North Point,0
 15,Notre Dame Cape,0
-15,Notre Dame de Si,80
-15,Notre Dame de Sion,40
-15,Parkway Central,216
+15,Notre Dame de Si,61
+15,Notre Dame de Sion,41
+15,Parkway Central,241
 15,Parkway North,0
-15,Parkway West,84
-15,Platte County,3
+15,Parkway West,82
+15,Platte County,11
 15,Poplar Bluff,0
 15,Principia,16
-15,Rockwood Summit,100
+15,Rockwood Summit,87
 15,STEAM Academy,0
 15,Savannah,0
 15,Smith-Cotton,0
-15,Smithville,2
+15,Smithville,0
 15,St. Charles West,0
 15,St. Dominic,0
-15,St. Michael the,49
+15,St. Michael the,79
 15,St. Pius X Kansa,0
-15,St. Teresa's Aca,169
-15,St. Teresa's Academy,23
+15,St. Teresa's Aca,152
+15,St. Teresa's Academy,24
 15,Summit Christian,0
-15,Timberland,24
-15,Ursuline Academy,57
-15,Villa Duchesne,122
-15,Visitation Acade,158
+15,Timberland,29
+15,Ursuline Academy,50
+15,Villa Duchesne,121
+15,Visitation Acade,132
 15,Visitation Academy,28
 15,Washington,0
-15,Webb City,10
-15,Webster Groves,152
-15,West Plains,25
+15,Webb City,6
+15,Webster Groves,144
+15,West Plains,13
 16,Barstow,0
 16,Bolivar,0
-16,Capital City,13
-16,Carl Junction,14
+16,Capital City,7
+16,Carl Junction,13
 16,Central (Cape Girardeau),0
-16,Central (Springf,3
+16,Central (Springf,5
 16,Central (Springfield),17
-16,Central Cape Gir,55
-16,Clayton,73
-16,Father Tolton,139
-16,Ft. Zumwalt East,11
-16,Ft. Zumwalt Sout,21
-16,Glendale,41
-16,Grain Valley,76
+16,Central Cape Gir,37
+16,Clayton,80
+16,Father Tolton,151
+16,Ft. Zumwalt East,12
+16,Ft. Zumwalt Sout,18
+16,Glendale,37
+16,Grain Valley,77
 16,Grandview,0
-16,Greenwood,5
-16,Hannibal,9
+16,Greenwood,7
+16,Hannibal,3
 16,Holt,0
-16,Incarnate Word A,2
+16,Incarnate Word A,6
 16,Jefferson City,0
-16,John Burroughs,103
+16,John Burroughs,101
 16,Kearney,37
-16,Ladue Horton Wat,47
-16,Ladue Horton Watkins,4
-16,Lebanon,32
-16,Lincoln College,3
-16,Lincoln College Prep,7
+16,Ladue Horton Wat,48
+16,Ladue Horton Watkins,6
+16,Lebanon,34
+16,Lincoln College,1
+16,Lincoln College Prep,11
 16,Logan-Rogersvill,0
-16,Louisiana,46
-16,Lutheran South,37
-16,Lutheran St. Cha,0
-16,Lutheran St. Charles,6
+16,Louisiana,58
+16,Lutheran South,33
+16,Lutheran St. Cha,4
+16,Lutheran St. Charles,5
 16,Mehlville,37
 16,Monett,25
-16,Nerinx Hall,88
-16,Nevada,12
+16,Nerinx Hall,58
+16,Nevada,11
 16,North Point,0
-16,Notre Dame Cape,6
-16,Notre Dame de Si,56
-16,Notre Dame de Sion,41
-16,Parkway Central,240
-16,Parkway North,0
-16,Parkway West,74
-16,Platte County,3
-16,Poplar Bluff,2
-16,Principia,16
-16,Rockwood Summit,98
+16,Notre Dame Cape,2
+16,Notre Dame de Si,66
+16,Notre Dame de Sion,39
+16,Parkway Central,236
+16,Parkway North,4
+16,Parkway West,90
+16,Platte County,0
+16,Poplar Bluff,0
+16,Principia,17
+16,Rockwood Summit,85
 16,STEAM Academy,0
-16,Savannah,1
+16,Savannah,9
 16,Smith-Cotton,0
 16,Smithville,0
 16,St. Charles West,0
 16,St. Dominic,0
-16,St. Michael the,79
+16,St. Michael the,75
 16,St. Pius X Kansa,0
 16,St. Teresa's Aca,147
-16,St. Teresa's Academy,27
+16,St. Teresa's Academy,25
 16,Summit Christian,0
-16,Timberland,23
-16,Ursuline Academy,58
-16,Villa Duchesne,165
-16,Visitation Acade,144
-16,Visitation Academy,28
+16,Timberland,33
+16,Ursuline Academy,86
+16,Villa Duchesne,148
+16,Visitation Acade,138
+16,Visitation Academy,29
 16,Washington,0
-16,Webb City,13
-16,Webster Groves,127
-16,West Plains,14
+16,Webb City,6
+16,Webster Groves,132
+16,West Plains,19
 17,Barstow,0
 17,Bolivar,0
-17,Capital City,6
-17,Carl Junction,14
+17,Capital City,16
+17,Carl Junction,6
 17,Central (Cape Girardeau),0
-17,Central (Springf,2
+17,Central (Springf,12
 17,Central (Springfield),17
-17,Central Cape Gir,54
-17,Clayton,79
-17,Father Tolton,145
-17,Ft. Zumwalt East,16
-17,Ft. Zumwalt Sout,18
-17,Glendale,40
-17,Grain Valley,69
+17,Central Cape Gir,46
+17,Clayton,103
+17,Father Tolton,141
+17,Ft. Zumwalt East,19
+17,Ft. Zumwalt Sout,25
+17,Glendale,30
+17,Grain Valley,56
 17,Grandview,0
-17,Greenwood,4
-17,Hannibal,12
+17,Greenwood,9
+17,Hannibal,7
 17,Holt,0
-17,Incarnate Word A,0
+17,Incarnate Word A,3
 17,Jefferson City,0
-17,John Burroughs,131
-17,Kearney,40
-17,Ladue Horton Wat,54
-17,Ladue Horton Watkins,1
-17,Lebanon,52
-17,Lincoln College,8
-17,Lincoln College Prep,12
+17,John Burroughs,116
+17,Kearney,28
+17,Ladue Horton Wat,53
+17,Ladue Horton Watkins,6
+17,Lebanon,28
+17,Lincoln College,2
+17,Lincoln College Prep,10
 17,Logan-Rogersvill,0
-17,Louisiana,64
-17,Lutheran South,34
-17,Lutheran St. Cha,0
+17,Louisiana,48
+17,Lutheran South,33
+17,Lutheran St. Cha,4
 17,Lutheran St. Charles,4
-17,Mehlville,36
-17,Monett,29
-17,Nerinx Hall,92
-17,Nevada,11
+17,Mehlville,34
+17,Monett,49
+17,Nerinx Hall,56
+17,Nevada,9
 17,North Point,0
 17,Notre Dame Cape,0
-17,Notre Dame de Si,68
+17,Notre Dame de Si,64
 17,Notre Dame de Sion,41
-17,Parkway Central,238
+17,Parkway Central,199
 17,Parkway North,0
-17,Parkway West,62
-17,Platte County,5
+17,Parkway West,75
+17,Platte County,2
 17,Poplar Bluff,0
-17,Principia,12
-17,Rockwood Summit,101
+17,Principia,20
+17,Rockwood Summit,88
 17,STEAM Academy,0
-17,Savannah,5
+17,Savannah,2
 17,Smith-Cotton,0
 17,Smithville,0
 17,St. Charles West,0
 17,St. Dominic,0
-17,St. Michael the,74
+17,St. Michael the,63
 17,St. Pius X Kansa,0
-17,St. Teresa's Aca,135
-17,St. Teresa's Academy,29
-17,Summit Christian,6
-17,Timberland,26
-17,Ursuline Academy,45
-17,Villa Duchesne,126
-17,Visitation Acade,131
+17,St. Teresa's Aca,150
+17,St. Teresa's Academy,23
+17,Summit Christian,0
+17,Timberland,23
+17,Ursuline Academy,73
+17,Villa Duchesne,134
+17,Visitation Acade,146
 17,Visitation Academy,28
 17,Washington,0
-17,Webb City,13
-17,Webster Groves,113
-17,West Plains,23
+17,Webb City,6
+17,Webster Groves,165
+17,West Plains,53
 18,Barstow,0
 18,Bolivar,0
-18,Capital City,8
-18,Carl Junction,14
+18,Capital City,12
+18,Carl Junction,15
 18,Central (Cape Girardeau),0
-18,Central (Springf,5
+18,Central (Springf,7
 18,Central (Springfield),17
-18,Central Cape Gir,49
-18,Clayton,69
-18,Father Tolton,144
-18,Ft. Zumwalt East,14
-18,Ft. Zumwalt Sout,16
-18,Glendale,40
-18,Grain Valley,69
+18,Central Cape Gir,44
+18,Clayton,67
+18,Father Tolton,148
+18,Ft. Zumwalt East,15
+18,Ft. Zumwalt Sout,11
+18,Glendale,54
+18,Grain Valley,60
 18,Grandview,0
-18,Greenwood,7
-18,Hannibal,11
+18,Greenwood,14
+18,Hannibal,7
 18,Holt,0
-18,Incarnate Word A,1
+18,Incarnate Word A,3
 18,Jefferson City,0
-18,John Burroughs,135
-18,Kearney,24
-18,Ladue Horton Wat,52
-18,Ladue Horton Watkins,3
-18,Lebanon,39
-18,Lincoln College,15
-18,Lincoln College Prep,13
+18,John Burroughs,137
+18,Kearney,25
+18,Ladue Horton Wat,70
+18,Ladue Horton Watkins,5
+18,Lebanon,36
+18,Lincoln College,4
+18,Lincoln College Prep,12
 18,Logan-Rogersvill,0
-18,Louisiana,76
+18,Louisiana,39
 18,Lutheran South,33
 18,Lutheran St. Cha,0
-18,Lutheran St. Charles,4
-18,Mehlville,33
-18,Monett,21
-18,Nerinx Hall,70
-18,Nevada,6
+18,Lutheran St. Charles,2
+18,Mehlville,36
+18,Monett,15
+18,Nerinx Hall,74
+18,Nevada,14
 18,North Point,0
-18,Notre Dame Cape,0
-18,Notre Dame de Si,67
-18,Notre Dame de Sion,38
-18,Parkway Central,243
+18,Notre Dame Cape,2
+18,Notre Dame de Si,75
+18,Notre Dame de Sion,39
+18,Parkway Central,228
 18,Parkway North,0
-18,Parkway West,70
-18,Platte County,2
-18,Poplar Bluff,14
-18,Principia,23
-18,Rockwood Summit,80
+18,Parkway West,92
+18,Platte County,3
+18,Poplar Bluff,0
+18,Principia,16
+18,Rockwood Summit,119
 18,STEAM Academy,0
 18,Savannah,0
 18,Smith-Cotton,0
 18,Smithville,0
 18,St. Charles West,0
 18,St. Dominic,0
-18,St. Michael the,95
+18,St. Michael the,76
 18,St. Pius X Kansa,0
-18,St. Teresa's Aca,126
-18,St. Teresa's Academy,27
+18,St. Teresa's Aca,138
+18,St. Teresa's Academy,29
 18,Summit Christian,0
-18,Timberland,23
-18,Ursuline Academy,51
-18,Villa Duchesne,130
-18,Visitation Acade,144
+18,Timberland,29
+18,Ursuline Academy,39
+18,Villa Duchesne,151
+18,Visitation Acade,143
 18,Visitation Academy,27
 18,Washington,0
-18,Webb City,11
-18,Webster Groves,153
-18,West Plains,13
+18,Webb City,5
+18,Webster Groves,122
+18,West Plains,16
 19,Barstow,0
 19,Bolivar,0
-19,Capital City,16
-19,Carl Junction,12
+19,Capital City,11
+19,Carl Junction,7
 19,Central (Cape Girardeau),0
 19,Central (Springf,1
 19,Central (Springfield),17
-19,Central Cape Gir,52
-19,Clayton,79
-19,Father Tolton,148
-19,Ft. Zumwalt East,14
-19,Ft. Zumwalt Sout,17
-19,Glendale,45
-19,Grain Valley,77
+19,Central Cape Gir,49
+19,Clayton,74
+19,Father Tolton,139
+19,Ft. Zumwalt East,16
+19,Ft. Zumwalt Sout,14
+19,Glendale,26
+19,Grain Valley,76
 19,Grandview,0
-19,Greenwood,5
-19,Hannibal,9
+19,Greenwood,13
+19,Hannibal,3
 19,Holt,0
-19,Incarnate Word A,3
+19,Incarnate Word A,1
 19,Jefferson City,0
-19,John Burroughs,121
-19,Kearney,33
-19,Ladue Horton Wat,54
-19,Ladue Horton Watkins,5
-19,Lebanon,42
-19,Lincoln College,4
-19,Lincoln College Prep,16
+19,John Burroughs,126
+19,Kearney,23
+19,Ladue Horton Wat,47
+19,Ladue Horton Watkins,4
+19,Lebanon,27
+19,Lincoln College,11
+19,Lincoln College Prep,14
 19,Logan-Rogersvill,0
-19,Louisiana,73
-19,Lutheran South,33
+19,Louisiana,67
+19,Lutheran South,32
 19,Lutheran St. Cha,0
-19,Lutheran St. Charles,7
+19,Lutheran St. Charles,5
 19,Mehlville,37
-19,Monett,25
-19,Nerinx Hall,55
-19,Nevada,9
+19,Monett,21
+19,Nerinx Hall,80
+19,Nevada,13
 19,North Point,0
 19,Notre Dame Cape,0
-19,Notre Dame de Si,48
-19,Notre Dame de Sion,37
-19,Parkway Central,225
-19,Parkway North,1
-19,Parkway West,87
-19,Platte County,2
-19,Poplar Bluff,6
-19,Principia,18
-19,Rockwood Summit,112
+19,Notre Dame de Si,63
+19,Notre Dame de Sion,43
+19,Parkway Central,248
+19,Parkway North,4
+19,Parkway West,84
+19,Platte County,4
+19,Poplar Bluff,0
+19,Principia,19
+19,Rockwood Summit,96
 19,STEAM Academy,0
-19,Savannah,20
+19,Savannah,0
 19,Smith-Cotton,0
-19,Smithville,2
+19,Smithville,0
 19,St. Charles West,0
 19,St. Dominic,0
-19,St. Michael the,64
+19,St. Michael the,69
 19,St. Pius X Kansa,0
-19,St. Teresa's Aca,126
-19,St. Teresa's Academy,19
+19,St. Teresa's Aca,153
+19,St. Teresa's Academy,20
 19,Summit Christian,0
-19,Timberland,24
-19,Ursuline Academy,68
-19,Villa Duchesne,140
-19,Visitation Acade,144
-19,Visitation Academy,27
+19,Timberland,23
+19,Ursuline Academy,49
+19,Villa Duchesne,137
+19,Visitation Acade,150
+19,Visitation Academy,29
 19,Washington,0
-19,Webb City,0
-19,Webster Groves,107
-19,West Plains,39
+19,Webb City,14
+19,Webster Groves,150
+19,West Plains,16
 20,Barstow,0
 20,Bolivar,0
-20,Capital City,15
-20,Carl Junction,14
+20,Capital City,18
+20,Carl Junction,13
 20,Central (Cape Girardeau),0
 20,Central (Springf,0
 20,Central (Springfield),17
-20,Central Cape Gir,60
-20,Clayton,68
-20,Father Tolton,138
-20,Ft. Zumwalt East,25
-20,Ft. Zumwalt Sout,18
-20,Glendale,19
-20,Grain Valley,36
+20,Central Cape Gir,55
+20,Clayton,65
+20,Father Tolton,165
+20,Ft. Zumwalt East,3
+20,Ft. Zumwalt Sout,42
+20,Glendale,45
+20,Grain Valley,66
 20,Grandview,0
 20,Greenwood,6
-20,Hannibal,11
+20,Hannibal,9
 20,Holt,0
-20,Incarnate Word A,11
+20,Incarnate Word A,3
 20,Jefferson City,0
-20,John Burroughs,100
-20,Kearney,46
-20,Ladue Horton Wat,57
-20,Ladue Horton Watkins,3
-20,Lebanon,30
-20,Lincoln College,0
-20,Lincoln College Prep,11
+20,John Burroughs,120
+20,Kearney,40
+20,Ladue Horton Wat,64
+20,Ladue Horton Watkins,4
+20,Lebanon,42
+20,Lincoln College,10
+20,Lincoln College Prep,14
 20,Logan-Rogersvill,0
-20,Louisiana,75
+20,Louisiana,52
 20,Lutheran South,33
 20,Lutheran St. Cha,0
-20,Lutheran St. Charles,4
-20,Mehlville,34
-20,Monett,26
-20,Nerinx Hall,61
+20,Lutheran St. Charles,5
+20,Mehlville,37
+20,Monett,32
+20,Nerinx Hall,64
 20,Nevada,14
 20,North Point,0
-20,Notre Dame Cape,1
-20,Notre Dame de Si,53
-20,Notre Dame de Sion,41
-20,Parkway Central,242
+20,Notre Dame Cape,0
+20,Notre Dame de Si,50
+20,Notre Dame de Sion,42
+20,Parkway Central,220
 20,Parkway North,0
-20,Parkway West,96
-20,Platte County,1
-20,Poplar Bluff,0
-20,Principia,16
-20,Rockwood Summit,103
+20,Parkway West,85
+20,Platte County,0
+20,Poplar Bluff,12
+20,Principia,18
+20,Rockwood Summit,88
 20,STEAM Academy,0
-20,Savannah,10
+20,Savannah,2
 20,Smith-Cotton,0
 20,Smithville,0
 20,St. Charles West,0
 20,St. Dominic,0
-20,St. Michael the,84
+20,St. Michael the,82
 20,St. Pius X Kansa,0
-20,St. Teresa's Aca,156
-20,St. Teresa's Academy,23
+20,St. Teresa's Aca,132
+20,St. Teresa's Academy,17
 20,Summit Christian,0
-20,Timberland,25
+20,Timberland,24
 20,Ursuline Academy,48
-20,Villa Duchesne,140
-20,Visitation Acade,120
-20,Visitation Academy,27
+20,Villa Duchesne,141
+20,Visitation Acade,135
+20,Visitation Academy,28
 20,Washington,0
-20,Webb City,22
-20,Webster Groves,165
-20,West Plains,20
+20,Webb City,2
+20,Webster Groves,140
+20,West Plains,21
 21,Barstow,0
 21,Bolivar,0
-21,Capital City,12
-21,Carl Junction,20
+21,Capital City,16
+21,Carl Junction,14
 21,Central (Cape Girardeau),0
-21,Central (Springf,0
-21,Central (Springfield),20
-21,Central Cape Gir,40
-21,Clayton,81
-21,Father Tolton,133
+21,Central (Springf,5
+21,Central (Springfield),17
+21,Central Cape Gir,50
+21,Clayton,70
+21,Father Tolton,135
 21,Ft. Zumwalt East,15
 21,Ft. Zumwalt Sout,18
 21,Glendale,50
-21,Grain Valley,67
+21,Grain Valley,78
 21,Grandview,0
-21,Greenwood,4
-21,Hannibal,10
+21,Greenwood,9
+21,Hannibal,7
 21,Holt,0
-21,Incarnate Word A,5
+21,Incarnate Word A,2
 21,Jefferson City,0
-21,John Burroughs,109
-21,Kearney,34
-21,Ladue Horton Wat,47
-21,Ladue Horton Watkins,4
-21,Lebanon,28
-21,Lincoln College,3
-21,Lincoln College Prep,9
+21,John Burroughs,97
+21,Kearney,37
+21,Ladue Horton Wat,54
+21,Ladue Horton Watkins,3
+21,Lebanon,53
+21,Lincoln College,6
+21,Lincoln College Prep,16
 21,Logan-Rogersvill,0
-21,Louisiana,56
-21,Lutheran South,36
-21,Lutheran St. Cha,0
-21,Lutheran St. Charles,3
+21,Louisiana,63
+21,Lutheran South,33
+21,Lutheran St. Cha,6
+21,Lutheran St. Charles,5
 21,Mehlville,33
 21,Monett,10
-21,Nerinx Hall,59
-21,Nevada,9
+21,Nerinx Hall,55
+21,Nevada,11
 21,North Point,0
 21,Notre Dame Cape,0
-21,Notre Dame de Si,84
-21,Notre Dame de Sion,38
-21,Parkway Central,239
-21,Parkway North,0
-21,Parkway West,75
-21,Platte County,5
-21,Poplar Bluff,24
-21,Principia,11
-21,Rockwood Summit,95
+21,Notre Dame de Si,94
+21,Notre Dame de Sion,40
+21,Parkway Central,226
+21,Parkway North,3
+21,Parkway West,77
+21,Platte County,3
+21,Poplar Bluff,0
+21,Principia,13
+21,Rockwood Summit,73
 21,STEAM Academy,0
-21,Savannah,4
+21,Savannah,0
 21,Smith-Cotton,0
 21,Smithville,0
 21,St. Charles West,0
 21,St. Dominic,0
-21,St. Michael the,81
+21,St. Michael the,91
 21,St. Pius X Kansa,0
-21,St. Teresa's Aca,139
-21,St. Teresa's Academy,28
+21,St. Teresa's Aca,142
+21,St. Teresa's Academy,22
 21,Summit Christian,0
-21,Timberland,27
-21,Ursuline Academy,84
-21,Villa Duchesne,141
-21,Visitation Acade,148
+21,Timberland,24
+21,Ursuline Academy,56
+21,Villa Duchesne,131
+21,Visitation Acade,156
 21,Visitation Academy,27
 21,Washington,0
-21,Webb City,17
-21,Webster Groves,128
-21,West Plains,15
+21,Webb City,5
+21,Webster Groves,166
+21,West Plains,8
 22,Barstow,0
 22,Bolivar,0
-22,Capital City,11
-22,Carl Junction,17
+22,Capital City,18
+22,Carl Junction,6
 22,Central (Cape Girardeau),0
-22,Central (Springf,6
+22,Central (Springf,0
 22,Central (Springfield),17
-22,Central Cape Gir,46
-22,Clayton,56
-22,Father Tolton,146
+22,Central Cape Gir,57
+22,Clayton,68
+22,Father Tolton,152
 22,Ft. Zumwalt East,14
-22,Ft. Zumwalt Sout,7
+22,Ft. Zumwalt Sout,16
 22,Glendale,37
-22,Grain Valley,84
+22,Grain Valley,70
 22,Grandview,0
-22,Greenwood,16
-22,Hannibal,9
+22,Greenwood,17
+22,Hannibal,7
 22,Holt,0
-22,Incarnate Word A,2
+22,Incarnate Word A,11
 22,Jefferson City,0
-22,John Burroughs,111
-22,Kearney,49
-22,Ladue Horton Wat,59
-22,Ladue Horton Watkins,6
-22,Lebanon,53
-22,Lincoln College,5
-22,Lincoln College Prep,15
+22,John Burroughs,93
+22,Kearney,47
+22,Ladue Horton Wat,39
+22,Ladue Horton Watkins,4
+22,Lebanon,41
+22,Lincoln College,3
+22,Lincoln College Prep,9
 22,Logan-Rogersvill,0
-22,Louisiana,56
-22,Lutheran South,34
-22,Lutheran St. Cha,0
-22,Lutheran St. Charles,5
+22,Louisiana,45
+22,Lutheran South,36
+22,Lutheran St. Cha,2
+22,Lutheran St. Charles,2
 22,Mehlville,37
-22,Monett,28
-22,Nerinx Hall,52
-22,Nevada,14
+22,Monett,15
+22,Nerinx Hall,68
+22,Nevada,11
 22,North Point,0
 22,Notre Dame Cape,0
-22,Notre Dame de Si,47
-22,Notre Dame de Sion,38
-22,Parkway Central,224
+22,Notre Dame de Si,61
+22,Notre Dame de Sion,43
+22,Parkway Central,227
 22,Parkway North,0
-22,Parkway West,70
-22,Platte County,0
+22,Parkway West,94
+22,Platte County,5
 22,Poplar Bluff,0
-22,Principia,17
-22,Rockwood Summit,92
+22,Principia,13
+22,Rockwood Summit,71
 22,STEAM Academy,0
-22,Savannah,3
+22,Savannah,8
 22,Smith-Cotton,0
 22,Smithville,0
 22,St. Charles West,0
 22,St. Dominic,0
-22,St. Michael the,72
+22,St. Michael the,102
 22,St. Pius X Kansa,0
-22,St. Teresa's Aca,159
-22,St. Teresa's Academy,19
-22,Summit Christian,0
-22,Timberland,23
-22,Ursuline Academy,59
-22,Villa Duchesne,157
-22,Visitation Acade,130
-22,Visitation Academy,29
+22,St. Teresa's Aca,135
+22,St. Teresa's Academy,27
+22,Summit Christian,4
+22,Timberland,29
+22,Ursuline Academy,72
+22,Villa Duchesne,125
+22,Visitation Acade,143
+22,Visitation Academy,28
 22,Washington,0
-22,Webb City,1
-22,Webster Groves,145
-22,West Plains,48
+22,Webb City,20
+22,Webster Groves,151
+22,West Plains,25
 23,Barstow,0
 23,Bolivar,0
-23,Capital City,15
-23,Carl Junction,13
+23,Capital City,2
+23,Carl Junction,9
 23,Central (Cape Girardeau),0
-23,Central (Springf,2
+23,Central (Springf,3
 23,Central (Springfield),17
-23,Central Cape Gir,57
+23,Central Cape Gir,58
 23,Clayton,86
-23,Father Tolton,157
-23,Ft. Zumwalt East,13
-23,Ft. Zumwalt Sout,18
-23,Glendale,43
-23,Grain Valley,54
+23,Father Tolton,158
+23,Ft. Zumwalt East,22
+23,Ft. Zumwalt Sout,19
+23,Glendale,21
+23,Grain Valley,90
 23,Grandview,0
-23,Greenwood,17
-23,Hannibal,7
+23,Greenwood,8
+23,Hannibal,11
 23,Holt,0
-23,Incarnate Word A,3
+23,Incarnate Word A,7
 23,Jefferson City,0
-23,John Burroughs,97
-23,Kearney,26
-23,Ladue Horton Wat,58
-23,Ladue Horton Watkins,6
-23,Lebanon,45
-23,Lincoln College,11
-23,Lincoln College Prep,9
+23,John Burroughs,120
+23,Kearney,36
+23,Ladue Horton Wat,51
+23,Ladue Horton Watkins,4
+23,Lebanon,42
+23,Lincoln College,4
+23,Lincoln College Prep,13
 23,Logan-Rogersvill,0
-23,Louisiana,46
+23,Louisiana,74
 23,Lutheran South,36
-23,Lutheran St. Cha,0
-23,Lutheran St. Charles,5
-23,Mehlville,33
-23,Monett,16
-23,Nerinx Hall,57
-23,Nevada,13
+23,Lutheran St. Cha,1
+23,Lutheran St. Charles,3
+23,Mehlville,36
+23,Monett,28
+23,Nerinx Hall,72
+23,Nevada,11
 23,North Point,0
 23,Notre Dame Cape,0
-23,Notre Dame de Si,47
-23,Notre Dame de Sion,38
-23,Parkway Central,214
-23,Parkway North,4
-23,Parkway West,115
-23,Platte County,1
-23,Poplar Bluff,8
-23,Principia,25
-23,Rockwood Summit,91
+23,Notre Dame de Si,57
+23,Notre Dame de Sion,41
+23,Parkway Central,225
+23,Parkway North,0
+23,Parkway West,77
+23,Platte County,3
+23,Poplar Bluff,6
+23,Principia,19
+23,Rockwood Summit,100
 23,STEAM Academy,0
-23,Savannah,24
+23,Savannah,1
 23,Smith-Cotton,0
 23,Smithville,0
 23,St. Charles West,0
 23,St. Dominic,0
-23,St. Michael the,83
+23,St. Michael the,71
 23,St. Pius X Kansa,0
-23,St. Teresa's Aca,133
-23,St. Teresa's Academy,28
+23,St. Teresa's Aca,145
+23,St. Teresa's Academy,17
 23,Summit Christian,0
-23,Timberland,22
-23,Ursuline Academy,61
-23,Villa Duchesne,113
-23,Visitation Acade,138
-23,Visitation Academy,29
+23,Timberland,27
+23,Ursuline Academy,58
+23,Villa Duchesne,110
+23,Visitation Acade,144
+23,Visitation Academy,27
 23,Washington,0
 23,Webb City,10
-23,Webster Groves,148
-23,West Plains,33
+23,Webster Groves,128
+23,West Plains,17
 24,Barstow,0
 24,Bolivar,0
-24,Capital City,18
-24,Carl Junction,12
+24,Capital City,14
+24,Carl Junction,14
 24,Central (Cape Girardeau),0
-24,Central (Springf,0
+24,Central (Springf,4
 24,Central (Springfield),17
 24,Central Cape Gir,46
-24,Clayton,87
-24,Father Tolton,155
-24,Ft. Zumwalt East,8
+24,Clayton,74
+24,Father Tolton,148
+24,Ft. Zumwalt East,15
 24,Ft. Zumwalt Sout,18
-24,Glendale,42
-24,Grain Valley,55
+24,Glendale,38
+24,Grain Valley,67
 24,Grandview,0
-24,Greenwood,6
-24,Hannibal,7
+24,Greenwood,0
+24,Hannibal,9
 24,Holt,0
 24,Incarnate Word A,2
 24,Jefferson City,0
-24,John Burroughs,103
-24,Kearney,32
-24,Ladue Horton Wat,46
-24,Ladue Horton Watkins,6
-24,Lebanon,38
-24,Lincoln College,8
-24,Lincoln College Prep,15
+24,John Burroughs,123
+24,Kearney,33
+24,Ladue Horton Wat,56
+24,Ladue Horton Watkins,5
+24,Lebanon,40
+24,Lincoln College,12
+24,Lincoln College Prep,8
 24,Logan-Rogersvill,0
-24,Louisiana,65
-24,Lutheran South,36
+24,Louisiana,92
+24,Lutheran South,37
 24,Lutheran St. Cha,0
-24,Lutheran St. Charles,7
-24,Mehlville,31
-24,Monett,8
-24,Nerinx Hall,62
-24,Nevada,12
+24,Lutheran St. Charles,6
+24,Mehlville,34
+24,Monett,32
+24,Nerinx Hall,78
+24,Nevada,11
 24,North Point,0
 24,Notre Dame Cape,0
-24,Notre Dame de Si,80
+24,Notre Dame de Si,50
 24,Notre Dame de Sion,40
-24,Parkway Central,226
-24,Parkway North,3
-24,Parkway West,82
-24,Platte County,0
+24,Parkway Central,224
+24,Parkway North,7
+24,Parkway West,64
+24,Platte County,1
 24,Poplar Bluff,0
-24,Principia,12
-24,Rockwood Summit,89
+24,Principia,6
+24,Rockwood Summit,93
 24,STEAM Academy,0
-24,Savannah,2
+24,Savannah,0
 24,Smith-Cotton,0
 24,Smithville,0
 24,St. Charles West,0
 24,St. Dominic,0
-24,St. Michael the,70
+24,St. Michael the,63
 24,St. Pius X Kansa,0
-24,St. Teresa's Aca,159
-24,St. Teresa's Academy,22
+24,St. Teresa's Aca,163
+24,St. Teresa's Academy,25
 24,Summit Christian,0
 24,Timberland,23
-24,Ursuline Academy,74
-24,Villa Duchesne,147
-24,Visitation Acade,137
+24,Ursuline Academy,64
+24,Villa Duchesne,136
+24,Visitation Acade,143
 24,Visitation Academy,28
 24,Washington,0
-24,Webb City,10
-24,Webster Groves,160
-24,West Plains,19
+24,Webb City,6
+24,Webster Groves,139
+24,West Plains,17
 25,Barstow,0
 25,Bolivar,0
-25,Capital City,13
-25,Carl Junction,9
+25,Capital City,10
+25,Carl Junction,25
 25,Central (Cape Girardeau),0
-25,Central (Springf,4
+25,Central (Springf,2
 25,Central (Springfield),17
-25,Central Cape Gir,53
-25,Clayton,71
-25,Father Tolton,156
-25,Ft. Zumwalt East,13
-25,Ft. Zumwalt Sout,16
-25,Glendale,46
+25,Central Cape Gir,48
+25,Clayton,68
+25,Father Tolton,149
+25,Ft. Zumwalt East,7
+25,Ft. Zumwalt Sout,20
+25,Glendale,35
 25,Grain Valley,64
 25,Grandview,0
-25,Greenwood,5
+25,Greenwood,6
 25,Hannibal,7
 25,Holt,0
-25,Incarnate Word A,6
+25,Incarnate Word A,5
 25,Jefferson City,0
-25,John Burroughs,116
-25,Kearney,25
-25,Ladue Horton Wat,62
-25,Ladue Horton Watkins,5
-25,Lebanon,49
-25,Lincoln College,6
-25,Lincoln College Prep,17
+25,John Burroughs,134
+25,Kearney,30
+25,Ladue Horton Wat,66
+25,Ladue Horton Watkins,6
+25,Lebanon,31
+25,Lincoln College,4
+25,Lincoln College Prep,11
 25,Logan-Rogersvill,0
-25,Louisiana,34
-25,Lutheran South,36
+25,Louisiana,65
+25,Lutheran South,34
 25,Lutheran St. Cha,0
-25,Lutheran St. Charles,4
-25,Mehlville,36
-25,Monett,20
-25,Nerinx Hall,81
-25,Nevada,12
+25,Lutheran St. Charles,5
+25,Mehlville,37
+25,Monett,25
+25,Nerinx Hall,47
+25,Nevada,7
 25,North Point,0
-25,Notre Dame Cape,3
-25,Notre Dame de Si,73
+25,Notre Dame Cape,2
+25,Notre Dame de Si,56
 25,Notre Dame de Sion,39
-25,Parkway Central,235
-25,Parkway North,1
-25,Parkway West,75
-25,Platte County,1
-25,Poplar Bluff,4
-25,Principia,11
-25,Rockwood Summit,96
+25,Parkway Central,228
+25,Parkway North,2
+25,Parkway West,82
+25,Platte County,10
+25,Poplar Bluff,0
+25,Principia,6
+25,Rockwood Summit,97
 25,STEAM Academy,0
-25,Savannah,0
+25,Savannah,7
 25,Smith-Cotton,0
 25,Smithville,0
 25,St. Charles West,0
-25,St. Dominic,0
-25,St. Michael the,75
+25,St. Dominic,2
+25,St. Michael the,96
 25,St. Pius X Kansa,0
-25,St. Teresa's Aca,155
-25,St. Teresa's Academy,19
-25,Summit Christian,0
-25,Timberland,26
-25,Ursuline Academy,58
-25,Villa Duchesne,142
-25,Visitation Acade,130
-25,Visitation Academy,28
+25,St. Teresa's Aca,159
+25,St. Teresa's Academy,21
+25,Summit Christian,1
+25,Timberland,24
+25,Ursuline Academy,46
+25,Villa Duchesne,144
+25,Visitation Acade,144
+25,Visitation Academy,29
 25,Washington,0
-25,Webb City,5
-25,Webster Groves,151
-25,West Plains,15
+25,Webb City,17
+25,Webster Groves,132
+25,West Plains,16
 26,Barstow,0
 26,Bolivar,0
-26,Capital City,15
-26,Carl Junction,12
+26,Capital City,18
+26,Carl Junction,11
 26,Central (Cape Girardeau),0
-26,Central (Springf,14
+26,Central (Springf,3
 26,Central (Springfield),17
-26,Central Cape Gir,42
-26,Clayton,63
-26,Father Tolton,143
-26,Ft. Zumwalt East,20
-26,Ft. Zumwalt Sout,9
+26,Central Cape Gir,50
+26,Clayton,83
+26,Father Tolton,156
+26,Ft. Zumwalt East,9
+26,Ft. Zumwalt Sout,14
 26,Glendale,40
-26,Grain Valley,74
+26,Grain Valley,81
 26,Grandview,0
-26,Greenwood,11
-26,Hannibal,9
+26,Greenwood,9
+26,Hannibal,5
 26,Holt,0
-26,Incarnate Word A,5
+26,Incarnate Word A,6
 26,Jefferson City,0
 26,John Burroughs,117
-26,Kearney,25
-26,Ladue Horton Wat,63
-26,Ladue Horton Watkins,3
-26,Lebanon,39
-26,Lincoln College,8
-26,Lincoln College Prep,12
+26,Kearney,32
+26,Ladue Horton Wat,71
+26,Ladue Horton Watkins,4
+26,Lebanon,50
+26,Lincoln College,4
+26,Lincoln College Prep,13
 26,Logan-Rogersvill,0
-26,Louisiana,71
-26,Lutheran South,29
+26,Louisiana,56
+26,Lutheran South,32
 26,Lutheran St. Cha,0
-26,Lutheran St. Charles,4
-26,Mehlville,33
-26,Monett,27
-26,Nerinx Hall,66
-26,Nevada,11
+26,Lutheran St. Charles,3
+26,Mehlville,37
+26,Monett,32
+26,Nerinx Hall,49
+26,Nevada,15
 26,North Point,0
-26,Notre Dame Cape,1
-26,Notre Dame de Si,59
+26,Notre Dame Cape,4
+26,Notre Dame de Si,61
 26,Notre Dame de Sion,41
-26,Parkway Central,229
+26,Parkway Central,232
 26,Parkway North,0
-26,Parkway West,89
+26,Parkway West,77
 26,Platte County,0
 26,Poplar Bluff,0
-26,Principia,6
-26,Rockwood Summit,71
+26,Principia,16
+26,Rockwood Summit,104
 26,STEAM Academy,0
-26,Savannah,2
+26,Savannah,0
 26,Smith-Cotton,0
 26,Smithville,0
 26,St. Charles West,0
 26,St. Dominic,0
-26,St. Michael the,74
+26,St. Michael the,51
 26,St. Pius X Kansa,0
-26,St. Teresa's Aca,169
-26,St. Teresa's Academy,30
+26,St. Teresa's Aca,148
+26,St. Teresa's Academy,27
 26,Summit Christian,0
-26,Timberland,26
-26,Ursuline Academy,63
-26,Villa Duchesne,140
-26,Visitation Acade,138
-26,Visitation Academy,29
+26,Timberland,20
+26,Ursuline Academy,50
+26,Villa Duchesne,129
+26,Visitation Acade,145
+26,Visitation Academy,26
 26,Washington,0
-26,Webb City,9
-26,Webster Groves,142
-26,West Plains,25
+26,Webb City,14
+26,Webster Groves,140
+26,West Plains,23
 27,Barstow,0
 27,Bolivar,0
-27,Capital City,14
-27,Carl Junction,22
+27,Capital City,18
+27,Carl Junction,12
 27,Central (Cape Girardeau),0
-27,Central (Springf,1
-27,Central (Springfield),17
-27,Central Cape Gir,56
-27,Clayton,63
-27,Father Tolton,131
-27,Ft. Zumwalt East,14
+27,Central (Springf,17
+27,Central (Springfield),20
+27,Central Cape Gir,44
+27,Clayton,87
+27,Father Tolton,146
+27,Ft. Zumwalt East,13
 27,Ft. Zumwalt Sout,13
-27,Glendale,34
-27,Grain Valley,74
+27,Glendale,30
+27,Grain Valley,79
 27,Grandview,0
-27,Greenwood,7
+27,Greenwood,6
 27,Hannibal,9
 27,Holt,0
-27,Incarnate Word A,5
+27,Incarnate Word A,1
 27,Jefferson City,0
-27,John Burroughs,106
-27,Kearney,20
-27,Ladue Horton Wat,41
-27,Ladue Horton Watkins,6
-27,Lebanon,41
+27,John Burroughs,96
+27,Kearney,56
+27,Ladue Horton Wat,47
+27,Ladue Horton Watkins,1
+27,Lebanon,36
 27,Lincoln College,5
-27,Lincoln College Prep,12
+27,Lincoln College Prep,14
 27,Logan-Rogersvill,0
-27,Louisiana,44
-27,Lutheran South,34
+27,Louisiana,67
+27,Lutheran South,37
 27,Lutheran St. Cha,0
-27,Lutheran St. Charles,3
-27,Mehlville,34
-27,Monett,22
-27,Nerinx Hall,110
-27,Nevada,4
+27,Lutheran St. Charles,4
+27,Mehlville,33
+27,Monett,42
+27,Nerinx Hall,73
+27,Nevada,13
 27,North Point,0
-27,Notre Dame Cape,0
-27,Notre Dame de Si,58
-27,Notre Dame de Sion,41
-27,Parkway Central,241
+27,Notre Dame Cape,2
+27,Notre Dame de Si,62
+27,Notre Dame de Sion,42
+27,Parkway Central,231
 27,Parkway North,0
-27,Parkway West,88
-27,Platte County,5
+27,Parkway West,79
+27,Platte County,4
 27,Poplar Bluff,0
-27,Principia,15
-27,Rockwood Summit,89
+27,Principia,14
+27,Rockwood Summit,87
 27,STEAM Academy,0
-27,Savannah,6
+27,Savannah,1
 27,Smith-Cotton,0
 27,Smithville,0
 27,St. Charles West,0
 27,St. Dominic,0
-27,St. Michael the,66
+27,St. Michael the,56
 27,St. Pius X Kansa,0
-27,St. Teresa's Aca,157
-27,St. Teresa's Academy,24
-27,Summit Christian,6
-27,Timberland,27
-27,Ursuline Academy,66
-27,Villa Duchesne,135
-27,Visitation Acade,138
-27,Visitation Academy,28
+27,St. Teresa's Aca,153
+27,St. Teresa's Academy,18
+27,Summit Christian,0
+27,Timberland,29
+27,Ursuline Academy,59
+27,Villa Duchesne,143
+27,Visitation Acade,134
+27,Visitation Academy,27
 27,Washington,0
-27,Webb City,6
-27,Webster Groves,167
-27,West Plains,20
+27,Webb City,13
+27,Webster Groves,130
+27,West Plains,22
 28,Barstow,0
 28,Bolivar,0
-28,Capital City,9
-28,Carl Junction,20
+28,Capital City,10
+28,Carl Junction,13
 28,Central (Cape Girardeau),0
-28,Central (Springf,6
+28,Central (Springf,3
 28,Central (Springfield),17
-28,Central Cape Gir,44
-28,Clayton,67
-28,Father Tolton,154
-28,Ft. Zumwalt East,9
-28,Ft. Zumwalt Sout,14
-28,Glendale,35
-28,Grain Valley,77
+28,Central Cape Gir,49
+28,Clayton,57
+28,Father Tolton,149
+28,Ft. Zumwalt East,7
+28,Ft. Zumwalt Sout,18
+28,Glendale,24
+28,Grain Valley,59
 28,Grandview,0
-28,Greenwood,11
-28,Hannibal,6
+28,Greenwood,7
+28,Hannibal,9
 28,Holt,0
-28,Incarnate Word A,3
+28,Incarnate Word A,0
 28,Jefferson City,0
-28,John Burroughs,98
-28,Kearney,34
-28,Ladue Horton Wat,48
+28,John Burroughs,126
+28,Kearney,30
+28,Ladue Horton Wat,53
 28,Ladue Horton Watkins,5
-28,Lebanon,37
-28,Lincoln College,4
-28,Lincoln College Prep,11
+28,Lebanon,36
+28,Lincoln College,8
+28,Lincoln College Prep,8
 28,Logan-Rogersvill,0
-28,Louisiana,68
-28,Lutheran South,37
-28,Lutheran St. Cha,4
+28,Louisiana,62
+28,Lutheran South,33
+28,Lutheran St. Cha,2
 28,Lutheran St. Charles,3
-28,Mehlville,33
+28,Mehlville,32
 28,Monett,27
-28,Nerinx Hall,67
+28,Nerinx Hall,68
 28,Nevada,11
 28,North Point,0
-28,Notre Dame Cape,2
-28,Notre Dame de Si,68
-28,Notre Dame de Sion,36
-28,Parkway Central,246
-28,Parkway North,0
-28,Parkway West,82
-28,Platte County,3
-28,Poplar Bluff,0
-28,Principia,21
-28,Rockwood Summit,82
+28,Notre Dame Cape,0
+28,Notre Dame de Si,101
+28,Notre Dame de Sion,42
+28,Parkway Central,230
+28,Parkway North,1
+28,Parkway West,94
+28,Platte County,6
+28,Poplar Bluff,8
+28,Principia,17
+28,Rockwood Summit,103
 28,STEAM Academy,0
-28,Savannah,3
+28,Savannah,0
 28,Smith-Cotton,0
-28,Smithville,1
+28,Smithville,0
 28,St. Charles West,0
 28,St. Dominic,0
 28,St. Michael the,90
 28,St. Pius X Kansa,0
-28,St. Teresa's Aca,140
-28,St. Teresa's Academy,30
+28,St. Teresa's Aca,135
+28,St. Teresa's Academy,29
 28,Summit Christian,0
-28,Timberland,22
-28,Ursuline Academy,49
+28,Timberland,24
+28,Ursuline Academy,47
 28,Villa Duchesne,140
-28,Visitation Acade,142
-28,Visitation Academy,27
+28,Visitation Acade,139
+28,Visitation Academy,28
 28,Washington,0
-28,Webb City,4
-28,Webster Groves,145
-28,West Plains,33
+28,Webb City,9
+28,Webster Groves,126
+28,West Plains,30
 29,Barstow,0
 29,Bolivar,0
-29,Capital City,19
-29,Carl Junction,15
+29,Capital City,14
+29,Carl Junction,16
 29,Central (Cape Girardeau),0
-29,Central (Springf,0
-29,Central (Springfield),17
+29,Central (Springf,6
+29,Central (Springfield),20
 29,Central Cape Gir,47
-29,Clayton,58
-29,Father Tolton,154
-29,Ft. Zumwalt East,8
-29,Ft. Zumwalt Sout,13
+29,Clayton,62
+29,Father Tolton,140
+29,Ft. Zumwalt East,14
+29,Ft. Zumwalt Sout,16
 29,Glendale,41
-29,Grain Valley,69
-29,Grandview,4
+29,Grain Valley,85
+29,Grandview,0
 29,Greenwood,6
-29,Hannibal,3
+29,Hannibal,4
 29,Holt,0
-29,Incarnate Word A,5
+29,Incarnate Word A,4
 29,Jefferson City,0
 29,John Burroughs,116
-29,Kearney,30
-29,Ladue Horton Wat,77
-29,Ladue Horton Watkins,7
-29,Lebanon,53
-29,Lincoln College,17
-29,Lincoln College Prep,11
+29,Kearney,25
+29,Ladue Horton Wat,63
+29,Ladue Horton Watkins,4
+29,Lebanon,37
+29,Lincoln College,4
+29,Lincoln College Prep,14
 29,Logan-Rogersvill,0
-29,Louisiana,82
-29,Lutheran South,37
-29,Lutheran St. Cha,2
+29,Louisiana,71
+29,Lutheran South,30
+29,Lutheran St. Cha,0
 29,Lutheran St. Charles,5
 29,Mehlville,34
-29,Monett,13
-29,Nerinx Hall,62
+29,Monett,23
+29,Nerinx Hall,63
 29,Nevada,12
 29,North Point,0
-29,Notre Dame Cape,13
-29,Notre Dame de Si,74
-29,Notre Dame de Sion,38
-29,Parkway Central,205
-29,Parkway North,0
-29,Parkway West,84
-29,Platte County,1
-29,Poplar Bluff,0
-29,Principia,25
-29,Rockwood Summit,96
+29,Notre Dame Cape,0
+29,Notre Dame de Si,76
+29,Notre Dame de Sion,40
+29,Parkway Central,230
+29,Parkway North,10
+29,Parkway West,91
+29,Platte County,0
+29,Poplar Bluff,2
+29,Principia,14
+29,Rockwood Summit,94
 29,STEAM Academy,0
 29,Savannah,0
 29,Smith-Cotton,0
 29,Smithville,0
 29,St. Charles West,0
 29,St. Dominic,0
-29,St. Michael the,86
+29,St. Michael the,73
 29,St. Pius X Kansa,0
-29,St. Teresa's Aca,149
-29,St. Teresa's Academy,22
+29,St. Teresa's Aca,167
+29,St. Teresa's Academy,21
 29,Summit Christian,0
-29,Timberland,28
-29,Ursuline Academy,54
-29,Villa Duchesne,90
-29,Visitation Acade,137
-29,Visitation Academy,27
+29,Timberland,24
+29,Ursuline Academy,77
+29,Villa Duchesne,105
+29,Visitation Acade,140
+29,Visitation Academy,28
 29,Washington,0
-29,Webb City,3
-29,Webster Groves,153
-29,West Plains,23
+29,Webb City,10
+29,Webster Groves,135
+29,West Plains,12
 30,Barstow,0
 30,Bolivar,0
-30,Capital City,17
-30,Carl Junction,1
+30,Capital City,11
+30,Carl Junction,13
 30,Central (Cape Girardeau),0
-30,Central (Springf,5
+30,Central (Springf,2
 30,Central (Springfield),17
-30,Central Cape Gir,50
-30,Clayton,62
-30,Father Tolton,160
-30,Ft. Zumwalt East,17
-30,Ft. Zumwalt Sout,14
-30,Glendale,41
-30,Grain Valley,58
+30,Central Cape Gir,49
+30,Clayton,51
+30,Father Tolton,141
+30,Ft. Zumwalt East,18
+30,Ft. Zumwalt Sout,12
+30,Glendale,46
+30,Grain Valley,78
 30,Grandview,0
-30,Greenwood,12
-30,Hannibal,11
+30,Greenwood,9
+30,Hannibal,6
 30,Holt,0
-30,Incarnate Word A,5
+30,Incarnate Word A,0
 30,Jefferson City,0
-30,John Burroughs,132
-30,Kearney,41
-30,Ladue Horton Wat,63
-30,Ladue Horton Watkins,2
-30,Lebanon,29
-30,Lincoln College,1
-30,Lincoln College Prep,7
+30,John Burroughs,127
+30,Kearney,35
+30,Ladue Horton Wat,61
+30,Ladue Horton Watkins,4
+30,Lebanon,34
+30,Lincoln College,2
+30,Lincoln College Prep,16
 30,Logan-Rogersvill,0
-30,Louisiana,50
-30,Lutheran South,40
-30,Lutheran St. Cha,0
-30,Lutheran St. Charles,4
-30,Mehlville,37
-30,Monett,15
-30,Nerinx Hall,82
-30,Nevada,11
+30,Louisiana,63
+30,Lutheran South,32
+30,Lutheran St. Cha,3
+30,Lutheran St. Charles,2
+30,Mehlville,33
+30,Monett,14
+30,Nerinx Hall,71
+30,Nevada,14
 30,North Point,0
 30,Notre Dame Cape,0
-30,Notre Dame de Si,74
-30,Notre Dame de Sion,40
-30,Parkway Central,232
+30,Notre Dame de Si,69
+30,Notre Dame de Sion,41
+30,Parkway Central,239
 30,Parkway North,0
-30,Parkway West,89
-30,Platte County,2
-30,Poplar Bluff,0
-30,Principia,17
-30,Rockwood Summit,93
+30,Parkway West,71
+30,Platte County,1
+30,Poplar Bluff,10
+30,Principia,18
+30,Rockwood Summit,100
 30,STEAM Academy,0
-30,Savannah,3
+30,Savannah,1
 30,Smith-Cotton,0
 30,Smithville,0
-30,St. Charles West,0
+30,St. Charles West,4
 30,St. Dominic,0
-30,St. Michael the,80
+30,St. Michael the,81
 30,St. Pius X Kansa,0
-30,St. Teresa's Aca,138
-30,St. Teresa's Academy,30
+30,St. Teresa's Aca,157
+30,St. Teresa's Academy,25
 30,Summit Christian,0
-30,Timberland,24
-30,Ursuline Academy,56
-30,Villa Duchesne,135
-30,Visitation Acade,140
-30,Visitation Academy,29
+30,Timberland,26
+30,Ursuline Academy,74
+30,Villa Duchesne,95
+30,Visitation Acade,146
+30,Visitation Academy,27
 30,Washington,0
-30,Webb City,4
-30,Webster Groves,141
-30,West Plains,14
+30,Webb City,5
+30,Webster Groves,153
+30,West Plains,18
 31,Barstow,0
 31,Bolivar,0
-31,Capital City,6
-31,Carl Junction,14
+31,Capital City,12
+31,Carl Junction,22
 31,Central (Cape Girardeau),0
-31,Central (Springf,4
+31,Central (Springf,2
 31,Central (Springfield),17
-31,Central Cape Gir,55
-31,Clayton,73
+31,Central Cape Gir,53
+31,Clayton,64
 31,Father Tolton,152
-31,Ft. Zumwalt East,13
-31,Ft. Zumwalt Sout,14
-31,Glendale,33
-31,Grain Valley,92
+31,Ft. Zumwalt East,12
+31,Ft. Zumwalt Sout,15
+31,Glendale,24
+31,Grain Valley,76
 31,Grandview,0
-31,Greenwood,13
-31,Hannibal,11
+31,Greenwood,7
+31,Hannibal,7
 31,Holt,0
-31,Incarnate Word A,0
+31,Incarnate Word A,7
 31,Jefferson City,0
-31,John Burroughs,119
-31,Kearney,24
-31,Ladue Horton Wat,52
-31,Ladue Horton Watkins,4
-31,Lebanon,56
-31,Lincoln College,4
-31,Lincoln College Prep,9
+31,John Burroughs,95
+31,Kearney,34
+31,Ladue Horton Wat,41
+31,Ladue Horton Watkins,6
+31,Lebanon,36
+31,Lincoln College,6
+31,Lincoln College Prep,12
 31,Logan-Rogersvill,0
-31,Louisiana,71
-31,Lutheran South,34
-31,Lutheran St. Cha,1
-31,Lutheran St. Charles,2
-31,Mehlville,36
-31,Monett,11
-31,Nerinx Hall,80
-31,Nevada,13
+31,Louisiana,60
+31,Lutheran South,37
+31,Lutheran St. Cha,7
+31,Lutheran St. Charles,5
+31,Mehlville,37
+31,Monett,22
+31,Nerinx Hall,105
+31,Nevada,11
 31,North Point,0
 31,Notre Dame Cape,0
-31,Notre Dame de Si,58
-31,Notre Dame de Sion,41
-31,Parkway Central,217
+31,Notre Dame de Si,75
+31,Notre Dame de Sion,38
+31,Parkway Central,213
 31,Parkway North,1
-31,Parkway West,68
-31,Platte County,5
-31,Poplar Bluff,6
-31,Principia,17
-31,Rockwood Summit,98
+31,Parkway West,88
+31,Platte County,3
+31,Poplar Bluff,1
+31,Principia,21
+31,Rockwood Summit,93
 31,STEAM Academy,0
-31,Savannah,5
+31,Savannah,3
 31,Smith-Cotton,0
 31,Smithville,0
 31,St. Charles West,0
 31,St. Dominic,0
-31,St. Michael the,66
+31,St. Michael the,81
 31,St. Pius X Kansa,0
-31,St. Teresa's Aca,159
-31,St. Teresa's Academy,27
+31,St. Teresa's Aca,154
+31,St. Teresa's Academy,26
 31,Summit Christian,0
-31,Timberland,25
-31,Ursuline Academy,51
-31,Villa Duchesne,138
-31,Visitation Acade,135
-31,Visitation Academy,27
+31,Timberland,26
+31,Ursuline Academy,45
+31,Villa Duchesne,140
+31,Visitation Acade,155
+31,Visitation Academy,28
 31,Washington,0
-31,Webb City,7
-31,Webster Groves,136
-31,West Plains,25
+31,Webb City,4
+31,Webster Groves,125
+31,West Plains,21
 32,Barstow,0
 32,Bolivar,0
-32,Capital City,13
-32,Carl Junction,16
+32,Capital City,17
+32,Carl Junction,12
 32,Central (Cape Girardeau),0
-32,Central (Springf,13
+32,Central (Springf,4
 32,Central (Springfield),17
-32,Central Cape Gir,60
-32,Clayton,65
-32,Father Tolton,134
-32,Ft. Zumwalt East,11
-32,Ft. Zumwalt Sout,15
-32,Glendale,21
-32,Grain Valley,68
+32,Central Cape Gir,52
+32,Clayton,75
+32,Father Tolton,147
+32,Ft. Zumwalt East,8
+32,Ft. Zumwalt Sout,17
+32,Glendale,24
+32,Grain Valley,75
 32,Grandview,0
 32,Greenwood,6
-32,Hannibal,9
+32,Hannibal,7
 32,Holt,0
-32,Incarnate Word A,6
+32,Incarnate Word A,4
 32,Jefferson City,0
-32,John Burroughs,122
-32,Kearney,30
-32,Ladue Horton Wat,48
-32,Ladue Horton Watkins,3
-32,Lebanon,32
-32,Lincoln College,7
-32,Lincoln College Prep,10
+32,John Burroughs,110
+32,Kearney,20
+32,Ladue Horton Wat,52
+32,Ladue Horton Watkins,4
+32,Lebanon,40
+32,Lincoln College,4
+32,Lincoln College Prep,9
 32,Logan-Rogersvill,0
-32,Louisiana,61
-32,Lutheran South,37
-32,Lutheran St. Cha,0
-32,Lutheran St. Charles,6
-32,Mehlville,36
-32,Monett,36
-32,Nerinx Hall,85
-32,Nevada,11
+32,Louisiana,72
+32,Lutheran South,31
+32,Lutheran St. Cha,2
+32,Lutheran St. Charles,5
+32,Mehlville,33
+32,Monett,38
+32,Nerinx Hall,80
+32,Nevada,2
 32,North Point,0
 32,Notre Dame Cape,0
-32,Notre Dame de Si,56
-32,Notre Dame de Sion,41
-32,Parkway Central,247
+32,Notre Dame de Si,90
+32,Notre Dame de Sion,36
+32,Parkway Central,246
 32,Parkway North,0
-32,Parkway West,74
-32,Platte County,7
-32,Poplar Bluff,4
-32,Principia,22
-32,Rockwood Summit,71
+32,Parkway West,72
+32,Platte County,0
+32,Poplar Bluff,0
+32,Principia,12
+32,Rockwood Summit,77
 32,STEAM Academy,0
-32,Savannah,6
+32,Savannah,2
 32,Smith-Cotton,0
 32,Smithville,0
 32,St. Charles West,0
 32,St. Dominic,0
-32,St. Michael the,66
+32,St. Michael the,92
 32,St. Pius X Kansa,0
-32,St. Teresa's Aca,158
-32,St. Teresa's Academy,25
+32,St. Teresa's Aca,130
+32,St. Teresa's Academy,27
 32,Summit Christian,0
-32,Timberland,17
-32,Ursuline Academy,43
+32,Timberland,24
+32,Ursuline Academy,52
 32,Villa Duchesne,140
-32,Visitation Acade,127
-32,Visitation Academy,28
+32,Visitation Acade,132
+32,Visitation Academy,29
 32,Washington,0
-32,Webb City,14
-32,Webster Groves,160
-32,West Plains,41
+32,Webb City,13
+32,Webster Groves,155
+32,West Plains,29
 33,Barstow,0
 33,Bolivar,0
-33,Capital City,12
-33,Carl Junction,15
+33,Capital City,22
+33,Carl Junction,9
 33,Central (Cape Girardeau),0
-33,Central (Springf,0
+33,Central (Springf,9
 33,Central (Springfield),17
-33,Central Cape Gir,53
-33,Clayton,41
-33,Father Tolton,141
-33,Ft. Zumwalt East,9
-33,Ft. Zumwalt Sout,17
-33,Glendale,36
-33,Grain Valley,78
+33,Central Cape Gir,62
+33,Clayton,55
+33,Father Tolton,155
+33,Ft. Zumwalt East,12
+33,Ft. Zumwalt Sout,18
+33,Glendale,42
+33,Grain Valley,75
 33,Grandview,0
-33,Greenwood,11
-33,Hannibal,19
+33,Greenwood,7
+33,Hannibal,12
 33,Holt,0
-33,Incarnate Word A,1
+33,Incarnate Word A,4
 33,Jefferson City,0
-33,John Burroughs,118
-33,Kearney,24
-33,Ladue Horton Wat,46
-33,Ladue Horton Watkins,6
-33,Lebanon,35
-33,Lincoln College,6
+33,John Burroughs,120
+33,Kearney,34
+33,Ladue Horton Wat,44
+33,Ladue Horton Watkins,5
+33,Lebanon,47
+33,Lincoln College,10
 33,Lincoln College Prep,11
 33,Logan-Rogersvill,0
-33,Louisiana,64
-33,Lutheran South,36
+33,Louisiana,59
+33,Lutheran South,37
 33,Lutheran St. Cha,0
-33,Lutheran St. Charles,1
-33,Mehlville,33
-33,Monett,29
-33,Nerinx Hall,74
+33,Lutheran St. Charles,2
+33,Mehlville,37
+33,Monett,12
+33,Nerinx Hall,63
 33,Nevada,14
 33,North Point,0
 33,Notre Dame Cape,0
-33,Notre Dame de Si,62
-33,Notre Dame de Sion,40
-33,Parkway Central,235
-33,Parkway North,3
-33,Parkway West,89
-33,Platte County,1
+33,Notre Dame de Si,64
+33,Notre Dame de Sion,39
+33,Parkway Central,249
+33,Parkway North,0
+33,Parkway West,59
+33,Platte County,2
 33,Poplar Bluff,0
-33,Principia,19
-33,Rockwood Summit,86
+33,Principia,15
+33,Rockwood Summit,111
 33,STEAM Academy,0
-33,Savannah,2
+33,Savannah,3
 33,Smith-Cotton,0
 33,Smithville,0
 33,St. Charles West,0
 33,St. Dominic,0
-33,St. Michael the,97
+33,St. Michael the,82
 33,St. Pius X Kansa,0
-33,St. Teresa's Aca,141
-33,St. Teresa's Academy,32
+33,St. Teresa's Aca,147
+33,St. Teresa's Academy,27
 33,Summit Christian,0
-33,Timberland,25
-33,Ursuline Academy,70
-33,Villa Duchesne,109
-33,Visitation Acade,136
-33,Visitation Academy,27
+33,Timberland,23
+33,Ursuline Academy,39
+33,Villa Duchesne,127
+33,Visitation Acade,118
+33,Visitation Academy,28
 33,Washington,0
-33,Webb City,4
-33,Webster Groves,152
-33,West Plains,48
+33,Webb City,3
+33,Webster Groves,166
+33,West Plains,29
 34,Barstow,0
 34,Bolivar,0
-34,Capital City,13
-34,Carl Junction,6
+34,Capital City,10
+34,Carl Junction,12
 34,Central (Cape Girardeau),0
-34,Central (Springf,2
+34,Central (Springf,4
 34,Central (Springfield),17
-34,Central Cape Gir,55
-34,Clayton,65
-34,Father Tolton,143
-34,Ft. Zumwalt East,14
-34,Ft. Zumwalt Sout,15
-34,Glendale,34
-34,Grain Valley,81
+34,Central Cape Gir,52
+34,Clayton,64
+34,Father Tolton,145
+34,Ft. Zumwalt East,23
+34,Ft. Zumwalt Sout,26
+34,Glendale,44
+34,Grain Valley,58
 34,Grandview,0
-34,Greenwood,13
-34,Hannibal,9
+34,Greenwood,3
+34,Hannibal,6
 34,Holt,0
 34,Incarnate Word A,0
-34,Jefferson City,2
-34,John Burroughs,92
-34,Kearney,43
-34,Ladue Horton Wat,75
-34,Ladue Horton Watkins,5
-34,Lebanon,58
+34,Jefferson City,0
+34,John Burroughs,98
+34,Kearney,32
+34,Ladue Horton Wat,39
+34,Ladue Horton Watkins,3
+34,Lebanon,36
 34,Lincoln College,7
-34,Lincoln College Prep,12
+34,Lincoln College Prep,7
 34,Logan-Rogersvill,0
-34,Louisiana,79
-34,Lutheran South,37
-34,Lutheran St. Cha,1
-34,Lutheran St. Charles,3
-34,Mehlville,31
-34,Monett,19
-34,Nerinx Hall,91
-34,Nevada,9
+34,Louisiana,72
+34,Lutheran South,34
+34,Lutheran St. Cha,0
+34,Lutheran St. Charles,9
+34,Mehlville,34
+34,Monett,20
+34,Nerinx Hall,76
+34,Nevada,13
 34,North Point,0
-34,Notre Dame Cape,3
-34,Notre Dame de Si,40
-34,Notre Dame de Sion,42
-34,Parkway Central,241
-34,Parkway North,0
-34,Parkway West,81
-34,Platte County,0
+34,Notre Dame Cape,0
+34,Notre Dame de Si,77
+34,Notre Dame de Sion,40
+34,Parkway Central,225
+34,Parkway North,1
+34,Parkway West,93
+34,Platte County,9
 34,Poplar Bluff,0
-34,Principia,12
-34,Rockwood Summit,93
+34,Principia,18
+34,Rockwood Summit,89
 34,STEAM Academy,0
-34,Savannah,4
+34,Savannah,0
 34,Smith-Cotton,0
-34,Smithville,3
+34,Smithville,1
 34,St. Charles West,0
 34,St. Dominic,0
-34,St. Michael the,52
+34,St. Michael the,50
 34,St. Pius X Kansa,0
-34,St. Teresa's Aca,145
-34,St. Teresa's Academy,22
-34,Summit Christian,0
-34,Timberland,31
-34,Ursuline Academy,66
-34,Villa Duchesne,134
-34,Visitation Acade,142
+34,St. Teresa's Aca,162
+34,St. Teresa's Academy,24
+34,Summit Christian,2
+34,Timberland,18
+34,Ursuline Academy,51
+34,Villa Duchesne,155
+34,Visitation Acade,153
 34,Visitation Academy,28
 34,Washington,0
-34,Webb City,2
-34,Webster Groves,136
-34,West Plains,17
+34,Webb City,8
+34,Webster Groves,151
+34,West Plains,26
 35,Barstow,0
 35,Bolivar,0
-35,Capital City,13
-35,Carl Junction,17
+35,Capital City,9
+35,Carl Junction,45
 35,Central (Cape Girardeau),0
-35,Central (Springf,5
+35,Central (Springf,9
 35,Central (Springfield),17
-35,Central Cape Gir,49
-35,Clayton,67
-35,Father Tolton,134
-35,Ft. Zumwalt East,16
-35,Ft. Zumwalt Sout,18
-35,Glendale,30
-35,Grain Valley,92
+35,Central Cape Gir,55
+35,Clayton,55
+35,Father Tolton,142
+35,Ft. Zumwalt East,6
+35,Ft. Zumwalt Sout,12
+35,Glendale,50
+35,Grain Valley,102
 35,Grandview,0
 35,Greenwood,8
-35,Hannibal,11
+35,Hannibal,5
 35,Holt,0
-35,Incarnate Word A,3
+35,Incarnate Word A,2
 35,Jefferson City,0
-35,John Burroughs,89
-35,Kearney,47
-35,Ladue Horton Wat,38
-35,Ladue Horton Watkins,4
-35,Lebanon,43
-35,Lincoln College,12
-35,Lincoln College Prep,13
+35,John Burroughs,101
+35,Kearney,24
+35,Ladue Horton Wat,37
+35,Ladue Horton Watkins,5
+35,Lebanon,45
+35,Lincoln College,6
+35,Lincoln College Prep,9
 35,Logan-Rogersvill,0
-35,Louisiana,58
-35,Lutheran South,32
-35,Lutheran St. Cha,0
-35,Lutheran St. Charles,9
-35,Mehlville,40
-35,Monett,20
-35,Nerinx Hall,67
-35,Nevada,13
+35,Louisiana,54
+35,Lutheran South,36
+35,Lutheran St. Cha,3
+35,Lutheran St. Charles,4
+35,Mehlville,37
+35,Monett,16
+35,Nerinx Hall,95
+35,Nevada,14
 35,North Point,0
-35,Notre Dame Cape,0
-35,Notre Dame de Si,47
-35,Notre Dame de Sion,36
-35,Parkway Central,219
-35,Parkway North,2
-35,Parkway West,102
-35,Platte County,2
+35,Notre Dame Cape,8
+35,Notre Dame de Si,52
+35,Notre Dame de Sion,42
+35,Parkway Central,211
+35,Parkway North,0
+35,Parkway West,71
+35,Platte County,1
 35,Poplar Bluff,0
-35,Principia,17
-35,Rockwood Summit,106
+35,Principia,18
+35,Rockwood Summit,94
 35,STEAM Academy,0
 35,Savannah,0
 35,Smith-Cotton,0
 35,Smithville,0
 35,St. Charles West,0
 35,St. Dominic,0
-35,St. Michael the,74
+35,St. Michael the,72
 35,St. Pius X Kansa,0
-35,St. Teresa's Aca,164
-35,St. Teresa's Academy,27
+35,St. Teresa's Aca,141
+35,St. Teresa's Academy,24
 35,Summit Christian,0
-35,Timberland,16
-35,Ursuline Academy,50
-35,Villa Duchesne,127
-35,Visitation Acade,167
+35,Timberland,25
+35,Ursuline Academy,40
+35,Villa Duchesne,151
+35,Visitation Acade,161
 35,Visitation Academy,28
 35,Washington,0
-35,Webb City,1
-35,Webster Groves,164
-35,West Plains,11
+35,Webb City,7
+35,Webster Groves,146
+35,West Plains,30
 36,Barstow,0
 36,Bolivar,0
-36,Capital City,17
-36,Carl Junction,14
+36,Capital City,9
+36,Carl Junction,13
 36,Central (Cape Girardeau),0
-36,Central (Springf,6
-36,Central (Springfield),20
-36,Central Cape Gir,48
-36,Clayton,58
-36,Father Tolton,150
-36,Ft. Zumwalt East,16
-36,Ft. Zumwalt Sout,18
-36,Glendale,63
-36,Grain Valley,66
+36,Central (Springf,3
+36,Central (Springfield),17
+36,Central Cape Gir,52
+36,Clayton,75
+36,Father Tolton,146
+36,Ft. Zumwalt East,19
+36,Ft. Zumwalt Sout,19
+36,Glendale,38
+36,Grain Valley,72
 36,Grandview,0
-36,Greenwood,9
-36,Hannibal,7
+36,Greenwood,6
+36,Hannibal,5
 36,Holt,0
-36,Incarnate Word A,4
+36,Incarnate Word A,0
 36,Jefferson City,0
-36,John Burroughs,110
-36,Kearney,23
-36,Ladue Horton Wat,43
-36,Ladue Horton Watkins,1
-36,Lebanon,39
-36,Lincoln College,5
-36,Lincoln College Prep,16
+36,John Burroughs,124
+36,Kearney,26
+36,Ladue Horton Wat,48
+36,Ladue Horton Watkins,4
+36,Lebanon,37
+36,Lincoln College,7
+36,Lincoln College Prep,11
 36,Logan-Rogersvill,0
-36,Louisiana,55
-36,Lutheran South,32
+36,Louisiana,48
+36,Lutheran South,34
 36,Lutheran St. Cha,0
-36,Lutheran St. Charles,6
+36,Lutheran St. Charles,2
 36,Mehlville,36
-36,Monett,11
-36,Nerinx Hall,72
-36,Nevada,11
+36,Monett,39
+36,Nerinx Hall,64
+36,Nevada,2
 36,North Point,0
-36,Notre Dame Cape,12
-36,Notre Dame de Si,97
-36,Notre Dame de Sion,35
-36,Parkway Central,237
+36,Notre Dame Cape,0
+36,Notre Dame de Si,61
+36,Notre Dame de Sion,43
+36,Parkway Central,231
 36,Parkway North,0
-36,Parkway West,99
-36,Platte County,4
+36,Parkway West,86
+36,Platte County,3
 36,Poplar Bluff,0
-36,Principia,11
-36,Rockwood Summit,87
+36,Principia,20
+36,Rockwood Summit,107
 36,STEAM Academy,0
-36,Savannah,1
+36,Savannah,0
 36,Smith-Cotton,0
 36,Smithville,0
 36,St. Charles West,0
 36,St. Dominic,0
-36,St. Michael the,68
+36,St. Michael the,88
 36,St. Pius X Kansa,0
-36,St. Teresa's Aca,132
-36,St. Teresa's Academy,20
+36,St. Teresa's Aca,157
+36,St. Teresa's Academy,23
 36,Summit Christian,0
-36,Timberland,32
-36,Ursuline Academy,61
-36,Villa Duchesne,144
-36,Visitation Acade,141
-36,Visitation Academy,27
-36,Washington,1
-36,Webb City,4
-36,Webster Groves,141
-36,West Plains,15
+36,Timberland,11
+36,Ursuline Academy,55
+36,Villa Duchesne,133
+36,Visitation Acade,142
+36,Visitation Academy,28
+36,Washington,0
+36,Webb City,10
+36,Webster Groves,155
+36,West Plains,16
 37,Barstow,0
 37,Bolivar,0
-37,Capital City,17
-37,Carl Junction,11
+37,Capital City,9
+37,Carl Junction,13
 37,Central (Cape Girardeau),0
-37,Central (Springf,9
+37,Central (Springf,3
 37,Central (Springfield),17
-37,Central Cape Gir,58
-37,Clayton,63
-37,Father Tolton,150
-37,Ft. Zumwalt East,16
-37,Ft. Zumwalt Sout,19
-37,Glendale,53
-37,Grain Valley,89
+37,Central Cape Gir,55
+37,Clayton,69
+37,Father Tolton,141
+37,Ft. Zumwalt East,6
+37,Ft. Zumwalt Sout,18
+37,Glendale,28
+37,Grain Valley,106
 37,Grandview,0
-37,Greenwood,6
-37,Hannibal,3
+37,Greenwood,12
+37,Hannibal,6
 37,Holt,0
-37,Incarnate Word A,2
-37,Jefferson City,0
-37,John Burroughs,88
-37,Kearney,44
-37,Ladue Horton Wat,55
-37,Ladue Horton Watkins,6
-37,Lebanon,43
-37,Lincoln College,5
-37,Lincoln College Prep,12
+37,Incarnate Word A,0
+37,Jefferson City,1
+37,John Burroughs,115
+37,Kearney,30
+37,Ladue Horton Wat,65
+37,Ladue Horton Watkins,5
+37,Lebanon,33
+37,Lincoln College,8
+37,Lincoln College Prep,13
 37,Logan-Rogersvill,0
-37,Louisiana,71
-37,Lutheran South,34
-37,Lutheran St. Cha,0
-37,Lutheran St. Charles,5
-37,Mehlville,34
+37,Louisiana,72
+37,Lutheran South,33
+37,Lutheran St. Cha,5
+37,Lutheran St. Charles,3
+37,Mehlville,33
 37,Monett,23
-37,Nerinx Hall,65
-37,Nevada,7
+37,Nerinx Hall,107
+37,Nevada,13
 37,North Point,0
-37,Notre Dame Cape,2
-37,Notre Dame de Si,49
-37,Notre Dame de Sion,40
-37,Parkway Central,222
-37,Parkway North,3
-37,Parkway West,68
-37,Platte County,2
+37,Notre Dame Cape,0
+37,Notre Dame de Si,48
+37,Notre Dame de Sion,45
+37,Parkway Central,227
+37,Parkway North,0
+37,Parkway West,86
+37,Platte County,14
 37,Poplar Bluff,0
 37,Principia,13
-37,Rockwood Summit,90
+37,Rockwood Summit,76
 37,STEAM Academy,0
-37,Savannah,11
+37,Savannah,5
 37,Smith-Cotton,0
 37,Smithville,0
 37,St. Charles West,0
 37,St. Dominic,0
-37,St. Michael the,99
+37,St. Michael the,58
 37,St. Pius X Kansa,0
 37,St. Teresa's Aca,138
-37,St. Teresa's Academy,22
+37,St. Teresa's Academy,16
 37,Summit Christian,0
-37,Timberland,30
-37,Ursuline Academy,57
-37,Villa Duchesne,153
-37,Visitation Acade,149
-37,Visitation Academy,27
+37,Timberland,29
+37,Ursuline Academy,58
+37,Villa Duchesne,147
+37,Visitation Acade,150
+37,Visitation Academy,26
 37,Washington,0
 37,Webb City,5
-37,Webster Groves,122
-37,West Plains,18
+37,Webster Groves,130
+37,West Plains,12
 38,Barstow,0
 38,Bolivar,0
-38,Capital City,12
-38,Carl Junction,13
+38,Capital City,17
+38,Carl Junction,12
 38,Central (Cape Girardeau),0
-38,Central (Springf,3
+38,Central (Springf,12
 38,Central (Springfield),17
-38,Central Cape Gir,60
-38,Clayton,71
-38,Father Tolton,152
-38,Ft. Zumwalt East,12
-38,Ft. Zumwalt Sout,20
-38,Glendale,54
-38,Grain Valley,38
+38,Central Cape Gir,52
+38,Clayton,88
+38,Father Tolton,142
+38,Ft. Zumwalt East,6
+38,Ft. Zumwalt Sout,18
+38,Glendale,34
+38,Grain Valley,76
 38,Grandview,0
-38,Greenwood,11
-38,Hannibal,1
+38,Greenwood,5
+38,Hannibal,13
 38,Holt,0
-38,Incarnate Word A,6
+38,Incarnate Word A,4
 38,Jefferson City,0
-38,John Burroughs,111
-38,Kearney,43
-38,Ladue Horton Wat,56
-38,Ladue Horton Watkins,1
-38,Lebanon,45
-38,Lincoln College,1
-38,Lincoln College Prep,12
+38,John Burroughs,60
+38,Kearney,45
+38,Ladue Horton Wat,73
+38,Ladue Horton Watkins,5
+38,Lebanon,47
+38,Lincoln College,5
+38,Lincoln College Prep,6
 38,Logan-Rogersvill,0
-38,Louisiana,75
-38,Lutheran South,34
+38,Louisiana,67
+38,Lutheran South,31
 38,Lutheran St. Cha,0
-38,Lutheran St. Charles,5
-38,Mehlville,37
-38,Monett,18
-38,Nerinx Hall,96
-38,Nevada,11
+38,Lutheran St. Charles,4
+38,Mehlville,33
+38,Monett,22
+38,Nerinx Hall,83
+38,Nevada,14
 38,North Point,0
 38,Notre Dame Cape,0
-38,Notre Dame de Si,52
-38,Notre Dame de Sion,47
-38,Parkway Central,226
+38,Notre Dame de Si,66
+38,Notre Dame de Sion,45
+38,Parkway Central,229
 38,Parkway North,0
-38,Parkway West,92
-38,Platte County,0
+38,Parkway West,101
+38,Platte County,9
 38,Poplar Bluff,0
-38,Principia,18
-38,Rockwood Summit,91
+38,Principia,11
+38,Rockwood Summit,96
 38,STEAM Academy,0
 38,Savannah,0
 38,Smith-Cotton,0
 38,Smithville,0
 38,St. Charles West,0
 38,St. Dominic,0
-38,St. Michael the,89
+38,St. Michael the,74
 38,St. Pius X Kansa,0
-38,St. Teresa's Aca,157
-38,St. Teresa's Academy,22
+38,St. Teresa's Aca,134
+38,St. Teresa's Academy,23
 38,Summit Christian,0
-38,Timberland,21
-38,Ursuline Academy,50
-38,Villa Duchesne,130
-38,Visitation Acade,130
-38,Visitation Academy,27
+38,Timberland,18
+38,Ursuline Academy,62
+38,Villa Duchesne,163
+38,Visitation Acade,150
+38,Visitation Academy,26
 38,Washington,0
-38,Webb City,17
-38,Webster Groves,126
-38,West Plains,15
+38,Webb City,0
+38,Webster Groves,106
+38,West Plains,21
 39,Barstow,0
 39,Bolivar,0
-39,Capital City,10
-39,Carl Junction,17
+39,Capital City,18
+39,Carl Junction,14
 39,Central (Cape Girardeau),0
-39,Central (Springf,4
+39,Central (Springf,1
 39,Central (Springfield),17
-39,Central Cape Gir,56
-39,Clayton,68
-39,Father Tolton,152
-39,Ft. Zumwalt East,18
-39,Ft. Zumwalt Sout,17
-39,Glendale,48
-39,Grain Valley,73
+39,Central Cape Gir,48
+39,Clayton,66
+39,Father Tolton,143
+39,Ft. Zumwalt East,9
+39,Ft. Zumwalt Sout,9
+39,Glendale,39
+39,Grain Valley,65
 39,Grandview,0
-39,Greenwood,7
-39,Hannibal,11
+39,Greenwood,5
+39,Hannibal,9
 39,Holt,0
-39,Incarnate Word A,0
+39,Incarnate Word A,1
 39,Jefferson City,0
-39,John Burroughs,123
-39,Kearney,41
-39,Ladue Horton Wat,47
-39,Ladue Horton Watkins,4
-39,Lebanon,32
-39,Lincoln College,5
-39,Lincoln College Prep,9
+39,John Burroughs,102
+39,Kearney,36
+39,Ladue Horton Wat,38
+39,Ladue Horton Watkins,3
+39,Lebanon,30
+39,Lincoln College,8
+39,Lincoln College Prep,11
 39,Logan-Rogersvill,0
-39,Louisiana,65
-39,Lutheran South,33
-39,Lutheran St. Cha,9
-39,Lutheran St. Charles,5
-39,Mehlville,37
-39,Monett,24
-39,Nerinx Hall,81
-39,Nevada,12
+39,Louisiana,57
+39,Lutheran South,35
+39,Lutheran St. Cha,0
+39,Lutheran St. Charles,6
+39,Mehlville,36
+39,Monett,22
+39,Nerinx Hall,65
+39,Nevada,11
 39,North Point,0
-39,Notre Dame Cape,0
-39,Notre Dame de Si,70
-39,Notre Dame de Sion,42
-39,Parkway Central,208
-39,Parkway North,0
-39,Parkway West,85
-39,Platte County,4
+39,Notre Dame Cape,3
+39,Notre Dame de Si,99
+39,Notre Dame de Sion,43
+39,Parkway Central,223
+39,Parkway North,4
+39,Parkway West,84
+39,Platte County,9
 39,Poplar Bluff,0
-39,Principia,19
-39,Rockwood Summit,93
+39,Principia,22
+39,Rockwood Summit,86
 39,STEAM Academy,0
-39,Savannah,0
+39,Savannah,2
 39,Smith-Cotton,0
 39,Smithville,0
 39,St. Charles West,0
 39,St. Dominic,0
-39,St. Michael the,45
+39,St. Michael the,62
 39,St. Pius X Kansa,0
-39,St. Teresa's Aca,151
-39,St. Teresa's Academy,23
+39,St. Teresa's Aca,152
+39,St. Teresa's Academy,24
 39,Summit Christian,0
-39,Timberland,24
-39,Ursuline Academy,65
-39,Villa Duchesne,137
-39,Visitation Acade,146
-39,Visitation Academy,28
+39,Timberland,28
+39,Ursuline Academy,71
+39,Villa Duchesne,130
+39,Visitation Acade,175
+39,Visitation Academy,27
 39,Washington,0
-39,Webb City,5
-39,Webster Groves,144
-39,West Plains,11
+39,Webb City,7
+39,Webster Groves,146
+39,West Plains,24
 40,Barstow,0
 40,Bolivar,0
-40,Capital City,16
-40,Carl Junction,14
+40,Capital City,8
+40,Carl Junction,11
 40,Central (Cape Girardeau),0
-40,Central (Springf,2
+40,Central (Springf,18
 40,Central (Springfield),17
-40,Central Cape Gir,59
-40,Clayton,64
-40,Father Tolton,128
-40,Ft. Zumwalt East,15
-40,Ft. Zumwalt Sout,18
-40,Glendale,31
-40,Grain Valley,50
-40,Grandview,3
-40,Greenwood,6
-40,Hannibal,12
+40,Central Cape Gir,48
+40,Clayton,57
+40,Father Tolton,138
+40,Ft. Zumwalt East,13
+40,Ft. Zumwalt Sout,19
+40,Glendale,42
+40,Grain Valley,75
+40,Grandview,0
+40,Greenwood,15
+40,Hannibal,11
 40,Holt,0
-40,Incarnate Word A,7
+40,Incarnate Word A,2
 40,Jefferson City,0
-40,John Burroughs,118
-40,Kearney,32
-40,Ladue Horton Wat,40
-40,Ladue Horton Watkins,6
-40,Lebanon,80
-40,Lincoln College,0
-40,Lincoln College Prep,9
+40,John Burroughs,68
+40,Kearney,35
+40,Ladue Horton Wat,65
+40,Ladue Horton Watkins,3
+40,Lebanon,31
+40,Lincoln College,6
+40,Lincoln College Prep,11
 40,Logan-Rogersvill,0
-40,Louisiana,60
-40,Lutheran South,37
-40,Lutheran St. Cha,1
-40,Lutheran St. Charles,3
-40,Mehlville,37
-40,Monett,24
-40,Nerinx Hall,85
-40,Nevada,12
+40,Louisiana,91
+40,Lutheran South,32
+40,Lutheran St. Cha,0
+40,Lutheran St. Charles,6
+40,Mehlville,34
+40,Monett,21
+40,Nerinx Hall,65
+40,Nevada,14
 40,North Point,0
-40,Notre Dame Cape,4
-40,Notre Dame de Si,54
-40,Notre Dame de Sion,43
-40,Parkway Central,238
+40,Notre Dame Cape,0
+40,Notre Dame de Si,35
+40,Notre Dame de Sion,39
+40,Parkway Central,239
 40,Parkway North,0
-40,Parkway West,65
-40,Platte County,4
-40,Poplar Bluff,2
-40,Principia,12
-40,Rockwood Summit,99
+40,Parkway West,81
+40,Platte County,3
+40,Poplar Bluff,6
+40,Principia,14
+40,Rockwood Summit,89
 40,STEAM Academy,0
-40,Savannah,3
+40,Savannah,2
 40,Smith-Cotton,0
 40,Smithville,0
 40,St. Charles West,0
 40,St. Dominic,0
-40,St. Michael the,73
+40,St. Michael the,86
 40,St. Pius X Kansa,0
-40,St. Teresa's Aca,166
-40,St. Teresa's Academy,30
+40,St. Teresa's Aca,135
+40,St. Teresa's Academy,23
 40,Summit Christian,0
-40,Timberland,22
-40,Ursuline Academy,57
-40,Villa Duchesne,131
-40,Visitation Acade,124
+40,Timberland,26
+40,Ursuline Academy,72
+40,Villa Duchesne,151
+40,Visitation Acade,143
 40,Visitation Academy,29
 40,Washington,0
-40,Webb City,11
-40,Webster Groves,148
-40,West Plains,24
+40,Webb City,4
+40,Webster Groves,149
+40,West Plains,43
 41,Barstow,0
 41,Bolivar,0
-41,Capital City,14
-41,Carl Junction,12
+41,Capital City,12
+41,Carl Junction,23
 41,Central (Cape Girardeau),0
-41,Central (Springf,5
+41,Central (Springf,9
 41,Central (Springfield),17
-41,Central Cape Gir,49
-41,Clayton,90
-41,Father Tolton,156
-41,Ft. Zumwalt East,7
-41,Ft. Zumwalt Sout,31
-41,Glendale,33
-41,Grain Valley,56
+41,Central Cape Gir,48
+41,Clayton,48
+41,Father Tolton,144
+41,Ft. Zumwalt East,10
+41,Ft. Zumwalt Sout,14
+41,Glendale,43
+41,Grain Valley,76
 41,Grandview,0
-41,Greenwood,15
-41,Hannibal,14
+41,Greenwood,9
+41,Hannibal,7
 41,Holt,0
-41,Incarnate Word A,4
+41,Incarnate Word A,3
 41,Jefferson City,0
-41,John Burroughs,89
-41,Kearney,33
+41,John Burroughs,119
+41,Kearney,23
 41,Ladue Horton Wat,58
-41,Ladue Horton Watkins,5
-41,Lebanon,40
-41,Lincoln College,7
-41,Lincoln College Prep,12
+41,Ladue Horton Watkins,6
+41,Lebanon,43
+41,Lincoln College,0
+41,Lincoln College Prep,9
 41,Logan-Rogersvill,0
-41,Louisiana,68
-41,Lutheran South,32
-41,Lutheran St. Cha,0
-41,Lutheran St. Charles,6
-41,Mehlville,33
-41,Monett,23
-41,Nerinx Hall,86
-41,Nevada,15
+41,Louisiana,78
+41,Lutheran South,34
+41,Lutheran St. Cha,4
+41,Lutheran St. Charles,1
+41,Mehlville,37
+41,Monett,22
+41,Nerinx Hall,67
+41,Nevada,13
 41,North Point,0
 41,Notre Dame Cape,0
-41,Notre Dame de Si,55
-41,Notre Dame de Sion,43
-41,Parkway Central,247
+41,Notre Dame de Si,80
+41,Notre Dame de Sion,45
+41,Parkway Central,228
 41,Parkway North,0
-41,Parkway West,85
-41,Platte County,5
-41,Poplar Bluff,0
-41,Principia,16
-41,Rockwood Summit,85
+41,Parkway West,80
+41,Platte County,1
+41,Poplar Bluff,6
+41,Principia,7
+41,Rockwood Summit,105
 41,STEAM Academy,0
 41,Savannah,0
 41,Smith-Cotton,0
 41,Smithville,0
 41,St. Charles West,0
 41,St. Dominic,0
-41,St. Michael the,42
+41,St. Michael the,72
 41,St. Pius X Kansa,0
-41,St. Teresa's Aca,146
-41,St. Teresa's Academy,18
+41,St. Teresa's Aca,156
+41,St. Teresa's Academy,19
 41,Summit Christian,0
-41,Timberland,23
-41,Ursuline Academy,52
-41,Villa Duchesne,111
-41,Visitation Acade,145
+41,Timberland,25
+41,Ursuline Academy,42
+41,Villa Duchesne,129
+41,Visitation Acade,152
 41,Visitation Academy,28
 41,Washington,0
-41,Webb City,20
-41,Webster Groves,175
-41,West Plains,19
+41,Webb City,4
+41,Webster Groves,156
+41,West Plains,13
 42,Barstow,0
 42,Bolivar,0
-42,Capital City,15
-42,Carl Junction,14
+42,Capital City,12
+42,Carl Junction,13
 42,Central (Cape Girardeau),0
-42,Central (Springf,1
+42,Central (Springf,0
 42,Central (Springfield),17
-42,Central Cape Gir,60
-42,Clayton,67
-42,Father Tolton,138
-42,Ft. Zumwalt East,13
-42,Ft. Zumwalt Sout,16
-42,Glendale,47
+42,Central Cape Gir,56
+42,Clayton,80
+42,Father Tolton,142
+42,Ft. Zumwalt East,19
+42,Ft. Zumwalt Sout,17
+42,Glendale,21
 42,Grain Valley,67
 42,Grandview,0
-42,Greenwood,3
-42,Hannibal,9
+42,Greenwood,5
+42,Hannibal,12
 42,Holt,0
-42,Incarnate Word A,4
+42,Incarnate Word A,0
 42,Jefferson City,0
 42,John Burroughs,99
-42,Kearney,37
-42,Ladue Horton Wat,59
-42,Ladue Horton Watkins,6
-42,Lebanon,53
-42,Lincoln College,6
-42,Lincoln College Prep,11
+42,Kearney,65
+42,Ladue Horton Wat,37
+42,Ladue Horton Watkins,12
+42,Lebanon,45
+42,Lincoln College,7
+42,Lincoln College Prep,12
 42,Logan-Rogersvill,0
-42,Louisiana,90
-42,Lutheran South,37
-42,Lutheran St. Cha,2
-42,Lutheran St. Charles,3
-42,Mehlville,36
-42,Monett,37
-42,Nerinx Hall,80
-42,Nevada,13
+42,Louisiana,67
+42,Lutheran South,34
+42,Lutheran St. Cha,1
+42,Lutheran St. Charles,0
+42,Mehlville,34
+42,Monett,9
+42,Nerinx Hall,72
+42,Nevada,14
 42,North Point,0
 42,Notre Dame Cape,0
-42,Notre Dame de Si,46
+42,Notre Dame de Si,70
 42,Notre Dame de Sion,37
-42,Parkway Central,234
+42,Parkway Central,229
 42,Parkway North,0
-42,Parkway West,78
-42,Platte County,0
-42,Poplar Bluff,0
-42,Principia,14
-42,Rockwood Summit,85
+42,Parkway West,94
+42,Platte County,3
+42,Poplar Bluff,4
+42,Principia,17
+42,Rockwood Summit,88
 42,STEAM Academy,0
-42,Savannah,0
+42,Savannah,2
 42,Smith-Cotton,0
 42,Smithville,0
 42,St. Charles West,0
 42,St. Dominic,0
-42,St. Michael the,67
+42,St. Michael the,94
 42,St. Pius X Kansa,0
 42,St. Teresa's Aca,157
-42,St. Teresa's Academy,22
+42,St. Teresa's Academy,30
 42,Summit Christian,0
-42,Timberland,27
-42,Ursuline Academy,40
-42,Villa Duchesne,139
-42,Visitation Acade,129
+42,Timberland,23
+42,Ursuline Academy,60
+42,Villa Duchesne,105
+42,Visitation Acade,135
 42,Visitation Academy,29
 42,Washington,0
-42,Webb City,6
-42,Webster Groves,158
-42,West Plains,17
+42,Webb City,0
+42,Webster Groves,151
+42,West Plains,28
 43,Barstow,0
 43,Bolivar,0
-43,Capital City,16
-43,Carl Junction,13
+43,Capital City,9
+43,Carl Junction,15
 43,Central (Cape Girardeau),0
-43,Central (Springf,0
+43,Central (Springf,3
 43,Central (Springfield),17
-43,Central Cape Gir,54
-43,Clayton,59
-43,Father Tolton,159
-43,Ft. Zumwalt East,12
-43,Ft. Zumwalt Sout,16
-43,Glendale,37
-43,Grain Valley,72
+43,Central Cape Gir,57
+43,Clayton,57
+43,Father Tolton,134
+43,Ft. Zumwalt East,9
+43,Ft. Zumwalt Sout,18
+43,Glendale,45
+43,Grain Valley,66
 43,Grandview,0
-43,Greenwood,6
-43,Hannibal,16
+43,Greenwood,13
+43,Hannibal,9
 43,Holt,0
-43,Incarnate Word A,3
+43,Incarnate Word A,4
 43,Jefferson City,0
-43,John Burroughs,118
-43,Kearney,43
-43,Ladue Horton Wat,39
+43,John Burroughs,70
+43,Kearney,34
+43,Ladue Horton Wat,64
 43,Ladue Horton Watkins,7
-43,Lebanon,39
-43,Lincoln College,2
-43,Lincoln College Prep,11
+43,Lebanon,28
+43,Lincoln College,8
+43,Lincoln College Prep,13
 43,Logan-Rogersvill,0
-43,Louisiana,76
-43,Lutheran South,33
-43,Lutheran St. Cha,3
-43,Lutheran St. Charles,3
-43,Mehlville,33
-43,Monett,16
-43,Nerinx Hall,91
-43,Nevada,9
+43,Louisiana,60
+43,Lutheran South,32
+43,Lutheran St. Cha,0
+43,Lutheran St. Charles,4
+43,Mehlville,37
+43,Monett,29
+43,Nerinx Hall,67
+43,Nevada,12
 43,North Point,0
 43,Notre Dame Cape,0
-43,Notre Dame de Si,79
-43,Notre Dame de Sion,37
-43,Parkway Central,224
+43,Notre Dame de Si,82
+43,Notre Dame de Sion,41
+43,Parkway Central,226
 43,Parkway North,0
-43,Parkway West,92
-43,Platte County,0
+43,Parkway West,96
+43,Platte County,4
 43,Poplar Bluff,0
-43,Principia,12
-43,Rockwood Summit,98
+43,Principia,18
+43,Rockwood Summit,94
 43,STEAM Academy,0
-43,Savannah,1
+43,Savannah,0
 43,Smith-Cotton,0
 43,Smithville,0
 43,St. Charles West,0
 43,St. Dominic,0
-43,St. Michael the,59
+43,St. Michael the,71
 43,St. Pius X Kansa,0
-43,St. Teresa's Aca,138
-43,St. Teresa's Academy,24
+43,St. Teresa's Aca,154
+43,St. Teresa's Academy,25
 43,Summit Christian,0
-43,Timberland,18
-43,Ursuline Academy,54
-43,Villa Duchesne,128
-43,Visitation Acade,154
+43,Timberland,24
+43,Ursuline Academy,72
+43,Villa Duchesne,161
+43,Visitation Acade,114
 43,Visitation Academy,29
 43,Washington,0
-43,Webb City,6
-43,Webster Groves,151
-43,West Plains,18
+43,Webb City,1
+43,Webster Groves,145
+43,West Plains,47
 44,Barstow,0
 44,Bolivar,0
-44,Capital City,15
-44,Carl Junction,11
+44,Capital City,5
+44,Carl Junction,15
 44,Central (Cape Girardeau),0
-44,Central (Springf,2
-44,Central (Springfield),20
+44,Central (Springf,5
+44,Central (Springfield),17
 44,Central Cape Gir,52
-44,Clayton,60
-44,Father Tolton,139
-44,Ft. Zumwalt East,10
-44,Ft. Zumwalt Sout,13
+44,Clayton,78
+44,Father Tolton,140
+44,Ft. Zumwalt East,15
+44,Ft. Zumwalt Sout,6
 44,Glendale,44
-44,Grain Valley,96
+44,Grain Valley,77
 44,Grandview,0
-44,Greenwood,13
+44,Greenwood,10
 44,Hannibal,6
 44,Holt,0
-44,Incarnate Word A,1
+44,Incarnate Word A,2
 44,Jefferson City,0
-44,John Burroughs,129
-44,Kearney,33
-44,Ladue Horton Wat,54
-44,Ladue Horton Watkins,5
-44,Lebanon,51
-44,Lincoln College,4
-44,Lincoln College Prep,11
+44,John Burroughs,104
+44,Kearney,32
+44,Ladue Horton Wat,47
+44,Ladue Horton Watkins,4
+44,Lebanon,27
+44,Lincoln College,3
+44,Lincoln College Prep,9
 44,Logan-Rogersvill,0
-44,Louisiana,46
-44,Lutheran South,36
-44,Lutheran St. Cha,1
-44,Lutheran St. Charles,4
+44,Louisiana,57
+44,Lutheran South,33
+44,Lutheran St. Cha,0
+44,Lutheran St. Charles,3
 44,Mehlville,34
-44,Monett,10
-44,Nerinx Hall,78
-44,Nevada,12
+44,Monett,14
+44,Nerinx Hall,84
+44,Nevada,7
 44,North Point,0
-44,Notre Dame Cape,0
-44,Notre Dame de Si,62
-44,Notre Dame de Sion,41
-44,Parkway Central,228
+44,Notre Dame Cape,9
+44,Notre Dame de Si,69
+44,Notre Dame de Sion,42
+44,Parkway Central,231
 44,Parkway North,0
-44,Parkway West,105
-44,Platte County,1
+44,Parkway West,80
+44,Platte County,9
 44,Poplar Bluff,0
-44,Principia,15
-44,Rockwood Summit,82
+44,Principia,14
+44,Rockwood Summit,87
 44,STEAM Academy,0
-44,Savannah,2
+44,Savannah,0
 44,Smith-Cotton,0
 44,Smithville,0
 44,St. Charles West,0
 44,St. Dominic,0
-44,St. Michael the,64
+44,St. Michael the,80
 44,St. Pius X Kansa,0
-44,St. Teresa's Aca,155
-44,St. Teresa's Academy,22
-44,Summit Christian,0
-44,Timberland,23
-44,Ursuline Academy,67
-44,Villa Duchesne,138
-44,Visitation Acade,131
-44,Visitation Academy,29
+44,St. Teresa's Aca,177
+44,St. Teresa's Academy,25
+44,Summit Christian,2
+44,Timberland,22
+44,Ursuline Academy,57
+44,Villa Duchesne,136
+44,Visitation Acade,139
+44,Visitation Academy,28
 44,Washington,0
-44,Webb City,20
-44,Webster Groves,127
-44,West Plains,23
+44,Webb City,15
+44,Webster Groves,149
+44,West Plains,24
 45,Barstow,0
 45,Bolivar,0
-45,Capital City,5
-45,Carl Junction,13
+45,Capital City,17
+45,Carl Junction,16
 45,Central (Cape Girardeau),0
-45,Central (Springf,6
+45,Central (Springf,1
 45,Central (Springfield),17
-45,Central Cape Gir,55
-45,Clayton,92
-45,Father Tolton,143
-45,Ft. Zumwalt East,13
-45,Ft. Zumwalt Sout,13
-45,Glendale,37
-45,Grain Valley,50
+45,Central Cape Gir,61
+45,Clayton,68
+45,Father Tolton,158
+45,Ft. Zumwalt East,23
+45,Ft. Zumwalt Sout,15
+45,Glendale,21
+45,Grain Valley,83
 45,Grandview,0
-45,Greenwood,11
-45,Hannibal,14
+45,Greenwood,5
+45,Hannibal,9
 45,Holt,0
 45,Incarnate Word A,5
 45,Jefferson City,0
-45,John Burroughs,100
-45,Kearney,30
-45,Ladue Horton Wat,49
-45,Ladue Horton Watkins,6
-45,Lebanon,48
+45,John Burroughs,91
+45,Kearney,21
+45,Ladue Horton Wat,67
+45,Ladue Horton Watkins,4
+45,Lebanon,65
 45,Lincoln College,10
-45,Lincoln College Prep,12
+45,Lincoln College Prep,17
 45,Logan-Rogersvill,0
-45,Louisiana,66
-45,Lutheran South,32
+45,Louisiana,65
+45,Lutheran South,31
 45,Lutheran St. Cha,0
-45,Lutheran St. Charles,2
-45,Mehlville,34
-45,Monett,17
-45,Nerinx Hall,45
-45,Nevada,12
+45,Lutheran St. Charles,3
+45,Mehlville,33
+45,Monett,38
+45,Nerinx Hall,66
+45,Nevada,14
 45,North Point,0
 45,Notre Dame Cape,0
-45,Notre Dame de Si,73
-45,Notre Dame de Sion,41
-45,Parkway Central,241
+45,Notre Dame de Si,66
+45,Notre Dame de Sion,37
+45,Parkway Central,197
 45,Parkway North,1
-45,Parkway West,90
-45,Platte County,1
-45,Poplar Bluff,26
-45,Principia,17
-45,Rockwood Summit,94
+45,Parkway West,104
+45,Platte County,2
+45,Poplar Bluff,2
+45,Principia,19
+45,Rockwood Summit,82
 45,STEAM Academy,0
-45,Savannah,3
+45,Savannah,0
 45,Smith-Cotton,0
 45,Smithville,0
 45,St. Charles West,0
 45,St. Dominic,0
-45,St. Michael the,61
+45,St. Michael the,76
 45,St. Pius X Kansa,0
-45,St. Teresa's Aca,145
-45,St. Teresa's Academy,24
+45,St. Teresa's Aca,151
+45,St. Teresa's Academy,22
 45,Summit Christian,0
-45,Timberland,25
-45,Ursuline Academy,37
-45,Villa Duchesne,146
-45,Visitation Acade,143
+45,Timberland,24
+45,Ursuline Academy,42
+45,Villa Duchesne,147
+45,Visitation Acade,153
 45,Visitation Academy,29
 45,Washington,0
-45,Webb City,2
-45,Webster Groves,167
-45,West Plains,22
+45,Webb City,8
+45,Webster Groves,123
+45,West Plains,16
 46,Barstow,0
 46,Bolivar,0
 46,Capital City,10
-46,Carl Junction,19
+46,Carl Junction,12
 46,Central (Cape Girardeau),0
-46,Central (Springf,6
+46,Central (Springf,0
 46,Central (Springfield),17
-46,Central Cape Gir,57
-46,Clayton,54
-46,Father Tolton,140
-46,Ft. Zumwalt East,18
-46,Ft. Zumwalt Sout,20
-46,Glendale,51
-46,Grain Valley,31
+46,Central Cape Gir,49
+46,Clayton,48
+46,Father Tolton,156
+46,Ft. Zumwalt East,11
+46,Ft. Zumwalt Sout,16
+46,Glendale,41
+46,Grain Valley,70
 46,Grandview,0
-46,Greenwood,1
-46,Hannibal,13
+46,Greenwood,6
+46,Hannibal,7
 46,Holt,0
-46,Incarnate Word A,5
+46,Incarnate Word A,3
 46,Jefferson City,0
-46,John Burroughs,126
-46,Kearney,56
-46,Ladue Horton Wat,55
-46,Ladue Horton Watkins,4
-46,Lebanon,47
-46,Lincoln College,4
-46,Lincoln College Prep,6
+46,John Burroughs,122
+46,Kearney,41
+46,Ladue Horton Wat,47
+46,Ladue Horton Watkins,6
+46,Lebanon,34
+46,Lincoln College,6
+46,Lincoln College Prep,17
 46,Logan-Rogersvill,0
-46,Louisiana,54
+46,Louisiana,53
 46,Lutheran South,28
 46,Lutheran St. Cha,0
-46,Lutheran St. Charles,5
-46,Mehlville,32
-46,Monett,14
-46,Nerinx Hall,88
-46,Nevada,13
+46,Lutheran St. Charles,2
+46,Mehlville,36
+46,Monett,12
+46,Nerinx Hall,67
+46,Nevada,9
 46,North Point,0
-46,Notre Dame Cape,2
-46,Notre Dame de Si,72
-46,Notre Dame de Sion,43
-46,Parkway Central,227
-46,Parkway North,2
-46,Parkway West,73
-46,Platte County,4
-46,Poplar Bluff,0
+46,Notre Dame Cape,0
+46,Notre Dame de Si,73
+46,Notre Dame de Sion,39
+46,Parkway Central,223
+46,Parkway North,0
+46,Parkway West,89
+46,Platte County,6
+46,Poplar Bluff,4
 46,Principia,18
-46,Rockwood Summit,86
+46,Rockwood Summit,104
 46,STEAM Academy,0
-46,Savannah,0
+46,Savannah,5
 46,Smith-Cotton,0
 46,Smithville,0
 46,St. Charles West,0
 46,St. Dominic,0
-46,St. Michael the,52
+46,St. Michael the,83
 46,St. Pius X Kansa,0
-46,St. Teresa's Aca,153
-46,St. Teresa's Academy,25
+46,St. Teresa's Aca,163
+46,St. Teresa's Academy,23
 46,Summit Christian,0
-46,Timberland,25
-46,Ursuline Academy,48
-46,Villa Duchesne,132
-46,Visitation Acade,158
+46,Timberland,23
+46,Ursuline Academy,51
+46,Villa Duchesne,152
+46,Visitation Acade,150
 46,Visitation Academy,28
 46,Washington,0
-46,Webb City,17
-46,Webster Groves,158
-46,West Plains,28
+46,Webb City,5
+46,Webster Groves,153
+46,West Plains,7
 47,Barstow,0
 47,Bolivar,0
-47,Capital City,18
-47,Carl Junction,14
+47,Capital City,10
+47,Carl Junction,13
 47,Central (Cape Girardeau),0
-47,Central (Springf,8
+47,Central (Springf,3
 47,Central (Springfield),17
-47,Central Cape Gir,53
-47,Clayton,78
-47,Father Tolton,154
-47,Ft. Zumwalt East,23
-47,Ft. Zumwalt Sout,17
-47,Glendale,45
-47,Grain Valley,46
+47,Central Cape Gir,50
+47,Clayton,61
+47,Father Tolton,147
+47,Ft. Zumwalt East,1
+47,Ft. Zumwalt Sout,19
+47,Glendale,36
+47,Grain Valley,64
 47,Grandview,0
-47,Greenwood,9
-47,Hannibal,6
+47,Greenwood,12
+47,Hannibal,8
 47,Holt,0
-47,Incarnate Word A,3
+47,Incarnate Word A,4
 47,Jefferson City,0
-47,John Burroughs,118
-47,Kearney,23
-47,Ladue Horton Wat,69
-47,Ladue Horton Watkins,4
-47,Lebanon,58
-47,Lincoln College,8
+47,John Burroughs,122
+47,Kearney,33
+47,Ladue Horton Wat,40
+47,Ladue Horton Watkins,6
+47,Lebanon,43
+47,Lincoln College,9
 47,Lincoln College Prep,11
 47,Logan-Rogersvill,0
-47,Louisiana,59
-47,Lutheran South,37
-47,Lutheran St. Cha,1
-47,Lutheran St. Charles,6
-47,Mehlville,33
-47,Monett,35
-47,Nerinx Hall,56
-47,Nevada,15
+47,Louisiana,70
+47,Lutheran South,32
+47,Lutheran St. Cha,0
+47,Lutheran St. Charles,5
+47,Mehlville,36
+47,Monett,17
+47,Nerinx Hall,104
+47,Nevada,12
 47,North Point,0
-47,Notre Dame Cape,0
-47,Notre Dame de Si,84
-47,Notre Dame de Sion,41
-47,Parkway Central,226
+47,Notre Dame Cape,3
+47,Notre Dame de Si,45
+47,Notre Dame de Sion,39
+47,Parkway Central,237
 47,Parkway North,0
-47,Parkway West,94
-47,Platte County,2
+47,Parkway West,72
+47,Platte County,3
 47,Poplar Bluff,0
-47,Principia,14
-47,Rockwood Summit,75
+47,Principia,13
+47,Rockwood Summit,96
 47,STEAM Academy,0
-47,Savannah,0
+47,Savannah,1
 47,Smith-Cotton,0
 47,Smithville,0
 47,St. Charles West,0
 47,St. Dominic,0
-47,St. Michael the,50
-47,St. Pius X Kansa,0
-47,St. Teresa's Aca,121
-47,St. Teresa's Academy,21
+47,St. Michael the,88
+47,St. Pius X Kansa,1
+47,St. Teresa's Aca,151
+47,St. Teresa's Academy,24
 47,Summit Christian,0
-47,Timberland,26
-47,Ursuline Academy,70
-47,Villa Duchesne,137
-47,Visitation Acade,135
-47,Visitation Academy,28
+47,Timberland,24
+47,Ursuline Academy,41
+47,Villa Duchesne,131
+47,Visitation Acade,149
+47,Visitation Academy,27
 47,Washington,0
-47,Webb City,6
-47,Webster Groves,147
-47,West Plains,24
+47,Webb City,24
+47,Webster Groves,152
+47,West Plains,19
 48,Barstow,0
 48,Bolivar,0
-48,Capital City,14
-48,Carl Junction,7
+48,Capital City,12
+48,Carl Junction,3
 48,Central (Cape Girardeau),0
-48,Central (Springf,10
+48,Central (Springf,6
 48,Central (Springfield),17
-48,Central Cape Gir,50
-48,Clayton,58
-48,Father Tolton,140
-48,Ft. Zumwalt East,13
-48,Ft. Zumwalt Sout,19
-48,Glendale,42
-48,Grain Valley,87
+48,Central Cape Gir,49
+48,Clayton,72
+48,Father Tolton,144
+48,Ft. Zumwalt East,14
+48,Ft. Zumwalt Sout,10
+48,Glendale,37
+48,Grain Valley,88
 48,Grandview,0
-48,Greenwood,12
-48,Hannibal,4
+48,Greenwood,6
+48,Hannibal,12
 48,Holt,0
-48,Incarnate Word A,1
-48,Jefferson City,1
-48,John Burroughs,97
-48,Kearney,26
-48,Ladue Horton Wat,61
-48,Ladue Horton Watkins,4
-48,Lebanon,72
-48,Lincoln College,5
-48,Lincoln College Prep,11
+48,Incarnate Word A,6
+48,Jefferson City,0
+48,John Burroughs,99
+48,Kearney,23
+48,Ladue Horton Wat,58
+48,Ladue Horton Watkins,5
+48,Lebanon,32
+48,Lincoln College,6
+48,Lincoln College Prep,12
 48,Logan-Rogersvill,0
-48,Louisiana,54
+48,Louisiana,51
 48,Lutheran South,33
 48,Lutheran St. Cha,0
-48,Lutheran St. Charles,1
-48,Mehlville,36
-48,Monett,24
-48,Nerinx Hall,81
-48,Nevada,12
+48,Lutheran St. Charles,4
+48,Mehlville,40
+48,Monett,23
+48,Nerinx Hall,96
+48,Nevada,15
 48,North Point,0
-48,Notre Dame Cape,2
-48,Notre Dame de Si,56
-48,Notre Dame de Sion,41
-48,Parkway Central,233
+48,Notre Dame Cape,0
+48,Notre Dame de Si,75
+48,Notre Dame de Sion,42
+48,Parkway Central,226
 48,Parkway North,0
-48,Parkway West,86
-48,Platte County,0
-48,Poplar Bluff,2
-48,Principia,18
-48,Rockwood Summit,94
+48,Parkway West,110
+48,Platte County,7
+48,Poplar Bluff,0
+48,Principia,20
+48,Rockwood Summit,88
 48,STEAM Academy,0
-48,Savannah,2
+48,Savannah,3
 48,Smith-Cotton,0
 48,Smithville,0
 48,St. Charles West,0
 48,St. Dominic,0
-48,St. Michael the,74
+48,St. Michael the,69
 48,St. Pius X Kansa,0
 48,St. Teresa's Aca,131
-48,St. Teresa's Academy,29
+48,St. Teresa's Academy,22
 48,Summit Christian,0
-48,Timberland,23
-48,Ursuline Academy,42
-48,Villa Duchesne,147
-48,Visitation Acade,143
-48,Visitation Academy,27
+48,Timberland,22
+48,Ursuline Academy,88
+48,Villa Duchesne,133
+48,Visitation Acade,145
+48,Visitation Academy,26
 48,Washington,0
-48,Webb City,11
-48,Webster Groves,156
-48,West Plains,16
+48,Webb City,8
+48,Webster Groves,116
+48,West Plains,21
 49,Barstow,0
 49,Bolivar,0
-49,Capital City,18
+49,Capital City,14
 49,Carl Junction,11
 49,Central (Cape Girardeau),0
-49,Central (Springf,6
+49,Central (Springf,4
 49,Central (Springfield),17
-49,Central Cape Gir,53
-49,Clayton,63
-49,Father Tolton,149
-49,Ft. Zumwalt East,0
-49,Ft. Zumwalt Sout,17
-49,Glendale,37
-49,Grain Valley,76
+49,Central Cape Gir,51
+49,Clayton,91
+49,Father Tolton,148
+49,Ft. Zumwalt East,12
+49,Ft. Zumwalt Sout,14
+49,Glendale,19
+49,Grain Valley,66
 49,Grandview,0
-49,Greenwood,4
-49,Hannibal,15
+49,Greenwood,10
+49,Hannibal,6
 49,Holt,0
-49,Incarnate Word A,7
-49,Jefferson City,1
-49,John Burroughs,115
+49,Incarnate Word A,3
+49,Jefferson City,0
+49,John Burroughs,116
 49,Kearney,27
-49,Ladue Horton Wat,46
-49,Ladue Horton Watkins,9
+49,Ladue Horton Wat,44
+49,Ladue Horton Watkins,3
 49,Lebanon,28
-49,Lincoln College,5
-49,Lincoln College Prep,6
+49,Lincoln College,6
+49,Lincoln College Prep,9
 49,Logan-Rogersvill,0
-49,Louisiana,75
-49,Lutheran South,34
+49,Louisiana,67
+49,Lutheran South,33
 49,Lutheran St. Cha,0
-49,Lutheran St. Charles,3
-49,Mehlville,40
-49,Monett,10
-49,Nerinx Hall,58
-49,Nevada,12
+49,Lutheran St. Charles,5
+49,Mehlville,37
+49,Monett,21
+49,Nerinx Hall,86
+49,Nevada,9
 49,North Point,0
 49,Notre Dame Cape,0
-49,Notre Dame de Si,70
-49,Notre Dame de Sion,40
-49,Parkway Central,239
-49,Parkway North,6
-49,Parkway West,71
-49,Platte County,4
-49,Poplar Bluff,8
-49,Principia,16
-49,Rockwood Summit,88
+49,Notre Dame de Si,59
+49,Notre Dame de Sion,42
+49,Parkway Central,227
+49,Parkway North,0
+49,Parkway West,97
+49,Platte County,1
+49,Poplar Bluff,0
+49,Principia,20
+49,Rockwood Summit,64
 49,STEAM Academy,0
-49,Savannah,3
+49,Savannah,1
 49,Smith-Cotton,0
 49,Smithville,0
 49,St. Charles West,0
 49,St. Dominic,0
-49,St. Michael the,88
+49,St. Michael the,82
 49,St. Pius X Kansa,0
 49,St. Teresa's Aca,149
-49,St. Teresa's Academy,24
+49,St. Teresa's Academy,26
 49,Summit Christian,0
-49,Timberland,25
-49,Ursuline Academy,61
+49,Timberland,32
+49,Ursuline Academy,70
 49,Villa Duchesne,147
-49,Visitation Acade,137
-49,Visitation Academy,30
+49,Visitation Acade,155
+49,Visitation Academy,29
 49,Washington,0
-49,Webb City,11
-49,Webster Groves,136
-49,West Plains,30
+49,Webb City,6
+49,Webster Groves,141
+49,West Plains,20
+50,Barstow,0
+50,Bolivar,0
+50,Capital City,14
+50,Carl Junction,15
+50,Central (Cape Girardeau),0
+50,Central (Springf,3
+50,Central (Springfield),17
+50,Central Cape Gir,46
+50,Clayton,52
+50,Father Tolton,147
+50,Ft. Zumwalt East,19
+50,Ft. Zumwalt Sout,17
+50,Glendale,34
+50,Grain Valley,74
+50,Grandview,0
+50,Greenwood,3
+50,Hannibal,12
+50,Holt,0
+50,Incarnate Word A,4
+50,Jefferson City,0
+50,John Burroughs,111
+50,Kearney,20
+50,Ladue Horton Wat,39
+50,Ladue Horton Watkins,6
+50,Lebanon,41
+50,Lincoln College,5
+50,Lincoln College Prep,11
+50,Logan-Rogersvill,0
+50,Louisiana,67
+50,Lutheran South,37
+50,Lutheran St. Cha,0
+50,Lutheran St. Charles,4
+50,Mehlville,36
+50,Monett,16
+50,Nerinx Hall,100
+50,Nevada,9
+50,North Point,0
+50,Notre Dame Cape,2
+50,Notre Dame de Si,69
+50,Notre Dame de Sion,38
+50,Parkway Central,236
+50,Parkway North,1
+50,Parkway West,91
+50,Platte County,0
+50,Poplar Bluff,0
+50,Principia,19
+50,Rockwood Summit,85
+50,STEAM Academy,0
+50,Savannah,2
+50,Smith-Cotton,0
+50,Smithville,0
+50,St. Charles West,0
+50,St. Dominic,0
+50,St. Michael the,80
+50,St. Pius X Kansa,0
+50,St. Teresa's Aca,160
+50,St. Teresa's Academy,31
+50,Summit Christian,0
+50,Timberland,22
+50,Ursuline Academy,40
+50,Villa Duchesne,155
+50,Visitation Acade,129
+50,Visitation Academy,28
+50,Washington,0
+50,Webb City,6
+50,Webster Groves,157
+50,West Plains,15
+51,Barstow,0
+51,Bolivar,0
+51,Capital City,4
+51,Carl Junction,12
+51,Central (Cape Girardeau),0
+51,Central (Springf,2
+51,Central (Springfield),17
+51,Central Cape Gir,54
+51,Clayton,64
+51,Father Tolton,140
+51,Ft. Zumwalt East,12
+51,Ft. Zumwalt Sout,18
+51,Glendale,45
+51,Grain Valley,73
+51,Grandview,0
+51,Greenwood,11
+51,Hannibal,7
+51,Holt,0
+51,Incarnate Word A,4
+51,Jefferson City,0
+51,John Burroughs,109
+51,Kearney,30
+51,Ladue Horton Wat,59
+51,Ladue Horton Watkins,2
+51,Lebanon,25
+51,Lincoln College,6
+51,Lincoln College Prep,17
+51,Logan-Rogersvill,0
+51,Louisiana,45
+51,Lutheran South,36
+51,Lutheran St. Cha,0
+51,Lutheran St. Charles,4
+51,Mehlville,37
+51,Monett,16
+51,Nerinx Hall,69
+51,Nevada,6
+51,North Point,0
+51,Notre Dame Cape,0
+51,Notre Dame de Si,80
+51,Notre Dame de Sion,39
+51,Parkway Central,220
+51,Parkway North,0
+51,Parkway West,111
+51,Platte County,2
+51,Poplar Bluff,0
+51,Principia,17
+51,Rockwood Summit,77
+51,STEAM Academy,0
+51,Savannah,0
+51,Smith-Cotton,0
+51,Smithville,0
+51,St. Charles West,0
+51,St. Dominic,0
+51,St. Michael the,72
+51,St. Pius X Kansa,0
+51,St. Teresa's Aca,163
+51,St. Teresa's Academy,24
+51,Summit Christian,0
+51,Timberland,33
+51,Ursuline Academy,65
+51,Villa Duchesne,148
+51,Visitation Acade,142
+51,Visitation Academy,27
+51,Washington,0
+51,Webb City,7
+51,Webster Groves,152
+51,West Plains,22
+52,Barstow,0
+52,Bolivar,0
+52,Capital City,12
+52,Carl Junction,11
+52,Central (Cape Girardeau),0
+52,Central (Springf,7
+52,Central (Springfield),17
+52,Central Cape Gir,44
+52,Clayton,64
+52,Father Tolton,149
+52,Ft. Zumwalt East,11
+52,Ft. Zumwalt Sout,17
+52,Glendale,43
+52,Grain Valley,84
+52,Grandview,0
+52,Greenwood,7
+52,Hannibal,12
+52,Holt,0
+52,Incarnate Word A,0
+52,Jefferson City,0
+52,John Burroughs,103
+52,Kearney,50
+52,Ladue Horton Wat,45
+52,Ladue Horton Watkins,2
+52,Lebanon,61
+52,Lincoln College,2
+52,Lincoln College Prep,16
+52,Logan-Rogersvill,0
+52,Louisiana,56
+52,Lutheran South,33
+52,Lutheran St. Cha,0
+52,Lutheran St. Charles,3
+52,Mehlville,37
+52,Monett,20
+52,Nerinx Hall,104
+52,Nevada,9
+52,North Point,0
+52,Notre Dame Cape,8
+52,Notre Dame de Si,57
+52,Notre Dame de Sion,42
+52,Parkway Central,226
+52,Parkway North,0
+52,Parkway West,97
+52,Platte County,2
+52,Poplar Bluff,0
+52,Principia,6
+52,Rockwood Summit,68
+52,STEAM Academy,0
+52,Savannah,0
+52,Smith-Cotton,0
+52,Smithville,0
+52,St. Charles West,0
+52,St. Dominic,0
+52,St. Michael the,61
+52,St. Pius X Kansa,0
+52,St. Teresa's Aca,156
+52,St. Teresa's Academy,22
+52,Summit Christian,0
+52,Timberland,29
+52,Ursuline Academy,68
+52,Villa Duchesne,120
+52,Visitation Acade,152
+52,Visitation Academy,27
+52,Washington,0
+52,Webb City,13
+52,Webster Groves,135
+52,West Plains,17
+53,Barstow,0
+53,Bolivar,0
+53,Capital City,12
+53,Carl Junction,12
+53,Central (Cape Girardeau),0
+53,Central (Springf,4
+53,Central (Springfield),17
+53,Central Cape Gir,52
+53,Clayton,65
+53,Father Tolton,132
+53,Ft. Zumwalt East,15
+53,Ft. Zumwalt Sout,13
+53,Glendale,36
+53,Grain Valley,64
+53,Grandview,0
+53,Greenwood,13
+53,Hannibal,11
+53,Holt,0
+53,Incarnate Word A,4
+53,Jefferson City,0
+53,John Burroughs,111
+53,Kearney,36
+53,Ladue Horton Wat,44
+53,Ladue Horton Watkins,3
+53,Lebanon,52
+53,Lincoln College,10
+53,Lincoln College Prep,13
+53,Logan-Rogersvill,0
+53,Louisiana,47
+53,Lutheran South,37
+53,Lutheran St. Cha,0
+53,Lutheran St. Charles,5
+53,Mehlville,34
+53,Monett,28
+53,Nerinx Hall,103
+53,Nevada,5
+53,North Point,0
+53,Notre Dame Cape,1
+53,Notre Dame de Si,70
+53,Notre Dame de Sion,43
+53,Parkway Central,221
+53,Parkway North,3
+53,Parkway West,66
+53,Platte County,4
+53,Poplar Bluff,0
+53,Principia,18
+53,Rockwood Summit,96
+53,STEAM Academy,0
+53,Savannah,2
+53,Smith-Cotton,0
+53,Smithville,0
+53,St. Charles West,0
+53,St. Dominic,0
+53,St. Michael the,85
+53,St. Pius X Kansa,0
+53,St. Teresa's Aca,167
+53,St. Teresa's Academy,18
+53,Summit Christian,0
+53,Timberland,28
+53,Ursuline Academy,51
+53,Villa Duchesne,132
+53,Visitation Acade,145
+53,Visitation Academy,27
+53,Washington,0
+53,Webb City,11
+53,Webster Groves,143
+53,West Plains,16
+54,Barstow,0
+54,Bolivar,0
+54,Capital City,16
+54,Carl Junction,12
+54,Central (Cape Girardeau),0
+54,Central (Springf,5
+54,Central (Springfield),17
+54,Central Cape Gir,42
+54,Clayton,71
+54,Father Tolton,135
+54,Ft. Zumwalt East,8
+54,Ft. Zumwalt Sout,27
+54,Glendale,41
+54,Grain Valley,67
+54,Grandview,0
+54,Greenwood,5
+54,Hannibal,4
+54,Holt,0
+54,Incarnate Word A,2
+54,Jefferson City,0
+54,John Burroughs,128
+54,Kearney,41
+54,Ladue Horton Wat,71
+54,Ladue Horton Watkins,7
+54,Lebanon,37
+54,Lincoln College,0
+54,Lincoln College Prep,15
+54,Logan-Rogersvill,0
+54,Louisiana,85
+54,Lutheran South,29
+54,Lutheran St. Cha,0
+54,Lutheran St. Charles,4
+54,Mehlville,37
+54,Monett,13
+54,Nerinx Hall,60
+54,Nevada,13
+54,North Point,0
+54,Notre Dame Cape,0
+54,Notre Dame de Si,74
+54,Notre Dame de Sion,44
+54,Parkway Central,229
+54,Parkway North,1
+54,Parkway West,82
+54,Platte County,4
+54,Poplar Bluff,0
+54,Principia,17
+54,Rockwood Summit,88
+54,STEAM Academy,0
+54,Savannah,6
+54,Smith-Cotton,0
+54,Smithville,0
+54,St. Charles West,0
+54,St. Dominic,0
+54,St. Michael the,76
+54,St. Pius X Kansa,0
+54,St. Teresa's Aca,145
+54,St. Teresa's Academy,20
+54,Summit Christian,0
+54,Timberland,27
+54,Ursuline Academy,53
+54,Villa Duchesne,119
+54,Visitation Acade,162
+54,Visitation Academy,27
+54,Washington,0
+54,Webb City,3
+54,Webster Groves,139
+54,West Plains,17
+55,Barstow,0
+55,Bolivar,0
+55,Capital City,11
+55,Carl Junction,11
+55,Central (Cape Girardeau),0
+55,Central (Springf,4
+55,Central (Springfield),17
+55,Central Cape Gir,54
+55,Clayton,70
+55,Father Tolton,160
+55,Ft. Zumwalt East,12
+55,Ft. Zumwalt Sout,16
+55,Glendale,46
+55,Grain Valley,68
+55,Grandview,0
+55,Greenwood,20
+55,Hannibal,15
+55,Holt,0
+55,Incarnate Word A,3
+55,Jefferson City,5
+55,John Burroughs,113
+55,Kearney,26
+55,Ladue Horton Wat,43
+55,Ladue Horton Watkins,4
+55,Lebanon,49
+55,Lincoln College,5
+55,Lincoln College Prep,9
+55,Logan-Rogersvill,0
+55,Louisiana,62
+55,Lutheran South,31
+55,Lutheran St. Cha,0
+55,Lutheran St. Charles,2
+55,Mehlville,37
+55,Monett,16
+55,Nerinx Hall,45
+55,Nevada,9
+55,North Point,0
+55,Notre Dame Cape,0
+55,Notre Dame de Si,67
+55,Notre Dame de Sion,42
+55,Parkway Central,240
+55,Parkway North,0
+55,Parkway West,80
+55,Platte County,2
+55,Poplar Bluff,4
+55,Principia,5
+55,Rockwood Summit,84
+55,STEAM Academy,0
+55,Savannah,2
+55,Smith-Cotton,0
+55,Smithville,0
+55,St. Charles West,0
+55,St. Dominic,0
+55,St. Michael the,75
+55,St. Pius X Kansa,0
+55,St. Teresa's Aca,153
+55,St. Teresa's Academy,26
+55,Summit Christian,0
+55,Timberland,21
+55,Ursuline Academy,62
+55,Villa Duchesne,145
+55,Visitation Acade,143
+55,Visitation Academy,29
+55,Washington,0
+55,Webb City,16
+55,Webster Groves,149
+55,West Plains,17
+56,Barstow,0
+56,Bolivar,0
+56,Capital City,13
+56,Carl Junction,14
+56,Central (Cape Girardeau),0
+56,Central (Springf,3
+56,Central (Springfield),17
+56,Central Cape Gir,51
+56,Clayton,69
+56,Father Tolton,159
+56,Ft. Zumwalt East,17
+56,Ft. Zumwalt Sout,16
+56,Glendale,44
+56,Grain Valley,49
+56,Grandview,0
+56,Greenwood,7
+56,Hannibal,12
+56,Holt,0
+56,Incarnate Word A,0
+56,Jefferson City,0
+56,John Burroughs,101
+56,Kearney,45
+56,Ladue Horton Wat,45
+56,Ladue Horton Watkins,4
+56,Lebanon,39
+56,Lincoln College,0
+56,Lincoln College Prep,12
+56,Logan-Rogersvill,0
+56,Louisiana,61
+56,Lutheran South,32
+56,Lutheran St. Cha,0
+56,Lutheran St. Charles,2
+56,Mehlville,36
+56,Monett,25
+56,Nerinx Hall,97
+56,Nevada,15
+56,North Point,0
+56,Notre Dame Cape,0
+56,Notre Dame de Si,69
+56,Notre Dame de Sion,42
+56,Parkway Central,222
+56,Parkway North,0
+56,Parkway West,56
+56,Platte County,4
+56,Poplar Bluff,0
+56,Principia,14
+56,Rockwood Summit,92
+56,STEAM Academy,0
+56,Savannah,0
+56,Smith-Cotton,0
+56,Smithville,0
+56,St. Charles West,0
+56,St. Dominic,0
+56,St. Michael the,66
+56,St. Pius X Kansa,0
+56,St. Teresa's Aca,146
+56,St. Teresa's Academy,24
+56,Summit Christian,4
+56,Timberland,23
+56,Ursuline Academy,74
+56,Villa Duchesne,129
+56,Visitation Acade,146
+56,Visitation Academy,28
+56,Washington,0
+56,Webb City,15
+56,Webster Groves,158
+56,West Plains,28
+57,Barstow,0
+57,Bolivar,0
+57,Capital City,14
+57,Carl Junction,17
+57,Central (Cape Girardeau),0
+57,Central (Springf,3
+57,Central (Springfield),17
+57,Central Cape Gir,60
+57,Clayton,66
+57,Father Tolton,143
+57,Ft. Zumwalt East,10
+57,Ft. Zumwalt Sout,19
+57,Glendale,42
+57,Grain Valley,82
+57,Grandview,0
+57,Greenwood,7
+57,Hannibal,11
+57,Holt,0
+57,Incarnate Word A,1
+57,Jefferson City,2
+57,John Burroughs,103
+57,Kearney,65
+57,Ladue Horton Wat,51
+57,Ladue Horton Watkins,3
+57,Lebanon,27
+57,Lincoln College,5
+57,Lincoln College Prep,5
+57,Logan-Rogersvill,0
+57,Louisiana,43
+57,Lutheran South,33
+57,Lutheran St. Cha,0
+57,Lutheran St. Charles,7
+57,Mehlville,26
+57,Monett,23
+57,Nerinx Hall,67
+57,Nevada,9
+57,North Point,0
+57,Notre Dame Cape,6
+57,Notre Dame de Si,57
+57,Notre Dame de Sion,42
+57,Parkway Central,228
+57,Parkway North,0
+57,Parkway West,73
+57,Platte County,0
+57,Poplar Bluff,0
+57,Principia,20
+57,Rockwood Summit,84
+57,STEAM Academy,0
+57,Savannah,6
+57,Smith-Cotton,0
+57,Smithville,0
+57,St. Charles West,0
+57,St. Dominic,0
+57,St. Michael the,90
+57,St. Pius X Kansa,0
+57,St. Teresa's Aca,154
+57,St. Teresa's Academy,28
+57,Summit Christian,0
+57,Timberland,30
+57,Ursuline Academy,63
+57,Villa Duchesne,121
+57,Visitation Acade,140
+57,Visitation Academy,28
+57,Washington,0
+57,Webb City,23
+57,Webster Groves,153
+57,West Plains,18
+58,Barstow,0
+58,Bolivar,0
+58,Capital City,18
+58,Carl Junction,11
+58,Central (Cape Girardeau),0
+58,Central (Springf,0
+58,Central (Springfield),17
+58,Central Cape Gir,47
+58,Clayton,72
+58,Father Tolton,145
+58,Ft. Zumwalt East,19
+58,Ft. Zumwalt Sout,15
+58,Glendale,42
+58,Grain Valley,87
+58,Grandview,0
+58,Greenwood,6
+58,Hannibal,12
+58,Holt,0
+58,Incarnate Word A,0
+58,Jefferson City,0
+58,John Burroughs,88
+58,Kearney,31
+58,Ladue Horton Wat,63
+58,Ladue Horton Watkins,3
+58,Lebanon,31
+58,Lincoln College,3
+58,Lincoln College Prep,8
+58,Logan-Rogersvill,0
+58,Louisiana,43
+58,Lutheran South,34
+58,Lutheran St. Cha,0
+58,Lutheran St. Charles,4
+58,Mehlville,34
+58,Monett,25
+58,Nerinx Hall,70
+58,Nevada,9
+58,North Point,0
+58,Notre Dame Cape,4
+58,Notre Dame de Si,69
+58,Notre Dame de Sion,42
+58,Parkway Central,235
+58,Parkway North,2
+58,Parkway West,71
+58,Platte County,11
+58,Poplar Bluff,0
+58,Principia,16
+58,Rockwood Summit,74
+58,STEAM Academy,0
+58,Savannah,0
+58,Smith-Cotton,0
+58,Smithville,0
+58,St. Charles West,0
+58,St. Dominic,0
+58,St. Michael the,91
+58,St. Pius X Kansa,0
+58,St. Teresa's Aca,153
+58,St. Teresa's Academy,26
+58,Summit Christian,0
+58,Timberland,21
+58,Ursuline Academy,70
+58,Villa Duchesne,156
+58,Visitation Acade,145
+58,Visitation Academy,28
+58,Washington,0
+58,Webb City,10
+58,Webster Groves,153
+58,West Plains,11
+59,Barstow,0
+59,Bolivar,0
+59,Capital City,11
+59,Carl Junction,14
+59,Central (Cape Girardeau),0
+59,Central (Springf,1
+59,Central (Springfield),17
+59,Central Cape Gir,64
+59,Clayton,72
+59,Father Tolton,152
+59,Ft. Zumwalt East,15
+59,Ft. Zumwalt Sout,15
+59,Glendale,13
+59,Grain Valley,73
+59,Grandview,9
+59,Greenwood,13
+59,Hannibal,12
+59,Holt,0
+59,Incarnate Word A,0
+59,Jefferson City,0
+59,John Burroughs,112
+59,Kearney,34
+59,Ladue Horton Wat,43
+59,Ladue Horton Watkins,5
+59,Lebanon,29
+59,Lincoln College,11
+59,Lincoln College Prep,12
+59,Logan-Rogersvill,0
+59,Louisiana,46
+59,Lutheran South,32
+59,Lutheran St. Cha,0
+59,Lutheran St. Charles,1
+59,Mehlville,37
+59,Monett,11
+59,Nerinx Hall,104
+59,Nevada,12
+59,North Point,0
+59,Notre Dame Cape,7
+59,Notre Dame de Si,83
+59,Notre Dame de Sion,40
+59,Parkway Central,210
+59,Parkway North,5
+59,Parkway West,96
+59,Platte County,4
+59,Poplar Bluff,0
+59,Principia,11
+59,Rockwood Summit,84
+59,STEAM Academy,0
+59,Savannah,0
+59,Smith-Cotton,0
+59,Smithville,0
+59,St. Charles West,0
+59,St. Dominic,0
+59,St. Michael the,84
+59,St. Pius X Kansa,0
+59,St. Teresa's Aca,141
+59,St. Teresa's Academy,27
+59,Summit Christian,0
+59,Timberland,28
+59,Ursuline Academy,48
+59,Villa Duchesne,119
+59,Visitation Acade,154
+59,Visitation Academy,28
+59,Washington,0
+59,Webb City,7
+59,Webster Groves,161
+59,West Plains,18
+60,Barstow,0
+60,Bolivar,0
+60,Capital City,16
+60,Carl Junction,12
+60,Central (Cape Girardeau),0
+60,Central (Springf,1
+60,Central (Springfield),17
+60,Central Cape Gir,47
+60,Clayton,70
+60,Father Tolton,139
+60,Ft. Zumwalt East,8
+60,Ft. Zumwalt Sout,12
+60,Glendale,30
+60,Grain Valley,78
+60,Grandview,0
+60,Greenwood,6
+60,Hannibal,11
+60,Holt,0
+60,Incarnate Word A,3
+60,Jefferson City,0
+60,John Burroughs,110
+60,Kearney,36
+60,Ladue Horton Wat,64
+60,Ladue Horton Watkins,4
+60,Lebanon,47
+60,Lincoln College,1
+60,Lincoln College Prep,15
+60,Logan-Rogersvill,0
+60,Louisiana,49
+60,Lutheran South,36
+60,Lutheran St. Cha,0
+60,Lutheran St. Charles,6
+60,Mehlville,35
+60,Monett,8
+60,Nerinx Hall,81
+60,Nevada,4
+60,North Point,0
+60,Notre Dame Cape,2
+60,Notre Dame de Si,69
+60,Notre Dame de Sion,40
+60,Parkway Central,245
+60,Parkway North,0
+60,Parkway West,87
+60,Platte County,1
+60,Poplar Bluff,0
+60,Principia,17
+60,Rockwood Summit,80
+60,STEAM Academy,0
+60,Savannah,2
+60,Smith-Cotton,0
+60,Smithville,0
+60,St. Charles West,0
+60,St. Dominic,0
+60,St. Michael the,69
+60,St. Pius X Kansa,0
+60,St. Teresa's Aca,140
+60,St. Teresa's Academy,21
+60,Summit Christian,0
+60,Timberland,26
+60,Ursuline Academy,83
+60,Villa Duchesne,139
+60,Visitation Acade,152
+60,Visitation Academy,29
+60,Washington,0
+60,Webb City,8
+60,Webster Groves,151
+60,West Plains,18
+61,Barstow,0
+61,Bolivar,0
+61,Capital City,8
+61,Carl Junction,16
+61,Central (Cape Girardeau),0
+61,Central (Springf,0
+61,Central (Springfield),17
+61,Central Cape Gir,53
+61,Clayton,65
+61,Father Tolton,150
+61,Ft. Zumwalt East,21
+61,Ft. Zumwalt Sout,18
+61,Glendale,76
+61,Grain Valley,80
+61,Grandview,0
+61,Greenwood,12
+61,Hannibal,7
+61,Holt,0
+61,Incarnate Word A,3
+61,Jefferson City,0
+61,John Burroughs,103
+61,Kearney,26
+61,Ladue Horton Wat,47
+61,Ladue Horton Watkins,5
+61,Lebanon,44
+61,Lincoln College,2
+61,Lincoln College Prep,12
+61,Logan-Rogersvill,0
+61,Louisiana,57
+61,Lutheran South,32
+61,Lutheran St. Cha,0
+61,Lutheran St. Charles,4
+61,Mehlville,37
+61,Monett,34
+61,Nerinx Hall,65
+61,Nevada,11
+61,North Point,0
+61,Notre Dame Cape,0
+61,Notre Dame de Si,84
+61,Notre Dame de Sion,42
+61,Parkway Central,231
+61,Parkway North,1
+61,Parkway West,90
+61,Platte County,4
+61,Poplar Bluff,24
+61,Principia,15
+61,Rockwood Summit,91
+61,STEAM Academy,0
+61,Savannah,0
+61,Smith-Cotton,0
+61,Smithville,0
+61,St. Charles West,0
+61,St. Dominic,0
+61,St. Michael the,49
+61,St. Pius X Kansa,0
+61,St. Teresa's Aca,152
+61,St. Teresa's Academy,19
+61,Summit Christian,0
+61,Timberland,25
+61,Ursuline Academy,36
+61,Villa Duchesne,136
+61,Visitation Acade,135
+61,Visitation Academy,28
+61,Washington,0
+61,Webb City,0
+61,Webster Groves,139
+61,West Plains,19
+62,Barstow,0
+62,Bolivar,0
+62,Capital City,9
+62,Carl Junction,20
+62,Central (Cape Girardeau),0
+62,Central (Springf,2
+62,Central (Springfield),17
+62,Central Cape Gir,40
+62,Clayton,67
+62,Father Tolton,160
+62,Ft. Zumwalt East,18
+62,Ft. Zumwalt Sout,20
+62,Glendale,37
+62,Grain Valley,92
+62,Grandview,0
+62,Greenwood,13
+62,Hannibal,11
+62,Holt,0
+62,Incarnate Word A,5
+62,Jefferson City,5
+62,John Burroughs,107
+62,Kearney,27
+62,Ladue Horton Wat,47
+62,Ladue Horton Watkins,5
+62,Lebanon,35
+62,Lincoln College,9
+62,Lincoln College Prep,11
+62,Logan-Rogersvill,0
+62,Louisiana,65
+62,Lutheran South,36
+62,Lutheran St. Cha,2
+62,Lutheran St. Charles,4
+62,Mehlville,32
+62,Monett,12
+62,Nerinx Hall,83
+62,Nevada,6
+62,North Point,0
+62,Notre Dame Cape,0
+62,Notre Dame de Si,58
+62,Notre Dame de Sion,39
+62,Parkway Central,220
+62,Parkway North,0
+62,Parkway West,96
+62,Platte County,3
+62,Poplar Bluff,0
+62,Principia,12
+62,Rockwood Summit,97
+62,STEAM Academy,0
+62,Savannah,1
+62,Smith-Cotton,0
+62,Smithville,2
+62,St. Charles West,0
+62,St. Dominic,0
+62,St. Michael the,80
+62,St. Pius X Kansa,0
+62,St. Teresa's Aca,131
+62,St. Teresa's Academy,24
+62,Summit Christian,0
+62,Timberland,21
+62,Ursuline Academy,61
+62,Villa Duchesne,136
+62,Visitation Acade,148
+62,Visitation Academy,27
+62,Washington,0
+62,Webb City,9
+62,Webster Groves,149
+62,West Plains,14
+63,Barstow,0
+63,Bolivar,0
+63,Capital City,9
+63,Carl Junction,13
+63,Central (Cape Girardeau),0
+63,Central (Springf,3
+63,Central (Springfield),17
+63,Central Cape Gir,47
+63,Clayton,63
+63,Father Tolton,144
+63,Ft. Zumwalt East,14
+63,Ft. Zumwalt Sout,18
+63,Glendale,47
+63,Grain Valley,75
+63,Grandview,0
+63,Greenwood,2
+63,Hannibal,9
+63,Holt,0
+63,Incarnate Word A,0
+63,Jefferson City,0
+63,John Burroughs,126
+63,Kearney,27
+63,Ladue Horton Wat,38
+63,Ladue Horton Watkins,5
+63,Lebanon,48
+63,Lincoln College,3
+63,Lincoln College Prep,11
+63,Logan-Rogersvill,0
+63,Louisiana,65
+63,Lutheran South,37
+63,Lutheran St. Cha,0
+63,Lutheran St. Charles,4
+63,Mehlville,37
+63,Monett,23
+63,Nerinx Hall,55
+63,Nevada,13
+63,North Point,0
+63,Notre Dame Cape,1
+63,Notre Dame de Si,59
+63,Notre Dame de Sion,45
+63,Parkway Central,256
+63,Parkway North,2
+63,Parkway West,71
+63,Platte County,2
+63,Poplar Bluff,0
+63,Principia,17
+63,Rockwood Summit,96
+63,STEAM Academy,0
+63,Savannah,3
+63,Smith-Cotton,0
+63,Smithville,0
+63,St. Charles West,0
+63,St. Dominic,0
+63,St. Michael the,107
+63,St. Pius X Kansa,0
+63,St. Teresa's Aca,160
+63,St. Teresa's Academy,22
+63,Summit Christian,0
+63,Timberland,27
+63,Ursuline Academy,61
+63,Villa Duchesne,125
+63,Visitation Acade,146
+63,Visitation Academy,27
+63,Washington,0
+63,Webb City,8
+63,Webster Groves,114
+63,West Plains,23
+64,Barstow,0
+64,Bolivar,0
+64,Capital City,13
+64,Carl Junction,14
+64,Central (Cape Girardeau),0
+64,Central (Springf,1
+64,Central (Springfield),17
+64,Central Cape Gir,51
+64,Clayton,58
+64,Father Tolton,147
+64,Ft. Zumwalt East,14
+64,Ft. Zumwalt Sout,20
+64,Glendale,24
+64,Grain Valley,48
+64,Grandview,0
+64,Greenwood,8
+64,Hannibal,11
+64,Holt,0
+64,Incarnate Word A,4
+64,Jefferson City,0
+64,John Burroughs,113
+64,Kearney,42
+64,Ladue Horton Wat,60
+64,Ladue Horton Watkins,3
+64,Lebanon,36
+64,Lincoln College,2
+64,Lincoln College Prep,9
+64,Logan-Rogersvill,0
+64,Louisiana,56
+64,Lutheran South,34
+64,Lutheran St. Cha,1
+64,Lutheran St. Charles,1
+64,Mehlville,34
+64,Monett,40
+64,Nerinx Hall,72
+64,Nevada,12
+64,North Point,0
+64,Notre Dame Cape,0
+64,Notre Dame de Si,79
+64,Notre Dame de Sion,42
+64,Parkway Central,224
+64,Parkway North,2
+64,Parkway West,71
+64,Platte County,0
+64,Poplar Bluff,0
+64,Principia,3
+64,Rockwood Summit,89
+64,STEAM Academy,0
+64,Savannah,1
+64,Smith-Cotton,0
+64,Smithville,0
+64,St. Charles West,0
+64,St. Dominic,0
+64,St. Michael the,79
+64,St. Pius X Kansa,0
+64,St. Teresa's Aca,143
+64,St. Teresa's Academy,27
+64,Summit Christian,0
+64,Timberland,26
+64,Ursuline Academy,67
+64,Villa Duchesne,156
+64,Visitation Acade,146
+64,Visitation Academy,27
+64,Washington,0
+64,Webb City,17
+64,Webster Groves,153
+64,West Plains,28
+65,Barstow,0
+65,Bolivar,0
+65,Capital City,14
+65,Carl Junction,14
+65,Central (Cape Girardeau),0
+65,Central (Springf,6
+65,Central (Springfield),17
+65,Central Cape Gir,54
+65,Clayton,54
+65,Father Tolton,151
+65,Ft. Zumwalt East,10
+65,Ft. Zumwalt Sout,16
+65,Glendale,47
+65,Grain Valley,68
+65,Grandview,0
+65,Greenwood,6
+65,Hannibal,9
+65,Holt,0
+65,Incarnate Word A,0
+65,Jefferson City,0
+65,John Burroughs,125
+65,Kearney,47
+65,Ladue Horton Wat,31
+65,Ladue Horton Watkins,6
+65,Lebanon,51
+65,Lincoln College,14
+65,Lincoln College Prep,10
+65,Logan-Rogersvill,0
+65,Louisiana,64
+65,Lutheran South,32
+65,Lutheran St. Cha,3
+65,Lutheran St. Charles,5
+65,Mehlville,33
+65,Monett,25
+65,Nerinx Hall,71
+65,Nevada,11
+65,North Point,0
+65,Notre Dame Cape,0
+65,Notre Dame de Si,76
+65,Notre Dame de Sion,38
+65,Parkway Central,236
+65,Parkway North,0
+65,Parkway West,85
+65,Platte County,8
+65,Poplar Bluff,0
+65,Principia,21
+65,Rockwood Summit,79
+65,STEAM Academy,0
+65,Savannah,3
+65,Smith-Cotton,0
+65,Smithville,0
+65,St. Charles West,0
+65,St. Dominic,0
+65,St. Michael the,53
+65,St. Pius X Kansa,0
+65,St. Teresa's Aca,162
+65,St. Teresa's Academy,27
+65,Summit Christian,0
+65,Timberland,15
+65,Ursuline Academy,60
+65,Villa Duchesne,124
+65,Visitation Acade,141
+65,Visitation Academy,25
+65,Washington,0
+65,Webb City,7
+65,Webster Groves,140
+65,West Plains,31
+66,Barstow,0
+66,Bolivar,0
+66,Capital City,6
+66,Carl Junction,15
+66,Central (Cape Girardeau),0
+66,Central (Springf,17
+66,Central (Springfield),17
+66,Central Cape Gir,52
+66,Clayton,78
+66,Father Tolton,136
+66,Ft. Zumwalt East,24
+66,Ft. Zumwalt Sout,14
+66,Glendale,38
+66,Grain Valley,63
+66,Grandview,0
+66,Greenwood,5
+66,Hannibal,7
+66,Holt,0
+66,Incarnate Word A,4
+66,Jefferson City,2
+66,John Burroughs,109
+66,Kearney,20
+66,Ladue Horton Wat,52
+66,Ladue Horton Watkins,5
+66,Lebanon,59
+66,Lincoln College,2
+66,Lincoln College Prep,7
+66,Logan-Rogersvill,0
+66,Louisiana,38
+66,Lutheran South,33
+66,Lutheran St. Cha,1
+66,Lutheran St. Charles,4
+66,Mehlville,36
+66,Monett,10
+66,Nerinx Hall,80
+66,Nevada,13
+66,North Point,0
+66,Notre Dame Cape,0
+66,Notre Dame de Si,45
+66,Notre Dame de Sion,45
+66,Parkway Central,233
+66,Parkway North,1
+66,Parkway West,95
+66,Platte County,1
+66,Poplar Bluff,2
+66,Principia,18
+66,Rockwood Summit,95
+66,STEAM Academy,0
+66,Savannah,6
+66,Smith-Cotton,0
+66,Smithville,0
+66,St. Charles West,0
+66,St. Dominic,0
+66,St. Michael the,62
+66,St. Pius X Kansa,0
+66,St. Teresa's Aca,161
+66,St. Teresa's Academy,24
+66,Summit Christian,0
+66,Timberland,21
+66,Ursuline Academy,92
+66,Villa Duchesne,131
+66,Visitation Acade,140
+66,Visitation Academy,28
+66,Washington,0
+66,Webb City,2
+66,Webster Groves,159
+66,West Plains,17

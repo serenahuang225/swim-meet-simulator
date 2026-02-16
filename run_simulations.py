@@ -188,7 +188,7 @@ def simulate_one_meet(df, assignments, relay_assignments=None, dive_df=None):
     return full, full.groupby("team")["points"].sum().to_dict()
 
 
-def run_monte_carlo(df, assignments, relay_assignments=None, dive_df=None, n_sims=500):
+def run_monte_carlo(df, assignments, relay_assignments=None, dive_df=None, n_sims=67):
     team_rows = []
     all_results = []
     for i in tqdm(range(n_sims), desc="Monte Carlo"):
@@ -284,7 +284,7 @@ def main():
     parser = argparse.ArgumentParser(description="Run swim meet simulation (ILP or Psych). Reads data/, writes results/.")
     parser.add_argument("--class", dest="class_num", choices=["1", "2"], required=True, help="Class 1 or 2")
     parser.add_argument("--mode", choices=["ilp", "psych"], required=True, help="ILP (optimized) or psych (actual entries)")
-    parser.add_argument("-n", "--n-sims", type=int, default=500, help="Number of Monte Carlo runs")
+    parser.add_argument("-n", "--n-sims", type=int, default=67, help="Number of Monte Carlo runs")
     parser.add_argument("--data-dir", type=Path, default=DATA_DIR, help="Data directory")
     parser.add_argument("--results-dir", type=Path, default=RESULTS_DIR, help="Results directory")
     parser.add_argument("--no-dive", action="store_true", help="Skip diving")

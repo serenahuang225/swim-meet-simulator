@@ -1,2101 +1,2815 @@
 simulation_id,team,points
-0,Blue Springs,15
-0,Blue Springs South,94
-0,Carthage,16
+0,Blue Springs,12
+0,Blue Springs South,49
+0,Carthage,13
 0,Central (St. Joseph),0
-0,Cor Jesu Academy,25
-0,Eureka,105
-0,Francis Howell,13
+0,Cor Jesu Academy,31
+0,Eureka,86
+0,Francis Howell,25
 0,Francis Howell Central,2
 0,Francis Howell North,0
-0,Ft. Zumwalt North,3
-0,Hickman,74
-0,Jackson,16
+0,Ft. Zumwalt North,0
+0,Hickman,86
+0,Jackson,41
 0,Kickapoo,0
-0,Kirkwood,169
-0,Lafayette (Wildwood),69
-0,Lee's Summit,29
-0,Lee's Summit North,41
-0,Lee's Summit West,38
-0,Liberty,108
-0,Liberty (Wentzville),4
-0,Liberty North,118
-0,Lindbergh,16
-0,MICDS,24
-0,Marquette,89
+0,Kirkwood,166
+0,Lafayette (Wildwood),72
+0,Lee's Summit,37
+0,Lee's Summit North,36
+0,Lee's Summit West,22
+0,Liberty,104
+0,Liberty (Wentzville),10
+0,Liberty North,96
+0,Lindbergh,18
+0,MICDS,11
+0,Marquette,93
 0,Nixa,0
 0,North Kansas City,0
 0,Oak Park,0
 0,Oakville,0
-0,Ozark,18
-0,Park Hill,15
-0,Park Hill South,298
-0,Parkway South,157
-0,Pattonville,33
-0,Pembroke Hill,96
-0,Raymore-Peculiar,29
-0,Republic,4
-0,Rock Bridge,187
-0,St. Joseph's Academy,248
-0,Staley,77
+0,Ozark,24
+0,Park Hill,16
+0,Park Hill South,296
+0,Parkway South,185
+0,Pattonville,31
+0,Pembroke Hill,100
+0,Raymore-Peculiar,14
+0,Republic,21
+0,Rock Bridge,177
+0,St. Joseph's Academy,275
+0,Staley,75
 0,Truman,0
 0,Waynesville,0
-0,Westminster Christian Academy,95
-1,Blue Springs,16
-1,Blue Springs South,54
-1,Carthage,15
+0,Westminster Christian Academy,101
+1,Blue Springs,18
+1,Blue Springs South,61
+1,Carthage,7
 1,Central (St. Joseph),0
-1,Cor Jesu Academy,32
-1,Eureka,80
-1,Francis Howell,6
-1,Francis Howell Central,3
+1,Cor Jesu Academy,23
+1,Eureka,83
+1,Francis Howell,5
+1,Francis Howell Central,2
 1,Francis Howell North,0
-1,Ft. Zumwalt North,2
-1,Hickman,85
-1,Jackson,36
+1,Ft. Zumwalt North,17
+1,Hickman,91
+1,Jackson,43
 1,Kickapoo,0
-1,Kirkwood,168
-1,Lafayette (Wildwood),45
-1,Lee's Summit,34
-1,Lee's Summit North,38
-1,Lee's Summit West,46
-1,Liberty,95
-1,Liberty (Wentzville),0
-1,Liberty North,88
-1,Lindbergh,31
-1,MICDS,12
-1,Marquette,117
+1,Kirkwood,148
+1,Lafayette (Wildwood),40
+1,Lee's Summit,33
+1,Lee's Summit North,51
+1,Lee's Summit West,36
+1,Liberty,111
+1,Liberty (Wentzville),1
+1,Liberty North,78
+1,Lindbergh,19
+1,MICDS,39
+1,Marquette,94
 1,Nixa,0
 1,North Kansas City,0
 1,Oak Park,0
 1,Oakville,0
-1,Ozark,16
+1,Ozark,8
 1,Park Hill,15
-1,Park Hill South,301
-1,Parkway South,156
-1,Pattonville,34
-1,Pembroke Hill,113
-1,Raymore-Peculiar,12
-1,Republic,20
-1,Rock Bridge,171
-1,St. Joseph's Academy,291
-1,Staley,87
-1,Truman,3
+1,Park Hill South,275
+1,Parkway South,167
+1,Pattonville,32
+1,Pembroke Hill,91
+1,Raymore-Peculiar,14
+1,Republic,26
+1,Rock Bridge,215
+1,St. Joseph's Academy,294
+1,Staley,131
+1,Truman,1
 1,Waynesville,0
-1,Westminster Christian Academy,103
-2,Blue Springs,13
-2,Blue Springs South,70
-2,Carthage,15
+1,Westminster Christian Academy,56
+2,Blue Springs,9
+2,Blue Springs South,63
+2,Carthage,16
 2,Central (St. Joseph),0
-2,Cor Jesu Academy,52
-2,Eureka,85
-2,Francis Howell,17
+2,Cor Jesu Academy,24
+2,Eureka,69
+2,Francis Howell,19
 2,Francis Howell Central,4
 2,Francis Howell North,0
-2,Ft. Zumwalt North,10
-2,Hickman,80
-2,Jackson,28
+2,Ft. Zumwalt North,8
+2,Hickman,70
+2,Jackson,44
 2,Kickapoo,0
-2,Kirkwood,139
-2,Lafayette (Wildwood),52
-2,Lee's Summit,32
-2,Lee's Summit North,29
-2,Lee's Summit West,23
-2,Liberty,113
-2,Liberty (Wentzville),1
-2,Liberty North,98
-2,Lindbergh,29
-2,MICDS,18
-2,Marquette,115
+2,Kirkwood,167
+2,Lafayette (Wildwood),73
+2,Lee's Summit,43
+2,Lee's Summit North,39
+2,Lee's Summit West,27
+2,Liberty,105
+2,Liberty (Wentzville),0
+2,Liberty North,97
+2,Lindbergh,18
+2,MICDS,22
+2,Marquette,101
 2,Nixa,0
 2,North Kansas City,0
 2,Oak Park,0
 2,Oakville,0
-2,Ozark,29
+2,Ozark,23
 2,Park Hill,16
-2,Park Hill South,282
-2,Parkway South,174
-2,Pattonville,37
-2,Pembroke Hill,101
-2,Raymore-Peculiar,14
-2,Republic,0
-2,Rock Bridge,193
-2,St. Joseph's Academy,288
-2,Staley,73
-2,Truman,2
+2,Park Hill South,297
+2,Parkway South,154
+2,Pattonville,33
+2,Pembroke Hill,97
+2,Raymore-Peculiar,15
+2,Republic,14
+2,Rock Bridge,176
+2,St. Joseph's Academy,286
+2,Staley,100
+2,Truman,1
 2,Waynesville,0
-2,Westminster Christian Academy,93
-3,Blue Springs,17
-3,Blue Springs South,60
-3,Carthage,14
+2,Westminster Christian Academy,95
+3,Blue Springs,9
+3,Blue Springs South,56
+3,Carthage,13
 3,Central (St. Joseph),0
 3,Cor Jesu Academy,32
-3,Eureka,74
-3,Francis Howell,9
+3,Eureka,79
+3,Francis Howell,6
 3,Francis Howell Central,0
 3,Francis Howell North,0
-3,Ft. Zumwalt North,7
-3,Hickman,65
-3,Jackson,34
+3,Ft. Zumwalt North,5
+3,Hickman,101
+3,Jackson,36
 3,Kickapoo,0
-3,Kirkwood,142
-3,Lafayette (Wildwood),74
-3,Lee's Summit,27
-3,Lee's Summit North,38
-3,Lee's Summit West,40
-3,Liberty,120
+3,Kirkwood,164
+3,Lafayette (Wildwood),57
+3,Lee's Summit,34
+3,Lee's Summit North,34
+3,Lee's Summit West,19
+3,Liberty,67
 3,Liberty (Wentzville),1
-3,Liberty North,83
-3,Lindbergh,23
-3,MICDS,19
-3,Marquette,106
+3,Liberty North,95
+3,Lindbergh,24
+3,MICDS,17
+3,Marquette,115
 3,Nixa,0
 3,North Kansas City,0
 3,Oak Park,0
 3,Oakville,0
-3,Ozark,15
-3,Park Hill,15
-3,Park Hill South,306
-3,Parkway South,181
+3,Ozark,12
+3,Park Hill,16
+3,Park Hill South,319
+3,Parkway South,158
 3,Pattonville,36
-3,Pembroke Hill,112
-3,Raymore-Peculiar,13
-3,Republic,7
-3,Rock Bridge,189
-3,St. Joseph's Academy,274
-3,Staley,96
-3,Truman,0
+3,Pembroke Hill,107
+3,Raymore-Peculiar,14
+3,Republic,22
+3,Rock Bridge,191
+3,St. Joseph's Academy,294
+3,Staley,92
+3,Truman,1
 3,Waynesville,0
-3,Westminster Christian Academy,96
-4,Blue Springs,19
-4,Blue Springs South,40
-4,Carthage,12
+3,Westminster Christian Academy,99
+4,Blue Springs,13
+4,Blue Springs South,81
+4,Carthage,5
 4,Central (St. Joseph),0
-4,Cor Jesu Academy,29
-4,Eureka,102
-4,Francis Howell,9
-4,Francis Howell Central,2
+4,Cor Jesu Academy,38
+4,Eureka,94
+4,Francis Howell,39
+4,Francis Howell Central,0
 4,Francis Howell North,0
-4,Ft. Zumwalt North,16
-4,Hickman,86
-4,Jackson,38
+4,Ft. Zumwalt North,8
+4,Hickman,79
+4,Jackson,23
 4,Kickapoo,0
-4,Kirkwood,155
+4,Kirkwood,145
 4,Lafayette (Wildwood),59
-4,Lee's Summit,39
-4,Lee's Summit North,36
-4,Lee's Summit West,45
-4,Liberty,124
-4,Liberty (Wentzville),3
-4,Liberty North,92
-4,Lindbergh,16
-4,MICDS,19
-4,Marquette,110
+4,Lee's Summit,38
+4,Lee's Summit North,44
+4,Lee's Summit West,31
+4,Liberty,99
+4,Liberty (Wentzville),4
+4,Liberty North,101
+4,Lindbergh,23
+4,MICDS,12
+4,Marquette,95
 4,Nixa,0
 4,North Kansas City,0
 4,Oak Park,0
 4,Oakville,0
-4,Ozark,6
-4,Park Hill,14
-4,Park Hill South,292
-4,Parkway South,156
-4,Pattonville,33
-4,Pembroke Hill,102
-4,Raymore-Peculiar,28
-4,Republic,23
-4,Rock Bridge,181
-4,St. Joseph's Academy,269
-4,Staley,92
-4,Truman,4
+4,Ozark,21
+4,Park Hill,16
+4,Park Hill South,307
+4,Parkway South,157
+4,Pattonville,32
+4,Pembroke Hill,91
+4,Raymore-Peculiar,12
+4,Republic,8
+4,Rock Bridge,186
+4,St. Joseph's Academy,284
+4,Staley,78
+4,Truman,0
 4,Waynesville,0
-4,Westminster Christian Academy,74
-5,Blue Springs,8
-5,Blue Springs South,46
-5,Carthage,10
+4,Westminster Christian Academy,102
+5,Blue Springs,12
+5,Blue Springs South,52
+5,Carthage,15
 5,Central (St. Joseph),0
-5,Cor Jesu Academy,26
-5,Eureka,92
-5,Francis Howell,9
-5,Francis Howell Central,1
+5,Cor Jesu Academy,33
+5,Eureka,87
+5,Francis Howell,18
+5,Francis Howell Central,0
 5,Francis Howell North,0
-5,Ft. Zumwalt North,11
-5,Hickman,87
-5,Jackson,37
+5,Ft. Zumwalt North,2
+5,Hickman,85
+5,Jackson,21
 5,Kickapoo,0
-5,Kirkwood,159
-5,Lafayette (Wildwood),74
-5,Lee's Summit,33
-5,Lee's Summit North,54
-5,Lee's Summit West,27
-5,Liberty,95
-5,Liberty (Wentzville),3
-5,Liberty North,96
-5,Lindbergh,24
-5,MICDS,14
-5,Marquette,102
+5,Kirkwood,173
+5,Lafayette (Wildwood),51
+5,Lee's Summit,70
+5,Lee's Summit North,49
+5,Lee's Summit West,24
+5,Liberty,101
+5,Liberty (Wentzville),0
+5,Liberty North,78
+5,Lindbergh,21
+5,MICDS,18
+5,Marquette,111
 5,Nixa,0
 5,North Kansas City,0
 5,Oak Park,0
 5,Oakville,0
-5,Ozark,25
-5,Park Hill,16
-5,Park Hill South,296
-5,Parkway South,150
-5,Pattonville,27
-5,Pembroke Hill,101
-5,Raymore-Peculiar,14
-5,Republic,32
-5,Rock Bridge,187
-5,St. Joseph's Academy,287
-5,Staley,111
-5,Truman,0
+5,Ozark,22
+5,Park Hill,15
+5,Park Hill South,280
+5,Parkway South,157
+5,Pattonville,31
+5,Pembroke Hill,102
+5,Raymore-Peculiar,17
+5,Republic,22
+5,Rock Bridge,194
+5,St. Joseph's Academy,275
+5,Staley,90
+5,Truman,6
 5,Waynesville,0
-5,Westminster Christian Academy,71
-6,Blue Springs,12
-6,Blue Springs South,39
+5,Westminster Christian Academy,93
+6,Blue Springs,6
+6,Blue Springs South,52
 6,Carthage,15
 6,Central (St. Joseph),0
-6,Cor Jesu Academy,39
-6,Eureka,70
-6,Francis Howell,14
-6,Francis Howell Central,12
+6,Cor Jesu Academy,36
+6,Eureka,76
+6,Francis Howell,12
+6,Francis Howell Central,4
 6,Francis Howell North,0
-6,Ft. Zumwalt North,17
-6,Hickman,73
-6,Jackson,42
+6,Ft. Zumwalt North,4
+6,Hickman,79
+6,Jackson,37
 6,Kickapoo,0
-6,Kirkwood,134
-6,Lafayette (Wildwood),110
-6,Lee's Summit,46
-6,Lee's Summit North,35
-6,Lee's Summit West,24
-6,Liberty,109
-6,Liberty (Wentzville),1
-6,Liberty North,97
-6,Lindbergh,23
-6,MICDS,38
-6,Marquette,120
+6,Kirkwood,162
+6,Lafayette (Wildwood),93
+6,Lee's Summit,35
+6,Lee's Summit North,55
+6,Lee's Summit West,22
+6,Liberty,105
+6,Liberty (Wentzville),0
+6,Liberty North,69
+6,Lindbergh,20
+6,MICDS,8
+6,Marquette,108
 6,Nixa,0
 6,North Kansas City,0
 6,Oak Park,0
 6,Oakville,0
-6,Ozark,7
-6,Park Hill,16
-6,Park Hill South,289
-6,Parkway South,167
-6,Pattonville,36
-6,Pembroke Hill,80
-6,Raymore-Peculiar,17
-6,Republic,9
-6,Rock Bridge,186
-6,St. Joseph's Academy,274
-6,Staley,62
-6,Truman,4
+6,Ozark,14
+6,Park Hill,15
+6,Park Hill South,295
+6,Parkway South,149
+6,Pattonville,35
+6,Pembroke Hill,101
+6,Raymore-Peculiar,12
+6,Republic,13
+6,Rock Bridge,183
+6,St. Joseph's Academy,299
+6,Staley,78
+6,Truman,0
 6,Waynesville,0
-6,Westminster Christian Academy,108
-7,Blue Springs,14
-7,Blue Springs South,39
-7,Carthage,13
+6,Westminster Christian Academy,133
+7,Blue Springs,20
+7,Blue Springs South,78
+7,Carthage,15
 7,Central (St. Joseph),0
-7,Cor Jesu Academy,40
-7,Eureka,80
-7,Francis Howell,2
-7,Francis Howell Central,2
+7,Cor Jesu Academy,31
+7,Eureka,77
+7,Francis Howell,5
+7,Francis Howell Central,1
 7,Francis Howell North,0
-7,Ft. Zumwalt North,3
-7,Hickman,67
-7,Jackson,50
+7,Ft. Zumwalt North,8
+7,Hickman,73
+7,Jackson,38
 7,Kickapoo,0
-7,Kirkwood,157
-7,Lafayette (Wildwood),67
-7,Lee's Summit,24
-7,Lee's Summit North,51
-7,Lee's Summit West,22
-7,Liberty,118
-7,Liberty (Wentzville),9
-7,Liberty North,117
-7,Lindbergh,18
-7,MICDS,21
-7,Marquette,107
+7,Kirkwood,155
+7,Lafayette (Wildwood),74
+7,Lee's Summit,40
+7,Lee's Summit North,43
+7,Lee's Summit West,13
+7,Liberty,95
+7,Liberty (Wentzville),12
+7,Liberty North,80
+7,Lindbergh,29
+7,MICDS,24
+7,Marquette,117
 7,Nixa,0
 7,North Kansas City,0
 7,Oak Park,0
 7,Oakville,0
-7,Ozark,26
+7,Ozark,25
 7,Park Hill,15
-7,Park Hill South,285
-7,Parkway South,146
-7,Pattonville,36
-7,Pembroke Hill,115
-7,Raymore-Peculiar,15
-7,Republic,5
-7,Rock Bridge,193
-7,St. Joseph's Academy,293
-7,Staley,83
+7,Park Hill South,282
+7,Parkway South,162
+7,Pattonville,33
+7,Pembroke Hill,100
+7,Raymore-Peculiar,14
+7,Republic,19
+7,Rock Bridge,170
+7,St. Joseph's Academy,290
+7,Staley,89
 7,Truman,3
 7,Waynesville,0
-7,Westminster Christian Academy,89
-8,Blue Springs,7
-8,Blue Springs South,46
+7,Westminster Christian Academy,95
+8,Blue Springs,20
+8,Blue Springs South,54
 8,Carthage,14
 8,Central (St. Joseph),0
-8,Cor Jesu Academy,28
-8,Eureka,68
-8,Francis Howell,10
-8,Francis Howell Central,2
+8,Cor Jesu Academy,26
+8,Eureka,92
+8,Francis Howell,14
+8,Francis Howell Central,1
 8,Francis Howell North,0
-8,Ft. Zumwalt North,3
-8,Hickman,85
-8,Jackson,26
+8,Ft. Zumwalt North,6
+8,Hickman,78
+8,Jackson,48
 8,Kickapoo,0
-8,Kirkwood,172
-8,Lafayette (Wildwood),74
-8,Lee's Summit,43
-8,Lee's Summit North,45
-8,Lee's Summit West,33
-8,Liberty,114
-8,Liberty (Wentzville),1
-8,Liberty North,110
-8,Lindbergh,17
-8,MICDS,7
-8,Marquette,122
+8,Kirkwood,135
+8,Lafayette (Wildwood),60
+8,Lee's Summit,34
+8,Lee's Summit North,39
+8,Lee's Summit West,25
+8,Liberty,89
+8,Liberty (Wentzville),4
+8,Liberty North,77
+8,Lindbergh,14
+8,MICDS,23
+8,Marquette,120
 8,Nixa,0
 8,North Kansas City,0
 8,Oak Park,0
 8,Oakville,0
-8,Ozark,17
-8,Park Hill,16
-8,Park Hill South,298
-8,Parkway South,137
-8,Pattonville,34
-8,Pembroke Hill,102
-8,Raymore-Peculiar,14
-8,Republic,8
-8,Rock Bridge,189
-8,St. Joseph's Academy,308
-8,Staley,79
-8,Truman,0
+8,Ozark,22
+8,Park Hill,17
+8,Park Hill South,309
+8,Parkway South,160
+8,Pattonville,33
+8,Pembroke Hill,119
+8,Raymore-Peculiar,12
+8,Republic,30
+8,Rock Bridge,184
+8,St. Joseph's Academy,282
+8,Staley,84
+8,Truman,1
 8,Waynesville,0
-8,Westminster Christian Academy,96
-9,Blue Springs,15
-9,Blue Springs South,50
-9,Carthage,17
+8,Westminster Christian Academy,99
+9,Blue Springs,14
+9,Blue Springs South,52
+9,Carthage,11
 9,Central (St. Joseph),0
-9,Cor Jesu Academy,46
-9,Eureka,79
-9,Francis Howell,16
-9,Francis Howell Central,0
+9,Cor Jesu Academy,37
+9,Eureka,77
+9,Francis Howell,11
+9,Francis Howell Central,3
 9,Francis Howell North,0
-9,Ft. Zumwalt North,0
-9,Hickman,76
-9,Jackson,27
+9,Ft. Zumwalt North,17
+9,Hickman,82
+9,Jackson,31
 9,Kickapoo,0
-9,Kirkwood,139
-9,Lafayette (Wildwood),54
-9,Lee's Summit,33
-9,Lee's Summit North,44
-9,Lee's Summit West,10
-9,Liberty,95
-9,Liberty (Wentzville),15
-9,Liberty North,79
-9,Lindbergh,31
-9,MICDS,20
-9,Marquette,139
+9,Kirkwood,156
+9,Lafayette (Wildwood),57
+9,Lee's Summit,34
+9,Lee's Summit North,41
+9,Lee's Summit West,51
+9,Liberty,108
+9,Liberty (Wentzville),0
+9,Liberty North,101
+9,Lindbergh,25
+9,MICDS,10
+9,Marquette,102
 9,Nixa,0
 9,North Kansas City,0
 9,Oak Park,0
 9,Oakville,0
-9,Ozark,26
+9,Ozark,15
 9,Park Hill,16
-9,Park Hill South,320
-9,Parkway South,157
-9,Pattonville,32
-9,Pembroke Hill,116
+9,Park Hill South,302
+9,Parkway South,147
+9,Pattonville,30
+9,Pembroke Hill,102
 9,Raymore-Peculiar,14
-9,Republic,29
-9,Rock Bridge,197
-9,St. Joseph's Academy,276
-9,Staley,73
-9,Truman,2
+9,Republic,9
+9,Rock Bridge,191
+9,St. Joseph's Academy,287
+9,Staley,94
+9,Truman,0
 9,Waynesville,0
-9,Westminster Christian Academy,82
-10,Blue Springs,14
-10,Blue Springs South,54
-10,Carthage,15
+9,Westminster Christian Academy,98
+10,Blue Springs,11
+10,Blue Springs South,60
+10,Carthage,14
 10,Central (St. Joseph),0
-10,Cor Jesu Academy,31
-10,Eureka,98
-10,Francis Howell,17
-10,Francis Howell Central,0
+10,Cor Jesu Academy,28
+10,Eureka,76
+10,Francis Howell,11
+10,Francis Howell Central,1
 10,Francis Howell North,0
-10,Ft. Zumwalt North,13
-10,Hickman,76
-10,Jackson,29
+10,Ft. Zumwalt North,11
+10,Hickman,88
+10,Jackson,41
 10,Kickapoo,0
 10,Kirkwood,137
-10,Lafayette (Wildwood),81
-10,Lee's Summit,39
-10,Lee's Summit North,68
-10,Lee's Summit West,28
-10,Liberty,89
-10,Liberty (Wentzville),1
-10,Liberty North,98
-10,Lindbergh,17
-10,MICDS,21
-10,Marquette,81
+10,Lafayette (Wildwood),71
+10,Lee's Summit,18
+10,Lee's Summit North,49
+10,Lee's Summit West,36
+10,Liberty,107
+10,Liberty (Wentzville),5
+10,Liberty North,99
+10,Lindbergh,37
+10,MICDS,18
+10,Marquette,91
 10,Nixa,0
 10,North Kansas City,0
 10,Oak Park,0
 10,Oakville,0
-10,Ozark,13
-10,Park Hill,16
-10,Park Hill South,267
-10,Parkway South,168
-10,Pattonville,37
-10,Pembroke Hill,95
-10,Raymore-Peculiar,14
-10,Republic,14
-10,Rock Bridge,195
-10,St. Joseph's Academy,291
-10,Staley,122
+10,Ozark,17
+10,Park Hill,14
+10,Park Hill South,302
+10,Parkway South,160
+10,Pattonville,36
+10,Pembroke Hill,118
+10,Raymore-Peculiar,15
+10,Republic,16
+10,Rock Bridge,178
+10,St. Joseph's Academy,278
+10,Staley,88
 10,Truman,0
 10,Waynesville,0
-10,Westminster Christian Academy,86
-11,Blue Springs,4
-11,Blue Springs South,66
-11,Carthage,16
+10,Westminster Christian Academy,94
+11,Blue Springs,13
+11,Blue Springs South,58
+11,Carthage,15
 11,Central (St. Joseph),0
-11,Cor Jesu Academy,35
-11,Eureka,71
-11,Francis Howell,5
+11,Cor Jesu Academy,29
+11,Eureka,87
+11,Francis Howell,16
 11,Francis Howell Central,6
 11,Francis Howell North,0
-11,Ft. Zumwalt North,9
-11,Hickman,81
-11,Jackson,27
+11,Ft. Zumwalt North,10
+11,Hickman,80
+11,Jackson,32
 11,Kickapoo,0
-11,Kirkwood,133
-11,Lafayette (Wildwood),49
-11,Lee's Summit,34
-11,Lee's Summit North,50
-11,Lee's Summit West,26
-11,Liberty,102
-11,Liberty (Wentzville),7
-11,Liberty North,131
-11,Lindbergh,29
-11,MICDS,19
-11,Marquette,94
+11,Kirkwood,148
+11,Lafayette (Wildwood),65
+11,Lee's Summit,46
+11,Lee's Summit North,37
+11,Lee's Summit West,16
+11,Liberty,123
+11,Liberty (Wentzville),1
+11,Liberty North,92
+11,Lindbergh,21
+11,MICDS,21
+11,Marquette,93
 11,Nixa,0
 11,North Kansas City,0
 11,Oak Park,0
 11,Oakville,0
-11,Ozark,18
+11,Ozark,30
 11,Park Hill,16
-11,Park Hill South,305
-11,Parkway South,143
-11,Pattonville,36
-11,Pembroke Hill,94
-11,Raymore-Peculiar,14
-11,Republic,10
-11,Rock Bridge,181
-11,St. Joseph's Academy,287
-11,Staley,125
-11,Truman,7
+11,Park Hill South,279
+11,Parkway South,167
+11,Pattonville,33
+11,Pembroke Hill,106
+11,Raymore-Peculiar,17
+11,Republic,12
+11,Rock Bridge,192
+11,St. Joseph's Academy,274
+11,Staley,95
+11,Truman,2
 11,Waynesville,0
-11,Westminster Christian Academy,95
-12,Blue Springs,16
-12,Blue Springs South,83
-12,Carthage,14
+11,Westminster Christian Academy,93
+12,Blue Springs,12
+12,Blue Springs South,56
+12,Carthage,16
 12,Central (St. Joseph),0
-12,Cor Jesu Academy,44
-12,Eureka,81
-12,Francis Howell,11
-12,Francis Howell Central,1
+12,Cor Jesu Academy,27
+12,Eureka,75
+12,Francis Howell,5
+12,Francis Howell Central,9
 12,Francis Howell North,0
-12,Ft. Zumwalt North,10
-12,Hickman,81
-12,Jackson,27
+12,Ft. Zumwalt North,20
+12,Hickman,67
+12,Jackson,34
 12,Kickapoo,0
-12,Kirkwood,139
-12,Lafayette (Wildwood),61
-12,Lee's Summit,48
-12,Lee's Summit North,34
-12,Lee's Summit West,28
-12,Liberty,108
-12,Liberty (Wentzville),3
-12,Liberty North,108
-12,Lindbergh,26
-12,MICDS,25
-12,Marquette,89
+12,Kirkwood,160
+12,Lafayette (Wildwood),62
+12,Lee's Summit,34
+12,Lee's Summit North,35
+12,Lee's Summit West,20
+12,Liberty,101
+12,Liberty (Wentzville),7
+12,Liberty North,114
+12,Lindbergh,16
+12,MICDS,20
+12,Marquette,126
 12,Nixa,0
 12,North Kansas City,0
 12,Oak Park,0
 12,Oakville,0
-12,Ozark,23
-12,Park Hill,14
-12,Park Hill South,314
-12,Parkway South,140
+12,Ozark,13
+12,Park Hill,16
+12,Park Hill South,306
+12,Parkway South,174
 12,Pattonville,36
-12,Pembroke Hill,101
-12,Raymore-Peculiar,17
+12,Pembroke Hill,79
+12,Raymore-Peculiar,14
 12,Republic,11
-12,Rock Bridge,180
-12,St. Joseph's Academy,298
-12,Staley,87
+12,Rock Bridge,183
+12,St. Joseph's Academy,297
+12,Staley,58
 12,Truman,2
 12,Waynesville,0
-12,Westminster Christian Academy,65
+12,Westminster Christian Academy,120
 13,Blue Springs,10
-13,Blue Springs South,40
-13,Carthage,16
+13,Blue Springs South,56
+13,Carthage,15
 13,Central (St. Joseph),0
-13,Cor Jesu Academy,28
-13,Eureka,75
-13,Francis Howell,7
+13,Cor Jesu Academy,43
+13,Eureka,88
+13,Francis Howell,18
 13,Francis Howell Central,2
 13,Francis Howell North,0
-13,Ft. Zumwalt North,15
-13,Hickman,74
-13,Jackson,31
+13,Ft. Zumwalt North,3
+13,Hickman,71
+13,Jackson,36
 13,Kickapoo,0
-13,Kirkwood,172
-13,Lafayette (Wildwood),81
-13,Lee's Summit,34
-13,Lee's Summit North,50
-13,Lee's Summit West,43
-13,Liberty,94
-13,Liberty (Wentzville),7
-13,Liberty North,92
-13,Lindbergh,19
-13,MICDS,29
-13,Marquette,115
+13,Kirkwood,162
+13,Lafayette (Wildwood),44
+13,Lee's Summit,40
+13,Lee's Summit North,43
+13,Lee's Summit West,24
+13,Liberty,111
+13,Liberty (Wentzville),3
+13,Liberty North,103
+13,Lindbergh,22
+13,MICDS,13
+13,Marquette,121
 13,Nixa,0
 13,North Kansas City,0
 13,Oak Park,0
 13,Oakville,0
-13,Ozark,17
-13,Park Hill,17
-13,Park Hill South,291
-13,Parkway South,152
-13,Pattonville,29
-13,Pembroke Hill,97
-13,Raymore-Peculiar,18
-13,Republic,5
-13,Rock Bridge,206
-13,St. Joseph's Academy,265
-13,Staley,83
+13,Ozark,18
+13,Park Hill,16
+13,Park Hill South,286
+13,Parkway South,167
+13,Pattonville,31
+13,Pembroke Hill,101
+13,Raymore-Peculiar,15
+13,Republic,14
+13,Rock Bridge,184
+13,St. Joseph's Academy,290
+13,Staley,80
 13,Truman,0
 13,Waynesville,0
-13,Westminster Christian Academy,111
-14,Blue Springs,11
-14,Blue Springs South,39
-14,Carthage,16
+13,Westminster Christian Academy,95
+14,Blue Springs,15
+14,Blue Springs South,49
+14,Carthage,14
 14,Central (St. Joseph),0
-14,Cor Jesu Academy,32
-14,Eureka,72
-14,Francis Howell,10
-14,Francis Howell Central,4
+14,Cor Jesu Academy,33
+14,Eureka,86
+14,Francis Howell,13
+14,Francis Howell Central,0
 14,Francis Howell North,0
-14,Ft. Zumwalt North,4
-14,Hickman,84
-14,Jackson,26
+14,Ft. Zumwalt North,18
+14,Hickman,74
+14,Jackson,12
 14,Kickapoo,0
-14,Kirkwood,148
-14,Lafayette (Wildwood),79
-14,Lee's Summit,25
-14,Lee's Summit North,37
-14,Lee's Summit West,24
-14,Liberty,98
+14,Kirkwood,140
+14,Lafayette (Wildwood),44
+14,Lee's Summit,33
+14,Lee's Summit North,30
+14,Lee's Summit West,50
+14,Liberty,118
 14,Liberty (Wentzville),0
-14,Liberty North,108
-14,Lindbergh,51
-14,MICDS,19
-14,Marquette,111
+14,Liberty North,77
+14,Lindbergh,24
+14,MICDS,14
+14,Marquette,107
 14,Nixa,0
 14,North Kansas City,0
 14,Oak Park,0
 14,Oakville,0
-14,Ozark,13
-14,Park Hill,16
-14,Park Hill South,281
-14,Parkway South,151
-14,Pattonville,33
-14,Pembroke Hill,100
-14,Raymore-Peculiar,26
-14,Republic,14
-14,Rock Bridge,189
-14,St. Joseph's Academy,293
-14,Staley,84
+14,Ozark,18
+14,Park Hill,17
+14,Park Hill South,323
+14,Parkway South,162
+14,Pattonville,29
+14,Pembroke Hill,114
+14,Raymore-Peculiar,13
+14,Republic,40
+14,Rock Bridge,204
+14,St. Joseph's Academy,268
+14,Staley,104
 14,Truman,0
 14,Waynesville,0
-14,Westminster Christian Academy,127
-15,Blue Springs,7
-15,Blue Springs South,56
-15,Carthage,16
+14,Westminster Christian Academy,82
+15,Blue Springs,21
+15,Blue Springs South,35
+15,Carthage,14
 15,Central (St. Joseph),0
-15,Cor Jesu Academy,23
-15,Eureka,82
+15,Cor Jesu Academy,41
+15,Eureka,88
 15,Francis Howell,2
-15,Francis Howell Central,7
+15,Francis Howell Central,8
 15,Francis Howell North,0
-15,Ft. Zumwalt North,10
-15,Hickman,87
-15,Jackson,25
+15,Ft. Zumwalt North,6
+15,Hickman,84
+15,Jackson,36
 15,Kickapoo,0
-15,Kirkwood,161
-15,Lafayette (Wildwood),75
-15,Lee's Summit,45
-15,Lee's Summit North,49
-15,Lee's Summit West,34
-15,Liberty,114
-15,Liberty (Wentzville),12
-15,Liberty North,102
-15,Lindbergh,23
-15,MICDS,30
-15,Marquette,94
+15,Kirkwood,159
+15,Lafayette (Wildwood),78
+15,Lee's Summit,38
+15,Lee's Summit North,25
+15,Lee's Summit West,22
+15,Liberty,183
+15,Liberty (Wentzville),1
+15,Liberty North,75
+15,Lindbergh,29
+15,MICDS,18
+15,Marquette,98
 15,Nixa,0
 15,North Kansas City,0
 15,Oak Park,0
 15,Oakville,0
-15,Ozark,27
-15,Park Hill,15
-15,Park Hill South,280
-15,Parkway South,157
-15,Pattonville,31
-15,Pembroke Hill,89
-15,Raymore-Peculiar,13
-15,Republic,30
-15,Rock Bridge,185
-15,St. Joseph's Academy,278
-15,Staley,54
-15,Truman,1
+15,Ozark,14
+15,Park Hill,13
+15,Park Hill South,299
+15,Parkway South,99
+15,Pattonville,32
+15,Pembroke Hill,110
+15,Raymore-Peculiar,20
+15,Republic,14
+15,Rock Bridge,190
+15,St. Joseph's Academy,274
+15,Staley,96
+15,Truman,0
 15,Waynesville,0
-15,Westminster Christian Academy,111
-16,Blue Springs,15
-16,Blue Springs South,64
-16,Carthage,13
+15,Westminster Christian Academy,103
+16,Blue Springs,13
+16,Blue Springs South,55
+16,Carthage,19
 16,Central (St. Joseph),0
-16,Cor Jesu Academy,31
-16,Eureka,76
-16,Francis Howell,10
-16,Francis Howell Central,0
+16,Cor Jesu Academy,42
+16,Eureka,87
+16,Francis Howell,25
+16,Francis Howell Central,4
 16,Francis Howell North,0
-16,Ft. Zumwalt North,16
-16,Hickman,81
-16,Jackson,32
+16,Ft. Zumwalt North,2
+16,Hickman,61
+16,Jackson,35
 16,Kickapoo,0
-16,Kirkwood,165
-16,Lafayette (Wildwood),88
-16,Lee's Summit,44
-16,Lee's Summit North,40
-16,Lee's Summit West,25
-16,Liberty,83
-16,Liberty (Wentzville),2
-16,Liberty North,89
-16,Lindbergh,20
-16,MICDS,45
-16,Marquette,124
+16,Kirkwood,157
+16,Lafayette (Wildwood),53
+16,Lee's Summit,25
+16,Lee's Summit North,39
+16,Lee's Summit West,39
+16,Liberty,95
+16,Liberty (Wentzville),0
+16,Liberty North,102
+16,Lindbergh,22
+16,MICDS,32
+16,Marquette,134
 16,Nixa,0
 16,North Kansas City,0
 16,Oak Park,0
 16,Oakville,0
-16,Ozark,22
+16,Ozark,16
 16,Park Hill,16
-16,Park Hill South,306
-16,Parkway South,146
-16,Pattonville,32
-16,Pembroke Hill,83
+16,Park Hill South,313
+16,Parkway South,173
+16,Pattonville,33
+16,Pembroke Hill,87
 16,Raymore-Peculiar,14
-16,Republic,5
-16,Rock Bridge,195
-16,St. Joseph's Academy,281
-16,Staley,70
-16,Truman,1
+16,Republic,51
+16,Rock Bridge,176
+16,St. Joseph's Academy,274
+16,Staley,51
+16,Truman,5
 16,Waynesville,0
-16,Westminster Christian Academy,91
-17,Blue Springs,16
-17,Blue Springs South,72
-17,Carthage,13
+16,Westminster Christian Academy,75
+17,Blue Springs,13
+17,Blue Springs South,46
+17,Carthage,14
 17,Central (St. Joseph),0
-17,Cor Jesu Academy,28
-17,Eureka,75
-17,Francis Howell,32
-17,Francis Howell Central,2
+17,Cor Jesu Academy,30
+17,Eureka,103
+17,Francis Howell,23
+17,Francis Howell Central,1
 17,Francis Howell North,0
-17,Ft. Zumwalt North,13
-17,Hickman,88
-17,Jackson,26
+17,Ft. Zumwalt North,9
+17,Hickman,79
+17,Jackson,33
 17,Kickapoo,0
-17,Kirkwood,155
-17,Lafayette (Wildwood),64
-17,Lee's Summit,32
-17,Lee's Summit North,52
-17,Lee's Summit West,22
-17,Liberty,115
+17,Kirkwood,150
+17,Lafayette (Wildwood),65
+17,Lee's Summit,33
+17,Lee's Summit North,43
+17,Lee's Summit West,32
+17,Liberty,102
 17,Liberty (Wentzville),0
-17,Liberty North,104
-17,Lindbergh,22
-17,MICDS,21
-17,Marquette,133
+17,Liberty North,93
+17,Lindbergh,21
+17,MICDS,17
+17,Marquette,126
 17,Nixa,0
 17,North Kansas City,0
 17,Oak Park,0
 17,Oakville,0
-17,Ozark,11
-17,Park Hill,14
-17,Park Hill South,272
+17,Ozark,24
+17,Park Hill,16
+17,Park Hill South,291
 17,Parkway South,158
-17,Pattonville,36
-17,Pembroke Hill,118
-17,Raymore-Peculiar,15
-17,Republic,5
-17,Rock Bridge,180
-17,St. Joseph's Academy,302
-17,Staley,52
-17,Truman,2
+17,Pattonville,30
+17,Pembroke Hill,83
+17,Raymore-Peculiar,18
+17,Republic,7
+17,Rock Bridge,195
+17,St. Joseph's Academy,284
+17,Staley,107
+17,Truman,0
 17,Waynesville,0
-17,Westminster Christian Academy,75
-18,Blue Springs,9
-18,Blue Springs South,46
-18,Carthage,7
+17,Westminster Christian Academy,79
+18,Blue Springs,11
+18,Blue Springs South,45
+18,Carthage,15
 18,Central (St. Joseph),0
-18,Cor Jesu Academy,72
-18,Eureka,81
-18,Francis Howell,7
-18,Francis Howell Central,1
+18,Cor Jesu Academy,37
+18,Eureka,80
+18,Francis Howell,13
+18,Francis Howell Central,2
 18,Francis Howell North,0
-18,Ft. Zumwalt North,12
-18,Hickman,73
-18,Jackson,40
+18,Ft. Zumwalt North,9
+18,Hickman,85
+18,Jackson,29
 18,Kickapoo,0
-18,Kirkwood,167
-18,Lafayette (Wildwood),81
-18,Lee's Summit,38
-18,Lee's Summit North,52
-18,Lee's Summit West,32
-18,Liberty,116
+18,Kirkwood,145
+18,Lafayette (Wildwood),58
+18,Lee's Summit,54
+18,Lee's Summit North,48
+18,Lee's Summit West,34
+18,Liberty,117
 18,Liberty (Wentzville),0
-18,Liberty North,73
-18,Lindbergh,18
-18,MICDS,16
-18,Marquette,94
+18,Liberty North,88
+18,Lindbergh,23
+18,MICDS,18
+18,Marquette,100
 18,Nixa,0
 18,North Kansas City,0
 18,Oak Park,0
 18,Oakville,0
-18,Ozark,15
+18,Ozark,21
 18,Park Hill,15
-18,Park Hill South,290
-18,Parkway South,155
+18,Park Hill South,288
+18,Parkway South,158
 18,Pattonville,32
-18,Pembroke Hill,120
+18,Pembroke Hill,104
 18,Raymore-Peculiar,14
-18,Republic,20
-18,Rock Bridge,187
-18,St. Joseph's Academy,277
-18,Staley,56
-18,Truman,1
+18,Republic,22
+18,Rock Bridge,212
+18,St. Joseph's Academy,273
+18,Staley,81
+18,Truman,0
 18,Waynesville,0
-18,Westminster Christian Academy,108
-19,Blue Springs,10
-19,Blue Springs South,23
+18,Westminster Christian Academy,94
+19,Blue Springs,13
+19,Blue Springs South,55
 19,Carthage,14
 19,Central (St. Joseph),0
-19,Cor Jesu Academy,31
-19,Eureka,92
-19,Francis Howell,18
-19,Francis Howell Central,5
+19,Cor Jesu Academy,29
+19,Eureka,98
+19,Francis Howell,13
+19,Francis Howell Central,4
 19,Francis Howell North,0
-19,Ft. Zumwalt North,9
-19,Hickman,66
-19,Jackson,32
+19,Ft. Zumwalt North,0
+19,Hickman,78
+19,Jackson,27
 19,Kickapoo,0
-19,Kirkwood,170
-19,Lafayette (Wildwood),78
-19,Lee's Summit,56
+19,Kirkwood,159
+19,Lafayette (Wildwood),61
+19,Lee's Summit,43
 19,Lee's Summit North,44
-19,Lee's Summit West,33
-19,Liberty,108
-19,Liberty (Wentzville),1
-19,Liberty North,93
-19,Lindbergh,30
-19,MICDS,12
-19,Marquette,104
+19,Lee's Summit West,26
+19,Liberty,97
+19,Liberty (Wentzville),2
+19,Liberty North,118
+19,Lindbergh,29
+19,MICDS,11
+19,Marquette,116
 19,Nixa,0
 19,North Kansas City,0
 19,Oak Park,0
 19,Oakville,0
-19,Ozark,18
-19,Park Hill,13
-19,Park Hill South,289
-19,Parkway South,148
-19,Pattonville,30
-19,Pembroke Hill,99
-19,Raymore-Peculiar,15
-19,Republic,7
-19,Rock Bridge,191
-19,St. Joseph's Academy,290
-19,Staley,95
-19,Truman,0
+19,Ozark,21
+19,Park Hill,17
+19,Park Hill South,282
+19,Parkway South,141
+19,Pattonville,33
+19,Pembroke Hill,88
+19,Raymore-Peculiar,33
+19,Republic,12
+19,Rock Bridge,210
+19,St. Joseph's Academy,287
+19,Staley,72
+19,Truman,3
 19,Waynesville,0
-19,Westminster Christian Academy,101
-20,Blue Springs,13
-20,Blue Springs South,55
-20,Carthage,13
+19,Westminster Christian Academy,89
+20,Blue Springs,9
+20,Blue Springs South,44
+20,Carthage,16
 20,Central (St. Joseph),0
-20,Cor Jesu Academy,49
-20,Eureka,100
-20,Francis Howell,12
-20,Francis Howell Central,1
+20,Cor Jesu Academy,39
+20,Eureka,92
+20,Francis Howell,5
+20,Francis Howell Central,0
 20,Francis Howell North,0
-20,Ft. Zumwalt North,10
-20,Hickman,67
-20,Jackson,21
+20,Ft. Zumwalt North,11
+20,Hickman,78
+20,Jackson,35
 20,Kickapoo,0
-20,Kirkwood,140
-20,Lafayette (Wildwood),72
-20,Lee's Summit,29
-20,Lee's Summit North,50
-20,Lee's Summit West,21
-20,Liberty,120
-20,Liberty (Wentzville),4
-20,Liberty North,94
-20,Lindbergh,31
-20,MICDS,13
-20,Marquette,88
+20,Kirkwood,143
+20,Lafayette (Wildwood),42
+20,Lee's Summit,34
+20,Lee's Summit North,42
+20,Lee's Summit West,35
+20,Liberty,113
+20,Liberty (Wentzville),7
+20,Liberty North,79
+20,Lindbergh,20
+20,MICDS,20
+20,Marquette,120
 20,Nixa,0
 20,North Kansas City,0
 20,Oak Park,0
 20,Oakville,0
 20,Ozark,12
 20,Park Hill,16
-20,Park Hill South,319
-20,Parkway South,158
-20,Pattonville,32
-20,Pembroke Hill,97
-20,Raymore-Peculiar,16
-20,Republic,21
-20,Rock Bridge,172
-20,St. Joseph's Academy,295
-20,Staley,76
+20,Park Hill South,315
+20,Parkway South,160
+20,Pattonville,34
+20,Pembroke Hill,83
+20,Raymore-Peculiar,14
+20,Republic,31
+20,Rock Bridge,196
+20,St. Joseph's Academy,286
+20,Staley,94
 20,Truman,0
 20,Waynesville,0
-20,Westminster Christian Academy,108
-21,Blue Springs,12
-21,Blue Springs South,55
-21,Carthage,16
+20,Westminster Christian Academy,100
+21,Blue Springs,11
+21,Blue Springs South,45
+21,Carthage,15
 21,Central (St. Joseph),0
 21,Cor Jesu Academy,27
-21,Eureka,78
-21,Francis Howell,13
-21,Francis Howell Central,2
+21,Eureka,84
+21,Francis Howell,9
+21,Francis Howell Central,4
 21,Francis Howell North,0
-21,Ft. Zumwalt North,4
-21,Hickman,69
-21,Jackson,46
+21,Ft. Zumwalt North,14
+21,Hickman,78
+21,Jackson,28
 21,Kickapoo,0
-21,Kirkwood,151
-21,Lafayette (Wildwood),58
-21,Lee's Summit,45
-21,Lee's Summit North,52
-21,Lee's Summit West,28
-21,Liberty,89
+21,Kirkwood,158
+21,Lafayette (Wildwood),84
+21,Lee's Summit,42
+21,Lee's Summit North,43
+21,Lee's Summit West,30
+21,Liberty,96
 21,Liberty (Wentzville),0
-21,Liberty North,69
-21,Lindbergh,20
-21,MICDS,17
-21,Marquette,118
+21,Liberty North,101
+21,Lindbergh,17
+21,MICDS,36
+21,Marquette,80
 21,Nixa,0
 21,North Kansas City,0
 21,Oak Park,0
 21,Oakville,0
-21,Ozark,18
-21,Park Hill,17
-21,Park Hill South,301
-21,Parkway South,154
-21,Pattonville,36
-21,Pembroke Hill,102
-21,Raymore-Peculiar,20
-21,Republic,36
-21,Rock Bridge,179
-21,St. Joseph's Academy,275
-21,Staley,91
-21,Truman,2
+21,Ozark,6
+21,Park Hill,16
+21,Park Hill South,294
+21,Parkway South,163
+21,Pattonville,32
+21,Pembroke Hill,112
+21,Raymore-Peculiar,16
+21,Republic,12
+21,Rock Bridge,184
+21,St. Joseph's Academy,288
+21,Staley,106
+21,Truman,5
 21,Waynesville,0
-21,Westminster Christian Academy,125
-22,Blue Springs,13
-22,Blue Springs South,56
-22,Carthage,15
+21,Westminster Christian Academy,89
+22,Blue Springs,11
+22,Blue Springs South,63
+22,Carthage,13
 22,Central (St. Joseph),0
-22,Cor Jesu Academy,42
-22,Eureka,85
-22,Francis Howell,11
-22,Francis Howell Central,6
+22,Cor Jesu Academy,75
+22,Eureka,83
+22,Francis Howell,5
+22,Francis Howell Central,0
 22,Francis Howell North,0
-22,Ft. Zumwalt North,0
-22,Hickman,79
-22,Jackson,49
+22,Ft. Zumwalt North,2
+22,Hickman,67
+22,Jackson,30
 22,Kickapoo,0
-22,Kirkwood,132
-22,Lafayette (Wildwood),46
-22,Lee's Summit,57
-22,Lee's Summit North,60
-22,Lee's Summit West,24
-22,Liberty,112
-22,Liberty (Wentzville),12
-22,Liberty North,113
-22,Lindbergh,32
-22,MICDS,18
-22,Marquette,81
+22,Kirkwood,145
+22,Lafayette (Wildwood),77
+22,Lee's Summit,38
+22,Lee's Summit North,49
+22,Lee's Summit West,23
+22,Liberty,122
+22,Liberty (Wentzville),6
+22,Liberty North,126
+22,Lindbergh,19
+22,MICDS,17
+22,Marquette,112
 22,Nixa,0
 22,North Kansas City,0
 22,Oak Park,0
 22,Oakville,0
-22,Ozark,21
-22,Park Hill,16
-22,Park Hill South,277
-22,Parkway South,164
+22,Ozark,15
+22,Park Hill,17
+22,Park Hill South,299
+22,Parkway South,118
 22,Pattonville,32
-22,Pembroke Hill,101
+22,Pembroke Hill,116
 22,Raymore-Peculiar,14
-22,Republic,13
+22,Republic,4
 22,Rock Bridge,201
-22,St. Joseph's Academy,291
-22,Staley,73
+22,St. Joseph's Academy,276
+22,Staley,79
 22,Truman,0
 22,Waynesville,0
-22,Westminster Christian Academy,79
-23,Blue Springs,12
-23,Blue Springs South,56
-23,Carthage,14
+22,Westminster Christian Academy,71
+23,Blue Springs,13
+23,Blue Springs South,55
+23,Carthage,17
 23,Central (St. Joseph),0
-23,Cor Jesu Academy,34
-23,Eureka,89
-23,Francis Howell,15
-23,Francis Howell Central,0
+23,Cor Jesu Academy,17
+23,Eureka,73
+23,Francis Howell,10
+23,Francis Howell Central,18
 23,Francis Howell North,0
-23,Ft. Zumwalt North,5
-23,Hickman,83
-23,Jackson,29
+23,Ft. Zumwalt North,9
+23,Hickman,72
+23,Jackson,41
 23,Kickapoo,0
-23,Kirkwood,151
-23,Lafayette (Wildwood),38
-23,Lee's Summit,28
+23,Kirkwood,137
+23,Lafayette (Wildwood),49
+23,Lee's Summit,40
 23,Lee's Summit North,55
-23,Lee's Summit West,25
-23,Liberty,97
-23,Liberty (Wentzville),0
-23,Liberty North,100
-23,Lindbergh,17
-23,MICDS,24
-23,Marquette,102
+23,Lee's Summit West,21
+23,Liberty,87
+23,Liberty (Wentzville),5
+23,Liberty North,102
+23,Lindbergh,33
+23,MICDS,16
+23,Marquette,116
 23,Nixa,0
 23,North Kansas City,0
 23,Oak Park,0
 23,Oakville,0
-23,Ozark,11
+23,Ozark,15
 23,Park Hill,15
-23,Park Hill South,309
-23,Parkway South,179
-23,Pattonville,36
-23,Pembroke Hill,108
-23,Raymore-Peculiar,25
-23,Republic,15
-23,Rock Bridge,199
-23,St. Joseph's Academy,267
-23,Staley,85
-23,Truman,2
+23,Park Hill South,322
+23,Parkway South,184
+23,Pattonville,32
+23,Pembroke Hill,94
+23,Raymore-Peculiar,12
+23,Republic,17
+23,Rock Bridge,196
+23,St. Joseph's Academy,273
+23,Staley,83
+23,Truman,1
 23,Waynesville,0
-23,Westminster Christian Academy,100
-24,Blue Springs,8
-24,Blue Springs South,58
+23,Westminster Christian Academy,95
+24,Blue Springs,10
+24,Blue Springs South,48
 24,Carthage,15
 24,Central (St. Joseph),0
-24,Cor Jesu Academy,55
-24,Eureka,66
-24,Francis Howell,17
-24,Francis Howell Central,18
+24,Cor Jesu Academy,34
+24,Eureka,83
+24,Francis Howell,11
+24,Francis Howell Central,1
 24,Francis Howell North,0
-24,Ft. Zumwalt North,4
-24,Hickman,57
-24,Jackson,24
+24,Ft. Zumwalt North,21
+24,Hickman,71
+24,Jackson,33
 24,Kickapoo,0
-24,Kirkwood,153
-24,Lafayette (Wildwood),77
-24,Lee's Summit,38
-24,Lee's Summit North,37
-24,Lee's Summit West,29
-24,Liberty,120
-24,Liberty (Wentzville),0
-24,Liberty North,88
-24,Lindbergh,24
-24,MICDS,16
-24,Marquette,115
+24,Kirkwood,144
+24,Lafayette (Wildwood),67
+24,Lee's Summit,19
+24,Lee's Summit North,42
+24,Lee's Summit West,30
+24,Liberty,125
+24,Liberty (Wentzville),2
+24,Liberty North,82
+24,Lindbergh,25
+24,MICDS,8
+24,Marquette,123
 24,Nixa,0
 24,North Kansas City,0
 24,Oak Park,0
 24,Oakville,0
-24,Ozark,15
+24,Ozark,22
 24,Park Hill,16
-24,Park Hill South,284
-24,Parkway South,172
-24,Pattonville,33
-24,Pembroke Hill,90
+24,Park Hill South,296
+24,Parkway South,174
+24,Pattonville,32
+24,Pembroke Hill,144
 24,Raymore-Peculiar,14
-24,Republic,7
-24,Rock Bridge,182
-24,St. Joseph's Academy,300
-24,Staley,75
-24,Truman,2
+24,Republic,18
+24,Rock Bridge,178
+24,St. Joseph's Academy,288
+24,Staley,52
+24,Truman,0
 24,Waynesville,0
-24,Westminster Christian Academy,116
-25,Blue Springs,12
-25,Blue Springs South,36
-25,Carthage,13
+24,Westminster Christian Academy,97
+25,Blue Springs,17
+25,Blue Springs South,59
+25,Carthage,14
 25,Central (St. Joseph),0
-25,Cor Jesu Academy,40
-25,Eureka,82
-25,Francis Howell,15
+25,Cor Jesu Academy,22
+25,Eureka,78
+25,Francis Howell,4
 25,Francis Howell Central,1
 25,Francis Howell North,0
-25,Ft. Zumwalt North,16
-25,Hickman,70
-25,Jackson,41
+25,Ft. Zumwalt North,21
+25,Hickman,80
+25,Jackson,33
 25,Kickapoo,0
-25,Kirkwood,170
-25,Lafayette (Wildwood),46
-25,Lee's Summit,31
-25,Lee's Summit North,64
-25,Lee's Summit West,21
-25,Liberty,110
-25,Liberty (Wentzville),3
-25,Liberty North,74
-25,Lindbergh,21
-25,MICDS,25
-25,Marquette,102
+25,Kirkwood,133
+25,Lafayette (Wildwood),74
+25,Lee's Summit,43
+25,Lee's Summit North,49
+25,Lee's Summit West,34
+25,Liberty,120
+25,Liberty (Wentzville),7
+25,Liberty North,79
+25,Lindbergh,17
+25,MICDS,23
+25,Marquette,97
 25,Nixa,0
 25,North Kansas City,0
 25,Oak Park,0
 25,Oakville,0
-25,Ozark,17
+25,Ozark,16
 25,Park Hill,16
-25,Park Hill South,285
-25,Parkway South,193
-25,Pattonville,29
-25,Pembroke Hill,71
-25,Raymore-Peculiar,13
-25,Republic,9
-25,Rock Bridge,198
-25,St. Joseph's Academy,300
-25,Staley,89
+25,Park Hill South,288
+25,Parkway South,157
+25,Pattonville,31
+25,Pembroke Hill,103
+25,Raymore-Peculiar,14
+25,Republic,15
+25,Rock Bridge,185
+25,St. Joseph's Academy,295
+25,Staley,86
 25,Truman,0
 25,Waynesville,0
-25,Westminster Christian Academy,112
-26,Blue Springs,13
-26,Blue Springs South,60
-26,Carthage,19
+25,Westminster Christian Academy,114
+26,Blue Springs,10
+26,Blue Springs South,56
+26,Carthage,9
 26,Central (St. Joseph),0
-26,Cor Jesu Academy,26
-26,Eureka,82
-26,Francis Howell,42
-26,Francis Howell Central,2
+26,Cor Jesu Academy,36
+26,Eureka,94
+26,Francis Howell,9
+26,Francis Howell Central,5
 26,Francis Howell North,0
-26,Ft. Zumwalt North,5
-26,Hickman,76
-26,Jackson,27
+26,Ft. Zumwalt North,4
+26,Hickman,59
+26,Jackson,46
 26,Kickapoo,0
-26,Kirkwood,133
-26,Lafayette (Wildwood),56
-26,Lee's Summit,46
-26,Lee's Summit North,39
-26,Lee's Summit West,40
-26,Liberty,109
-26,Liberty (Wentzville),0
-26,Liberty North,81
-26,Lindbergh,18
-26,MICDS,20
-26,Marquette,100
+26,Kirkwood,159
+26,Lafayette (Wildwood),61
+26,Lee's Summit,33
+26,Lee's Summit North,32
+26,Lee's Summit West,41
+26,Liberty,84
+26,Liberty (Wentzville),4
+26,Liberty North,103
+26,Lindbergh,13
+26,MICDS,26
+26,Marquette,103
 26,Nixa,0
 26,North Kansas City,0
 26,Oak Park,0
 26,Oakville,0
-26,Ozark,18
-26,Park Hill,16
-26,Park Hill South,277
-26,Parkway South,164
+26,Ozark,17
+26,Park Hill,17
+26,Park Hill South,301
+26,Parkway South,160
 26,Pattonville,32
-26,Pembroke Hill,91
-26,Raymore-Peculiar,12
-26,Republic,7
+26,Pembroke Hill,93
+26,Raymore-Peculiar,16
+26,Republic,17
 26,Rock Bridge,200
-26,St. Joseph's Academy,280
-26,Staley,140
+26,St. Joseph's Academy,268
+26,Staley,130
 26,Truman,0
 26,Waynesville,0
-26,Westminster Christian Academy,94
-27,Blue Springs,14
-27,Blue Springs South,41
-27,Carthage,15
+26,Westminster Christian Academy,87
+27,Blue Springs,10
+27,Blue Springs South,88
+27,Carthage,5
 27,Central (St. Joseph),0
 27,Cor Jesu Academy,34
-27,Eureka,82
-27,Francis Howell,19
-27,Francis Howell Central,0
+27,Eureka,56
+27,Francis Howell,8
+27,Francis Howell Central,3
 27,Francis Howell North,0
-27,Ft. Zumwalt North,0
-27,Hickman,89
-27,Jackson,32
+27,Ft. Zumwalt North,29
+27,Hickman,82
+27,Jackson,37
 27,Kickapoo,0
-27,Kirkwood,150
-27,Lafayette (Wildwood),57
-27,Lee's Summit,46
-27,Lee's Summit North,52
-27,Lee's Summit West,27
-27,Liberty,92
-27,Liberty (Wentzville),2
-27,Liberty North,93
-27,Lindbergh,18
-27,MICDS,12
-27,Marquette,111
+27,Kirkwood,146
+27,Lafayette (Wildwood),66
+27,Lee's Summit,40
+27,Lee's Summit North,46
+27,Lee's Summit West,19
+27,Liberty,103
+27,Liberty (Wentzville),1
+27,Liberty North,95
+27,Lindbergh,30
+27,MICDS,30
+27,Marquette,109
 27,Nixa,0
 27,North Kansas City,0
 27,Oak Park,0
 27,Oakville,0
-27,Ozark,25
-27,Park Hill,15
-27,Park Hill South,301
-27,Parkway South,199
+27,Ozark,7
+27,Park Hill,16
+27,Park Hill South,316
+27,Parkway South,168
 27,Pattonville,32
-27,Pembroke Hill,113
-27,Raymore-Peculiar,13
-27,Republic,18
-27,Rock Bridge,163
-27,St. Joseph's Academy,282
-27,Staley,72
+27,Pembroke Hill,89
+27,Raymore-Peculiar,11
+27,Republic,15
+27,Rock Bridge,177
+27,St. Joseph's Academy,287
+27,Staley,79
 27,Truman,0
 27,Waynesville,0
-27,Westminster Christian Academy,106
-28,Blue Springs,13
-28,Blue Springs South,83
-28,Carthage,21
+27,Westminster Christian Academy,91
+28,Blue Springs,9
+28,Blue Springs South,65
+28,Carthage,15
 28,Central (St. Joseph),0
-28,Cor Jesu Academy,44
-28,Eureka,61
-28,Francis Howell,13
-28,Francis Howell Central,6
+28,Cor Jesu Academy,35
+28,Eureka,65
+28,Francis Howell,6
+28,Francis Howell Central,3
 28,Francis Howell North,0
-28,Ft. Zumwalt North,11
-28,Hickman,70
-28,Jackson,30
+28,Ft. Zumwalt North,2
+28,Hickman,72
+28,Jackson,28
 28,Kickapoo,0
-28,Kirkwood,156
-28,Lafayette (Wildwood),64
-28,Lee's Summit,40
-28,Lee's Summit North,41
-28,Lee's Summit West,20
-28,Liberty,106
-28,Liberty (Wentzville),0
-28,Liberty North,107
-28,Lindbergh,20
-28,MICDS,15
-28,Marquette,109
+28,Kirkwood,134
+28,Lafayette (Wildwood),131
+28,Lee's Summit,20
+28,Lee's Summit North,35
+28,Lee's Summit West,16
+28,Liberty,92
+28,Liberty (Wentzville),2
+28,Liberty North,111
+28,Lindbergh,22
+28,MICDS,10
+28,Marquette,104
 28,Nixa,0
 28,North Kansas City,0
 28,Oak Park,0
 28,Oakville,0
-28,Ozark,21
-28,Park Hill,16
-28,Park Hill South,307
-28,Parkway South,137
-28,Pattonville,35
-28,Pembroke Hill,102
-28,Raymore-Peculiar,14
-28,Republic,11
-28,Rock Bridge,190
-28,St. Joseph's Academy,276
-28,Staley,74
-28,Truman,2
+28,Ozark,23
+28,Park Hill,15
+28,Park Hill South,318
+28,Parkway South,165
+28,Pattonville,33
+28,Pembroke Hill,110
+28,Raymore-Peculiar,16
+28,Republic,10
+28,Rock Bridge,211
+28,St. Joseph's Academy,263
+28,Staley,89
+28,Truman,0
 28,Waynesville,0
-28,Westminster Christian Academy,110
-29,Blue Springs,13
-29,Blue Springs South,39
-29,Carthage,20
+28,Westminster Christian Academy,95
+29,Blue Springs,12
+29,Blue Springs South,46
+29,Carthage,17
 29,Central (St. Joseph),0
-29,Cor Jesu Academy,34
-29,Eureka,93
-29,Francis Howell,6
+29,Cor Jesu Academy,35
+29,Eureka,75
+29,Francis Howell,4
 29,Francis Howell Central,2
 29,Francis Howell North,0
-29,Ft. Zumwalt North,1
-29,Hickman,78
-29,Jackson,31
+29,Ft. Zumwalt North,12
+29,Hickman,73
+29,Jackson,41
 29,Kickapoo,0
-29,Kirkwood,172
-29,Lafayette (Wildwood),79
+29,Kirkwood,174
+29,Lafayette (Wildwood),77
 29,Lee's Summit,26
-29,Lee's Summit North,43
-29,Lee's Summit West,30
-29,Liberty,108
+29,Lee's Summit North,37
+29,Lee's Summit West,27
+29,Liberty,91
 29,Liberty (Wentzville),2
-29,Liberty North,106
-29,Lindbergh,21
-29,MICDS,22
-29,Marquette,98
+29,Liberty North,97
+29,Lindbergh,17
+29,MICDS,24
+29,Marquette,108
 29,Nixa,0
 29,North Kansas City,0
-29,Oak Park,3
+29,Oak Park,0
 29,Oakville,0
 29,Ozark,20
 29,Park Hill,16
-29,Park Hill South,294
-29,Parkway South,180
-29,Pattonville,32
-29,Pembroke Hill,128
-29,Raymore-Peculiar,13
-29,Republic,13
-29,Rock Bridge,170
-29,St. Joseph's Academy,268
-29,Staley,72
+29,Park Hill South,312
+29,Parkway South,151
+29,Pattonville,33
+29,Pembroke Hill,96
+29,Raymore-Peculiar,20
+29,Republic,16
+29,Rock Bridge,185
+29,St. Joseph's Academy,276
+29,Staley,97
 29,Truman,0
 29,Waynesville,0
-29,Westminster Christian Academy,92
-30,Blue Springs,13
-30,Blue Springs South,61
-30,Carthage,11
+29,Westminster Christian Academy,106
+30,Blue Springs,18
+30,Blue Springs South,48
+30,Carthage,16
 30,Central (St. Joseph),0
-30,Cor Jesu Academy,33
-30,Eureka,83
-30,Francis Howell,9
-30,Francis Howell Central,2
+30,Cor Jesu Academy,34
+30,Eureka,90
+30,Francis Howell,22
+30,Francis Howell Central,0
 30,Francis Howell North,0
-30,Ft. Zumwalt North,11
-30,Hickman,90
-30,Jackson,41
+30,Ft. Zumwalt North,0
+30,Hickman,63
+30,Jackson,37
 30,Kickapoo,0
-30,Kirkwood,166
-30,Lafayette (Wildwood),48
-30,Lee's Summit,36
-30,Lee's Summit North,55
-30,Lee's Summit West,26
-30,Liberty,115
-30,Liberty (Wentzville),0
-30,Liberty North,90
-30,Lindbergh,22
-30,MICDS,24
-30,Marquette,108
+30,Kirkwood,130
+30,Lafayette (Wildwood),71
+30,Lee's Summit,46
+30,Lee's Summit North,38
+30,Lee's Summit West,19
+30,Liberty,103
+30,Liberty (Wentzville),4
+30,Liberty North,118
+30,Lindbergh,18
+30,MICDS,14
+30,Marquette,99
 30,Nixa,0
 30,North Kansas City,0
 30,Oak Park,0
 30,Oakville,0
-30,Ozark,12
+30,Ozark,18
 30,Park Hill,16
-30,Park Hill South,297
-30,Parkway South,175
-30,Pattonville,30
-30,Pembroke Hill,122
-30,Raymore-Peculiar,13
-30,Republic,9
-30,Rock Bridge,183
-30,St. Joseph's Academy,265
-30,Staley,47
-30,Truman,11
+30,Park Hill South,294
+30,Parkway South,167
+30,Pattonville,32
+30,Pembroke Hill,92
+30,Raymore-Peculiar,15
+30,Republic,25
+30,Rock Bridge,196
+30,St. Joseph's Academy,273
+30,Staley,111
+30,Truman,1
 30,Waynesville,0
-30,Westminster Christian Academy,101
-31,Blue Springs,11
-31,Blue Springs South,61
-31,Carthage,15
+30,Westminster Christian Academy,97
+31,Blue Springs,9
+31,Blue Springs South,53
+31,Carthage,14
 31,Central (St. Joseph),0
-31,Cor Jesu Academy,31
-31,Eureka,64
-31,Francis Howell,6
-31,Francis Howell Central,1
+31,Cor Jesu Academy,53
+31,Eureka,85
+31,Francis Howell,11
+31,Francis Howell Central,7
 31,Francis Howell North,0
-31,Ft. Zumwalt North,20
-31,Hickman,83
-31,Jackson,29
+31,Ft. Zumwalt North,2
+31,Hickman,90
+31,Jackson,34
 31,Kickapoo,0
-31,Kirkwood,150
-31,Lafayette (Wildwood),66
-31,Lee's Summit,44
-31,Lee's Summit North,33
-31,Lee's Summit West,26
-31,Liberty,127
-31,Liberty (Wentzville),9
-31,Liberty North,94
-31,Lindbergh,21
-31,MICDS,16
-31,Marquette,76
+31,Kirkwood,161
+31,Lafayette (Wildwood),53
+31,Lee's Summit,19
+31,Lee's Summit North,31
+31,Lee's Summit West,24
+31,Liberty,120
+31,Liberty (Wentzville),5
+31,Liberty North,110
+31,Lindbergh,44
+31,MICDS,9
+31,Marquette,95
 31,Nixa,0
 31,North Kansas City,0
 31,Oak Park,0
 31,Oakville,0
-31,Ozark,9
+31,Ozark,20
 31,Park Hill,16
-31,Park Hill South,313
-31,Parkway South,180
-31,Pattonville,31
-31,Pembroke Hill,85
-31,Raymore-Peculiar,9
-31,Republic,30
-31,Rock Bridge,190
-31,St. Joseph's Academy,280
-31,Staley,87
-31,Truman,0
+31,Park Hill South,330
+31,Parkway South,171
+31,Pattonville,36
+31,Pembroke Hill,99
+31,Raymore-Peculiar,13
+31,Republic,10
+31,Rock Bridge,177
+31,St. Joseph's Academy,285
+31,Staley,54
+31,Truman,1
 31,Waynesville,0
-31,Westminster Christian Academy,112
+31,Westminster Christian Academy,84
 32,Blue Springs,9
-32,Blue Springs South,66
-32,Carthage,6
+32,Blue Springs South,53
+32,Carthage,15
 32,Central (St. Joseph),0
-32,Cor Jesu Academy,32
-32,Eureka,81
-32,Francis Howell,11
-32,Francis Howell Central,4
+32,Cor Jesu Academy,23
+32,Eureka,108
+32,Francis Howell,26
+32,Francis Howell Central,6
 32,Francis Howell North,0
-32,Ft. Zumwalt North,8
-32,Hickman,81
-32,Jackson,36
+32,Ft. Zumwalt North,2
+32,Hickman,74
+32,Jackson,28
 32,Kickapoo,0
-32,Kirkwood,124
-32,Lafayette (Wildwood),91
-32,Lee's Summit,41
-32,Lee's Summit North,37
-32,Lee's Summit West,20
+32,Kirkwood,154
+32,Lafayette (Wildwood),78
+32,Lee's Summit,49
+32,Lee's Summit North,45
+32,Lee's Summit West,23
 32,Liberty,102
-32,Liberty (Wentzville),0
-32,Liberty North,99
-32,Lindbergh,17
-32,MICDS,17
-32,Marquette,94
+32,Liberty (Wentzville),5
+32,Liberty North,96
+32,Lindbergh,22
+32,MICDS,7
+32,Marquette,99
 32,Nixa,0
 32,North Kansas City,0
 32,Oak Park,0
 32,Oakville,0
-32,Ozark,17
-32,Park Hill,16
-32,Park Hill South,320
-32,Parkway South,176
-32,Pattonville,33
-32,Pembroke Hill,100
-32,Raymore-Peculiar,17
-32,Republic,14
-32,Rock Bridge,189
-32,St. Joseph's Academy,279
-32,Staley,88
-32,Truman,2
+32,Ozark,19
+32,Park Hill,14
+32,Park Hill South,297
+32,Parkway South,159
+32,Pattonville,36
+32,Pembroke Hill,102
+32,Raymore-Peculiar,18
+32,Republic,24
+32,Rock Bridge,161
+32,St. Joseph's Academy,295
+32,Staley,68
+32,Truman,0
 32,Waynesville,0
-32,Westminster Christian Academy,98
-33,Blue Springs,13
-33,Blue Springs South,65
-33,Carthage,15
+32,Westminster Christian Academy,108
+33,Blue Springs,18
+33,Blue Springs South,48
+33,Carthage,13
 33,Central (St. Joseph),0
-33,Cor Jesu Academy,26
-33,Eureka,91
-33,Francis Howell,10
-33,Francis Howell Central,11
+33,Cor Jesu Academy,35
+33,Eureka,102
+33,Francis Howell,5
+33,Francis Howell Central,2
 33,Francis Howell North,0
-33,Ft. Zumwalt North,1
-33,Hickman,97
-33,Jackson,34
+33,Ft. Zumwalt North,5
+33,Hickman,65
+33,Jackson,46
 33,Kickapoo,0
-33,Kirkwood,162
-33,Lafayette (Wildwood),51
-33,Lee's Summit,34
-33,Lee's Summit North,45
-33,Lee's Summit West,20
-33,Liberty,82
-33,Liberty (Wentzville),1
+33,Kirkwood,152
+33,Lafayette (Wildwood),50
+33,Lee's Summit,36
+33,Lee's Summit North,41
+33,Lee's Summit West,25
+33,Liberty,121
+33,Liberty (Wentzville),0
 33,Liberty North,99
-33,Lindbergh,34
-33,MICDS,12
-33,Marquette,114
+33,Lindbergh,24
+33,MICDS,21
+33,Marquette,80
 33,Nixa,0
 33,North Kansas City,0
 33,Oak Park,0
 33,Oakville,0
-33,Ozark,3
-33,Park Hill,15
-33,Park Hill South,322
-33,Parkway South,157
+33,Ozark,18
+33,Park Hill,17
+33,Park Hill South,300
+33,Parkway South,168
 33,Pattonville,33
-33,Pembroke Hill,73
-33,Raymore-Peculiar,13
-33,Republic,45
-33,Rock Bridge,184
-33,St. Joseph's Academy,271
-33,Staley,96
-33,Truman,2
+33,Pembroke Hill,93
+33,Raymore-Peculiar,14
+33,Republic,22
+33,Rock Bridge,197
+33,St. Joseph's Academy,291
+33,Staley,83
+33,Truman,0
 33,Waynesville,0
-33,Westminster Christian Academy,94
-34,Blue Springs,16
-34,Blue Springs South,54
-34,Carthage,12
+33,Westminster Christian Academy,101
+34,Blue Springs,14
+34,Blue Springs South,42
+34,Carthage,13
 34,Central (St. Joseph),0
-34,Cor Jesu Academy,33
-34,Eureka,88
-34,Francis Howell,7
-34,Francis Howell Central,5
+34,Cor Jesu Academy,21
+34,Eureka,77
+34,Francis Howell,9
+34,Francis Howell Central,0
 34,Francis Howell North,0
-34,Ft. Zumwalt North,12
-34,Hickman,73
-34,Jackson,45
+34,Ft. Zumwalt North,5
+34,Hickman,74
+34,Jackson,48
 34,Kickapoo,0
-34,Kirkwood,148
-34,Lafayette (Wildwood),61
-34,Lee's Summit,37
-34,Lee's Summit North,41
-34,Lee's Summit West,26
-34,Liberty,107
-34,Liberty (Wentzville),0
-34,Liberty North,102
-34,Lindbergh,30
-34,MICDS,24
-34,Marquette,96
+34,Kirkwood,143
+34,Lafayette (Wildwood),60
+34,Lee's Summit,30
+34,Lee's Summit North,54
+34,Lee's Summit West,32
+34,Liberty,97
+34,Liberty (Wentzville),2
+34,Liberty North,112
+34,Lindbergh,24
+34,MICDS,13
+34,Marquette,104
 34,Nixa,0
 34,North Kansas City,0
 34,Oak Park,0
 34,Oakville,0
-34,Ozark,28
-34,Park Hill,17
-34,Park Hill South,287
-34,Parkway South,166
-34,Pattonville,32
-34,Pembroke Hill,92
-34,Raymore-Peculiar,15
-34,Republic,8
-34,Rock Bridge,181
-34,St. Joseph's Academy,303
-34,Staley,90
-34,Truman,7
+34,Ozark,17
+34,Park Hill,15
+34,Park Hill South,332
+34,Parkway South,151
+34,Pattonville,27
+34,Pembroke Hill,78
+34,Raymore-Peculiar,17
+34,Republic,23
+34,Rock Bridge,204
+34,St. Joseph's Academy,265
+34,Staley,102
+34,Truman,6
 34,Waynesville,0
-34,Westminster Christian Academy,82
+34,Westminster Christian Academy,114
 35,Blue Springs,12
-35,Blue Springs South,59
-35,Carthage,20
+35,Blue Springs South,63
+35,Carthage,7
 35,Central (St. Joseph),0
-35,Cor Jesu Academy,35
-35,Eureka,81
-35,Francis Howell,9
-35,Francis Howell Central,2
+35,Cor Jesu Academy,32
+35,Eureka,84
+35,Francis Howell,7
+35,Francis Howell Central,11
 35,Francis Howell North,0
-35,Ft. Zumwalt North,16
-35,Hickman,80
-35,Jackson,37
+35,Ft. Zumwalt North,14
+35,Hickman,72
+35,Jackson,35
 35,Kickapoo,0
-35,Kirkwood,154
-35,Lafayette (Wildwood),77
-35,Lee's Summit,23
-35,Lee's Summit North,42
-35,Lee's Summit West,29
-35,Liberty,85
-35,Liberty (Wentzville),1
-35,Liberty North,79
-35,Lindbergh,22
-35,MICDS,10
-35,Marquette,126
+35,Kirkwood,151
+35,Lafayette (Wildwood),67
+35,Lee's Summit,60
+35,Lee's Summit North,30
+35,Lee's Summit West,28
+35,Liberty,110
+35,Liberty (Wentzville),2
+35,Liberty North,90
+35,Lindbergh,28
+35,MICDS,26
+35,Marquette,95
 35,Nixa,0
 35,North Kansas City,0
 35,Oak Park,0
 35,Oakville,0
-35,Ozark,18
-35,Park Hill,15
-35,Park Hill South,310
-35,Parkway South,154
+35,Ozark,15
+35,Park Hill,17
+35,Park Hill South,320
+35,Parkway South,161
 35,Pattonville,33
-35,Pembroke Hill,90
-35,Raymore-Peculiar,11
-35,Republic,17
-35,Rock Bridge,202
-35,St. Joseph's Academy,270
-35,Staley,100
-35,Truman,0
+35,Pembroke Hill,92
+35,Raymore-Peculiar,17
+35,Republic,13
+35,Rock Bridge,181
+35,St. Joseph's Academy,281
+35,Staley,86
+35,Truman,2
 35,Waynesville,0
-35,Westminster Christian Academy,106
-36,Blue Springs,13
-36,Blue Springs South,46
-36,Carthage,17
+35,Westminster Christian Academy,83
+36,Blue Springs,11
+36,Blue Springs South,47
+36,Carthage,14
 36,Central (St. Joseph),0
-36,Cor Jesu Academy,36
-36,Eureka,71
-36,Francis Howell,9
+36,Cor Jesu Academy,33
+36,Eureka,99
+36,Francis Howell,4
 36,Francis Howell Central,4
 36,Francis Howell North,0
-36,Ft. Zumwalt North,19
-36,Hickman,75
-36,Jackson,37
+36,Ft. Zumwalt North,8
+36,Hickman,90
+36,Jackson,35
 36,Kickapoo,0
-36,Kirkwood,155
-36,Lafayette (Wildwood),89
-36,Lee's Summit,56
-36,Lee's Summit North,54
-36,Lee's Summit West,34
-36,Liberty,135
-36,Liberty (Wentzville),0
-36,Liberty North,83
-36,Lindbergh,26
-36,MICDS,22
-36,Marquette,89
+36,Kirkwood,166
+36,Lafayette (Wildwood),56
+36,Lee's Summit,21
+36,Lee's Summit North,44
+36,Lee's Summit West,25
+36,Liberty,113
+36,Liberty (Wentzville),2
+36,Liberty North,59
+36,Lindbergh,29
+36,MICDS,23
+36,Marquette,113
 36,Nixa,0
 36,North Kansas City,0
 36,Oak Park,0
 36,Oakville,0
-36,Ozark,15
-36,Park Hill,15
-36,Park Hill South,290
-36,Parkway South,169
+36,Ozark,21
+36,Park Hill,17
+36,Park Hill South,284
+36,Parkway South,176
 36,Pattonville,32
-36,Pembroke Hill,112
-36,Raymore-Peculiar,11
-36,Republic,8
-36,Rock Bridge,176
-36,St. Joseph's Academy,266
-36,Staley,79
-36,Truman,1
+36,Pembroke Hill,105
+36,Raymore-Peculiar,15
+36,Republic,25
+36,Rock Bridge,199
+36,St. Joseph's Academy,269
+36,Staley,81
+36,Truman,0
 36,Waynesville,0
-36,Westminster Christian Academy,81
-37,Blue Springs,7
-37,Blue Springs South,56
+36,Westminster Christian Academy,105
+37,Blue Springs,13
+37,Blue Springs South,52
 37,Carthage,15
 37,Central (St. Joseph),0
-37,Cor Jesu Academy,25
-37,Eureka,79
-37,Francis Howell,9
-37,Francis Howell Central,6
+37,Cor Jesu Academy,41
+37,Eureka,93
+37,Francis Howell,5
+37,Francis Howell Central,2
 37,Francis Howell North,0
-37,Ft. Zumwalt North,3
-37,Hickman,85
-37,Jackson,28
+37,Ft. Zumwalt North,2
+37,Hickman,61
+37,Jackson,26
 37,Kickapoo,0
-37,Kirkwood,144
-37,Lafayette (Wildwood),62
-37,Lee's Summit,30
-37,Lee's Summit North,45
-37,Lee's Summit West,30
-37,Liberty,100
-37,Liberty (Wentzville),1
-37,Liberty North,111
-37,Lindbergh,21
-37,MICDS,16
-37,Marquette,87
+37,Kirkwood,172
+37,Lafayette (Wildwood),52
+37,Lee's Summit,60
+37,Lee's Summit North,31
+37,Lee's Summit West,20
+37,Liberty,99
+37,Liberty (Wentzville),13
+37,Liberty North,77
+37,Lindbergh,29
+37,MICDS,20
+37,Marquette,109
 37,Nixa,0
 37,North Kansas City,0
 37,Oak Park,0
 37,Oakville,0
-37,Ozark,13
+37,Ozark,14
 37,Park Hill,15
-37,Park Hill South,289
-37,Parkway South,174
+37,Park Hill South,306
+37,Parkway South,171
 37,Pattonville,32
-37,Pembroke Hill,136
-37,Raymore-Peculiar,15
-37,Republic,13
-37,Rock Bridge,205
-37,St. Joseph's Academy,273
-37,Staley,88
-37,Truman,2
+37,Pembroke Hill,91
+37,Raymore-Peculiar,26
+37,Republic,28
+37,Rock Bridge,172
+37,St. Joseph's Academy,270
+37,Staley,83
+37,Truman,0
 37,Waynesville,0
-37,Westminster Christian Academy,110
+37,Westminster Christian Academy,125
 38,Blue Springs,13
-38,Blue Springs South,72
-38,Carthage,14
+38,Blue Springs South,63
+38,Carthage,12
 38,Central (St. Joseph),0
-38,Cor Jesu Academy,38
-38,Eureka,95
-38,Francis Howell,9
-38,Francis Howell Central,2
+38,Cor Jesu Academy,26
+38,Eureka,79
+38,Francis Howell,5
+38,Francis Howell Central,4
 38,Francis Howell North,0
-38,Ft. Zumwalt North,27
-38,Hickman,76
-38,Jackson,36
+38,Ft. Zumwalt North,33
+38,Hickman,68
+38,Jackson,40
 38,Kickapoo,0
-38,Kirkwood,169
-38,Lafayette (Wildwood),76
-38,Lee's Summit,27
-38,Lee's Summit North,38
+38,Kirkwood,164
+38,Lafayette (Wildwood),65
+38,Lee's Summit,28
+38,Lee's Summit North,47
 38,Lee's Summit West,27
-38,Liberty,86
-38,Liberty (Wentzville),6
-38,Liberty North,104
-38,Lindbergh,17
-38,MICDS,17
-38,Marquette,102
+38,Liberty,100
+38,Liberty (Wentzville),0
+38,Liberty North,106
+38,Lindbergh,35
+38,MICDS,14
+38,Marquette,108
 38,Nixa,0
 38,North Kansas City,0
 38,Oak Park,0
 38,Oakville,0
-38,Ozark,20
+38,Ozark,22
 38,Park Hill,15
-38,Park Hill South,284
-38,Parkway South,175
-38,Pattonville,32
-38,Pembroke Hill,100
-38,Raymore-Peculiar,22
-38,Republic,6
-38,Rock Bridge,179
-38,St. Joseph's Academy,290
-38,Staley,65
-38,Truman,3
+38,Park Hill South,307
+38,Parkway South,187
+38,Pattonville,36
+38,Pembroke Hill,102
+38,Raymore-Peculiar,14
+38,Republic,9
+38,Rock Bridge,161
+38,St. Joseph's Academy,259
+38,Staley,90
+38,Truman,1
 38,Waynesville,0
-38,Westminster Christian Academy,83
-39,Blue Springs,31
-39,Blue Springs South,51
+38,Westminster Christian Academy,85
+39,Blue Springs,20
+39,Blue Springs South,52
 39,Carthage,17
 39,Central (St. Joseph),0
 39,Cor Jesu Academy,33
-39,Eureka,77
-39,Francis Howell,9
+39,Eureka,96
+39,Francis Howell,8
 39,Francis Howell Central,5
 39,Francis Howell North,0
-39,Ft. Zumwalt North,4
-39,Hickman,67
-39,Jackson,25
+39,Ft. Zumwalt North,7
+39,Hickman,65
+39,Jackson,48
 39,Kickapoo,0
-39,Kirkwood,158
-39,Lafayette (Wildwood),77
-39,Lee's Summit,28
-39,Lee's Summit North,48
-39,Lee's Summit West,39
-39,Liberty,109
-39,Liberty (Wentzville),0
-39,Liberty North,76
-39,Lindbergh,21
-39,MICDS,19
-39,Marquette,98
+39,Kirkwood,145
+39,Lafayette (Wildwood),64
+39,Lee's Summit,52
+39,Lee's Summit North,36
+39,Lee's Summit West,33
+39,Liberty,84
+39,Liberty (Wentzville),1
+39,Liberty North,85
+39,Lindbergh,23
+39,MICDS,13
+39,Marquette,111
 39,Nixa,0
 39,North Kansas City,0
 39,Oak Park,0
 39,Oakville,0
-39,Ozark,22
-39,Park Hill,15
-39,Park Hill South,304
-39,Parkway South,166
+39,Ozark,14
+39,Park Hill,16
+39,Park Hill South,297
+39,Parkway South,169
 39,Pattonville,36
-39,Pembroke Hill,111
+39,Pembroke Hill,79
 39,Raymore-Peculiar,13
-39,Republic,13
-39,Rock Bridge,197
-39,St. Joseph's Academy,287
-39,Staley,82
-39,Truman,0
+39,Republic,33
+39,Rock Bridge,190
+39,St. Joseph's Academy,270
+39,Staley,101
+39,Truman,4
 39,Waynesville,0
-39,Westminster Christian Academy,87
-40,Blue Springs,15
-40,Blue Springs South,63
-40,Carthage,16
+39,Westminster Christian Academy,105
+40,Blue Springs,13
+40,Blue Springs South,45
+40,Carthage,12
 40,Central (St. Joseph),0
-40,Cor Jesu Academy,25
-40,Eureka,108
+40,Cor Jesu Academy,35
+40,Eureka,94
 40,Francis Howell,12
-40,Francis Howell Central,7
+40,Francis Howell Central,2
 40,Francis Howell North,0
-40,Ft. Zumwalt North,9
-40,Hickman,86
-40,Jackson,37
+40,Ft. Zumwalt North,2
+40,Hickman,82
+40,Jackson,53
 40,Kickapoo,0
-40,Kirkwood,140
-40,Lafayette (Wildwood),50
-40,Lee's Summit,46
-40,Lee's Summit North,39
-40,Lee's Summit West,38
-40,Liberty,149
-40,Liberty (Wentzville),6
-40,Liberty North,60
-40,Lindbergh,22
-40,MICDS,15
-40,Marquette,108
+40,Kirkwood,156
+40,Lafayette (Wildwood),69
+40,Lee's Summit,34
+40,Lee's Summit North,43
+40,Lee's Summit West,26
+40,Liberty,123
+40,Liberty (Wentzville),2
+40,Liberty North,80
+40,Lindbergh,24
+40,MICDS,21
+40,Marquette,102
 40,Nixa,0
 40,North Kansas City,0
 40,Oak Park,0
 40,Oakville,0
-40,Ozark,20
-40,Park Hill,15
-40,Park Hill South,267
-40,Parkway South,184
-40,Pattonville,32
-40,Pembroke Hill,86
-40,Raymore-Peculiar,15
-40,Republic,6
-40,Rock Bridge,199
-40,St. Joseph's Academy,266
-40,Staley,68
+40,Ozark,15
+40,Park Hill,13
+40,Park Hill South,279
+40,Parkway South,181
+40,Pattonville,31
+40,Pembroke Hill,79
+40,Raymore-Peculiar,12
+40,Republic,17
+40,Rock Bridge,184
+40,St. Joseph's Academy,290
+40,Staley,85
 40,Truman,0
 40,Waynesville,0
-40,Westminster Christian Academy,116
-41,Blue Springs,11
-41,Blue Springs South,63
-41,Carthage,13
+40,Westminster Christian Academy,109
+41,Blue Springs,14
+41,Blue Springs South,65
+41,Carthage,16
 41,Central (St. Joseph),0
-41,Cor Jesu Academy,50
-41,Eureka,77
-41,Francis Howell,19
-41,Francis Howell Central,5
+41,Cor Jesu Academy,39
+41,Eureka,69
+41,Francis Howell,13
+41,Francis Howell Central,3
 41,Francis Howell North,0
-41,Ft. Zumwalt North,19
-41,Hickman,82
-41,Jackson,28
+41,Ft. Zumwalt North,6
+41,Hickman,88
+41,Jackson,35
 41,Kickapoo,0
-41,Kirkwood,148
-41,Lafayette (Wildwood),80
-41,Lee's Summit,35
-41,Lee's Summit North,32
-41,Lee's Summit West,42
-41,Liberty,110
-41,Liberty (Wentzville),1
-41,Liberty North,76
-41,Lindbergh,25
-41,MICDS,17
-41,Marquette,101
+41,Kirkwood,154
+41,Lafayette (Wildwood),95
+41,Lee's Summit,30
+41,Lee's Summit North,39
+41,Lee's Summit West,29
+41,Liberty,91
+41,Liberty (Wentzville),2
+41,Liberty North,101
+41,Lindbergh,23
+41,MICDS,25
+41,Marquette,85
 41,Nixa,0
 41,North Kansas City,0
 41,Oak Park,0
 41,Oakville,0
-41,Ozark,15
+41,Ozark,13
 41,Park Hill,16
-41,Park Hill South,269
-41,Parkway South,171
-41,Pattonville,33
-41,Pembroke Hill,99
-41,Raymore-Peculiar,15
-41,Republic,7
-41,Rock Bridge,194
-41,St. Joseph's Academy,295
-41,Staley,74
-41,Truman,0
+41,Park Hill South,288
+41,Parkway South,180
+41,Pattonville,36
+41,Pembroke Hill,102
+41,Raymore-Peculiar,14
+41,Republic,18
+41,Rock Bridge,189
+41,St. Joseph's Academy,279
+41,Staley,75
+41,Truman,3
 41,Waynesville,0
-41,Westminster Christian Academy,103
-42,Blue Springs,13
-42,Blue Springs South,50
-42,Carthage,12
+41,Westminster Christian Academy,90
+42,Blue Springs,15
+42,Blue Springs South,53
+42,Carthage,14
 42,Central (St. Joseph),0
-42,Cor Jesu Academy,26
-42,Eureka,54
-42,Francis Howell,14
-42,Francis Howell Central,0
+42,Cor Jesu Academy,36
+42,Eureka,85
+42,Francis Howell,6
+42,Francis Howell Central,2
 42,Francis Howell North,0
-42,Ft. Zumwalt North,9
-42,Hickman,72
-42,Jackson,32
+42,Ft. Zumwalt North,5
+42,Hickman,69
+42,Jackson,39
 42,Kickapoo,0
-42,Kirkwood,156
+42,Kirkwood,168
 42,Lafayette (Wildwood),61
-42,Lee's Summit,28
-42,Lee's Summit North,41
-42,Lee's Summit West,27
-42,Liberty,107
+42,Lee's Summit,58
+42,Lee's Summit North,58
+42,Lee's Summit West,31
+42,Liberty,120
 42,Liberty (Wentzville),0
-42,Liberty North,120
-42,Lindbergh,31
-42,MICDS,36
-42,Marquette,113
+42,Liberty North,80
+42,Lindbergh,26
+42,MICDS,9
+42,Marquette,80
 42,Nixa,0
 42,North Kansas City,0
 42,Oak Park,0
 42,Oakville,0
-42,Ozark,17
+42,Ozark,22
 42,Park Hill,16
-42,Park Hill South,290
-42,Parkway South,147
-42,Pattonville,36
-42,Pembroke Hill,100
-42,Raymore-Peculiar,15
-42,Republic,14
-42,Rock Bridge,183
-42,St. Joseph's Academy,292
-42,Staley,81
-42,Truman,0
+42,Park Hill South,305
+42,Parkway South,164
+42,Pattonville,33
+42,Pembroke Hill,89
+42,Raymore-Peculiar,13
+42,Republic,13
+42,Rock Bridge,175
+42,St. Joseph's Academy,277
+42,Staley,88
+42,Truman,2
 42,Waynesville,0
-42,Westminster Christian Academy,132
-43,Blue Springs,11
-43,Blue Springs South,38
-43,Carthage,15
+42,Westminster Christian Academy,113
+43,Blue Springs,13
+43,Blue Springs South,62
+43,Carthage,14
 43,Central (St. Joseph),0
-43,Cor Jesu Academy,50
-43,Eureka,96
-43,Francis Howell,20
-43,Francis Howell Central,0
+43,Cor Jesu Academy,37
+43,Eureka,83
+43,Francis Howell,11
+43,Francis Howell Central,2
 43,Francis Howell North,0
-43,Ft. Zumwalt North,6
-43,Hickman,77
-43,Jackson,53
+43,Ft. Zumwalt North,19
+43,Hickman,80
+43,Jackson,49
 43,Kickapoo,0
-43,Kirkwood,150
-43,Lafayette (Wildwood),65
-43,Lee's Summit,36
-43,Lee's Summit North,73
-43,Lee's Summit West,45
-43,Liberty,100
-43,Liberty (Wentzville),9
-43,Liberty North,99
-43,Lindbergh,14
-43,MICDS,11
-43,Marquette,82
+43,Kirkwood,146
+43,Lafayette (Wildwood),43
+43,Lee's Summit,33
+43,Lee's Summit North,55
+43,Lee's Summit West,24
+43,Liberty,148
+43,Liberty (Wentzville),0
+43,Liberty North,81
+43,Lindbergh,21
+43,MICDS,35
+43,Marquette,92
 43,Nixa,0
 43,North Kansas City,0
 43,Oak Park,0
 43,Oakville,0
-43,Ozark,27
-43,Park Hill,16
-43,Park Hill South,291
-43,Parkway South,153
-43,Pattonville,32
-43,Pembroke Hill,89
-43,Raymore-Peculiar,15
-43,Republic,4
-43,Rock Bridge,174
-43,St. Joseph's Academy,289
-43,Staley,73
-43,Truman,4
+43,Ozark,15
+43,Park Hill,14
+43,Park Hill South,300
+43,Parkway South,136
+43,Pattonville,36
+43,Pembroke Hill,88
+43,Raymore-Peculiar,16
+43,Republic,8
+43,Rock Bridge,190
+43,St. Joseph's Academy,274
+43,Staley,91
+43,Truman,0
 43,Waynesville,0
-43,Westminster Christian Academy,108
-44,Blue Springs,13
-44,Blue Springs South,55
-44,Carthage,16
+43,Westminster Christian Academy,109
+44,Blue Springs,18
+44,Blue Springs South,35
+44,Carthage,15
 44,Central (St. Joseph),0
 44,Cor Jesu Academy,42
-44,Eureka,45
-44,Francis Howell,11
-44,Francis Howell Central,3
+44,Eureka,74
+44,Francis Howell,8
+44,Francis Howell Central,0
 44,Francis Howell North,0
-44,Ft. Zumwalt North,12
-44,Hickman,76
-44,Jackson,39
+44,Ft. Zumwalt North,0
+44,Hickman,78
+44,Jackson,50
 44,Kickapoo,0
-44,Kirkwood,172
-44,Lafayette (Wildwood),75
-44,Lee's Summit,27
-44,Lee's Summit North,40
-44,Lee's Summit West,28
+44,Kirkwood,155
+44,Lafayette (Wildwood),63
+44,Lee's Summit,33
+44,Lee's Summit North,58
+44,Lee's Summit West,35
 44,Liberty,109
-44,Liberty (Wentzville),1
-44,Liberty North,107
-44,Lindbergh,12
-44,MICDS,19
-44,Marquette,96
+44,Liberty (Wentzville),2
+44,Liberty North,66
+44,Lindbergh,19
+44,MICDS,25
+44,Marquette,113
 44,Nixa,0
 44,North Kansas City,0
 44,Oak Park,0
 44,Oakville,0
-44,Ozark,14
+44,Ozark,15
 44,Park Hill,16
-44,Park Hill South,316
-44,Parkway South,152
-44,Pattonville,36
-44,Pembroke Hill,94
+44,Park Hill South,332
+44,Parkway South,157
+44,Pattonville,31
+44,Pembroke Hill,112
 44,Raymore-Peculiar,18
-44,Republic,15
-44,Rock Bridge,180
-44,St. Joseph's Academy,280
-44,Staley,98
-44,Truman,7
+44,Republic,13
+44,Rock Bridge,168
+44,St. Joseph's Academy,275
+44,Staley,93
+44,Truman,1
 44,Waynesville,0
-44,Westminster Christian Academy,101
-45,Blue Springs,10
-45,Blue Springs South,47
-45,Carthage,15
+44,Westminster Christian Academy,96
+45,Blue Springs,11
+45,Blue Springs South,45
+45,Carthage,16
 45,Central (St. Joseph),0
-45,Cor Jesu Academy,52
-45,Eureka,71
-45,Francis Howell,12
+45,Cor Jesu Academy,38
+45,Eureka,88
+45,Francis Howell,7
 45,Francis Howell Central,0
 45,Francis Howell North,0
-45,Ft. Zumwalt North,14
-45,Hickman,74
-45,Jackson,18
+45,Ft. Zumwalt North,9
+45,Hickman,80
+45,Jackson,37
 45,Kickapoo,0
-45,Kirkwood,161
-45,Lafayette (Wildwood),63
-45,Lee's Summit,34
-45,Lee's Summit North,41
-45,Lee's Summit West,24
-45,Liberty,126
-45,Liberty (Wentzville),11
-45,Liberty North,111
-45,Lindbergh,26
-45,MICDS,15
-45,Marquette,106
+45,Kirkwood,151
+45,Lafayette (Wildwood),67
+45,Lee's Summit,33
+45,Lee's Summit North,62
+45,Lee's Summit West,26
+45,Liberty,117
+45,Liberty (Wentzville),0
+45,Liberty North,92
+45,Lindbergh,21
+45,MICDS,35
+45,Marquette,117
 45,Nixa,0
 45,North Kansas City,0
 45,Oak Park,0
 45,Oakville,0
-45,Ozark,12
-45,Park Hill,17
-45,Park Hill South,298
-45,Parkway South,126
-45,Pattonville,31
-45,Pembroke Hill,89
-45,Raymore-Peculiar,13
-45,Republic,14
-45,Rock Bridge,180
-45,St. Joseph's Academy,279
-45,Staley,87
+45,Ozark,17
+45,Park Hill,15
+45,Park Hill South,299
+45,Parkway South,165
+45,Pattonville,36
+45,Pembroke Hill,93
+45,Raymore-Peculiar,12
+45,Republic,9
+45,Rock Bridge,182
+45,St. Joseph's Academy,290
+45,Staley,73
 45,Truman,0
 45,Waynesville,0
-45,Westminster Christian Academy,148
-46,Blue Springs,13
-46,Blue Springs South,63
-46,Carthage,20
+45,Westminster Christian Academy,82
+46,Blue Springs,16
+46,Blue Springs South,51
+46,Carthage,13
 46,Central (St. Joseph),0
-46,Cor Jesu Academy,23
-46,Eureka,97
-46,Francis Howell,4
-46,Francis Howell Central,5
+46,Cor Jesu Academy,20
+46,Eureka,103
+46,Francis Howell,0
+46,Francis Howell Central,1
 46,Francis Howell North,0
-46,Ft. Zumwalt North,6
-46,Hickman,76
-46,Jackson,52
+46,Ft. Zumwalt North,0
+46,Hickman,73
+46,Jackson,31
 46,Kickapoo,0
-46,Kirkwood,157
-46,Lafayette (Wildwood),73
-46,Lee's Summit,49
-46,Lee's Summit North,33
-46,Lee's Summit West,22
-46,Liberty,116
-46,Liberty (Wentzville),3
-46,Liberty North,106
-46,Lindbergh,22
-46,MICDS,23
-46,Marquette,86
+46,Kirkwood,169
+46,Lafayette (Wildwood),59
+46,Lee's Summit,32
+46,Lee's Summit North,41
+46,Lee's Summit West,35
+46,Liberty,131
+46,Liberty (Wentzville),0
+46,Liberty North,92
+46,Lindbergh,23
+46,MICDS,14
+46,Marquette,105
 46,Nixa,0
 46,North Kansas City,0
 46,Oak Park,0
 46,Oakville,0
 46,Ozark,19
-46,Park Hill,16
-46,Park Hill South,319
-46,Parkway South,150
+46,Park Hill,17
+46,Park Hill South,283
+46,Parkway South,161
 46,Pattonville,31
-46,Pembroke Hill,91
-46,Raymore-Peculiar,12
-46,Republic,12
-46,Rock Bridge,168
-46,St. Joseph's Academy,286
-46,Staley,83
-46,Truman,0
+46,Pembroke Hill,122
+46,Raymore-Peculiar,15
+46,Republic,13
+46,Rock Bridge,191
+46,St. Joseph's Academy,277
+46,Staley,97
+46,Truman,1
 46,Waynesville,0
 46,Westminster Christian Academy,89
-47,Blue Springs,13
-47,Blue Springs South,70
-47,Carthage,12
+47,Blue Springs,15
+47,Blue Springs South,71
+47,Carthage,15
 47,Central (St. Joseph),0
 47,Cor Jesu Academy,32
-47,Eureka,90
-47,Francis Howell,11
-47,Francis Howell Central,2
+47,Eureka,84
+47,Francis Howell,9
+47,Francis Howell Central,3
 47,Francis Howell North,0
-47,Ft. Zumwalt North,0
-47,Hickman,81
-47,Jackson,29
+47,Ft. Zumwalt North,7
+47,Hickman,83
+47,Jackson,28
 47,Kickapoo,0
-47,Kirkwood,176
-47,Lafayette (Wildwood),58
-47,Lee's Summit,35
-47,Lee's Summit North,38
-47,Lee's Summit West,18
-47,Liberty,132
-47,Liberty (Wentzville),15
-47,Liberty North,77
+47,Kirkwood,140
+47,Lafayette (Wildwood),82
+47,Lee's Summit,26
+47,Lee's Summit North,46
+47,Lee's Summit West,29
+47,Liberty,123
+47,Liberty (Wentzville),0
+47,Liberty North,88
 47,Lindbergh,25
-47,MICDS,37
-47,Marquette,121
+47,MICDS,26
+47,Marquette,117
 47,Nixa,0
 47,North Kansas City,0
 47,Oak Park,0
 47,Oakville,0
-47,Ozark,18
+47,Ozark,22
 47,Park Hill,16
-47,Park Hill South,308
-47,Parkway South,169
-47,Pattonville,31
-47,Pembroke Hill,103
-47,Raymore-Peculiar,14
-47,Republic,15
-47,Rock Bridge,173
-47,St. Joseph's Academy,279
-47,Staley,62
-47,Truman,3
+47,Park Hill South,301
+47,Parkway South,142
+47,Pattonville,33
+47,Pembroke Hill,86
+47,Raymore-Peculiar,15
+47,Republic,10
+47,Rock Bridge,193
+47,St. Joseph's Academy,269
+47,Staley,87
+47,Truman,1
 47,Waynesville,0
-47,Westminster Christian Academy,62
-48,Blue Springs,10
-48,Blue Springs South,63
-48,Carthage,13
+47,Westminster Christian Academy,101
+48,Blue Springs,15
+48,Blue Springs South,47
+48,Carthage,15
 48,Central (St. Joseph),0
-48,Cor Jesu Academy,38
-48,Eureka,73
-48,Francis Howell,15
-48,Francis Howell Central,3
+48,Cor Jesu Academy,28
+48,Eureka,76
+48,Francis Howell,8
+48,Francis Howell Central,2
 48,Francis Howell North,0
-48,Ft. Zumwalt North,1
-48,Hickman,81
-48,Jackson,30
+48,Ft. Zumwalt North,5
+48,Hickman,62
+48,Jackson,35
 48,Kickapoo,0
-48,Kirkwood,132
-48,Lafayette (Wildwood),54
-48,Lee's Summit,56
-48,Lee's Summit North,65
-48,Lee's Summit West,24
-48,Liberty,136
-48,Liberty (Wentzville),1
-48,Liberty North,80
-48,Lindbergh,18
-48,MICDS,19
-48,Marquette,112
+48,Kirkwood,151
+48,Lafayette (Wildwood),81
+48,Lee's Summit,34
+48,Lee's Summit North,61
+48,Lee's Summit West,23
+48,Liberty,121
+48,Liberty (Wentzville),0
+48,Liberty North,104
+48,Lindbergh,20
+48,MICDS,30
+48,Marquette,111
 48,Nixa,0
 48,North Kansas City,0
 48,Oak Park,0
 48,Oakville,0
-48,Ozark,16
-48,Park Hill,20
-48,Park Hill South,291
-48,Parkway South,177
-48,Pattonville,32
-48,Pembroke Hill,101
-48,Raymore-Peculiar,14
-48,Republic,6
-48,Rock Bridge,200
-48,St. Joseph's Academy,263
-48,Staley,75
+48,Ozark,26
+48,Park Hill,17
+48,Park Hill South,302
+48,Parkway South,144
+48,Pattonville,33
+48,Pembroke Hill,124
+48,Raymore-Peculiar,16
+48,Republic,5
+48,Rock Bridge,196
+48,St. Joseph's Academy,271
+48,Staley,66
 48,Truman,0
 48,Waynesville,0
-48,Westminster Christian Academy,106
-49,Blue Springs,8
-49,Blue Springs South,67
-49,Carthage,4
+48,Westminster Christian Academy,96
+49,Blue Springs,14
+49,Blue Springs South,40
+49,Carthage,17
 49,Central (St. Joseph),0
 49,Cor Jesu Academy,33
-49,Eureka,84
-49,Francis Howell,11
-49,Francis Howell Central,0
+49,Eureka,77
+49,Francis Howell,6
+49,Francis Howell Central,4
 49,Francis Howell North,0
-49,Ft. Zumwalt North,9
-49,Hickman,74
-49,Jackson,35
+49,Ft. Zumwalt North,1
+49,Hickman,75
+49,Jackson,31
 49,Kickapoo,0
-49,Kirkwood,163
-49,Lafayette (Wildwood),80
+49,Kirkwood,144
+49,Lafayette (Wildwood),71
 49,Lee's Summit,29
-49,Lee's Summit North,37
-49,Lee's Summit West,51
-49,Liberty,112
-49,Liberty (Wentzville),0
-49,Liberty North,99
-49,Lindbergh,25
-49,MICDS,25
-49,Marquette,115
+49,Lee's Summit North,54
+49,Lee's Summit West,18
+49,Liberty,129
+49,Liberty (Wentzville),1
+49,Liberty North,104
+49,Lindbergh,26
+49,MICDS,16
+49,Marquette,102
 49,Nixa,0
 49,North Kansas City,0
 49,Oak Park,0
 49,Oakville,0
-49,Ozark,18
+49,Ozark,20
 49,Park Hill,15
-49,Park Hill South,313
-49,Parkway South,155
-49,Pattonville,36
-49,Pembroke Hill,89
-49,Raymore-Peculiar,14
-49,Republic,16
-49,Rock Bridge,175
-49,St. Joseph's Academy,266
-49,Staley,86
-49,Truman,0
+49,Park Hill South,300
+49,Parkway South,153
+49,Pattonville,33
+49,Pembroke Hill,114
+49,Raymore-Peculiar,17
+49,Republic,10
+49,Rock Bridge,182
+49,St. Joseph's Academy,291
+49,Staley,98
+49,Truman,2
 49,Waynesville,0
-49,Westminster Christian Academy,81
+49,Westminster Christian Academy,98
+50,Blue Springs,12
+50,Blue Springs South,84
+50,Carthage,12
+50,Central (St. Joseph),0
+50,Cor Jesu Academy,27
+50,Eureka,82
+50,Francis Howell,10
+50,Francis Howell Central,6
+50,Francis Howell North,0
+50,Ft. Zumwalt North,15
+50,Hickman,85
+50,Jackson,32
+50,Kickapoo,0
+50,Kirkwood,180
+50,Lafayette (Wildwood),56
+50,Lee's Summit,56
+50,Lee's Summit North,42
+50,Lee's Summit West,33
+50,Liberty,88
+50,Liberty (Wentzville),1
+50,Liberty North,84
+50,Lindbergh,17
+50,MICDS,15
+50,Marquette,100
+50,Nixa,0
+50,North Kansas City,0
+50,Oak Park,0
+50,Oakville,0
+50,Ozark,13
+50,Park Hill,16
+50,Park Hill South,278
+50,Parkway South,160
+50,Pattonville,33
+50,Pembroke Hill,104
+50,Raymore-Peculiar,19
+50,Republic,10
+50,Rock Bridge,183
+50,St. Joseph's Academy,267
+50,Staley,83
+50,Truman,0
+50,Waynesville,0
+50,Westminster Christian Academy,122
+51,Blue Springs,13
+51,Blue Springs South,52
+51,Carthage,11
+51,Central (St. Joseph),0
+51,Cor Jesu Academy,44
+51,Eureka,88
+51,Francis Howell,6
+51,Francis Howell Central,2
+51,Francis Howell North,0
+51,Ft. Zumwalt North,29
+51,Hickman,72
+51,Jackson,35
+51,Kickapoo,0
+51,Kirkwood,162
+51,Lafayette (Wildwood),57
+51,Lee's Summit,55
+51,Lee's Summit North,44
+51,Lee's Summit West,21
+51,Liberty,97
+51,Liberty (Wentzville),1
+51,Liberty North,115
+51,Lindbergh,25
+51,MICDS,17
+51,Marquette,101
+51,Nixa,0
+51,North Kansas City,0
+51,Oak Park,0
+51,Oakville,0
+51,Ozark,21
+51,Park Hill,20
+51,Park Hill South,286
+51,Parkway South,152
+51,Pattonville,33
+51,Pembroke Hill,91
+51,Raymore-Peculiar,14
+51,Republic,23
+51,Rock Bridge,185
+51,St. Joseph's Academy,303
+51,Staley,52
+51,Truman,1
+51,Waynesville,0
+51,Westminster Christian Academy,97
+52,Blue Springs,13
+52,Blue Springs South,75
+52,Carthage,7
+52,Central (St. Joseph),0
+52,Cor Jesu Academy,32
+52,Eureka,86
+52,Francis Howell,17
+52,Francis Howell Central,1
+52,Francis Howell North,0
+52,Ft. Zumwalt North,0
+52,Hickman,75
+52,Jackson,26
+52,Kickapoo,0
+52,Kirkwood,139
+52,Lafayette (Wildwood),77
+52,Lee's Summit,33
+52,Lee's Summit North,39
+52,Lee's Summit West,21
+52,Liberty,119
+52,Liberty (Wentzville),4
+52,Liberty North,110
+52,Lindbergh,18
+52,MICDS,30
+52,Marquette,114
+52,Nixa,0
+52,North Kansas City,0
+52,Oak Park,0
+52,Oakville,0
+52,Ozark,19
+52,Park Hill,16
+52,Park Hill South,301
+52,Parkway South,164
+52,Pattonville,32
+52,Pembroke Hill,94
+52,Raymore-Peculiar,15
+52,Republic,15
+52,Rock Bridge,177
+52,St. Joseph's Academy,278
+52,Staley,88
+52,Truman,1
+52,Waynesville,0
+52,Westminster Christian Academy,89
+53,Blue Springs,13
+53,Blue Springs South,61
+53,Carthage,14
+53,Central (St. Joseph),0
+53,Cor Jesu Academy,26
+53,Eureka,97
+53,Francis Howell,10
+53,Francis Howell Central,3
+53,Francis Howell North,0
+53,Ft. Zumwalt North,3
+53,Hickman,92
+53,Jackson,31
+53,Kickapoo,0
+53,Kirkwood,150
+53,Lafayette (Wildwood),67
+53,Lee's Summit,42
+53,Lee's Summit North,37
+53,Lee's Summit West,25
+53,Liberty,115
+53,Liberty (Wentzville),0
+53,Liberty North,85
+53,Lindbergh,25
+53,MICDS,24
+53,Marquette,101
+53,Nixa,0
+53,North Kansas City,0
+53,Oak Park,0
+53,Oakville,0
+53,Ozark,19
+53,Park Hill,15
+53,Park Hill South,286
+53,Parkway South,153
+53,Pattonville,30
+53,Pembroke Hill,90
+53,Raymore-Peculiar,20
+53,Republic,5
+53,Rock Bridge,198
+53,St. Joseph's Academy,272
+53,Staley,115
+53,Truman,0
+53,Waynesville,0
+53,Westminster Christian Academy,101
+54,Blue Springs,12
+54,Blue Springs South,57
+54,Carthage,15
+54,Central (St. Joseph),0
+54,Cor Jesu Academy,61
+54,Eureka,92
+54,Francis Howell,8
+54,Francis Howell Central,2
+54,Francis Howell North,0
+54,Ft. Zumwalt North,7
+54,Hickman,61
+54,Jackson,35
+54,Kickapoo,0
+54,Kirkwood,167
+54,Lafayette (Wildwood),58
+54,Lee's Summit,39
+54,Lee's Summit North,42
+54,Lee's Summit West,23
+54,Liberty,129
+54,Liberty (Wentzville),0
+54,Liberty North,65
+54,Lindbergh,19
+54,MICDS,15
+54,Marquette,106
+54,Nixa,0
+54,North Kansas City,0
+54,Oak Park,0
+54,Oakville,0
+54,Ozark,22
+54,Park Hill,17
+54,Park Hill South,279
+54,Parkway South,172
+54,Pattonville,33
+54,Pembroke Hill,113
+54,Raymore-Peculiar,13
+54,Republic,8
+54,Rock Bridge,176
+54,St. Joseph's Academy,269
+54,Staley,92
+54,Truman,0
+54,Waynesville,0
+54,Westminster Christian Academy,118
+55,Blue Springs,13
+55,Blue Springs South,39
+55,Carthage,16
+55,Central (St. Joseph),0
+55,Cor Jesu Academy,27
+55,Eureka,92
+55,Francis Howell,16
+55,Francis Howell Central,4
+55,Francis Howell North,0
+55,Ft. Zumwalt North,6
+55,Hickman,80
+55,Jackson,34
+55,Kickapoo,0
+55,Kirkwood,177
+55,Lafayette (Wildwood),87
+55,Lee's Summit,37
+55,Lee's Summit North,57
+55,Lee's Summit West,26
+55,Liberty,87
+55,Liberty (Wentzville),0
+55,Liberty North,61
+55,Lindbergh,21
+55,MICDS,9
+55,Marquette,89
+55,Nixa,0
+55,North Kansas City,0
+55,Oak Park,0
+55,Oakville,0
+55,Ozark,24
+55,Park Hill,16
+55,Park Hill South,302
+55,Parkway South,164
+55,Pattonville,33
+55,Pembroke Hill,90
+55,Raymore-Peculiar,13
+55,Republic,8
+55,Rock Bridge,199
+55,St. Joseph's Academy,278
+55,Staley,82
+55,Truman,2
+55,Waynesville,0
+55,Westminster Christian Academy,136
+56,Blue Springs,14
+56,Blue Springs South,41
+56,Carthage,15
+56,Central (St. Joseph),0
+56,Cor Jesu Academy,29
+56,Eureka,90
+56,Francis Howell,6
+56,Francis Howell Central,19
+56,Francis Howell North,0
+56,Ft. Zumwalt North,13
+56,Hickman,69
+56,Jackson,27
+56,Kickapoo,0
+56,Kirkwood,181
+56,Lafayette (Wildwood),44
+56,Lee's Summit,33
+56,Lee's Summit North,61
+56,Lee's Summit West,48
+56,Liberty,129
+56,Liberty (Wentzville),2
+56,Liberty North,87
+56,Lindbergh,21
+56,MICDS,12
+56,Marquette,106
+56,Nixa,0
+56,North Kansas City,0
+56,Oak Park,0
+56,Oakville,0
+56,Ozark,18
+56,Park Hill,16
+56,Park Hill South,308
+56,Parkway South,169
+56,Pattonville,34
+56,Pembroke Hill,99
+56,Raymore-Peculiar,13
+56,Republic,14
+56,Rock Bridge,193
+56,St. Joseph's Academy,226
+56,Staley,82
+56,Truman,0
+56,Waynesville,0
+56,Westminster Christian Academy,106
+57,Blue Springs,9
+57,Blue Springs South,53
+57,Carthage,16
+57,Central (St. Joseph),0
+57,Cor Jesu Academy,51
+57,Eureka,67
+57,Francis Howell,12
+57,Francis Howell Central,6
+57,Francis Howell North,0
+57,Ft. Zumwalt North,3
+57,Hickman,85
+57,Jackson,37
+57,Kickapoo,0
+57,Kirkwood,168
+57,Lafayette (Wildwood),88
+57,Lee's Summit,39
+57,Lee's Summit North,52
+57,Lee's Summit West,23
+57,Liberty,80
+57,Liberty (Wentzville),0
+57,Liberty North,100
+57,Lindbergh,26
+57,MICDS,44
+57,Marquette,70
+57,Nixa,0
+57,North Kansas City,0
+57,Oak Park,0
+57,Oakville,0
+57,Ozark,13
+57,Park Hill,15
+57,Park Hill South,304
+57,Parkway South,168
+57,Pattonville,31
+57,Pembroke Hill,106
+57,Raymore-Peculiar,17
+57,Republic,19
+57,Rock Bridge,179
+57,St. Joseph's Academy,278
+57,Staley,76
+57,Truman,2
+57,Waynesville,0
+57,Westminster Christian Academy,88
+58,Blue Springs,13
+58,Blue Springs South,59
+58,Carthage,15
+58,Central (St. Joseph),0
+58,Cor Jesu Academy,41
+58,Eureka,77
+58,Francis Howell,17
+58,Francis Howell Central,3
+58,Francis Howell North,0
+58,Ft. Zumwalt North,0
+58,Hickman,65
+58,Jackson,34
+58,Kickapoo,0
+58,Kirkwood,157
+58,Lafayette (Wildwood),64
+58,Lee's Summit,33
+58,Lee's Summit North,51
+58,Lee's Summit West,16
+58,Liberty,105
+58,Liberty (Wentzville),3
+58,Liberty North,102
+58,Lindbergh,25
+58,MICDS,20
+58,Marquette,127
+58,Nixa,0
+58,North Kansas City,0
+58,Oak Park,0
+58,Oakville,0
+58,Ozark,19
+58,Park Hill,16
+58,Park Hill South,336
+58,Parkway South,142
+58,Pattonville,30
+58,Pembroke Hill,92
+58,Raymore-Peculiar,12
+58,Republic,35
+58,Rock Bridge,168
+58,St. Joseph's Academy,278
+58,Staley,66
+58,Truman,0
+58,Waynesville,0
+58,Westminster Christian Academy,104
+59,Blue Springs,11
+59,Blue Springs South,47
+59,Carthage,14
+59,Central (St. Joseph),0
+59,Cor Jesu Academy,44
+59,Eureka,70
+59,Francis Howell,13
+59,Francis Howell Central,1
+59,Francis Howell North,0
+59,Ft. Zumwalt North,3
+59,Hickman,86
+59,Jackson,43
+59,Kickapoo,0
+59,Kirkwood,189
+59,Lafayette (Wildwood),60
+59,Lee's Summit,37
+59,Lee's Summit North,45
+59,Lee's Summit West,23
+59,Liberty,126
+59,Liberty (Wentzville),4
+59,Liberty North,85
+59,Lindbergh,16
+59,MICDS,18
+59,Marquette,104
+59,Nixa,0
+59,North Kansas City,0
+59,Oak Park,0
+59,Oakville,0
+59,Ozark,27
+59,Park Hill,13
+59,Park Hill South,307
+59,Parkway South,164
+59,Pattonville,29
+59,Pembroke Hill,96
+59,Raymore-Peculiar,11
+59,Republic,13
+59,Rock Bridge,191
+59,St. Joseph's Academy,261
+59,Staley,73
+59,Truman,6
+59,Waynesville,0
+59,Westminster Christian Academy,95
+60,Blue Springs,13
+60,Blue Springs South,49
+60,Carthage,16
+60,Central (St. Joseph),0
+60,Cor Jesu Academy,23
+60,Eureka,51
+60,Francis Howell,12
+60,Francis Howell Central,1
+60,Francis Howell North,0
+60,Ft. Zumwalt North,8
+60,Hickman,93
+60,Jackson,40
+60,Kickapoo,0
+60,Kirkwood,156
+60,Lafayette (Wildwood),70
+60,Lee's Summit,36
+60,Lee's Summit North,50
+60,Lee's Summit West,34
+60,Liberty,101
+60,Liberty (Wentzville),6
+60,Liberty North,80
+60,Lindbergh,14
+60,MICDS,10
+60,Marquette,108
+60,Nixa,0
+60,North Kansas City,0
+60,Oak Park,0
+60,Oakville,0
+60,Ozark,15
+60,Park Hill,15
+60,Park Hill South,301
+60,Parkway South,165
+60,Pattonville,33
+60,Pembroke Hill,96
+60,Raymore-Peculiar,14
+60,Republic,33
+60,Rock Bridge,203
+60,St. Joseph's Academy,283
+60,Staley,92
+60,Truman,3
+60,Waynesville,0
+60,Westminster Christian Academy,101
+61,Blue Springs,10
+61,Blue Springs South,46
+61,Carthage,13
+61,Central (St. Joseph),0
+61,Cor Jesu Academy,39
+61,Eureka,111
+61,Francis Howell,25
+61,Francis Howell Central,2
+61,Francis Howell North,0
+61,Ft. Zumwalt North,2
+61,Hickman,69
+61,Jackson,34
+61,Kickapoo,0
+61,Kirkwood,166
+61,Lafayette (Wildwood),69
+61,Lee's Summit,39
+61,Lee's Summit North,40
+61,Lee's Summit West,25
+61,Liberty,105
+61,Liberty (Wentzville),0
+61,Liberty North,77
+61,Lindbergh,32
+61,MICDS,18
+61,Marquette,101
+61,Nixa,0
+61,North Kansas City,0
+61,Oak Park,0
+61,Oakville,0
+61,Ozark,23
+61,Park Hill,16
+61,Park Hill South,301
+61,Parkway South,153
+61,Pattonville,31
+61,Pembroke Hill,99
+61,Raymore-Peculiar,14
+61,Republic,6
+61,Rock Bridge,192
+61,St. Joseph's Academy,280
+61,Staley,84
+61,Truman,2
+61,Waynesville,0
+61,Westminster Christian Academy,101
+62,Blue Springs,17
+62,Blue Springs South,57
+62,Carthage,17
+62,Central (St. Joseph),0
+62,Cor Jesu Academy,27
+62,Eureka,59
+62,Francis Howell,9
+62,Francis Howell Central,2
+62,Francis Howell North,0
+62,Ft. Zumwalt North,12
+62,Hickman,87
+62,Jackson,27
+62,Kickapoo,0
+62,Kirkwood,173
+62,Lafayette (Wildwood),72
+62,Lee's Summit,32
+62,Lee's Summit North,45
+62,Lee's Summit West,22
+62,Liberty,103
+62,Liberty (Wentzville),2
+62,Liberty North,107
+62,Lindbergh,28
+62,MICDS,17
+62,Marquette,125
+62,Nixa,0
+62,North Kansas City,0
+62,Oak Park,0
+62,Oakville,0
+62,Ozark,27
+62,Park Hill,14
+62,Park Hill South,280
+62,Parkway South,173
+62,Pattonville,33
+62,Pembroke Hill,92
+62,Raymore-Peculiar,15
+62,Republic,8
+62,Rock Bridge,188
+62,St. Joseph's Academy,283
+62,Staley,71
+62,Truman,0
+62,Waynesville,0
+62,Westminster Christian Academy,101
+63,Blue Springs,7
+63,Blue Springs South,55
+63,Carthage,16
+63,Central (St. Joseph),0
+63,Cor Jesu Academy,31
+63,Eureka,90
+63,Francis Howell,9
+63,Francis Howell Central,0
+63,Francis Howell North,0
+63,Ft. Zumwalt North,17
+63,Hickman,68
+63,Jackson,25
+63,Kickapoo,0
+63,Kirkwood,136
+63,Lafayette (Wildwood),63
+63,Lee's Summit,36
+63,Lee's Summit North,78
+63,Lee's Summit West,26
+63,Liberty,97
+63,Liberty (Wentzville),0
+63,Liberty North,105
+63,Lindbergh,17
+63,MICDS,20
+63,Marquette,97
+63,Nixa,0
+63,North Kansas City,0
+63,Oak Park,0
+63,Oakville,0
+63,Ozark,14
+63,Park Hill,15
+63,Park Hill South,316
+63,Parkway South,158
+63,Pattonville,32
+63,Pembroke Hill,100
+63,Raymore-Peculiar,27
+63,Republic,15
+63,Rock Bridge,182
+63,St. Joseph's Academy,281
+63,Staley,81
+63,Truman,0
+63,Waynesville,0
+63,Westminster Christian Academy,111
+64,Blue Springs,15
+64,Blue Springs South,65
+64,Carthage,17
+64,Central (St. Joseph),0
+64,Cor Jesu Academy,52
+64,Eureka,72
+64,Francis Howell,17
+64,Francis Howell Central,0
+64,Francis Howell North,0
+64,Ft. Zumwalt North,11
+64,Hickman,73
+64,Jackson,20
+64,Kickapoo,0
+64,Kirkwood,154
+64,Lafayette (Wildwood),67
+64,Lee's Summit,35
+64,Lee's Summit North,39
+64,Lee's Summit West,23
+64,Liberty,128
+64,Liberty (Wentzville),6
+64,Liberty North,95
+64,Lindbergh,17
+64,MICDS,13
+64,Marquette,115
+64,Nixa,0
+64,North Kansas City,0
+64,Oak Park,0
+64,Oakville,0
+64,Ozark,15
+64,Park Hill,16
+64,Park Hill South,276
+64,Parkway South,173
+64,Pattonville,33
+64,Pembroke Hill,99
+64,Raymore-Peculiar,14
+64,Republic,8
+64,Rock Bridge,198
+64,St. Joseph's Academy,267
+64,Staley,80
+64,Truman,1
+64,Waynesville,0
+64,Westminster Christian Academy,111
+65,Blue Springs,7
+65,Blue Springs South,49
+65,Carthage,12
+65,Central (St. Joseph),0
+65,Cor Jesu Academy,39
+65,Eureka,70
+65,Francis Howell,17
+65,Francis Howell Central,0
+65,Francis Howell North,0
+65,Ft. Zumwalt North,16
+65,Hickman,87
+65,Jackson,41
+65,Kickapoo,0
+65,Kirkwood,174
+65,Lafayette (Wildwood),80
+65,Lee's Summit,40
+65,Lee's Summit North,45
+65,Lee's Summit West,23
+65,Liberty,95
+65,Liberty (Wentzville),3
+65,Liberty North,87
+65,Lindbergh,34
+65,MICDS,15
+65,Marquette,111
+65,Nixa,0
+65,North Kansas City,0
+65,Oak Park,0
+65,Oakville,0
+65,Ozark,28
+65,Park Hill,15
+65,Park Hill South,310
+65,Parkway South,149
+65,Pattonville,30
+65,Pembroke Hill,109
+65,Raymore-Peculiar,14
+65,Republic,17
+65,Rock Bridge,181
+65,St. Joseph's Academy,256
+65,Staley,68
+65,Truman,0
+65,Waynesville,0
+65,Westminster Christian Academy,103
+66,Blue Springs,12
+66,Blue Springs South,64
+66,Carthage,15
+66,Central (St. Joseph),0
+66,Cor Jesu Academy,41
+66,Eureka,81
+66,Francis Howell,4
+66,Francis Howell Central,4
+66,Francis Howell North,0
+66,Ft. Zumwalt North,19
+66,Hickman,80
+66,Jackson,29
+66,Kickapoo,0
+66,Kirkwood,148
+66,Lafayette (Wildwood),68
+66,Lee's Summit,38
+66,Lee's Summit North,45
+66,Lee's Summit West,31
+66,Liberty,118
+66,Liberty (Wentzville),0
+66,Liberty North,95
+66,Lindbergh,20
+66,MICDS,14
+66,Marquette,89
+66,Nixa,0
+66,North Kansas City,0
+66,Oak Park,0
+66,Oakville,0
+66,Ozark,20
+66,Park Hill,13
+66,Park Hill South,299
+66,Parkway South,149
+66,Pattonville,36
+66,Pembroke Hill,100
+66,Raymore-Peculiar,15
+66,Republic,13
+66,Rock Bridge,189
+66,St. Joseph's Academy,297
+66,Staley,92
+66,Truman,11
+66,Waynesville,0
+66,Westminster Christian Academy,76

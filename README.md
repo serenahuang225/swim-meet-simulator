@@ -37,10 +37,10 @@ A **stochastic simulator** for high school swimming championships. It uses a Mar
 
 4. **Run simulations** (reads `data/processed/`, writes `results/`)
    ```bash
-   python run_simulations.py --class 1 --mode ilp -n 500
-   python run_simulations.py --class 1 --mode psych -n 500
-   python run_simulations.py --class 2 --mode ilp -n 500
-   python run_simulations.py --class 2 --mode psych -n 500
+   python run_simulations.py --class 1 --mode ilp -n 67
+   python run_simulations.py --class 1 --mode psych -n 67
+   python run_simulations.py --class 2 --mode ilp -n 67
+   python run_simulations.py --class 2 --mode psych -n 67
    ```
 
 5. **Explore results**
